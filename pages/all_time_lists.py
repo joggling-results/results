@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 
 st.set_page_config(page_title='All Time Lists',
-                   page_icon=':car:',
+                   page_icon=':rocket:',
                    layout = 'wide',        ## 'centered','wide'
                    initial_sidebar_state = 'expanded'   ## 'auto','collapsed','expanded'
                    )
@@ -26,7 +26,7 @@ def all_time_list(distance):
 tab1, tab2, tab3, tab4, tab5, tab6, tab7, tab8 = st.tabs(["3b Mile", "3b 5km", "3b 10km",'3b Half Marathon', '3b Marathon', '5b Mile', '5b 5km','5b Marathon'])
 
 with tab1:
-   st.header("3 Ball Mile")
+   st.subheader("3 Ball Mile")
    st.write(all_time_list('3b Mile'))
 with tab2:
    st.subheader("3 Ball 5km")
@@ -35,20 +35,21 @@ with tab3:
    st.subheader("3 Ball 10km")
    st.write(all_time_list('3b 10km'))
 with tab4:
-   st.header("3 Ball Half Marathon")
+   st.subheader("3 Ball Half Marathon")
    st.write(all_time_list('3b Half Marathon'))
 with tab5:
-   st.header("3 Ball Marathon")
+   st.subheader("3 Ball Marathon")
    st.write(all_time_list('3b Marathon'))
 with tab6:
-   st.header("5 Ball Mile")
+   st.subheader("5 Ball Mile")
    st.write(all_time_list('5b Mile'))
 with tab7:
-   st.header("5 Ball 5km")
+   st.subheader("5 Ball 5km")
    st.write(all_time_list('5b 5km'))
 with tab8:
-   st.header("5 Ball Marathon")
+   st.subheader("5 Ball Marathon")
    st.write(all_time_list('5b Marathon'))
+ 
 
 
 
