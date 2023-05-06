@@ -26,4 +26,5 @@ st.write('App Updated: 6th May 2022')
 ## Ideas
 ## Filter Dataframe: https://blog.streamlit.io/auto-generate-a-dataframe-filtering-ui-in-streamlit-with-filter_dataframe/
 ## Map of Jogglers
-## Personal Best by Jogglers
+## Joggler Profiles
+## Statistics: jogglers by country. Most recent joggle for each joggler.

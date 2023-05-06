@@ -17,10 +17,11 @@ st.write("Use the tabs below to see the fastest jogglers in different events")
 data = pd.read_csv('test_results.csv')    ## xlsx not supported.
 
 def all_time_list(distance):
+    # Function to produce all time list for a given distance (e.g. 3b 5km)
     fastest_times = data[data['Distance']==distance][['Joggler','Finish Time']].groupby(['Joggler']).min().reset_index()
     fastest_times = fastest_times.merge(data,how='left',left_on=['Joggler','Finish Time'],right_on=['Joggler','Finish Time'])
     fastest_times['Ranking'] = pd.to_numeric(fastest_times['Finish Time'].rank(method="min")).astype(int)
-    fastest_times['Nationality'] = fastest_times['Nationality'].replace({'0','Unknown'})
+    fastest_times['Nationality'] = fastest_times['Nationality'].replace({'0':'Unknown'})  # 0 loaded in as a string
     fastest_times = fastest_times[['Ranking','Joggler','Gender','Nationality','Date','Event / Venue','Finish Time']].sort_values('Ranking').reset_index(drop=True)
     return fastest_times
 
@@ -51,11 +52,3 @@ with tab8:
    st.subheader("5 Ball Marathon")
    st.write(all_time_list('5b Marathon'))
  
-
-
-
-
-
-# st.write(all_time_list('3b Mile'))
-
-# Then use tabs for the separate distances?
