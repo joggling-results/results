@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import os
-import openpyxl
+# import openpyxl
 
 
 # set up app
@@ -12,6 +12,6 @@ cwd = os.getcwd()
 print(cwd)
 
 
-data = pd.read_excel('joggling_backup_300423.xlsx')
-print(data.head())
+# data = pd.read_excel('joggling_backup_300423.xlsx')
+# print(data.head())
 
