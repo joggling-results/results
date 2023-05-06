@@ -1,6 +1,7 @@
+import streamlit as st
 import pandas as pd
 import os
-import streamlit
+
 
 # set up app
 st.set_page_config(page_title='Joggling', page_icon=':zap:')
