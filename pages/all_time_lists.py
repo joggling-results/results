@@ -10,7 +10,9 @@ st.set_page_config(page_title='All Time Lists',
 
 # Use cwd to ensure runs on all machines
 
-st.markdown('#### All Time Lists')
+st.markdown('#### All-Time Lists')
+
+st.write("Use the tabs below to see the fastest jogglers in different events")
 
 data = pd.read_csv('test_results.csv')    ## xlsx not supported.
 
@@ -21,19 +23,20 @@ def all_time_list(distance):
     fastest_times = fastest_times[['Ranking','Joggler','Gender','Nationality','Date','Event / Venue','Finish Time']].sort_values('Ranking').reset_index(drop=True)
     return fastest_times
 
-tab1, tab2, tab3 = st.tabs(["Cat", "Dog", "Owl"])
+tab1, tab2, tab3 = st.tabs(["3b Mile", "3b 5km", "3b 10km"])
 
 with tab1:
-   st.header("A cat")
-   st.image("https://static.streamlit.io/examples/cat.jpg", width=200)
-
+   st.header("3 Ball Mile")
+   st.write(all_time_list('3b Mile'))
+   
 with tab2:
-   st.header("A dog")
-   st.image("https://static.streamlit.io/examples/dog.jpg", width=200)
+   st.header("3 Ball 5km")
+   st.write(all_time_list('3b 5km'))
 
 with tab3:
-   st.header("An owl")
-   st.image("https://static.streamlit.io/examples/owl.jpg", width=200)
+   st.header("3 Ball 10km")
+   st.write(all_time_list('3b 10km'))
+
 
 
 
