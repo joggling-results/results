@@ -2,9 +2,6 @@ import streamlit as st
 import pandas as pd
 import os
 
-
-
-# set up app
 st.set_page_config(page_title='Joggling', 
                    page_icon=':zap:', 
                    layout = 'wide',        ## 'centered','wide'
@@ -24,3 +21,8 @@ data = pd.read_csv('test_results.csv')    ## xlsx not supported.
 st.write("Here are {} joggling results from {} jogglers.".format(len(data),len(data['Joggler'].unique())))
 st.write(data)
 st.write('App Updated: 6th May 2022')
+
+
+## Ideas
+## Filter Dataframe: https://blog.streamlit.io/auto-generate-a-dataframe-filtering-ui-in-streamlit-with-filter_dataframe/
+## Map of Jogglers
