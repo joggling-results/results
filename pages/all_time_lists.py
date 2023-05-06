@@ -20,3 +20,5 @@ def all_time_list(distance):
     return fastest_times
 
 st.write(all_time_list('3b Mile'))
+
+# Then use tabs for the separate distances?
