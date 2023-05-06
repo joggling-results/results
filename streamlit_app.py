@@ -6,7 +6,8 @@ import os
 
 # set up app
 st.set_page_config(page_title='Joggling', page_icon=':zap:')
-st.title('Uber pickups in NYC')
+st.title('Joggling Results Archive')
+st.subtitle('Scott Jenkins & Chris Edwin')
 
 cwd = os.getcwd()
 print(cwd)
