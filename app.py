@@ -18,6 +18,6 @@ Feedback and Suggestions to jogglingresults@gmail.com
 cwd = os.getcwd()
 print(cwd)
 
-data = pd.read_excel('joggling_backup_300423.xlsx')
+data = pd.read_csv('test_results.csv')
 st.write(data)
 
