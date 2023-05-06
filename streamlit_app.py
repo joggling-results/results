@@ -10,7 +10,7 @@ print('all loaded')
 
 cwd = os.getcwd()
 print(cwd)
-# data = pd.read_excel('joggling_backup_300423.xlsx')
+data = pd.read_excel('joggling_backup_300423.xlsx')
 
-# data.head()
+print(data.head())
 
