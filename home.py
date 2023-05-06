@@ -5,19 +5,22 @@ import os
 
 
 # set up app
-st.set_page_config(page_title='Joggling', page_icon=':zap:')
-st.title('Joggling Results Archive')
-st.subheader('Curated by Scott Jenkins & Chris Edwin')
+st.set_page_config(page_title='Joggling', 
+                   page_icon=':zap:', 
+                   layout = 'wide',        ## 'centered','wide'
+                   initial_sidebar_state = 'expanded'   ## 'auto','collapsed','expanded'
+                   )
 
-st.write("""Joggling (that is, the hybrid sport of running whilst juggling) is certainly a niche.
-This web app aims to present an archive of 500+ joggling results, achieved by 200+ jogglers.
-Feedback and Suggestions to jogglingresults@gmail.com
+st.title('Joggling Results Archive')
+st.subheader('Compiled by Scott Jenkins & Chris Edwin, 2 jogglers from the UK')
+
+st.write("""Joggling (that is, the hybrid sport of running whilst juggling) is certainly a niche. But it is more popular than you might think. 
+This web app aims to present an archive of joggling achievements from around the world.
+
+Please submit joggling results, and other feedback/suggestions to jogglingresults@gmail.com
 """)
 
-
-cwd = os.getcwd()
-print(cwd)
-
 data = pd.read_csv('test_results.csv')    ## xlsx not supported.
+st.write("Here are {} joggling results from {} jogglers.".format(len(data),len(data['Joggler'].unique())))
 st.write(data)
-
+st.write('App Updated: 6th May 2022')
