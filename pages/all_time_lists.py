@@ -15,7 +15,8 @@ st.markdown('#### All Time Lists')
 data = pd.read_csv('test_results.csv')    ## xlsx not supported.
 
 def all_time_list(distance):
-    fastest_times = data[data['Distance']==distance].groupby(['Joggler'])['Finish Time'].min()
+    fastest_times = data[data['Distance']==distance].groupby(['Joggler'])['Finish Time'].min().reset_index(drop=True)
+    fastest_times['Ranking'] = fastest_times['Finish Time'].rank(method="dense")
     return fastest_times
 
-st.table(all_time_list('3b Mile'))
+st.write(all_time_list('3b Mile'))
