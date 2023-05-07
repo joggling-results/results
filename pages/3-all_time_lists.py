@@ -99,26 +99,27 @@ tab1, tab2, tab3, tab4, tab5, tab6, tab7, tab8 = st.tabs(["3b Mile", "3b 5km", "
 
 with tab1:
    st.subheader("3 Ball Mile")
-   st.write(filter_dataframe(all_time_list('3b Mile')))
+   st.write(all_time_list('3b Mile'))
 with tab2:
    st.subheader("3 Ball 5km")
-   st.write(filter_dataframe(all_time_list('3b 5km')))
+   st.write(all_time_list('3b 5km'))
 with tab3:
    st.subheader("3 Ball 10km")
-   st.write(filter_dataframe(all_time_list('3b 10km')))
+   st.write(all_time_list('3b 10km'))
 with tab4:
    st.subheader("3 Ball Half Marathon")
-   st.write(filter_dataframe(all_time_list('3b Half Marathon')))
+   st.write(all_time_list('3b Half Marathon'))
 with tab5:
    st.subheader("3 Ball Marathon")
-   st.write(filter_dataframe(all_time_list('3b Marathon')))
+   st.write(all_time_list('3b Marathon'))
 with tab6:
    st.subheader("5 Ball Mile")
-   st.write(filter_dataframe(all_time_list('5b Mile')))
+   st.write(all_time_list('5b Mile'))
 with tab7:
    st.subheader("5 Ball 5km")
-   st.write(filter_dataframe(all_time_list('5b 5km')))
+   st.write(all_time_list('5b 5km'))
 with tab8:
    st.subheader("5 Ball Marathon")
-   st.write(filter_dataframe(all_time_list('5b Marathon')))
+   st.write(all_time_list('5b Marathon'))
  
+ # Looks like you can only filter 1 df in sny given .py file

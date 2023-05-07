@@ -107,6 +107,8 @@ pivot_df = pivot_df[['3b Mile','3b 5km','3b 10km','3b Half Marathon','3b Maratho
 
 ## Join all dfs on joggler
 joggler_df = nationality_df.merge(recency_df,on='Joggler').merge(pivot_df,on='Joggler')
-# joggler_df = joggler_df.style.format({"Year Most Recently Active": lambda x : str(x)})
+
+## Wanted to remove , but it breaks the filtering
+# joggler_df = joggler_df.style.format({"Year Most Recently Active": lambda x : str(x)})  
 
 st.write(filter_dataframe(joggler_df))
