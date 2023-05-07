@@ -12,6 +12,8 @@ data = pd.DataFrame({
     'units': [100, 200, 150, 75, 50],
 })
 
+data['units'] = pd.to_numeric(data['units'])
+
 # Load GeoJSON map data for world countries
 world_map = alt.topo_feature('https://vega.github.io/vega-datasets/data/world-110m.json', 'countries')
 
