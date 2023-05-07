@@ -3,7 +3,7 @@ import pandas as pd
 from datetime import datetime
 
 
-# import plotly.express as px
+# import plotly.express as px     # Streamlit won't recognise it!
 # import altair as alt
 
 from bokeh.models import ColumnDataSource, HoverTool, LogColorMapper
