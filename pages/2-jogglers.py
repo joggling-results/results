@@ -49,7 +49,7 @@ def filter_dataframe(df: pd.DataFrame) -> pd.DataFrame:
             elif is_numeric_dtype(df[column]):
                 _min = float(df[column].min())
                 _max = float(df[column].max())
-                step = (_max - _min) / 100
+                step = 1   # (_max - _min) / 100     # Want integer step sizes
                 user_num_input = right.slider(
                     f"Values for {column}",
                     min_value=_min,
