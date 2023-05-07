@@ -19,7 +19,7 @@ Please submit joggling results, and other feedback/suggestions to jogglingresult
 data = pd.read_csv('test_results.csv')    ## xlsx not supported.
 st.write("{} joggling results from {} jogglers discovered so far...".format(len(data),len(data['Joggler'].unique())))
 st.write(data)
-st.write('App Updated: 6th May 2022')
+st.write('App Updated: 6th May 2023')
 
 
 ## Ideas
