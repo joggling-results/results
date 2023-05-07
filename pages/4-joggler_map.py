@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 from datetime import datetime
+import plotly 
 import plotly.express as px
 
 data = {'country_code': ['GBR', 'USA', 'CAN', 'AUS'],
