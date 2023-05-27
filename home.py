@@ -94,7 +94,7 @@ data = pd.read_csv('test_results.csv')    ## xlsx not supported.
 st.write("{} joggling results from {} jogglers discovered so far...".format(len(data),len(data['Joggler'].unique())))
 
 st.write(filter_dataframe(data))
-st.write('App Updated: 6th May 2023')
+st.write('App Updated: 27th May 2023')
 
 
 ## Ideas
