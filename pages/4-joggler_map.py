@@ -1,12 +1,21 @@
 import streamlit as st
+import plotly.express as px
 import pandas as pd
 from datetime import datetime
 
 st.set_page_config(page_title='Joggler Map',
                    page_icon=':pushpin:',
                    layout = 'wide',        ## 'centered','wide'
-                   initial_sidebar_state = 'expanded'   ## 'auto','collapsed','expanded'
+                   initial_sidebar_state = 'collapsed'   ## 'auto','collapsed','expanded'
                    )
+
+def record_year(sample_date):
+    # Function to produce the year from a date
+    try:
+        year = datetime.strptime(sample_date, '%d/%m/%Y').year     # If we have the full date, then extract the year
+    except:
+        year = int(sample_date)                                    # Else, we only have the year. Use this.
+    return year
 
 st.markdown('#### Joggler Map')
 
@@ -14,131 +23,58 @@ st.write("WIP: Show a World Map showing the number of known jogglers from each c
 
 ## Load and clean data
 data = pd.read_csv('test_results.csv')
-nationality_df = data[['Joggler','Nationality']].drop_duplicates().reset_index(drop=True).replace({'0':'Unknown'})
-nationality_df = data[['Joggler','Nationality']].drop_duplicates().reset_index(drop=True).replace({'0':'Unknown'})
-country_df = nationality_df[nationality_df['Nationality']!='Unknown'].groupby('Nationality').count().reset_index().rename({'Joggler':'Joggler Count'},axis=1)
+## Apply date -> year function
+data['Year'] = data.apply(lambda x: record_year(x['Date']),axis=1)
+# st.write(data.head(15))
+grouped_df = data[['Joggler','Nationality','Year']].groupby('Joggler').max().reset_index()
+grouped_df['Nationality'].replace({'0':'Unknown'}, inplace=True)
+# st.write(grouped_df)
 
-st.write(country_df)
-## Plot Map of Data
-
-# import plotly.express as px     # Streamlit won't recognise it!
-# import altair as alt
-
-# from bokeh.models import ColumnDataSource, HoverTool, LogColorMapper
-# from bokeh.palettes import Viridis256
-# from bokeh.plotting import figure, show
-# from bokeh.tile_providers import CARTODBPOSITRON, get_provider
+pivot_df = pd.pivot_table(grouped_df,values='Joggler',index='Year',columns='Nationality',aggfunc='count').fillna(0).reset_index()
+# pivot_df['Year'] = pd.to_numeric(pivot_df['Year'])
+st.write(pivot_df)
 
 
-# ## Bokeh attempt
-# # Sample data
-# df = pd.DataFrame({
-#     'country_code': ['GBR', 'USA', 'CAN', 'FRA', 'AUS', 'GER'],
-#     'units': [200, 500, 300, 150, 400, 250],
-# })
+min_year = pivot_df['Year'].min()
+max_year = pivot_df['Year'].max()
+if 'year_val' not in st.session_state:
+    st.session_state['year_val'] = int(max_year)
+if 'map_df' not in st.session_state:
+    st.session_state['map_df'] = pivot_df[pivot_df['Year']>=st.session_state['year_val']].sum().drop('Year').reset_index()
 
-# # Convert country codes to lat/lon coordinates
-# coords = {
-#     'GBR': (54.0269, -2.4769),
-#     'USA': (37.0902, -95.7129),
-#     'CAN': (56.1304, -106.3468),
-#     'FRA': (46.2276, 2.2137),
-#     'AUS': (-25.2744, 133.7751),
-#     'GER': (51.1657, 10.4515),
-# }
-# df['lat'] = df['country_code'].apply(lambda x: coords[x][0])
-# df['lon'] = df['country_code'].apply(lambda x: coords[x][1])
 
-# # Create ColumnDataSource
-# source = ColumnDataSource(data=df)
+## Use Slider to select year
+st.session_state['year_val'] = st.slider('Have Joggled Since',
+                                         min_value=int(min_year),
+                                         max_value=int(max_year),
+                                         value=int(max_year))
 
-# # Define color mapper
-# color_mapper = LogColorMapper(palette=Viridis256)
+st.session_state['map_df'] = pivot_df[pivot_df['Year']>=st.session_state['year_val']].sum().drop('Year').reset_index().rename({0:'Number of Jogglers'},axis=1)
+st.write(st.session_state['map_df'])
 
-# # Define tooltips
-# tooltips = [
-#     ('Country', '@country_code'),
-#     ('Units', '@units'),
-# ]
+my_map = px.scatter_geo(map_df, locations="Nationality", size="Number of Jogglers",
+                     projection="natural earth", hover_name='Nationality') # size_max = 30
 
-# # Create figure
-# p = figure(
-#     x_range=(df['lon'].min(), df['lon'].max()),
-#     y_range=(df['lat'].min(), df['lat'].max()),
-#     x_axis_type='mercator',
-#     y_axis_type='mercator',
-#     tooltips=tooltips,
-#     width=800,
-#     height=500,
-# )
-
-# # Add tile provider
-# p.add_tile(get_provider(CARTODBPOSITRON))
-
-# # Add circle glyphs
-# p.circle(
-#     x='lon',
-#     y='lat',
-#     size='units',
-#     source=source,
-#     fill_color={'field': 'units', 'transform': color_mapper},
-#     line_color=None,
-# )
-
-# # Add hover tool
-# hover = HoverTool(tooltips=tooltips)
-# p.add_tools(hover)
-
-# # Display plot in Streamlit
-# st.bokeh_chart(p, use_container_width=True)
-
-########################################################
-## ALTAIR ATTEMPT
-# # Create sample data
-# data = pd.DataFrame({
-#     'country_code': ['GBR', 'USA', 'CAN', 'AUS', 'NZL'],
-#     'units': [100, 200, 150, 75, 50],
-# })
-
-# data['units'] = pd.to_numeric(data['units'])
-
-# # Load GeoJSON map data for world countries
-# world_map = alt.topo_feature('https://vega.github.io/vega-datasets/data/world-110m.json', 'countries')
-
-# # Create Altair chart
-# chart = alt.Chart(world_map).mark_geoshape(
-#     fill='lightgray',
-#     stroke='white'
-# ).encode(
-#     tooltip=['id:N', 'units:Q'],
-#     color=alt.Color('units:Q', scale=alt.Scale(scheme='reds'), legend=alt.Legend(title='Units'))
-# ).transform_lookup(
-#     lookup='id',
-#     from_=alt.LookupData(data, 'country_code', 'units')
-# ).project(
-#     type='mercator'
-# ).properties(
-#     width=700,
-#     height=400
-# )
-
-# # Show the chart in Streamlit
-# st.altair_chart(chart, use_container_width=True)
-
-##############################################################
-## plotly express attempts
-# ## Example bar chart
+# Display map in Streamlit app
+st.plotly_chart(my_map)
+#size_max = 50)
 
 # ## Example Map
 # data = {'country_code': ['GBR', 'USA', 'CAN', 'AUS'],
 #         'units': [100, 500, 250, 150]}
 # df = pd.DataFrame(data)
 
-# # create map with dot size representing number of units
+# create map with dot size representing number of units
 # my_map = px.scatter_geo(df, locations="country_code", size="units",
 #                      projection="natural earth", hover_name='country_code',size_max = 50)
 
-# # Display map in Streamlit app
-# st.plotly_chart(my_map)
+
+
+# nationality_df = data[['Joggler','Nationality']].drop_duplicates().reset_index(drop=True).replace({'0':'Unknown'})
+# nationality_df = data[['Joggler','Nationality']].drop_duplicates().reset_index(drop=True).replace({'0':'Unknown'})
+# country_df = nationality_df[nationality_df['Nationality']!='Unknown'].groupby('Nationality').count().reset_index().rename({'Joggler':'Joggler Count'},axis=1)
+
+# st.write(country_df)
+## Plot Map of Data
 
 
