@@ -44,23 +44,6 @@ if 'year_val' not in st.session_state:
 if 'map_df' not in st.session_state:
     st.session_state['map_df'] = pivot_df[pivot_df['Year']>=st.session_state['year_val']].sum().drop('Year').reset_index()
 
-## Use Slider to select year
-st.session_state['year_val'] = st.slider('Have Joggled Since',
-                                         min_value=int(min_year),
-                                         max_value=int(max_year),
-                                         value=int(max_year))
-
-st.session_state['map_df'] = pivot_df[pivot_df['Year']>=st.session_state['year_val']].sum().drop('Year').reset_index().rename({0:'Number of Jogglers'},axis=1)
-# st.write(st.session_state['map_df']) # state
-
-my_map = px.scatter_geo(st.session_state['map_df'],
-                        locations="Nationality",
-                        locationmode = "ISO-3", # 'country names',
-                        size="Number of Jogglers",
-                        projection='equirectangular', #"natural earth",
-                        hover_name='Nationality',
-                        size_max = 100)
-
 
 # projections = ['equirectangular', 'mercator', 'orthographic', 'natural earth',
 #                        'kavrayskiy7', 'miller', 'robinson', 'eckert4', 'azimuthal equal area',
@@ -68,6 +51,23 @@ my_map = px.scatter_geo(st.session_state['map_df'],
 #                        'conic equidistant', 'gnomonic', 'stereographic', 'mollweide', 'hammer',
 #                        'transverse mercator', 'albers usa', 'winkel tripel', 'aitoff']:
 with st.container():
+    ## Use Slider to select year
+    st.session_state['year_val'] = st.slider('Have Joggled Since',
+                                             min_value=int(min_year),
+                                             max_value=int(max_year),
+                                             value=int(max_year))
+
+    st.session_state['map_df'] = pivot_df[pivot_df['Year'] >= st.session_state['year_val']].sum().drop(
+        'Year').reset_index().rename({0: 'Number of Jogglers'}, axis=1)
+    # st.write(st.session_state['map_df']) # state
+
+    my_map = px.scatter_geo(st.session_state['map_df'],
+                            locations="Nationality",
+                            locationmode="ISO-3",  # 'country names',
+                            size="Number of Jogglers",
+                            projection='equirectangular',  # "natural earth",
+                            hover_name='Nationality',
+                            size_max=100)
     my_map.update_layout(height=800)
     st.plotly_chart(my_map,use_container_width=True,height=800) # Display map in Streamlit app
 
