@@ -50,7 +50,7 @@ st.session_state['year_val'] = st.slider('Have Joggled Since',
                                          value=int(max_year))
 
 st.session_state['map_df'] = pivot_df[pivot_df['Year']>=st.session_state['year_val']].sum().drop('Year').reset_index().rename({0:'Number of Jogglers'},axis=1)
-st.write(st.session_state['map_df'])
+st.write(st.session_state['map_df']) # state
 
 my_map = px.scatter_geo(map_df, locations="Nationality", size="Number of Jogglers",
                      projection="natural earth", hover_name='Nationality') # size_max = 30
