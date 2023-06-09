@@ -19,8 +19,6 @@ def record_year(sample_date):
 
 st.markdown('#### Joggler Map')
 
-st.write("WIP: Show a World Map showing the number of known jogglers from each country.")
-
 ## Load and clean data
 data = pd.read_csv('test_results.csv')
 ## Apply date -> year function
@@ -32,7 +30,7 @@ grouped_df['Nationality'].replace({'0':'Unknown'}, inplace=True)
 
 pivot_df = pd.pivot_table(grouped_df,values='Joggler',index='Year',columns='Nationality',aggfunc='count').fillna(0).reset_index()
 # pivot_df['Year'] = pd.to_numeric(pivot_df['Year'])
-st.write(pivot_df)
+# st.write(pivot_df)
 
 
 min_year = pivot_df['Year'].min()
@@ -41,7 +39,6 @@ if 'year_val' not in st.session_state:
     st.session_state['year_val'] = int(max_year)
 if 'map_df' not in st.session_state:
     st.session_state['map_df'] = pivot_df[pivot_df['Year']>=st.session_state['year_val']].sum().drop('Year').reset_index()
-
 
 ## Use Slider to select year
 st.session_state['year_val'] = st.slider('Have Joggled Since',
@@ -52,12 +49,16 @@ st.session_state['year_val'] = st.slider('Have Joggled Since',
 st.session_state['map_df'] = pivot_df[pivot_df['Year']>=st.session_state['year_val']].sum().drop('Year').reset_index().rename({0:'Number of Jogglers'},axis=1)
 st.write(st.session_state['map_df']) # state
 
-my_map = px.scatter_geo(map_df, locations="Nationality", size="Number of Jogglers",
-                     projection="natural earth", hover_name='Nationality') # size_max = 30
+my_map = px.scatter_geo(st.session_state['map_df'],
+                        locations="Nationality",
+                        locationmode = "ISO-3", # 'country names',
+                        size="Number of Jogglers",
+                        projection='mercator', #"natural earth",
+                        hover_name='Nationality') # size_max = 30
 
-# Display map in Streamlit app
-st.plotly_chart(my_map)
-#size_max = 50)
+with st.container():
+    st.plotly_chart(my_map,use_container_width=True) # Display map in Streamlit app
+
 
 # ## Example Map
 # data = {'country_code': ['GBR', 'USA', 'CAN', 'AUS'],
@@ -67,14 +68,5 @@ st.plotly_chart(my_map)
 # create map with dot size representing number of units
 # my_map = px.scatter_geo(df, locations="country_code", size="units",
 #                      projection="natural earth", hover_name='country_code',size_max = 50)
-
-
-
-# nationality_df = data[['Joggler','Nationality']].drop_duplicates().reset_index(drop=True).replace({'0':'Unknown'})
-# nationality_df = data[['Joggler','Nationality']].drop_duplicates().reset_index(drop=True).replace({'0':'Unknown'})
-# country_df = nationality_df[nationality_df['Nationality']!='Unknown'].groupby('Nationality').count().reset_index().rename({'Joggler':'Joggler Count'},axis=1)
-
-# st.write(country_df)
-## Plot Map of Data
 
 
