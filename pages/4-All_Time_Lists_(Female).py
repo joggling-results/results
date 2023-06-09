@@ -8,7 +8,7 @@ from pandas.api.types import (
     is_object_dtype,
 )
 
-st.set_page_config(page_title='All Time Lists',
+st.set_page_config(page_title='All Time Lists (Female)',
                    page_icon=':rocket:',
                    layout = 'wide',        ## 'centered','wide'
                    initial_sidebar_state = 'expanded'   ## 'auto','collapsed','expanded'
@@ -80,12 +80,12 @@ def filter_dataframe(df: pd.DataFrame) -> pd.DataFrame:
 ## End of dataframe filtering function
 
 ## Start of Page Content
-st.markdown('#### All-Time Lists')
+st.markdown('#### All-Time Lists (Female)')
 
-st.write("Use the tabs below to see the fastest jogglers in different events")
+st.write("Use the tabs below to see the fastest female jogglers in different events")
 
 data = pd.read_csv('test_results.csv')    ## xlsx not supported.
-
+data = data[data['Gender']=='F']
 def all_time_list(distance):
     # Function to produce all time list for a given distance (e.g. 3b 5km)
     fastest_times = data[data['Distance']==distance][['Joggler','Finish Time']].groupby(['Joggler']).min().reset_index()
