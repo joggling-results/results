@@ -55,7 +55,7 @@ with st.container():
     st.session_state['year_val'] = st.slider('Have Joggled Since',
                                              min_value=int(min_year),
                                              max_value=int(max_year),
-                                             value=int(max_year))
+                                             value=int(min_year))
 
     st.session_state['map_df'] = pivot_df[pivot_df['Year'] >= st.session_state['year_val']].sum().drop(
         'Year').reset_index().rename({0: 'Number of Jogglers'}, axis=1)
