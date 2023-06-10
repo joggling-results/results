@@ -90,7 +90,7 @@ This web app aims to present an archive of joggling achievements from around the
 Please submit joggling results, and other feedback/suggestions to jogglingresults@gmail.com
 """)
 
-data = pd.read_csv('test_results.csv')    ## xlsx not supported.
+data = pd.read_csv('results.csv')    ## xlsx not supported.
 st.write("{} joggling results from {} jogglers discovered so far...".format(len(data),len(data['Joggler'].unique())))
 
 st.write(filter_dataframe(data))
