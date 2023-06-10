@@ -40,7 +40,7 @@ pivot_df = pd.pivot_table(grouped_df,values='Joggler',index='Year',columns='Nati
 min_year = pivot_df['Year'].min()
 max_year = pivot_df['Year'].max()
 if 'year_val' not in st.session_state:
-    st.session_state['year_val'] = int(max_year)
+    st.session_state['year_val'] = 1981
 if 'map_df' not in st.session_state:
     st.session_state['map_df'] = pivot_df[pivot_df['Year']>=st.session_state['year_val']].sum().drop('Year').reset_index()
 
