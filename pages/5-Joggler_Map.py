@@ -25,7 +25,7 @@ st.markdown('#### Joggler Map')
 st.write('The map shows the number of jogglers from each country, active since the year selected with the slider.')
 
 ## Load and clean data
-data = pd.read_csv('test_results.csv')
+data = pd.read_csv('results.csv')
 ## Apply date -> year function
 data['Year'] = data.apply(lambda x: record_year(x['Date']),axis=1)
 # st.write(data.head(15))

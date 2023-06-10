@@ -84,7 +84,7 @@ st.markdown('#### All-Time Lists (Male)')
 
 st.write("Use the tabs below to see the fastest male jogglers in different events")
 
-data = pd.read_csv('test_results.csv')
+data = pd.read_csv('results.csv')
 data = data[data['Gender']=='M']        ## xlsx not supported.
 
 def all_time_list(distance):

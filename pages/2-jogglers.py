@@ -83,7 +83,7 @@ def filter_dataframe(df: pd.DataFrame) -> pd.DataFrame:
 ## Start of Page Content
 st.markdown('#### Joggler Personal Best Times')
 
-data = pd.read_csv('test_results.csv')    ## xlsx not supported.
+data = pd.read_csv('results.csv')    ## xlsx not supported.
 
 def record_year(sample_date):
     # Function to clean up the date field, and return only the year as an integer
