@@ -82,8 +82,6 @@ def filter_dataframe(df: pd.DataFrame) -> pd.DataFrame:
 
 ## Start of Page Content
 st.title('Joggling Results Archive')
-st.subheader('Compiled by Scott Jenkins & Chris Edwin, 2 jogglers from the UK')
-
 st.write("""Joggling (that is, the hybrid sport of running whilst juggling) is certainly a niche. But it is more popular than you might think. 
 This web app aims to present an archive of joggling achievements from around the world.
 
@@ -94,4 +92,5 @@ data = pd.read_csv('results.csv')    ## xlsx not supported.
 st.write("{} joggling results from {} jogglers discovered so far...".format(len(data),len(data['Joggler'].unique())))
 
 st.write(filter_dataframe(data))
-st.write('App Updated: 11th June 2023')
+st.write('App Updated: 29th June 2023')
+st.write('Compiled by Scott Jenkins & Chris Edwin; 2 jogglers from the UK')
