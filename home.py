@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-from datetime import datetime
+import datetime as dt
 
 from pandas.api.types import (
     is_categorical_dtype,
@@ -92,5 +92,5 @@ data = pd.read_csv('results.csv')    ## xlsx not supported.
 st.write("{} joggling results from {} jogglers discovered so far...".format(len(data),len(data['Joggler'].unique())))
 
 st.write(filter_dataframe(data))
-st.write('App Updated: 29th June 2023')
+st.write(f'App Updated: {dt.today()}')
 st.write('Compiled by Scott Jenkins & Chris Edwin; 2 jogglers from the UK')
