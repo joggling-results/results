@@ -93,4 +93,4 @@ st.write("{} joggling results from {} jogglers discovered so far...".format(len(
 
 st.write(filter_dataframe(data))
 st.write(f'App Updated: {date.today()}')
-st.write('Compiled by Scott Jenkins & Chris Edwin; 2 jogglers from the UK')
+st.write('Compiled by Scott Jenkins & Chris Edwin; 2 jogglers from the United Kingdom')
