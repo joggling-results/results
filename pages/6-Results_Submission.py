@@ -1,10 +1,7 @@
 import streamlit as st
-import plotly.express as px
-import pandas as pd
-from datetime import datetime
 
 st.set_page_config(page_title='Results Submission',
-                   page_icon=':pushpin:',
+                   page_icon=':trophy:',
                    layout = 'wide',        ## 'centered','wide'
                    initial_sidebar_state = 'expanded'   ## 'auto','collapsed','expanded'
                    )
