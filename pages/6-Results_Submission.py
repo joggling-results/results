@@ -22,6 +22,6 @@ frameborder="0"
 marginheight="0" 
 marginwidth="0">Loading…</iframe>
 """
-
-st.components.v1.html(html, width=None, height=600, scrolling=True)
+with st.container():
+    st.components.v1.html(html, width=None, height=600, scrolling=True)
 
