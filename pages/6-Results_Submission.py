@@ -11,9 +11,13 @@ st.set_page_config(page_title='Results Submission',
 #
 # st.write('Use the form below to share your joggling results.')
 
+# Bug. Streamlit doesn't allow html components to be responsively sized (for phones and laptops)
+# So, have left it so it works well on laptop.
+# Can always send people the link to the form if they would like to use it on phone.
+
 html = """
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSekhuhhZKzYHdS-hN9owER17PPRgxAfC_DODLKGuwZyXHPkOQ/viewform?embedded=true" 
-width="360" 
+width="900" 
 height="1845" 
 frameborder="0" 
 marginheight="0" 
