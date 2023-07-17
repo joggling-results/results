@@ -13,7 +13,7 @@ st.set_page_config(page_title='Results Submission',
 
 html = """
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSekhuhhZKzYHdS-hN9owER17PPRgxAfC_DODLKGuwZyXHPkOQ/viewform?embedded=true" 
-width="640" 
+width="360" 
 height="1845" 
 frameborder="0" 
 marginheight="0" 
@@ -22,6 +22,6 @@ marginwidth="0">Loading…</iframe>
 with st.container():
     st.components.v1.html(html,
                           width=None,
-                          height=360,
+                          height=800,
                           scrolling=True)
 
