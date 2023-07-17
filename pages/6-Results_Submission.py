@@ -23,5 +23,9 @@ marginheight="0"
 marginwidth="0">Loading…</iframe>
 """
 with st.container():
-    st.components.v1.html(html, width=None, height=600, scrolling=True)
+    st.components.v1.html(html,
+                          width=None,
+                          height=600,
+                          scrolling=True,
+                          use_container_width=True)
 
