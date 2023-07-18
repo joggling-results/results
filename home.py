@@ -15,6 +15,8 @@ st.set_page_config(page_title='Joggling',
                    initial_sidebar_state = 'expanded'   ## 'auto','collapsed','expanded'
                    )
 
+update_date = '18th July 2023'
+
 ## Function to allow dataframe filtering
 def filter_dataframe(df: pd.DataFrame) -> pd.DataFrame:
     """
@@ -92,5 +94,5 @@ data = pd.read_csv('results.csv')    ## xlsx not supported.
 st.write("{} joggling results from {} jogglers discovered so far...".format(len(data),len(data['Joggler'].unique())))
 
 st.write(filter_dataframe(data))
-st.write(f'App Updated: {date.today()}')
+st.write(f'App Updated: {update_date}')
 st.write('Compiled by Scott Jenkins & Chris Edwin; 2 jogglers from the United Kingdom')
