@@ -1,7 +1,27 @@
 ﻿Date,Year,Distance,Standard Distance?,Event / Venue,Joggler,Gender,Nationality,Finish Time,Drops,Notes / Result Links
-22/07/2023,2023,3b 5km,Yes,Holyrood Park Run ,James McDiarmid,M,GBR,00:20:11,0,https://www.parkrun.org.uk/holyrood/results/48/?utm_medium=email&utm_source=resultsemail&utm_campaign=systememail
+19/08/2023,2023,4b 5km,No,Perth Parkrun,Scott Jenkins,M,GBR,00:37:39,40,"https://www.parkrun.org.uk/perth/results/438/
+https://www.strava.com/activities/9677761242
+"
+19/08/2023,2023,3b 5km,Yes,Torvean Parkrun,James McDiarmid,M,GBR,00:20:19,0,https://www.parkrun.org.uk/torvean/results/99/?utm_medium=email&utm_source=resultsemail&utm_campaign=systememail
+14/08/2023,2023,3b Mile,Yes,Time Trial,Samuel Dean,M,USA,00:04:58,?,https://www.strava.com/activities/9648987682?utm_source=com.strava&utm_medium=referral
+12/08/2023,2023,4b 5km,No,West Links Parkrun,Scott Jenkins,M,GBR,00:32:36,30,https://www.strava.com/activities/9631204125  https://www.parkrun.org.uk/westlinks/news/2023/08/18/a-lesson-in-solidarity-west-links-parkrun-no-82/
+05/08/2023,2023,3b 5km,Yes,Holyrood Run,James McDiarmid,M,GBR,00:20:28,0,https://www.parkrun.org.uk/parkrunner/8560660/
+05/08/2023,2023,3b 5km,Yes,Newbiggin-by-the-Sea Parkrun,Scott Jenkins,M,GBR,00:24:48,2,"https://www.parkrun.org.uk/newbigginbythesea/results/234/
+https://www.strava.com/activities/9585830232"
+05/08/2023,2023,3b 5km,Yes,The Pastures Parkrun,Jake Lodge,M,GBR,00:21:08,1,https://www.strava.com/activities/9585611785
+05/08/2023,2023,3b 5km,Yes,Woodley Parkrun,Stuart Humphries,M,GBR,00:28:03,?,https://www.parkrun.org.uk/woodley/results/489/
+29/07/2023,2023,4b 5km,No,Lochore Meadows Parkrun,Scott Jenkins,M,GBR,00:42:52,50,"https://www.strava.com/activities/9541834029
+https://www.parkrun.org.uk/lochoremeadows/results/183/
+"
+29/07/2023,2023,3b 5km,Yes,Huddersfield Parkrun,Jake Lodge,M,GBR,00:21:00,3,"https://www.parkrun.org.uk/huddersfield/results/545/
+https://www.strava.com/activities/9541633115"
+26/07/2023,2023,3b Marathon,Yes,Great Barrow Challenge Day 5,Tim Butler,M,GBR,04:41:09,?,https://www.joggling.co.uk/Marathon-List
+24/07/2023,2023,3b 5km,Yes,"Deseret News Marathon 5k, Utah",David Tate,M,USA,00:26:26,0,https://twitter.com/dren_braves/status/1683494655470518278?t=ctWFUgmkvj__L-g09rS9MA&s=19      https://www.brooksee.com/des/results?sort=&race=167024&date=&event=5K&gender=&division=&search=Tate&loc_168380=&page_168380=1&size_168380=25&loc_168381=&page_168381=1&size_168381=25&loc_168382=&page_168382=1&size_168382=25&loc_168383=&page_168383=1&size_168383=25&loc_168384=&page_168384=1&size_168384=25
+22/07/2023,2023,3b 5km,Yes,Holyrood Parkrun ,James McDiarmid,M,GBR,00:20:11,0,https://www.parkrun.org.uk/holyrood/results/48/?utm_medium=email&utm_source=resultsemail&utm_campaign=systememail
 22/07/2023,2023,3b 5km,Yes,Jubilee Parkrun,Scott Jenkins,M,GBR,00:28:06,0,https://www.strava.com/activities/9498231178  https://www.parkrun.org.uk/jubilee/results/110/
 22/07/2023,2023,3b 5km,Yes,Aberystwyth Parkrun,Derrick Adams,M,GBR,00:26:16,?,https://www.parkrun.org.uk/aberystwyth/results/497/ Reports of Derrick joggling on Facebook this week
+16/07/2023,2023,3b Half Marathon,Yes,Ilkley Half Marathon,Chris Edwin,M,GBR,01:22:18,0,https://www.sportstimingsolutions.co.uk/rd.php?id=484
+16/07/2023,2023,3b Half Marathon,Yes,Ilkley Half Marathon,Scott Jenkins,M,GBR,01:44:28,0,https://www.sportstimingsolutions.co.uk/rd.php?id=484
 15/07/2023,2023,3b 5km,Yes,Roberts Park Parkrun,Chris Edwin,M,GBR,00:24:40,0,https://www.parkrun.org.uk/robertspark/results/89/ https://www.strava.com/activities/9453836097
 15/07/2023,2023,3b 5km,Yes,Roberts Park Parkrun,Scott Jenkins,M,GBR,00:24:39,2,https://www.parkrun.org.uk/robertspark/results/89/ https://www.strava.com/activities/9454347891
 15/07/2023,2023,3b 5km,Yes,Holyrood Parkrun,James McDiarmid,M,GBR,00:21:09,2,
@@ -124,8 +144,8 @@
 07/05/2022,2022,3b 5km,Yes,Pymmes Parkrun,Reggie L,M,GBR,00:38:28,?,https://www.parkrun.org.uk/pymmes/results/503/ https://www.parkrun.org.uk/pymmes/news/2022/05/09/pymmes-parkrun-ppr-503-the-art-of-avoidance/
 05/05/2022,2022,3b Mile,Yes,"IJA, Virtual",Koutaro Kawano,M,JPN,00:06:51,1,https://www.strava.com/activities/7089450204
 30/04/2022,2022,3b 5km,Yes,"Claremorris Parkrun, Ireland",Malachy Kelly,M,IRL,00:26:57,?,https://www.facebook.com/1627994417506930/posts/pfbid0MgJYaTmHmhgwtjHcvdHLxSyGttgFK5HVHKQVvmr9n2wUUHNRRb5GHom5cVxyxXDpl/?app=fbl     https://www.parkrun.ie/claremorris/results/185/
-25/04/2022,2022,3b Mile,Yes,"IJA, Virtual",Koutaro Kawano,M,JPN,00:06:48,3,https://www.strava.com/activities/7036273337
 25/04/2022,2022,3b 5km,Yes,Time Trial,Koutaro Kawano,M,JPN,00:27:30,?,https://www.strava.com/activities/7036985894
+25/04/2022,2022,3b Mile,Yes,"IJA, Virtual",Koutaro Kawano,M,JPN,00:06:48,3,https://www.strava.com/activities/7036273337
 24/04/2022,2022,3b Marathon,Yes,Tissington Trail,Tim Butler,M,GBR,04:27:59,?,https://www.joggling.co.uk/Marathon-List
 23/04/2022,2022,3b Half Marathon,Yes,St. Lukes's Half Marathon,JoAnn Ireland,F,USA,02:59:26,?,https://runsignup.com/Race/Results/11383?customResultsPageId=55324
 18/04/2022,2022,3b Marathon,Yes,"Boston Marathon, Lincolnshire",Tim Butler,M,GBR,04:20:12,?,https://www.joggling.co.uk/Marathon-List
@@ -378,7 +398,6 @@
 04/06/2016,2016,3b 10km,Yes,"Moon in June, Burlington, Ontario",Gabrielle Foran,F,CAN,00:40:06,?,http://www.recordholders.org/en/list/joggling.html
 21/05/2016,2016,3b 5km,Yes,Blue Nose 5km,Michael-Lucien Bergeron,M,CAN,00:18:55,?,https://www.sportstats.ca/display-results.xhtml?raceid=29483
 21/05/2016,2016,3b 5km,Yes,Blue Nose 5km,Graydon Snider,M,CAN,00:17:42,?,https://www.sportstats.ca/display-results.xhtml?raceid=29483
-21/05/2016,2016,3b 5km,Yes,"Blue Nose 5k, Halifax, Nova Scotia",Graydon Snider,M,CAN,00:17:42,?,https://www.sportstats.ca/display-results.xhtml?raceid=29483&status=leader
 24/04/2016,2016,3b Marathon,Yes,"Zurich Marathon, Switzerland",Daniel Raum,M,AUT,03:37:17,?,https://services.datasport.com/2016/lauf/zuerich/alfar.htm
 08/11/2015,2015,3b Marathon,Yes,Naperville Marathon,Perry Romanowski,M,USA,03:44:46,?,
 01/11/2015,2015,3b Marathon,Yes,New York City Marathon,Barry Goldmeier,M,USA,05:58:38,?,https://www.runnersworld.com/news/a20856270/runner-dresses-as-tom-brady-at-nyc-marathon-juggles-deflated-footballs/
@@ -440,6 +459,7 @@
 20/07/2011,2011,3b 5km,Yes,"IJA, Rochester",Charles Schweitzer,M,USA,00:17:57,?,https://dev.juggle.org/history/champs/champs2011.php
 24/05/2011,2011,5b 5km,Yes,Time Trial,Matthew Feldman,M,USA,00:27:06,?,
 22/05/2011,2011,3b Marathon,Yes,Edinburgh Marathon,Ralph Kidner,M,GBR,04:37:31,48,https://www.edinburghmarathon.com/results?name=ralph+kidner&running_number=&event=28&gender=&age_category=
+22/05/2011,2011,3b Half Marathon,Yes,Edinburgh Half Marathon,Steve Portwine,M,GBR,02:04:03,6,https://www.podiumrunner.com/events/the-tale-of-the-scottish-joggler/  https://www.getreading.co.uk/news/local-news/woodley-man-steve-portwine-juggle-4214204
 24/04/2011,2011,3b Marathon,Yes,London Marathon,Tim Butler,M,GBR,05:06:20,?,https://www.joggling.co.uk/Marathon-List
 10/04/2011,2011,3b Marathon,Yes,Paris Marathon,Perry Romanowski,M,USA,03:58:05,?,https://marathonview.net/result/43416935
 29/01/2011,2011,3b 50 Mile,Yes,Yorkshire Frostbite 50,Tim Butler,M,GBR,13:34:00,?,https://www.joggling.co.uk/Marathon-List
@@ -609,35 +629,35 @@
 2018,2018,3b 5km,Yes,Guelph 5km,Gabrielle Foran,F,CAN,00:19:09,?,https://sites.google.com/site/guelph5kjoggling/results
 2018,2018,3b 5km,Yes,Guelph 5km,Michal Kapral,M,CAN,00:19:05,?,https://sites.google.com/site/guelph5kjoggling/results
 2017,2017,3c 15km,No,Istanbul,Levent Denizci,M,TUR,01:47:42,10,
-2017,2017,3b 5km,Yes,"IJA, Lisbon, IA",Mary Geeves,F,0,01:32:10,?,https://www.juggle.org/enewsletter/2017-07
 2017,2017,3c 10km,Yes,Ignite Istanbul,Levent Denizci,M,TUR,01:05:37,10,
-2017,2017,3b 5km,Yes,"IJA, Lisbon, IA",Scott Randall,M,0,00:47:53,?,https://www.juggle.org/enewsletter/2017-07
-2017,2017,3b 5km,Yes,"IJA, Lisbon, IA",Sarah Williams,F,0,00:45:37,?,https://www.juggle.org/enewsletter/2017-07
 2017,2017,3b 5km,Yes,Guelph 5km,Eric Malikowski,M,0,00:34:45,?,https://sites.google.com/site/guelph5kjoggling/results
 2017,2017,3b 5km,Yes,Guelph 5km,David Pavlove Cunsolo,M,0,00:33:15,?,https://sites.google.com/site/guelph5kjoggling/results
-2017,2017,3b 5km,Yes,"IJA, Lisbon, IA",David Pavlove Cunsolo,M,0,00:30:22,?,https://www.juggle.org/enewsletter/2017-07
-2017,2017,3b 5km,Yes,"IJA, Lisbon, IA",Carter Randall,M,0,00:30:19,?,https://www.juggle.org/enewsletter/2017-07
 2017,2017,3b 5km,Yes,Guelph 5km,Gavin Hossack,M,0,00:30:07,?,https://sites.google.com/site/guelph5kjoggling/results
 2017,2017,3b 5km,Yes,Guelph 5km,Ely Doan,M,0,00:28:26,?,https://sites.google.com/site/guelph5kjoggling/results
+2017,2017,3b 5km,Yes,Guelph 5km,Tony Malikowski,M,USA,00:25:08,?,https://sites.google.com/site/guelph5kjoggling/results
+2017,2017,3b 5km,Yes,Guelph 5km,Boris Georgiev,M,0,00:24:42,?,https://sites.google.com/site/guelph5kjoggling/results
+2017,2017,3b 5km,Yes,Guelph 5km,Julian Tam,M,0,00:23:49,?,https://sites.google.com/site/guelph5kjoggling/results
+2017,2017,3b 5km,Yes,Guelph 5km,Gabrielle Foran,F,CAN,00:19:12,?,https://sites.google.com/site/guelph5kjoggling/results
+2017,2017,3b 15km,No,Istanbul,Ferda Tekgül,M,TUR,01:35:55,?,https://event.spor.istanbul/eventresults.aspx
+2017,2017,3b 5km,Yes,"IJA, Lisbon, IA",Mary Geeves,F,0,00:32:10,?,https://www.juggle.org/enewsletter/2017-07
+2017,2017,3b 5km,Yes,"IJA, Lisbon, IA",Scott Randall,M,0,00:47:53,?,https://www.juggle.org/enewsletter/2017-07
+2017,2017,3b 5km,Yes,"IJA, Lisbon, IA",Sarah Williams,F,0,00:45:37,?,https://www.juggle.org/enewsletter/2017-07
+2017,2017,3b 5km,Yes,"IJA, Lisbon, IA",David Pavlove Cunsolo,M,0,00:30:22,?,https://www.juggle.org/enewsletter/2017-07
+2017,2017,3b 5km,Yes,"IJA, Lisbon, IA",Carter Randall,M,0,00:30:19,?,https://www.juggle.org/enewsletter/2017-07
 2017,2017,3b 5km,Yes,"IJA, Lisbon, IA",Jack Hirschowitz,M,USA,00:28:21,?,https://www.juggle.org/enewsletter/2017-07
 2017,2017,3b 5km,Yes,"IJA, Lisbon, IA",Nathan Wakefield,M,0,00:27:56,?,https://www.juggle.org/enewsletter/2017-07
 2017,2017,3b 5km,Yes,"IJA, Lisbon, IA",Jared Ashton,M,0,00:27:51,?,https://www.juggle.org/enewsletter/2017-07
 2017,2017,3b 5km,Yes,"IJA, Lisbon, IA",Mike Moore,M,USA,00:27:11,?,https://www.juggle.org/enewsletter/2017-07
 2017,2017,3b 5km,Yes,"IJA, Lisbon, IA",Jason Noye,M,0,00:26:15,?,https://www.juggle.org/enewsletter/2017-07
-2017,2017,3b 5km,Yes,Guelph 5km,Tony Malikowski,M,USA,00:25:08,?,https://sites.google.com/site/guelph5kjoggling/results
 2017,2017,3b 5km,Yes,"IJA, Lisbon, IA",Craig Wise,M,0,00:24:48,?,https://www.juggle.org/enewsletter/2017-07
 2017,2017,3b 5km,Yes,"IJA, Lisbon, IA",Tony Malikowski,M,USA,00:24:42,?,https://www.juggle.org/enewsletter/2017-07
-2017,2017,3b 5km,Yes,Guelph 5km,Boris Georgiev,M,0,00:24:42,?,https://sites.google.com/site/guelph5kjoggling/results
 2017,2017,3b 5km,Yes,"IJA, Lisbon, IA",Katie Burgess,F,0,00:24:37,?,https://www.juggle.org/enewsletter/2017-07
 2017,2017,3b 5km,Yes,"IJA, Lisbon, IA",Shahar Cohen,M,ISR,00:24:00,?,https://www.juggle.org/enewsletter/2017-07
-2017,2017,3b 5km,Yes,Guelph 5km,Julian Tam,M,0,00:23:49,?,https://sites.google.com/site/guelph5kjoggling/results
 2017,2017,3b 5km,Yes,"IJA, Lisbon, IA",Paul Arneberg,M,0,00:22:37,?,https://www.juggle.org/enewsletter/2017-07
 2017,2017,3b 5km,Yes,"IJA, Lisbon, IA",Erik Rain,M,0,00:20:26,?,https://www.juggle.org/enewsletter/2017-07
 2017,2017,3b 5km,Yes,"IJA, Lisbon, IA",Bob Evans,M,USA,00:19:36,?,https://www.juggle.org/enewsletter/2017-07
 2017,2017,3b 5km,Yes,"IJA, Lisbon, IA",Gabrielle Foran,F,CAN,00:19:29,?,https://www.juggle.org/enewsletter/2017-07
 2017,2017,3b 5km,Yes,"IJA, Lisbon, IA",Jacob Heimer,M,0,00:19:16,?,https://www.juggle.org/enewsletter/2017-07
-2017,2017,3b 5km,Yes,Guelph 5km,Gabrielle Foran,F,CAN,00:19:12,?,https://sites.google.com/site/guelph5kjoggling/results
-2017,2017,3b 15km,No,İSTANBUL MARATONU,Ferda Tekgül,M,TUR,01:35:55,?,https://event.spor.istanbul/eventresults.aspx
 2016,2016,3b 15km,No,Istanbul,Levent Denizci,M,TUR,01:24:35,0,Levent shared a pdf doc of his results
 2016,2016,3b 13km,No,Wings for Life World Run,Levent Denizci,M,TUR,01:24:08,4,
 2016,2016,3b 10km,Yes,Ignite Istanbul,Levent Denizci,M,TUR,00:54:42,2,Levent shared a pdf doc of his results
@@ -664,6 +684,7 @@
 2007,2007,3b Marathon,Yes,Tampa Bay Marathon,Perry Romanowski,M,USA,03:23:00,?,
 2007,2007,3b 5km,Yes,Time Trial,Tyler Wishau,M,USA,00:17:08,0,https://thejoggler.blogspot.com/2007/12/best-joggles-of-2007.html
 2005,2005,3b 5km,Yes,Berlin,Perry Romanowski,M,USA,00:19:48,?,
+1998,1998,3b 5km,Yes,EJC,Mike Hebebrand,M,USA,00:19:00,?,From Email exchange with Mike (April 2023)
 1997,1997,3b 5km,Yes,"IJA, Pittsburgh",Natalie McIntyre,F,0,00:28:48,?,https://dev.juggle.org/history/champs/champs1997.php
 1997,1997,3b 5km,Yes,"IJA, Pittsburgh",Scott Anthony,M,0,00:27:22,?,https://dev.juggle.org/history/champs/champs1997.php
 1997,1997,3b 5km,Yes,"IJA, Pittsburgh",Kay Caskey,F,0,00:26:57,?,https://dev.juggle.org/history/champs/champs1997.php
@@ -673,7 +694,6 @@
 1997,1997,3b 5km,Yes,"IJA, Pittsburgh",Jerry Kurtz,M,0,00:22:29,?,https://dev.juggle.org/history/champs/champs1997.php
 1997,1997,3b 5km,Yes,"IJA, Pittsburgh",Mickey Campaniello,M,0,00:21:37,?,https://dev.juggle.org/history/champs/champs1997.php
 1997,1997,3b 5km,Yes,"IJA, Pittsburgh",Mark Kolbus,M,0,00:20:50,?,https://dev.juggle.org/history/champs/champs1997.php
-1997,1997,3b 5km,Yes,EJC,Mike Hebebrand,M,USA,00:19:00,?,From Email exchange with Mike (April 2023)
 1997,1997,3b 5km,Yes,"IJA, Pittsburgh",Darin Marriott,M,USA,00:18:43,?,https://dev.juggle.org/history/champs/champs1997.php
 1997,1997,3b 5km,Yes,"IJA, Pittsburgh",Reese Edwards,M,0,00:18:21,?,https://dev.juggle.org/history/champs/champs1997.php
 1997,1997,3b Mile,Yes,"IJA, Pittsburgh",Laurie Young,F,0,00:09:31,?,https://dev.juggle.org/history/champs/champs1997.php
@@ -749,7 +769,6 @@
 1991,1991,3b 5km,Yes,"IJA, St. Louis",Joe Lyons,M,0,00:22:09,?,http://www.juggling.org/orgs/ija/champs.txt
 1991,1991,3b 5km,Yes,"IJA, St. Louis",Billy Gillen,M,USA,00:21:49,?,http://www.juggling.org/orgs/ija/champs.txt
 1991,1991,3b 5km,Yes,"IJA, St. Louis",John Kilgust,M,0,00:20:41,?,http://www.juggling.org/orgs/ija/champs.txt
-1990,1990,3b 10km,Yes,Time Trial,Mike Hebebrand,M,USA,00:35:45,?,From Email exchange with Mike (April 2023)
 1990,1990,3b 5km,Yes,"IJA, LA",Laurie Young,F,0,00:29:15,?,http://www.juggling.org/orgs/ija/champs.txt
 1990,1990,3b 5km,Yes,"IJA, LA",John Kilgust,M,0,00:20:08,?,http://www.juggling.org/orgs/ija/champs.txt
 1990,1990,3b 5km,Yes,"IJA, LA",Robert Slick,M,0,00:17:55,?,http://www.juggling.org/orgs/ija/champs.txt
@@ -759,17 +778,17 @@
 1990,1990,3b Mile,Yes,"IJA, LA",Christa Rypins,F,0,00:06:43,?,http://www.juggling.org/orgs/ija/champs.txt
 1990,1990,3b Mile,Yes,"IJA, LA",Mark Branner,M,0,00:05:38,?,http://www.juggling.org/orgs/ija/champs.txt
 1990,1990,3b Mile,Yes,"IJA, LA",Mike Hebebrand,M,USA,00:05:16,?,http://www.juggling.org/orgs/ija/champs.txt
-1989,1989,5b 5km,Yes,Time Trial,Billy Gillen,M,USA,00:28:11,?,"https://www.dev.juggle.org/history/archives/jugmags/45-2/45-2,p11.htm"
+1990,1990,3b 10km,Yes,Time Trial,Mike Hebebrand,M,USA,00:35:45,?,From Email exchange with Mike (April 2023)
 1989,1989,3b 5km,Yes,"IJA, Baltimore",Kay Caskey,F,0,00:27:57,?,http://www.juggling.org/orgs/ija/champs.txt
 1989,1989,3b 5km,Yes,"IJA, Baltimore",Paul Ballard,M,0,00:20:50,?,http://www.juggling.org/orgs/ija/champs.txt
 1989,1989,3b 5km,Yes,"IJA, Baltimore",Steve Otteson,M,0,00:20:33,?,http://www.juggling.org/orgs/ija/champs.txt
 1989,1989,3b 5km,Yes,"IJA, Baltimore",John Kilgust,M,0,00:19:06,?,http://www.juggling.org/orgs/ija/champs.txt
-1989,1989,5b Mile,Yes,Time Trial,Billy Gillen,M,USA,00:07:41,?,"https://www.dev.juggle.org/history/archives/jugmags/45-2/45-2,p11.htm"
 1989,1989,3b Mile,Yes,"IJA, Baltimore",Kathy Glynn,F,0,00:06:17,?,http://www.juggling.org/orgs/ija/champs.txt
 1989,1989,3b Mile,Yes,"IJA, Baltimore",Mike Thomasen,M,0,00:05:51,?,http://www.juggling.org/orgs/ija/champs.txt
 1989,1989,3b Mile,Yes,"IJA, Baltimore",Bill Giduz,M,USA,00:05:47,?,http://www.juggling.org/orgs/ija/champs.txt
 1989,1989,3b Mile,Yes,"IJA, Baltimore",Steve Otteson,M,0,00:05:41,?,http://www.juggling.org/orgs/ija/champs.txt
-1988,1988,3b Marathon,Yes,??,Albert Lucas,M,USA,03:29:04,?,
+1989,1989,5b 5km,Yes,Time Trial,Billy Gillen,M,USA,00:28:11,?,"https://www.dev.juggle.org/history/archives/jugmags/45-2/45-2,p11.htm"
+1989,1989,5b Mile,Yes,Time Trial,Billy Gillen,M,USA,00:07:41,?,"https://www.dev.juggle.org/history/archives/jugmags/45-2/45-2,p11.htm"
 1988,1988,3b 5km,Yes,"IJA, Denver",Laurie Young,F,0,00:30:22,?,http://www.juggling.org/orgs/ija/champs.txt
 1988,1988,3b 5km,Yes,"IJA, Denver",Eric Promislow,M,0,00:23:21,?,http://www.juggling.org/orgs/ija/champs.txt
 1988,1988,3b 5km,Yes,"IJA, Denver",Albert Lucas,M,USA,00:20:39,?,http://www.juggling.org/orgs/ija/champs.txt
@@ -780,6 +799,7 @@
 1988,1988,3b Mile,Yes,"IJA, Denver",John Ellwanger,M,0,00:05:51,?,http://www.juggling.org/orgs/ija/champs.txt
 1988,1988,3b Mile,Yes,"IJA, Denver",Steve Wilson,M,0,00:05:39,?,http://www.juggling.org/orgs/ija/champs.txt
 1988,1988,3b Mile,Yes,"IJA, Denver",Albert Lucas,M,USA,00:05:35,?,http://www.juggling.org/orgs/ija/champs.txt
+1988,1988,3b Marathon,Yes,??,Albert Lucas,M,USA,03:29:04,?,
 1988,1988,3b Marathon,Yes,West Australian Marathon,Reg Bolton,M,GBR,03:45:50,?,https://www.heraldscotland.com/default_content/12429364.reg-bolton/  https://www.jugglingballs.com.au/15-famous-jugglers-from-australia-and-the-world/
 1987,1987,3b 5km,Yes,"IJA, Akron",Clarke McFarlane,M,0,00:20:06,?,http://www.juggling.org/orgs/ija/champs.txt
 1987,1987,3b 5km,Yes,"IJA, Akron",Billy Gillen,M,USA,00:19:52,?,http://www.juggling.org/orgs/ija/champs.txt
@@ -804,10 +824,10 @@
 1983,1983,3b Mile,Yes,"IJA, Purchase, NY",Paul Bernardo,M,0,00:05:38,?,http://www.juggling.org/orgs/ija/champs.txt
 1983,1983,3b Mile,Yes,"IJA, Purchase, NY",Andrew Head,M,0,00:05:29,?,http://www.juggling.org/orgs/ija/champs.txt
 1983,1983,3b Mile,Yes,"IJA, Purchase, NY",Michel Lauzière,M,CAN,00:05:25,?,http://www.juggling.org/orgs/ija/champs.txt
-1982,1982,3b Half Marathon,Yes,Montreal University Half Marathon,Michel Lauzière,M,CAN,01:19:00,?,Email exchange
 1982,1982,3b 5km,Yes,"IJA, Santa Barbara",David Marcias,M,0,00:19:51,?,http://www.juggling.org/orgs/ija/champs.txt
 1982,1982,3b 5km,Yes,"IJA, Santa Barbara",Sean McLoughlin,M,0,00:19:00,?,http://www.juggling.org/orgs/ija/champs.txt
 1982,1982,3b 5km,Yes,"IJA, Santa Barbara",Marty Gardella,M,0,00:18:47,?,http://www.juggling.org/orgs/ija/champs.txt
 1982,1982,3b Mile,Yes,"IJA, Santa Barbara",Bill Giduz,M,USA,00:05:36,?,http://www.juggling.org/orgs/ija/champs.txt
 1982,1982,3b Mile,Yes,"IJA, Santa Barbara",Paul Williams,M,0,00:05:29,?,http://www.juggling.org/orgs/ija/champs.txt
 1982,1982,3b Mile,Yes,"IJA, Santa Barbara",Sean McLoughlin,M,0,00:05:15,?,http://www.juggling.org/orgs/ija/champs.txt
+1982,1982,3b Half Marathon,Yes,Montreal University Half Marathon,Michel Lauzière,M,CAN,01:19:00,?,Email exchange
