@@ -15,7 +15,7 @@ st.set_page_config(page_title='Joggling',
                    initial_sidebar_state = 'expanded'   ## 'auto','collapsed','expanded'
                    )
 
-update_date = '25th September 2023'
+update_date = '30th September 2023'
 
 ## Function to allow dataframe filtering
 def filter_dataframe(df: pd.DataFrame) -> pd.DataFrame:
