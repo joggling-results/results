@@ -92,10 +92,11 @@ Please submit joggling results to jogglingresults@gmail.com
 
 
 data = pd.read_csv('results.csv')    ## xlsx not supported.
-st.write("{} joggling results from {} jogglers discovered so far...".format(len(data),len(data['Joggler'].unique())))
-
-st.write(data['Nationality'].unique())
-
+st.write("{} joggling results from {} jogglers from {} countries discovered so far...".format(len(data),
+                                                                                              len(data['Joggler'].unique()),
+                                                                                              len(data['Nationality'].unique())-1  # -1 since unknown nationalitity
+                                                                                              )
+         )
 
 st.write(filter_dataframe(data))
 st.write(f'App Updated: {update_date}')
