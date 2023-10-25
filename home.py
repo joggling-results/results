@@ -90,8 +90,12 @@ This web app aims to present an archive of joggling achievements from around the
 Please submit joggling results to jogglingresults@gmail.com
 """)
 
+
 data = pd.read_csv('results.csv')    ## xlsx not supported.
 st.write("{} joggling results from {} jogglers discovered so far...".format(len(data),len(data['Joggler'].unique())))
+
+st.write(data['Nationality'].unique())
+
 
 st.write(filter_dataframe(data))
 st.write(f'App Updated: {update_date}')
