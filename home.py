@@ -15,7 +15,7 @@ st.set_page_config(page_title='Joggling',
                    initial_sidebar_state = 'expanded'   ## 'auto','collapsed','expanded'
                    )
 
-update_date = '30th September 2023'
+update_date = '25th October 2023'
 
 ## Function to allow dataframe filtering
 def filter_dataframe(df: pd.DataFrame) -> pd.DataFrame:
@@ -87,7 +87,7 @@ st.title('Joggling Results Archive')
 st.write("""Joggling (that is, the hybrid sport of running whilst juggling) is certainly a niche. But it is more popular than you might think. 
 This web app aims to present an archive of joggling achievements from around the world.
 
-Please submit joggling results, and other feedback/suggestions to jogglingresults@gmail.com
+Please submit joggling results to jogglingresults@gmail.com
 """)
 
 data = pd.read_csv('results.csv')    ## xlsx not supported.
