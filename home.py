@@ -15,7 +15,7 @@ st.set_page_config(page_title='Joggling',
                    initial_sidebar_state = 'expanded'   ## 'auto','collapsed','expanded'
                    )
 
-update_date = '29th November 2023'
+update_date = '28th January 2024'
 
 ## Function to allow dataframe filtering
 def filter_dataframe(df: pd.DataFrame) -> pd.DataFrame:
@@ -90,8 +90,13 @@ This web app aims to present an archive of joggling achievements from around the
 Please submit joggling results to jogglingresults@gmail.com
 """)
 
-
+## Load data and reorder columns
 data = pd.read_csv('results.csv')    ## xlsx not supported.
+data = data[['Date', 'Joggler', 'Distance', 'Event / Venue','Finish Time', 'Drops',
+             'Gender', 'Nationality', 
+             'Notes / Result Links', 'Year','Standard Distance?']]
+
+# Summary Stats
 st.write("{} joggling results from {} jogglers from {} countries discovered so far...".format(len(data),
                                                                                               len(data['Joggler'].unique()),
                                                                                               len(data['Nationality'].unique())-1  # -1 since unknown nationalitity
