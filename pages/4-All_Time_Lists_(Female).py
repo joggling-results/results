@@ -92,7 +92,7 @@ def all_time_list(distance):
     fastest_times = fastest_times.merge(data,how='left',left_on=['Joggler','Finish Time'],right_on=['Joggler','Finish Time'])
     fastest_times['Ranking'] = pd.to_numeric(fastest_times['Finish Time'].rank(method="min")).astype(int)
     fastest_times['Nationality'] = fastest_times['Nationality'].replace({'0':'Unknown'})  # 0 loaded in as a string
-    fastest_times = fastest_times[['Ranking','Joggler','Gender','Nationality','Date','Event / Venue','Finish Time','Notes / Result Links']].sort_values('Ranking').reset_index(drop=True)
+    fastest_times = fastest_times[['Ranking','Finish Time','Joggler','Gender','Nationality','Date','Event / Venue','Notes / Result Links']].sort_values('Ranking').reset_index(drop=True)
     return fastest_times
 
 tab1, tab2, tab3, tab4, tab5, tab6, tab7, tab8 = st.tabs(["3b Mile", "3b 5km", "3b 10km",'3b Half Marathon', '3b Marathon', '5b Mile', '5b 5km','5b Marathon'])
