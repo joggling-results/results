@@ -12,13 +12,13 @@ st.set_page_config(page_title='Joggler Map',
 ## pivot_df melted, so can use animation_frame within the plotly geo scatter instead of the slider.
 ## This should bring more consistency with dot sizes.
 
-def record_year(sample_date):
-    # Function to produce the year from a date
-    try:
-        year = datetime.strptime(sample_date, '%d/%m/%Y').year     # If we have the full date, then extract the year
-    except:
-        year = int(sample_date)                                    # Else, we only have the year. Use this.
-    return year
+# def record_year(sample_date):
+#     # Function to produce the year from a date
+#     try:
+#         year = datetime.strptime(sample_date, '%d/%m/%Y').year     # If we have the full date, then extract the year
+#     except:
+#         year = int(sample_date)                                    # Else, we only have the year. Use this.
+#     return year
 
 st.markdown('#### Joggler Map')
 
@@ -27,7 +27,7 @@ st.write('The map shows the number of jogglers from each country, active since t
 ## Load and clean data
 data = pd.read_csv('results.csv')
 ## Apply date -> year function
-data['Year'] = data.apply(lambda x: record_year(x['Date']),axis=1)
+# data['Year'] = data.apply(lambda x: record_year(x['Date']),axis=1)
 # st.write(data.head(15))
 grouped_df = data[['Joggler','Nationality','Year']].groupby('Joggler').max().reset_index()
 grouped_df['Nationality'].replace({'0':'Unknown'}, inplace=True)
@@ -39,6 +39,7 @@ pivot_df = pd.pivot_table(grouped_df,values='Joggler',index='Year',columns='Nati
 
 min_year = pivot_df['Year'].min()
 max_year = pivot_df['Year'].max()
+
 if 'year_val' not in st.session_state:
     st.session_state['year_val'] = 1981
 if 'map_df' not in st.session_state:
