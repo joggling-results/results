@@ -102,3 +102,7 @@ st.write(f"{len(data)} joggling results from {len(data['Joggler'].unique())} jog
 st.write(filter_dataframe(data))
 st.write(f'App Updated: {update_date}')
 st.write('Compiled by Scott Jenkins & Chris Edwin; 2 jogglers from the United Kingdom')
+
+
+## To run this code in terminal
+## python -m streamlit run home.py

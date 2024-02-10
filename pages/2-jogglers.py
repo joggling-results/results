@@ -85,28 +85,26 @@ st.markdown('#### Joggler Personal Best Times')
 
 data = pd.read_csv('results.csv')    ## xlsx not supported.
 
-def record_year(sample_date):
-    # Function to clean up the date field, and return only the year as an integer
-    try:
-        year = datetime.strptime(sample_date, '%d/%m/%Y').year     # If we have the full date, then extract the year
-    except:
-        year = int(sample_date)                                    # Else, we only have the year. Use this.
-    return year
+# Create table at joggler level: nationality, years active
+joggler_df = (data.groupby(['Joggler','Nationality','Gender'])
+                  .agg({'Year':['min','max'],'Event / Venue':'count'})
+                  .reset_index()
+                  .replace({'0':'Unknown'})
+)
+joggler_df.columns = ['Joggler','Nationality','Gender','First Active','Last Active','Entry Count']
+joggler_df['Years Active'] = 1 + joggler_df['Last Active'] - joggler_df['First Active']
+joggler_df = joggler_df[['Joggler','Nationality','Gender','Years Active','First Active','Last Active','Entry Count']]
 
-## Apply this function to all dates
-data['Year'] = data.apply(lambda x: record_year(x['Date']),axis=1)
-
-nationality_df = data[['Joggler','Nationality']].drop_duplicates().reset_index(drop=True).replace({'0':'Unknown'})
-recency_df = data.groupby('Joggler')['Year'].max().reset_index().rename({'Year':'Year Most Recently Active'},axis=1)
+# Create personal best times for common events for each joggler
 pivot_df = pd.pivot_table(data,
                           values='Finish Time',
                           index='Joggler', 
                           columns='Distance', 
                           aggfunc='min')
-pivot_df = pivot_df[['3b Mile','3b 5km','3b 10km','3b Half Marathon','3b Marathon','5b Mile']].reset_index().fillna('-')
+pivot_df = pivot_df[['3b Mile','3b 5km','3b 10km','3b Half Marathon','3b Marathon','5b Mile','5b 5km']].reset_index().fillna('-')
 
-## Join all dfs on joggler
-joggler_df = nationality_df.merge(recency_df,on='Joggler').merge(pivot_df,on='Joggler')
+# Merge to produce single joggler_df
+joggler_df = joggler_df.merge(pivot_df,on='Joggler')
 
 ## Wanted to remove , but it breaks the filtering
 # joggler_df = joggler_df.style.format({"Year Most Recently Active": lambda x : str(x)})  
