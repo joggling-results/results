@@ -33,34 +33,60 @@ def all_time_list(distance):
 endurance_tab, middle_distance_tab, sprints_tab = st.tabs(['Endurance', 'Middle Distance', 'Sprints'])
 
 with endurance_tab:
-    st.subheader("Endurance Events will sit under this nested tab...")
-    tab1, tab2, tab3, tab4, tab5, tab6, tab7, tab8 = st.tabs(["3b Mile", "3b 5km", "3b 10km",'3b Half Marathon', '3b Marathon', '5b Mile', '5b 5km','5b Marathon'])
-    with tab1:
-        st.subheader("3 Ball Mile")
-        st.write(all_time_list('3b Mile'))
-    with tab2:
+    t_5km_3b, t_10km_3b, t_hmar_3b, t_mar_3b, t_5km_5b, t_mar_5b = st.tabs(["3b 5km", "3b 10km", '3b Half Marathon', '3b Marathon', '5b 5km','5b Marathon'])
+    with t_5km_3b:
         st.subheader("3 Ball 5km")
         st.write(all_time_list('3b 5km'))
-    with tab3:
+    with t_10km_3b:
         st.subheader("3 Ball 10km")
         st.write(all_time_list('3b 10km'))
-    with tab4:
+    with t_hmar_3b:
         st.subheader("3 Ball Half Marathon")
         st.write(all_time_list('3b Half Marathon'))
-    with tab5:
+    with t_mar_3b:
         st.subheader("3 Ball Marathon")
         st.write(all_time_list('3b Marathon'))
-    with tab6:
-        st.subheader("5 Ball Mile")
-        st.write(all_time_list('5b Mile'))
-    with tab7:
+    with t_5km_5b:
         st.subheader("5 Ball 5km")
         st.write(all_time_list('5b 5km'))
-    with tab8:
+    with t_mar_5b:
         st.subheader("5 Ball Marathon")
         st.write(all_time_list('5b Marathon'))
 with middle_distance_tab:
-    st.subheader('Will move the middle distance events here')
+    t_800_3b, t_1500_3b, t_mile_3b, t_mile_5b = st.tabs(["3b 800m", "3b 1500m", "3b Mile", "5b Mile"])
+    with t_800_3b:
+        st.subheader("3 Ball 800m")
+        st.write(all_time_list('3b 800m'))
+    with t_1500_3b:
+        st.subheader("3 Ball 1500m")
+        st.write(all_time_list('3b 1500m'))
+    with t_mile_3b:
+        st.subheader("3 Ball Mile")
+        st.write(all_time_list('3b Mile'))
+    with t_mile_5b:
+        st.subheader("5 Ball Mile")
+        st.write(all_time_list('5b Mile'))
 with sprints_tab:
-    st.subheader('And Sprints (and relays) will live here')
+    t_100_3b,t_100_5b,t_100_7b,t_200_3b,t_400_3b,t_400_5b,t_4x100_3b = st.tabs(["3b 100m", "5b 100m", "7b 100m", "3b 200m", "3b 400m", "5b 400m","3b 4x100m"])
+    with t_100_3b:
+        st.subheader("3 Ball 100m")
+        st.write(all_time_list('3b 100m'))
+    with t_100_5b:
+        st.subheader("5 Ball 100m")
+        st.write(all_time_list('5b 100m'))
+    with t_100_7b:
+        st.subheader("7 Ball 100m")
+        st.write(all_time_list('7b 100m'))
+    with t_200_3b:
+        st.subheader("3 Ball 200m")
+        st.write(all_time_list('3b 200m'))
+    with t_400_3b:
+        st.subheader("3 Ball 400m")
+        st.write(all_time_list('3b 400m'))
+    with t_400_5b:
+        st.subheader("5 Ball 400m")
+        st.write(all_time_list('5b 400m'))
+    with t_4x100_3b:
+        st.subheader("3 Ball 4 x 100m Relay")
+        st.write(all_time_list('3b 4x100m'))
     

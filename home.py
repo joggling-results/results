@@ -86,8 +86,6 @@ def filter_dataframe(df: pd.DataFrame) -> pd.DataFrame:
 st.title('Joggling Results Archive')
 st.write("""Joggling (that is, the hybrid sport of running whilst juggling) is certainly a niche. But it is more popular than you might think. 
 This web app aims to present an archive of joggling achievements from around the world.
-
-Please submit joggling results to jogglingresults@gmail.com
 """)
 
 ## Load data and reorder columns
@@ -97,7 +95,7 @@ data = data[['Date', 'Joggler', 'Distance', 'Event / Venue','Finish Time', 'Drop
              'Notes / Result Links', 'Year','Standard Distance?']]
 
 # Summary Stats
-st.write(f"{len(data)} joggling results from {len(data['Joggler'].unique())} jogglers from {len(data['Nationality'].unique())-1} countries discovered so far...")
+st.write(f"{len(data)} joggling results from {len(data['Joggler'].unique())} jogglers from {len(data['Nationality'].unique())-1} countries discovered so far... see all results below.")
 
 st.write(filter_dataframe(data))
 st.write(f'App Updated: {update_date}')
