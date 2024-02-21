@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.set_page_config(page_title="Joggler's Jottings",
-                   page_icon=':book:',
+                   page_icon=':📝:',
                    layout = 'wide',        ## 'centered','wide'
                    initial_sidebar_state = 'expanded'   ## 'auto','collapsed','expanded'
                    )
