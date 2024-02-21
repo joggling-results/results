@@ -2,6 +2,13 @@ import streamlit as st
 import streamlit.components.v1 as components
 import pandas as pd
 
+st.set_page_config(page_title="Joggler Network",
+                   page_icon=':🕸️:',
+                   layout = 'wide',        ## 'centered','wide'
+                   initial_sidebar_state = 'expanded'   ## 'auto','collapsed','expanded'
+                   )
+
+
 ## Function to allow dataframe filtering
 def filter_dataframe(df: pd.DataFrame) -> pd.DataFrame:
     """
