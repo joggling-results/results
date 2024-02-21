@@ -95,7 +95,7 @@ data = data[['Date', 'Joggler', 'Distance', 'Event / Venue','Finish Time', 'Drop
              'Notes / Result Links', 'Year','Standard Distance?']]
 
 # Summary Stats
-st.write(f"{len(data)} joggling results from {len(data['Joggler'].unique())} jogglers from {len(data['Nationality'].unique())-1} countries discovered so far... see all results below.")
+st.write(f"**{len(data)} joggling results** from **{len(data['Joggler'].unique())} jogglers** from **{len(data['Nationality'].unique())-1} countries** discovered so far... see all results below.")
 
 st.write(filter_dataframe(data))
 st.write(f'App Updated: {update_date}')
