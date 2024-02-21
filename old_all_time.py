@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 from datetime import datetime
-
 from pandas.api.types import (
     is_categorical_dtype,
     is_datetime64_any_dtype,
@@ -9,8 +8,8 @@ from pandas.api.types import (
     is_object_dtype,
 )
 
-st.set_page_config(page_title='Jogglers',
-                   page_icon=':book:',
+st.set_page_config(page_title='All Time Lists (Female)',
+                   page_icon=':rocket:',
                    layout = 'wide',        ## 'centered','wide'
                    initial_sidebar_state = 'expanded'   ## 'auto','collapsed','expanded'
                    )
@@ -47,9 +46,9 @@ def filter_dataframe(df: pd.DataFrame) -> pd.DataFrame:
                 )
                 df = df[df[column].isin(user_cat_input)]
             elif is_numeric_dtype(df[column]):
-                _min = int(df[column].min())  # float(df[column].min())
-                _max = int(df[column].max()) # float(df[column].max())
-                step = 1   # (_max - _min) / 100                          # Want integer step sizes
+                _min = float(df[column].min())
+                _max = float(df[column].max())
+                step = (_max - _min) / 100
                 user_num_input = right.slider(
                     f"Values for {column}",
                     min_value=_min,
@@ -81,46 +80,46 @@ def filter_dataframe(df: pd.DataFrame) -> pd.DataFrame:
 ## End of dataframe filtering function
 
 ## Start of Page Content
-st.markdown('#### Joggler Personal Best Times')
+st.markdown('#### All-Time Lists (Female)')
 
-st.markdown('The table below lists all known competing jogglers in the archive, together with the personal bests across a selection of events.')
+st.write("Use the tabs below to see the fastest female jogglers in different events. Varying degrees of evidence has been found for the below, but these rankings rely on the trust of the joggling community. For official verified Guinness World Records, check out their site.")
 
 data = pd.read_csv('results.csv')    ## xlsx not supported.
+data = data[data['Gender']=='F']
+def all_time_list(distance):
+    # Function to produce all time list for a given distance (e.g. 3b 5km)
+    fastest_times = data[data['Distance']==distance][['Joggler','Finish Time']].groupby(['Joggler']).min().reset_index()
+    fastest_times = fastest_times.merge(data,how='left',left_on=['Joggler','Finish Time'],right_on=['Joggler','Finish Time'])
+    fastest_times['Ranking'] = pd.to_numeric(fastest_times['Finish Time'].rank(method="min")).astype(int)
+    fastest_times['Nationality'] = fastest_times['Nationality'].replace({'0':'Unknown'})  # 0 loaded in as a string
+    fastest_times = fastest_times[['Ranking','Finish Time','Joggler','Gender','Nationality','Date','Event / Venue','Notes / Result Links']].sort_values('Ranking').reset_index(drop=True)
+    return fastest_times
 
-# Filter out relays
-data = data[~data['Distance'].isin(['3b 4x100m','3b 4x200m','3b 4x400m'])]
+tab1, tab2, tab3, tab4, tab5, tab6, tab7, tab8 = st.tabs(["3b Mile", "3b 5km", "3b 10km",'3b Half Marathon', '3b Marathon', '5b Mile', '5b 5km','5b Marathon'])
 
-# Create table at joggler level: nationality, years active
-joggler_df = (data.groupby(['Joggler','Nationality','Gender'])
-                  .agg({'Year':['min','max'],'Event / Venue':'count'})
-                  .reset_index()
-                  .replace({'0':'Unknown'})
-)
-joggler_df.columns = ['Joggler','Nationality','Gender','First Active','Last Active','Entry Count']
-joggler_df['Years Active'] = 1 + joggler_df['Last Active'] - joggler_df['First Active']
-joggler_df = joggler_df[['Joggler','Nationality','Gender','Years Active','First Active','Last Active','Entry Count']]
-
-# Create personal best times for common events for each joggler
-pivot_df = pd.pivot_table(data,
-                          values='Finish Time',
-                          index='Joggler', 
-                          columns='Distance', 
-                          aggfunc='min')
-pivot_df = pivot_df[['3b 100m', 
-                     '3b 400m',
-                     '3b Mile',
-                     '3b 5km',
-                     '3b 10km',
-                     '3b Half Marathon',
-                     '3b Marathon',
-                     '5b 100m',
-                     '5b Mile',
-                     '5b 5km']].reset_index().fillna('-')
-
-# Merge to produce single joggler_df
-joggler_df = joggler_df.merge(pivot_df,on='Joggler')
-
-## Wanted to remove , but it breaks the filtering
-# joggler_df = joggler_df.style.format({"Year Most Recently Active": lambda x : str(x)})  
-
-st.write(filter_dataframe(joggler_df))
+with tab1:
+   st.subheader("3 Ball Mile")
+   st.write(all_time_list('3b Mile'))
+with tab2:
+   st.subheader("3 Ball 5km")
+   st.write(all_time_list('3b 5km'))
+with tab3:
+   st.subheader("3 Ball 10km")
+   st.write(all_time_list('3b 10km'))
+with tab4:
+   st.subheader("3 Ball Half Marathon")
+   st.write(all_time_list('3b Half Marathon'))
+with tab5:
+   st.subheader("3 Ball Marathon")
+   st.write(all_time_list('3b Marathon'))
+with tab6:
+   st.subheader("5 Ball Mile")
+   st.write(all_time_list('5b Mile'))
+with tab7:
+   st.subheader("5 Ball 5km")
+   st.write(all_time_list('5b 5km'))
+with tab8:
+   st.subheader("5 Ball Marathon")
+   st.write(all_time_list('5b Marathon'))
+ 
+ # Looks like you can only filter 1 df in sny given .py file
