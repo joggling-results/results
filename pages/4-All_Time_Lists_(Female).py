@@ -14,14 +14,20 @@ st.set_page_config(page_title='All Time Lists',
                    initial_sidebar_state = 'expanded'   ## 'auto','collapsed','expanded'
                    )
 ## Start of Page Content
-st.markdown('#### All-Time Lists (Male)')
+st.markdown('#### All-Time Lists (Female)')
 
 st.write("Use the tabs below to see the fastest female jogglers in different events. Varying degrees of evidence has been found for the below, but these rankings rely on the trust of the joggling community. For official verified Guinness World Records, check out their site.")
 
-data = pd.read_csv('results.csv')
-data = data[data['Gender']=='F']        ## xlsx not supported.
+@st.cache_data
+def get_female_results():
+    data = pd.read_csv('results.csv')
+    data = data[data['Gender']=='F']        ## xlsx not supported.
+    return data
 
-def all_time_list(distance):
+female_data = get_female_results()
+
+@st.cache_data
+def all_time_list(distance, data = female_data):
     # Function to produce all time list for a given distance (e.g. 3b 5km)
     fastest_times = data[data['Distance']==distance][['Joggler','Finish Time']].groupby(['Joggler']).min().reset_index()
     fastest_times = fastest_times.merge(data,how='left',left_on=['Joggler','Finish Time'],right_on=['Joggler','Finish Time'])

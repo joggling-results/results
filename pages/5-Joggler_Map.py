@@ -24,18 +24,34 @@ st.markdown('#### Joggler Map')
 
 st.write('The map shows the number of jogglers from each country, active since the year selected with the slider.')
 
-## Load and clean data
-data = pd.read_csv('results.csv')
-## Apply date -> year function
-# data['Year'] = data.apply(lambda x: record_year(x['Date']),axis=1)
-# st.write(data.head(15))
-grouped_df = data[['Joggler','Nationality','Year']].groupby('Joggler').max().reset_index()
-grouped_df['Nationality'].replace({'0':'Unknown'}, inplace=True)
-# st.write(grouped_df)
 
-pivot_df = pd.pivot_table(grouped_df,values='Joggler',index='Year',columns='Nationality',aggfunc='count').fillna(0).reset_index()
-# pivot_df['Year'] = pd.to_numeric(pivot_df['Year'])
-# st.write(pivot_df)
+@st.cache_data
+def make_country_year_pivot() -> pd.DataFrame:
+    '''
+    Source the results data, group by joggler to get the year of their latest result, and pivot by nationality
+
+    Return:
+        pivot_df: pd.DataFrame
+    '''
+    data = pd.read_csv('results.csv')
+
+    grouped_df = (data[['Joggler','Nationality','Year']].groupby('Joggler')
+                                                        .max()
+                                                        .reset_index())
+    grouped_df['Nationality'].replace({'0':'Unknown'}, 
+                                      inplace=True)
+    
+    pivot_df = (pd.pivot_table(grouped_df,
+                              values='Joggler',
+                              index='Year',
+                              columns='Nationality',
+                              aggfunc='count')
+                  .fillna(0)
+                  .reset_index())
+    
+    return pivot_df
+
+pivot_df = make_country_year_pivot()
 
 min_year = pivot_df['Year'].min()
 max_year = pivot_df['Year'].max()
@@ -46,12 +62,8 @@ if 'map_df' not in st.session_state:
     st.session_state['map_df'] = pivot_df[pivot_df['Year']>=st.session_state['year_val']].sum().drop('Year').reset_index()
 
 
-# projections = ['equirectangular', 'mercator', 'orthographic', 'natural earth',
-#                        'kavrayskiy7', 'miller', 'robinson', 'eckert4', 'azimuthal equal area',
-#                        'azimuthal equidistant', 'conic equal area', 'conic conformal',
-#                        'conic equidistant', 'gnomonic', 'stereographic', 'mollweide', 'hammer',
-#                        'transverse mercator', 'albers usa', 'winkel tripel', 'aitoff']:
 with st.container():
+    ## Create the map in it's own container
     st.session_state['map_df'] = pivot_df[pivot_df['Year'] >= st.session_state['year_val']].sum().drop('Year').reset_index().rename({0: 'Number of Jogglers'}, axis=1)
     my_map = px.scatter_geo(st.session_state['map_df'],
                             locations="Nationality",
@@ -69,13 +81,9 @@ with st.container():
                                              max_value=int(max_year),
                                              value=int(min_year))
 
-# ## Example Map
-# data = {'country_code': ['GBR', 'USA', 'CAN', 'AUS'],
-#         'units': [100, 500, 250, 150]}
-# df = pd.DataFrame(data)
 
-# create map with dot size representing number of units
-# my_map = px.scatter_geo(df, locations="country_code", size="units",
-#                      projection="natural earth", hover_name='country_code',size_max = 50)
-
-
+# projections = ['equirectangular', 'mercator', 'orthographic', 'natural earth',
+#                        'kavrayskiy7', 'miller', 'robinson', 'eckert4', 'azimuthal equal area',
+#                        'azimuthal equidistant', 'conic equal area', 'conic conformal',
+#                        'conic equidistant', 'gnomonic', 'stereographic', 'mollweide', 'hammer',
+#                        'transverse mercator', 'albers usa', 'winkel tripel', 'aitoff']:
