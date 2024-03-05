@@ -18,10 +18,16 @@ st.markdown('#### All-Time Lists (Male)')
 
 st.write("Use the tabs below to see the fastest male jogglers in different events. Varying degrees of evidence has been found for the below, but these rankings rely on the trust of the joggling community. For official verified Guinness World Records, check out their site.")
 
-data = pd.read_csv('results.csv')
-data = data[data['Gender']=='M']        ## xlsx not supported.
+@st.cache_data
+def get_male_results():
+    data = pd.read_csv('results.csv')
+    data = data[data['Gender']=='M']        ## xlsx not supported.
+    return data
 
-def all_time_list(distance):
+male_data = get_male_results()
+
+@st.cache_data
+def all_time_list(distance, data=male_data):
     # Function to produce all time list for a given distance (e.g. 3b 5km)
     fastest_times = data[data['Distance']==distance][['Joggler','Finish Time']].groupby(['Joggler']).min().reset_index()
     fastest_times = fastest_times.merge(data,how='left',left_on=['Joggler','Finish Time'],right_on=['Joggler','Finish Time'])

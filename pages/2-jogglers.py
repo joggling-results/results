@@ -85,42 +85,59 @@ st.markdown('#### Joggler Personal Best Times')
 
 st.markdown('The table below lists all known competing jogglers in the archive, together with the personal bests across a selection of events.')
 
-data = pd.read_csv('results.csv')    ## xlsx not supported.
 
-# Filter out relays
-data = data[~data['Distance'].isin(['3b 4x100m','3b 4x200m','3b 4x400m'])]
+@st.cache_data
+def make_joggler_pivot() -> pd.DataFrame:
+    '''
+    Load the result data, group by joggler to record #results, earliest and latest etc.
 
-# Create table at joggler level: nationality, years active
-joggler_df = (data.groupby(['Joggler','Nationality','Gender'])
-                  .agg({'Year':['min','max'],'Event / Venue':'count'})
-                  .reset_index()
-                  .replace({'0':'Unknown'})
-)
-joggler_df.columns = ['Joggler','Nationality','Gender','First Active','Last Active','Entry Count']
-joggler_df['Years Active'] = 1 + joggler_df['Last Active'] - joggler_df['First Active']
-joggler_df = joggler_df[['Joggler','Nationality','Gender','Years Active','First Active','Last Active','Entry Count']]
+    Separately, pivot the result data to find each jogglers fastest times over a set of common distances.
 
-# Create personal best times for common events for each joggler
-pivot_df = pd.pivot_table(data,
-                          values='Finish Time',
-                          index='Joggler', 
-                          columns='Distance', 
-                          aggfunc='min')
-pivot_df = pivot_df[['3b 100m', 
-                     '3b 400m',
-                     '3b Mile',
-                     '3b 5km',
-                     '3b 10km',
-                     '3b Half Marathon',
-                     '3b Marathon',
-                     '5b 100m',
-                     '5b Mile',
-                     '5b 5km']].reset_index().fillna('-')
+    Merge these datasets together.
 
-# Merge to produce single joggler_df
-joggler_df = joggler_df.merge(pivot_df,on='Joggler')
+    Returns:
+        joggler_df: pd.DataFrame
+    '''
+    data = pd.read_csv('results.csv')    ## xlsx not supported.
 
-## Wanted to remove , but it breaks the filtering
-# joggler_df = joggler_df.style.format({"Year Most Recently Active": lambda x : str(x)})  
+    # Filter out relays
+    data = data[~data['Distance'].isin(['3b 4x100m','3b 4x200m','3b 4x400m'])]
+
+    # Create table at joggler level: nationality, years active
+    joggler_df = (data.groupby(['Joggler','Nationality','Gender'])
+                    .agg({'Year':['min','max'],'Event / Venue':'count'})
+                    .reset_index()
+                    .replace({'0':'Unknown'})
+    )
+    joggler_df.columns = ['Joggler','Nationality','Gender','First Active','Last Active','Entry Count']
+    joggler_df['Years Active'] = 1 + joggler_df['Last Active'] - joggler_df['First Active']
+    joggler_df = joggler_df[['Joggler','Nationality','Gender','Years Active','First Active','Last Active','Entry Count']]
+
+    # Create personal best times for common events for each joggler
+    pivot_df = pd.pivot_table(data,
+                            values='Finish Time',
+                            index='Joggler', 
+                            columns='Distance', 
+                            aggfunc='min')
+    pivot_df = pivot_df[['3b 100m', 
+                        '3b 400m',
+                        '3b Mile',
+                        '3b 5km',
+                        '3b 10km',
+                        '3b Half Marathon',
+                        '3b Marathon',
+                        '5b 100m',
+                        '5b Mile',
+                        '5b 5km']].reset_index().fillna('-')
+
+    # Merge to produce single joggler_df
+    joggler_df = joggler_df.merge(pivot_df,on='Joggler')
+
+    ## Wanted to remove , but it breaks the filtering
+    # joggler_df = joggler_df.style.format({"Year Most Recently Active": lambda x : str(x)})  
+
+    return joggler_df
+
+joggler_df = make_joggler_pivot()
 
 st.write(filter_dataframe(joggler_df))
