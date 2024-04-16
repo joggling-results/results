@@ -8,7 +8,7 @@ st.set_page_config(page_title="Joggler's Jottings",
 
 st.write("#### Joggler's Jottings")
 st.write("""Click the buttons below to download the 'Joggler's Jottings', a quarterly newsletter 
-         produced to share some of the joggling highlights from the past few months.
+         produced to share some of the joggling highlights from the previous months.
 """)
 
 
