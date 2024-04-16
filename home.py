@@ -97,10 +97,10 @@ def load_result_data() -> pd.DataFrame:
     Return:
         data: pd.DataFrame
     '''
-    data = pd.read_csv('results.csv')    ## xlsx not supported.
+    data = pd.read_csv('data/results.csv')    ## xlsx not supported.
     data = data[['Date', 'Joggler', 'Distance', 'Event / Venue','Finish Time', 'Drops',
                 'Gender', 'Nationality', 
-                'Notes / Result Links', 'Year','Standard Distance?']]
+                'Notes / Result Links', 'Year']]
     
     return data
     
