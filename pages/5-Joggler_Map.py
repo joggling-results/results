@@ -33,7 +33,7 @@ def make_country_year_pivot() -> pd.DataFrame:
     Return:
         pivot_df: pd.DataFrame
     '''
-    data = pd.read_csv('results.csv')
+    data = pd.read_csv('data/results.csv')
 
     grouped_df = (data[['Joggler','Nationality','Year']].groupby('Joggler')
                                                         .max()
@@ -51,7 +51,13 @@ def make_country_year_pivot() -> pd.DataFrame:
     
     return pivot_df
 
+
+
 pivot_df = make_country_year_pivot()
+
+# For some reason, swapping to this df breaks it!
+# pivot_df = pd.read_csv('data/map_pivot.csv')
+# st.write(pivot_df.dtypes)
 
 min_year = pivot_df['Year'].min()
 max_year = pivot_df['Year'].max()

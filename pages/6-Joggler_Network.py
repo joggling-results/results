@@ -84,7 +84,7 @@ st.write('''
          ''')
 
 # Open html file
-HtmlFile = open("joggler_network.html", 'r', encoding='utf-8')
+HtmlFile = open("data/joggler_network.html", 'r', encoding='utf-8')
 source_code = HtmlFile.read() 
 
 # set the height equal to the plotly figure height
@@ -106,7 +106,7 @@ st.write('''
          
          ''')
 
-giduz_df = pd.read_csv('giduz_df.csv')    ## xlsx not supported.
+giduz_df = pd.read_csv('data/giduz_df.csv')    ## xlsx not supported.
 
 all_jogglers = len(giduz_df)
 no_path = len(giduz_df[giduz_df['Giduz_Path']=='No Connection to Bill Giduz'])
