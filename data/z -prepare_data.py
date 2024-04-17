@@ -8,6 +8,7 @@ import plotly.graph_objects as go
 
 ## Load the Initial Data
 data = pd.read_csv('data/results.csv')    ## xlsx not supported.
+print('Data Loaded')
 
 ## Create Joggler Level Pivot and save to csv.
 def make_joggler_pivot(data = pd.read_csv('data/results.csv')) -> pd.DataFrame:
@@ -59,6 +60,7 @@ def make_joggler_pivot(data = pd.read_csv('data/results.csv')) -> pd.DataFrame:
  
 joggler_df = make_joggler_pivot(data)
 joggler_df.to_csv('data/joggler_pivot.csv',index=False)
+print('Joggler Pivot Complete')
 
 ## Create Pivot of jogglers by country by year for Joggler Map
 def make_country_year_pivot(data = pd.read_csv('data/results.csv')) -> pd.DataFrame:
@@ -87,6 +89,7 @@ def make_country_year_pivot(data = pd.read_csv('data/results.csv')) -> pd.DataFr
 
 map_pivot_df = make_country_year_pivot(data)
 map_pivot_df.to_csv('data/map_pivot.csv',index=False)
+print('Joggler Map Data Complete')
 
 ## Produce Ranking Lists by Event and Gender
 def make_all_time_list(gender, distance, data = pd.read_csv('data/results.csv')) -> pd.DataFrame:
@@ -128,6 +131,7 @@ for gender in ['M','F']:
         fastest_times = make_all_time_list(gender,distance,data)
         # Save to csv file
         fastest_times.to_csv(f'data/{file_string}.csv',index=False)
+print('All Time Lists Complete')
 
 
 ## Produce Joggler Network dataframes (Giduz Number) and Plotly Viz 
