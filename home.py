@@ -15,7 +15,7 @@ st.set_page_config(page_title='Joggling',
                    initial_sidebar_state = 'expanded'   ## 'auto','collapsed','expanded'
                    )
 
-update_date = '16th April 2024'
+update_date = '18th April 2024'
 
 ## Function to allow dataframe filtering
 def filter_dataframe(df: pd.DataFrame) -> pd.DataFrame:
@@ -89,23 +89,11 @@ This web app aims to present an archive of joggling achievements from around the
 """)
 
 ## Load data and reorder columns
-@st.cache_data
-def load_result_data() -> pd.DataFrame:
-    '''
-    Load the csv of results data, and filter columns
-
-    Return:
-        data: pd.DataFrame
-    '''
-    data = pd.read_csv('data/results.csv')    ## xlsx not supported.
-    data = data[['Date', 'Joggler', 'Distance', 'Event / Venue','Finish Time', 'Drops',
-                'Gender', 'Nationality', 
-                'Notes / Result Links', 'Year']]
+data = pd.read_csv('data/results.csv')    ## xlsx not supported.
+data = data[['Date', 'Joggler', 'Distance', 'Event / Venue','Finish Time', 'Drops',
+            'Gender', 'Nationality', 
+            'Notes / Result Links', 'Year']]
     
-    return data
-    
-data = load_result_data()
-
 # Summary Stats
 st.write(f"**{len(data)} joggling results** from **{len(data['Joggler'].unique())} jogglers** from **{len(data['Nationality'].unique())-1} countries** discovered so far... see all results below.")
 

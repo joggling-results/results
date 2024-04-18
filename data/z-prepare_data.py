@@ -149,6 +149,7 @@ def prepare_data(data = pd.read_csv('data/results.csv')):
 
     # Group the data by date and event and list the jogglers participating
     joggled_together = pd.DataFrame(data.groupby(['Date','Event / Venue'])['Joggler'].apply(lambda x: list(np.unique(x))).reset_index())
+    # Remove Time Trials and Virtual IJA's - the jogglers did not joggle in person
     joggled_together = joggled_together[~joggled_together['Event / Venue'].isin(['Time Trial','IJA, Virtual'])].reset_index(drop=True)
 
     # Count the number of jogglers at each event, and remove any events where the joggler has joggled alone
