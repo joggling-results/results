@@ -71,6 +71,9 @@ def make_country_year_pivot(data = pd.read_csv('data/results.csv')) -> pd.DataFr
         pivot_df: pd.DataFrame
     '''
 
+    ## Remove relay events from the data - nationality not well defined.
+    data = data[~data['Distance'].isin(['3b 4x100m','3b 4x200m','3b 4x400m'])]
+
     grouped_df = (data[['Joggler','Nationality','Year']].groupby('Joggler')
                                                         .max()
                                                         .reset_index())
