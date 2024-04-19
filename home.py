@@ -93,9 +93,16 @@ data = pd.read_csv('data/results.csv')    ## xlsx not supported.
 data = data[['Date', 'Joggler', 'Distance', 'Event / Venue','Finish Time', 'Drops',
             'Gender', 'Nationality', 
             'Notes / Result Links', 'Year']]
+
+
+# Remove relays to get an accurate count of jogglers
+num_jogglers = len(data[~data['Distance'].isin(['3b 4x100m','3b 4x200m','3b 4x400m'])]['Joggler'].unique())
+
+# Same for number of nationalities. -1 since 'unknown' is a value in the dataset
+num_nationalities = len(data[~data['Distance'].isin(['3b 4x100m','3b 4x200m','3b 4x400m'])]['Nationality'].unique()) - 1
     
 # Summary Stats
-st.write(f"**{len(data)} joggling results** from **{len(data['Joggler'].unique())} jogglers** from **{len(data['Nationality'].unique())-1} countries** discovered so far... see all results below.")
+st.write(f"**{len(data)} joggling results** from **{num_jogglers} jogglers** from **{num_nationalities} countries** discovered so far... see all results below.")
 
 st.write(filter_dataframe(data))
 st.write(f'App Updated: {update_date}')
