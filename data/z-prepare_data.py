@@ -22,10 +22,8 @@ def make_joggler_pivot(data = pd.read_csv('data/results.csv')) -> pd.DataFrame:
     Returns:
         joggler_df: pd.DataFrame
     '''
-
     # Filter out relays
     data = data[~data['Distance'].isin(['3b 4x100m','3b 4x200m','3b 4x400m'])]
-
     # Create table at joggler level: nationality, years active
     joggler_df = (data.groupby(['Joggler','Nationality','Gender'])
                     .agg({'Year':['min','max'],'Event / Venue':'count'})

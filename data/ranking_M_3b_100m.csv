@@ -33,9 +33,9 @@ Ranking,Finish Time,Joggler,Gender,Nationality,Date,Event / Venue,Notes / Result
 32,0:00:14.84,Vaclav Peca,M,CZE,30/07/2023,EJC Joggling Open,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html
 33,0:00:14.85,Bill Giduz,M,USA,16/07/1981,"IJA, Cleveland, Ohio",https://dev.juggle.org/history/champs/champs1981.php
 34,0:00:14.89,Todd McLeish,M,Unknown,1987,"IJA, Akron",http://www.juggling.org/orgs/ija/champs.txt
-35,0:00:14.90,Darin Marriott,M,USA,1997,"IJA, Pittsburgh",https://dev.juggle.org/history/champs/champs1997.php
-35,0:00:14.90,Anders Kierulf,M,Unknown,2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
 35,0:00:14.90,Paul Arneberg,M,Unknown,2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
+35,0:00:14.90,Anders Kierulf,M,Unknown,2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
+35,0:00:14.90,Darin Marriott,M,USA,1997,"IJA, Pittsburgh",https://dev.juggle.org/history/champs/champs1997.php
 35,0:00:14.90,Riley Wiklund,M,Unknown,18/07/2006,"IJA, Portland, Oregon",https://dev.juggle.org/history/champs/champs2006.php
 39,0:00:14.98,Ilia Poliakov,M,ISR,30/07/2023,EJC Joggling Open,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html
 40,0:00:15.12,Nathan Vehse,M,Unknown,17/07/2007,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2007.php
@@ -47,115 +47,117 @@ Ranking,Finish Time,Joggler,Gender,Nationality,Date,Event / Venue,Notes / Result
 46,0:00:15.40,Dan Burke,M,Unknown,2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
 47,0:00:15.50,Chris Garcia,M,Unknown,2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
 48,0:00:15.63,Matt Cantrell,M,Unknown,1983,"IJA, Purchase, NY",http://www.juggling.org/orgs/ija/champs.txt
-49,0:00:15.65,Chuck Hawley,M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
-50,0:00:15.71,Ben Schoenberg,M,Unknown,13/07/2004,"IJA, Buffalo",https://dev.juggle.org/history/champs/champs2004.php
-51,0:00:15.74,Jason Hollandsworth,M,Unknown,15/07/2008,"IJA, Kentucky",https://dev.juggle.org/history/champs/champs2008.php
-52,0:00:15.81,Ricky Harr,M,Unknown,17/07/2007,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2007.php
-53,0:00:15.84,Michal Kapral,M,CAN,2022,Time Trial,https://www.youtube.com/watch?v=j7OPOZPIeAw
-54,0:00:15.85,Bernard Dehoog,M,Unknown,19/07/2005,"IJA, Davenport, Iowa",https://dev.juggle.org/history/champs/champs2005.php
-55,0:00:15.86,Ken Rabe,M,Unknown,1984,"IJA, Las Vegas",http://www.juggling.org/orgs/ija/champs.txt
-56,0:00:15.91,Nick Pavlak,M,Unknown,13/07/2004,"IJA, Buffalo",https://dev.juggle.org/history/champs/champs2004.php
-57,0:00:16.00,Colin Revere,M,Unknown,2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
-57,0:00:16.00,Chris Olson,M,Unknown,2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
-59,0:00:16.03,Matt Gifford,M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
-60,0:00:16.06,Daniel Rose,M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
-61,0:00:16.07,Peter Blanchard,M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
-62,0:00:16.09,Dan Tasse,M,Unknown,13/07/2004,"IJA, Buffalo",https://dev.juggle.org/history/champs/champs2004.php
-63,0:00:16.10,Mike Monson,M,Unknown,15/07/2008,"IJA, Kentucky",https://dev.juggle.org/history/champs/champs2008.php
-64,0:00:16.15,Sam Nerenhaus,M,Unknown,18/07/2006,"IJA, Portland, Oregon",https://dev.juggle.org/history/champs/champs2006.php
-65,0:00:16.16,Jack Levy,M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
-66,0:00:16.19,Jay Casper,M,Unknown,1992,"IJA, Quebec",http://www.juggling.org/orgs/ija/champs.txt
-67,0:00:16.28,Gus Tate,M,USA,15/07/2008,"IJA, Kentucky",https://dev.juggle.org/history/champs/champs2008.php
-68,0:00:16.30,Evan Peter,M,Unknown,2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
-69,0:00:16.44,Gabe Jakubisin,M,Unknown,13/07/2004,"IJA, Buffalo",https://dev.juggle.org/history/champs/champs2004.php
-70,0:00:16.50,Chris Laco,M,Unknown,17/07/2002,"IJA, Reading, Pennsylvania",https://dev.juggle.org/history/champs/champs2002.php
-71,0:00:16.60,Austin Bruckner,M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
-71,0:00:16.60,Kyler McClintock,M,Unknown,2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
-71,0:00:16.60,Keith Tollefson,M,Unknown,1996,"IJA, Rapid City",https://dev.juggle.org/history/champs/champs1996.php
-74,0:00:16.90,Marco Paoletti,M,Unknown,18/07/2006,"IJA, Portland, Oregon",https://dev.juggle.org/history/champs/champs2006.php
-75,0:00:17.08,Tom McClintock,M,Unknown,18/07/2006,"IJA, Portland, Oregon",https://dev.juggle.org/history/champs/champs2006.php
-76,0:00:17.10,Franz Roos,M,CHE,1995,"IJA, Las Vegas",https://dev.juggle.org/history/champs/champs1995.php
-76,0:00:17.10,Mark Kolbus,M,Unknown,1993,"IJA, Fargo",http://www.juggling.org/orgs/ija/champs.txt
-76,0:00:17.10,Joe Dean,M,Unknown,1996,"IJA, Rapid City",https://dev.juggle.org/history/champs/champs1996.php
-76,0:00:17.10,Gil Pontius,M,Unknown,17/07/2002,"IJA, Reading, Pennsylvania",https://dev.juggle.org/history/champs/champs2002.php
-80,0:00:17.20,Ben Hout,M,Unknown,1995,"IJA, Las Vegas",https://dev.juggle.org/history/champs/champs1995.php
-81,0:00:17.21,Cam Fleming,M,Unknown,1992,"IJA, Quebec",http://www.juggling.org/orgs/ija/champs.txt
-82,0:00:17.30,Sam Kilbourn,M,Unknown,1996,"IJA, Rapid City",https://dev.juggle.org/history/champs/champs1996.php
-83,0:00:17.40,Paul Williamson,M,Unknown,1993,"IJA, Fargo",http://www.juggling.org/orgs/ija/champs.txt
-84,0:00:17.50,Aaron Olson,M,Unknown,1997,"IJA, Pittsburgh",https://dev.juggle.org/history/champs/champs1997.php
-85,0:00:17.53,Lars Rohrback,M,Unknown,1985,"IJA, Atlanta",http://www.juggling.org/orgs/ija/champs.txt
-86,0:00:17.63,Jack Hirschowitz,M,USA,19/07/2005,"IJA, Davenport, Iowa",https://dev.juggle.org/history/champs/champs2005.php
-87,0:00:17.66,Andrew Ruiz,M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
-88,0:00:17.97,Neil Jordan,M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
-89,0:00:18.00,Brent Beebe,M,Unknown,1997,"IJA, Pittsburgh",https://dev.juggle.org/history/champs/champs1997.php
-90,0:00:18.10,Jake Immerman,M,Unknown,17/07/2002,"IJA, Reading, Pennsylvania",https://dev.juggle.org/history/champs/champs2002.php
-90,0:00:18.10,Scott Anthony,M,Unknown,1997,"IJA, Pittsburgh",https://dev.juggle.org/history/champs/champs1997.php
-92,0:00:18.20,Daniel Margulis,M,Unknown,1996,"IJA, Rapid City",https://dev.juggle.org/history/champs/champs1996.php
-93,0:00:18.30,Tucker Weisman,M,Unknown,1997,"IJA, Pittsburgh",https://dev.juggle.org/history/champs/champs1997.php
-93,0:00:18.30,Robert Sandberg,M,Unknown,1997,"IJA, Pittsburgh",https://dev.juggle.org/history/champs/champs1997.php
-95,0:00:18.40,Rory Bade,M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
-96,0:00:18.47,Kevin Beargie,M,Unknown,19/07/2005,"IJA, Davenport, Iowa",https://dev.juggle.org/history/champs/champs2005.php
-97,0:00:18.70,Dan Fitzgerald,M,Unknown,1993,"IJA, Fargo",http://www.juggling.org/orgs/ija/champs.txt
-98,0:00:18.80,Greg Meehan,M,Unknown,2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
-98,0:00:18.80,Nick Hiniker,M,Unknown,2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
-100,0:00:18.90,Justin Kolas,M,Unknown,2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
-101,0:00:19.20,Larry Boehmer,M,Unknown,1995,"IJA, Las Vegas",https://dev.juggle.org/history/champs/champs1995.php
-102,0:00:19.29,Daniel Eaker,M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
-103,0:00:19.52,Daniel Hout,M,Unknown,1992,"IJA, Quebec",http://www.juggling.org/orgs/ija/champs.txt
-104,0:00:19.90,Adam Griffon,M,Unknown,1996,"IJA, Rapid City",https://dev.juggle.org/history/champs/champs1996.php
-105,0:00:20.00,Colin Kulstad,M,Unknown,18/07/2006,"IJA, Portland, Oregon",https://dev.juggle.org/history/champs/champs2006.php
-105,0:00:20.00,Jonny Langholz,M,Unknown,18/07/2006,"IJA, Portland, Oregon",https://dev.juggle.org/history/champs/champs2006.php
-105,0:00:20.00,Michael Draney,M,Unknown,1985,"IJA, Atlanta",http://www.juggling.org/orgs/ija/champs.txt
-108,0:00:20.16,Johan DuHoffman,M,Unknown,1992,"IJA, Quebec",http://www.juggling.org/orgs/ija/champs.txt
-109,0:00:20.19,Aaron Rosenberg,M,Unknown,17/07/2007,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2007.php
-110,0:00:20.30,Roy Fisher,M,Unknown,19/07/2005,"IJA, Davenport, Iowa",https://dev.juggle.org/history/champs/champs2005.php
-111,0:00:20.47,Phillip Garee,M,Unknown,19/07/2005,"IJA, Davenport, Iowa",https://dev.juggle.org/history/champs/champs2005.php
-112,0:00:20.50,Carlos Nieves,M,Unknown,13/07/2004,"IJA, Buffalo",https://dev.juggle.org/history/champs/champs2004.php
-113,0:00:20.60,Paul Ballard,M,Unknown,17/07/2002,"IJA, Reading, Pennsylvania",https://dev.juggle.org/history/champs/champs2002.php
-114,0:00:20.70,Chris Dokler,M,Unknown,2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
-115,0:00:20.90,Joseph Hout,M,Unknown,1996,"IJA, Rapid City",https://dev.juggle.org/history/champs/champs1996.php
-115,0:00:20.90,David Mlakar,M,Unknown,2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
-117,0:00:21.19,Nicholas Tackis,M,Unknown,1992,"IJA, Quebec",http://www.juggling.org/orgs/ija/champs.txt
-118,0:00:21.20,Shawn Bryan,M,Unknown,1996,"IJA, Rapid City",https://dev.juggle.org/history/champs/champs1996.php
-118,0:00:21.20,Jamie Cordes,M,Unknown,1992,"IJA, Quebec",http://www.juggling.org/orgs/ija/champs.txt
-120,0:00:21.30,Peter Fry,M,Unknown,1997,"IJA, Pittsburgh",https://dev.juggle.org/history/champs/champs1997.php
-121,0:00:21.35,Christoph Mitasch,M,Unknown,17/07/2007,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2007.php
-122,0:00:21.60,Brook Roberts,M,GBR,30/07/2023,EJC Joggling Open,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html
-123,0:00:21.97,Matt Hall,M,Unknown,17/07/2007,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2007.php
-124,0:00:23.90,Jerry Battenfield,M,Unknown,1997,"IJA, Pittsburgh",https://dev.juggle.org/history/champs/champs1997.php
-124,0:00:23.90,Dan Rosenthal,M,Unknown,19/07/2005,"IJA, Davenport, Iowa",https://dev.juggle.org/history/champs/champs2005.php
-126,0:00:24.10,Kevin Giblin,M,Unknown,2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
-127,0:00:24.20,Keith Baker,M,Unknown,1995,"IJA, Las Vegas",https://dev.juggle.org/history/champs/champs1995.php
-128,0:00:24.50,Ian Caldwell,M,Unknown,1996,"IJA, Rapid City",https://dev.juggle.org/history/champs/champs1996.php
-129,0:00:24.60,Dan Chan,M,Unknown,2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
-130,0:00:25.00,Jacob Biesiada,M,Unknown,2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
-130,0:00:25.00,Jean Guy Beaudry,M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
-132,0:00:25.01,Broderick King,M,Unknown,19/07/2005,"IJA, Davenport, Iowa",https://dev.juggle.org/history/champs/champs2005.php
-133,0:00:25.56,Simon Herholz,M,DEU,30/07/2023,EJC Joggling Open,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html
-134,0:00:26.00,Ben Hestness,M,Unknown,19/07/2005,"IJA, Davenport, Iowa",https://dev.juggle.org/history/champs/champs2005.php
-134,0:00:26.00,Brian McAllister,M,Unknown,1997,"IJA, Pittsburgh",https://dev.juggle.org/history/champs/champs1997.php
-136,0:00:26.90,Scott Geyman,M,Unknown,2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
-137,0:00:27.30,Nathan Biggs-Penton,M,Unknown,15/07/2008,"IJA, Kentucky",https://dev.juggle.org/history/champs/champs2008.php
-138,0:00:27.56,Quentin Dombro,M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
-139,0:00:27.60,Sean Carney,M,Unknown,2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
-140,0:00:28.60,Todd Warner,M,Unknown,19/07/2005,"IJA, Davenport, Iowa",https://dev.juggle.org/history/champs/champs2005.php
-140,0:00:28.60,Brendan Cogan,M,Unknown,2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
-142,0:00:28.70,Ivan Hernandez,M,Unknown,1995,"IJA, Las Vegas",https://dev.juggle.org/history/champs/champs1995.php
-143,0:00:28.81,Silas Wallen-Friedman,M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
-144,0:00:29.20,Alec Bennett,M,Unknown,2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
-145,0:00:31.03,Lee Gifford,M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
-146,0:00:31.20,John Phipps,M,Unknown,1993,"IJA, Fargo",http://www.juggling.org/orgs/ija/champs.txt
-147,0:00:31.30,Matt Henstridge,M,Unknown,1997,"IJA, Pittsburgh",https://dev.juggle.org/history/champs/champs1997.php
-148,0:00:31.50,Nick Bartucci,M,Unknown,1996,"IJA, Rapid City",https://dev.juggle.org/history/champs/champs1996.php
-149,0:00:32.20,Dave Finnigan,M,Unknown,1993,"IJA, Fargo",http://www.juggling.org/orgs/ija/champs.txt
-150,0:00:32.87,Ethan Rosman,M,Unknown,17/07/2007,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2007.php
-151,0:00:33.12,Ryan Schultz,M,Unknown,17/07/2007,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2007.php
-152,0:00:34.01,Markus Furtner,M,DEU,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
-153,0:00:34.10,Kurt Siefken,M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
-154,0:00:34.47,David Benz,M,DEU,30/07/2023,EJC Joggling Open,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html
-155,0:00:36.50,Geoff Kennard,M,Unknown,17/07/2002,"IJA, Reading, Pennsylvania",https://dev.juggle.org/history/champs/champs2002.php
-155,0:00:36.50,Danny Hodge,M,Unknown,2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
-157,0:00:38.50,Brendan McCarthy,M,Unknown,19/07/2005,"IJA, Davenport, Iowa",https://dev.juggle.org/history/champs/champs2005.php
-158,0:00:40.00,Jon Bozak,M,Unknown,2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
-159,0:00:42.40,Gordon Cornell,M,Unknown,2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
-160,0:00:49.30,Alex Coleman,M,Unknown,19/07/2005,"IJA, Davenport, Iowa",https://dev.juggle.org/history/champs/champs2005.php
+49,0:00:15.64,Chris Edwin,M,GBR,20/04/2024,"British Joggler Meetup, Darlington",Manually recorded
+50,0:00:15.65,Chuck Hawley,M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
+51,0:00:15.71,Ben Schoenberg,M,Unknown,13/07/2004,"IJA, Buffalo",https://dev.juggle.org/history/champs/champs2004.php
+52,0:00:15.74,Jason Hollandsworth,M,Unknown,15/07/2008,"IJA, Kentucky",https://dev.juggle.org/history/champs/champs2008.php
+53,0:00:15.81,Ricky Harr,M,Unknown,17/07/2007,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2007.php
+54,0:00:15.84,Michal Kapral,M,CAN,2022,Time Trial,https://www.youtube.com/watch?v=j7OPOZPIeAw
+55,0:00:15.85,Bernard Dehoog,M,Unknown,19/07/2005,"IJA, Davenport, Iowa",https://dev.juggle.org/history/champs/champs2005.php
+56,0:00:15.86,Ken Rabe,M,Unknown,1984,"IJA, Las Vegas",http://www.juggling.org/orgs/ija/champs.txt
+57,0:00:15.91,Nick Pavlak,M,Unknown,13/07/2004,"IJA, Buffalo",https://dev.juggle.org/history/champs/champs2004.php
+58,0:00:16.00,Chris Olson,M,Unknown,2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
+58,0:00:16.00,Colin Revere,M,Unknown,2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
+60,0:00:16.03,Matt Gifford,M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
+61,0:00:16.06,Daniel Rose,M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
+62,0:00:16.07,Peter Blanchard,M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
+63,0:00:16.09,Dan Tasse,M,Unknown,13/07/2004,"IJA, Buffalo",https://dev.juggle.org/history/champs/champs2004.php
+64,0:00:16.10,Mike Monson,M,Unknown,15/07/2008,"IJA, Kentucky",https://dev.juggle.org/history/champs/champs2008.php
+65,0:00:16.15,Sam Nerenhaus,M,Unknown,18/07/2006,"IJA, Portland, Oregon",https://dev.juggle.org/history/champs/champs2006.php
+66,0:00:16.16,Jack Levy,M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
+67,0:00:16.19,Jay Casper,M,Unknown,1992,"IJA, Quebec",http://www.juggling.org/orgs/ija/champs.txt
+68,0:00:16.28,Gus Tate,M,USA,15/07/2008,"IJA, Kentucky",https://dev.juggle.org/history/champs/champs2008.php
+69,0:00:16.30,Evan Peter,M,Unknown,2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
+70,0:00:16.44,Gabe Jakubisin,M,Unknown,13/07/2004,"IJA, Buffalo",https://dev.juggle.org/history/champs/champs2004.php
+71,0:00:16.50,Chris Laco,M,Unknown,17/07/2002,"IJA, Reading, Pennsylvania",https://dev.juggle.org/history/champs/champs2002.php
+72,0:00:16.60,Austin Bruckner,M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
+72,0:00:16.60,Kyler McClintock,M,Unknown,2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
+72,0:00:16.60,Keith Tollefson,M,Unknown,1996,"IJA, Rapid City",https://dev.juggle.org/history/champs/champs1996.php
+75,0:00:16.90,Marco Paoletti,M,Unknown,18/07/2006,"IJA, Portland, Oregon",https://dev.juggle.org/history/champs/champs2006.php
+76,0:00:17.08,Tom McClintock,M,Unknown,18/07/2006,"IJA, Portland, Oregon",https://dev.juggle.org/history/champs/champs2006.php
+77,0:00:17.10,Franz Roos,M,CHE,1995,"IJA, Las Vegas",https://dev.juggle.org/history/champs/champs1995.php
+77,0:00:17.10,Mark Kolbus,M,Unknown,1993,"IJA, Fargo",http://www.juggling.org/orgs/ija/champs.txt
+77,0:00:17.10,Joe Dean,M,Unknown,1996,"IJA, Rapid City",https://dev.juggle.org/history/champs/champs1996.php
+77,0:00:17.10,Gil Pontius,M,Unknown,17/07/2002,"IJA, Reading, Pennsylvania",https://dev.juggle.org/history/champs/champs2002.php
+81,0:00:17.20,Ben Hout,M,Unknown,1995,"IJA, Las Vegas",https://dev.juggle.org/history/champs/champs1995.php
+82,0:00:17.21,Cam Fleming,M,Unknown,1992,"IJA, Quebec",http://www.juggling.org/orgs/ija/champs.txt
+83,0:00:17.30,Sam Kilbourn,M,Unknown,1996,"IJA, Rapid City",https://dev.juggle.org/history/champs/champs1996.php
+84,0:00:17.40,Paul Williamson,M,Unknown,1993,"IJA, Fargo",http://www.juggling.org/orgs/ija/champs.txt
+85,0:00:17.50,Aaron Olson,M,Unknown,1997,"IJA, Pittsburgh",https://dev.juggle.org/history/champs/champs1997.php
+86,0:00:17.53,Lars Rohrback,M,Unknown,1985,"IJA, Atlanta",http://www.juggling.org/orgs/ija/champs.txt
+87,0:00:17.63,Jack Hirschowitz,M,USA,19/07/2005,"IJA, Davenport, Iowa",https://dev.juggle.org/history/champs/champs2005.php
+88,0:00:17.66,Andrew Ruiz,M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
+89,0:00:17.80,Scott Jenkins,M,GBR,20/04/2024,"British Joggler Meetup, Darlington",Manually recorded
+90,0:00:17.97,Neil Jordan,M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
+91,0:00:18.00,Brent Beebe,M,Unknown,1997,"IJA, Pittsburgh",https://dev.juggle.org/history/champs/champs1997.php
+92,0:00:18.10,Scott Anthony,M,Unknown,1997,"IJA, Pittsburgh",https://dev.juggle.org/history/champs/champs1997.php
+92,0:00:18.10,Jake Immerman,M,Unknown,17/07/2002,"IJA, Reading, Pennsylvania",https://dev.juggle.org/history/champs/champs2002.php
+94,0:00:18.20,Daniel Margulis,M,Unknown,1996,"IJA, Rapid City",https://dev.juggle.org/history/champs/champs1996.php
+95,0:00:18.30,Tucker Weisman,M,Unknown,1997,"IJA, Pittsburgh",https://dev.juggle.org/history/champs/champs1997.php
+95,0:00:18.30,Robert Sandberg,M,Unknown,1997,"IJA, Pittsburgh",https://dev.juggle.org/history/champs/champs1997.php
+97,0:00:18.40,Rory Bade,M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
+98,0:00:18.47,Kevin Beargie,M,Unknown,19/07/2005,"IJA, Davenport, Iowa",https://dev.juggle.org/history/champs/champs2005.php
+99,0:00:18.70,Dan Fitzgerald,M,Unknown,1993,"IJA, Fargo",http://www.juggling.org/orgs/ija/champs.txt
+100,0:00:18.80,Nick Hiniker,M,Unknown,2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
+100,0:00:18.80,Greg Meehan,M,Unknown,2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
+102,0:00:18.90,Justin Kolas,M,Unknown,2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
+103,0:00:19.20,Larry Boehmer,M,Unknown,1995,"IJA, Las Vegas",https://dev.juggle.org/history/champs/champs1995.php
+104,0:00:19.29,Daniel Eaker,M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
+105,0:00:19.52,Daniel Hout,M,Unknown,1992,"IJA, Quebec",http://www.juggling.org/orgs/ija/champs.txt
+106,0:00:19.90,Adam Griffon,M,Unknown,1996,"IJA, Rapid City",https://dev.juggle.org/history/champs/champs1996.php
+107,0:00:20.00,Jonny Langholz,M,Unknown,18/07/2006,"IJA, Portland, Oregon",https://dev.juggle.org/history/champs/champs2006.php
+107,0:00:20.00,Michael Draney,M,Unknown,1985,"IJA, Atlanta",http://www.juggling.org/orgs/ija/champs.txt
+107,0:00:20.00,Colin Kulstad,M,Unknown,18/07/2006,"IJA, Portland, Oregon",https://dev.juggle.org/history/champs/champs2006.php
+110,0:00:20.16,Johan DuHoffman,M,Unknown,1992,"IJA, Quebec",http://www.juggling.org/orgs/ija/champs.txt
+111,0:00:20.19,Aaron Rosenberg,M,Unknown,17/07/2007,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2007.php
+112,0:00:20.30,Roy Fisher,M,Unknown,19/07/2005,"IJA, Davenport, Iowa",https://dev.juggle.org/history/champs/champs2005.php
+113,0:00:20.47,Phillip Garee,M,Unknown,19/07/2005,"IJA, Davenport, Iowa",https://dev.juggle.org/history/champs/champs2005.php
+114,0:00:20.50,Carlos Nieves,M,Unknown,13/07/2004,"IJA, Buffalo",https://dev.juggle.org/history/champs/champs2004.php
+115,0:00:20.60,Paul Ballard,M,Unknown,17/07/2002,"IJA, Reading, Pennsylvania",https://dev.juggle.org/history/champs/champs2002.php
+116,0:00:20.70,Chris Dokler,M,Unknown,2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
+117,0:00:20.90,Joseph Hout,M,Unknown,1996,"IJA, Rapid City",https://dev.juggle.org/history/champs/champs1996.php
+117,0:00:20.90,David Mlakar,M,Unknown,2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
+119,0:00:21.19,Nicholas Tackis,M,Unknown,1992,"IJA, Quebec",http://www.juggling.org/orgs/ija/champs.txt
+120,0:00:21.20,Jamie Cordes,M,Unknown,1992,"IJA, Quebec",http://www.juggling.org/orgs/ija/champs.txt
+120,0:00:21.20,Shawn Bryan,M,Unknown,1996,"IJA, Rapid City",https://dev.juggle.org/history/champs/champs1996.php
+122,0:00:21.30,Peter Fry,M,Unknown,1997,"IJA, Pittsburgh",https://dev.juggle.org/history/champs/champs1997.php
+123,0:00:21.35,Christoph Mitasch,M,Unknown,17/07/2007,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2007.php
+124,0:00:21.60,Brook Roberts,M,GBR,30/07/2023,EJC Joggling Open,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html
+125,0:00:21.97,Matt Hall,M,Unknown,17/07/2007,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2007.php
+126,0:00:23.90,Dan Rosenthal,M,Unknown,19/07/2005,"IJA, Davenport, Iowa",https://dev.juggle.org/history/champs/champs2005.php
+126,0:00:23.90,Jerry Battenfield,M,Unknown,1997,"IJA, Pittsburgh",https://dev.juggle.org/history/champs/champs1997.php
+128,0:00:24.10,Kevin Giblin,M,Unknown,2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
+129,0:00:24.20,Keith Baker,M,Unknown,1995,"IJA, Las Vegas",https://dev.juggle.org/history/champs/champs1995.php
+130,0:00:24.50,Ian Caldwell,M,Unknown,1996,"IJA, Rapid City",https://dev.juggle.org/history/champs/champs1996.php
+131,0:00:24.60,Dan Chan,M,Unknown,2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
+132,0:00:25.00,Jacob Biesiada,M,Unknown,2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
+132,0:00:25.00,Jean Guy Beaudry,M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
+134,0:00:25.01,Broderick King,M,Unknown,19/07/2005,"IJA, Davenport, Iowa",https://dev.juggle.org/history/champs/champs2005.php
+135,0:00:25.56,Simon Herholz,M,DEU,30/07/2023,EJC Joggling Open,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html
+136,0:00:26.00,Brian McAllister,M,Unknown,1997,"IJA, Pittsburgh",https://dev.juggle.org/history/champs/champs1997.php
+136,0:00:26.00,Ben Hestness,M,Unknown,19/07/2005,"IJA, Davenport, Iowa",https://dev.juggle.org/history/champs/champs2005.php
+138,0:00:26.90,Scott Geyman,M,Unknown,2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
+139,0:00:27.30,Nathan Biggs-Penton,M,Unknown,15/07/2008,"IJA, Kentucky",https://dev.juggle.org/history/champs/champs2008.php
+140,0:00:27.56,Quentin Dombro,M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
+141,0:00:27.60,Sean Carney,M,Unknown,2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
+142,0:00:28.60,Todd Warner,M,Unknown,19/07/2005,"IJA, Davenport, Iowa",https://dev.juggle.org/history/champs/champs2005.php
+142,0:00:28.60,Brendan Cogan,M,Unknown,2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
+144,0:00:28.70,Ivan Hernandez,M,Unknown,1995,"IJA, Las Vegas",https://dev.juggle.org/history/champs/champs1995.php
+145,0:00:28.81,Silas Wallen-Friedman,M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
+146,0:00:29.20,Alec Bennett,M,Unknown,2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
+147,0:00:31.03,Lee Gifford,M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
+148,0:00:31.20,John Phipps,M,Unknown,1993,"IJA, Fargo",http://www.juggling.org/orgs/ija/champs.txt
+149,0:00:31.30,Matt Henstridge,M,Unknown,1997,"IJA, Pittsburgh",https://dev.juggle.org/history/champs/champs1997.php
+150,0:00:31.50,Nick Bartucci,M,Unknown,1996,"IJA, Rapid City",https://dev.juggle.org/history/champs/champs1996.php
+151,0:00:32.20,Dave Finnigan,M,Unknown,1993,"IJA, Fargo",http://www.juggling.org/orgs/ija/champs.txt
+152,0:00:32.87,Ethan Rosman,M,Unknown,17/07/2007,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2007.php
+153,0:00:33.12,Ryan Schultz,M,Unknown,17/07/2007,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2007.php
+154,0:00:34.01,Markus Furtner,M,DEU,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
+155,0:00:34.10,Kurt Siefken,M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
+156,0:00:34.47,David Benz,M,DEU,30/07/2023,EJC Joggling Open,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html
+157,0:00:36.50,Geoff Kennard,M,Unknown,17/07/2002,"IJA, Reading, Pennsylvania",https://dev.juggle.org/history/champs/champs2002.php
+157,0:00:36.50,Danny Hodge,M,Unknown,2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
+159,0:00:38.50,Brendan McCarthy,M,Unknown,19/07/2005,"IJA, Davenport, Iowa",https://dev.juggle.org/history/champs/champs2005.php
+160,0:00:40.00,Jon Bozak,M,Unknown,2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
+161,0:00:42.40,Gordon Cornell,M,Unknown,2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
+162,0:00:49.30,Alex Coleman,M,Unknown,19/07/2005,"IJA, Davenport, Iowa",https://dev.juggle.org/history/champs/champs2005.php
