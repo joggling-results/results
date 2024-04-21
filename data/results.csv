@@ -1,4 +1,18 @@
 ﻿Date,Year,Distance,Standard Distance?,Event / Venue,Joggler,Gender,Nationality,Finish Time,Drops,Notes / Result Links
+21/04/2024,2024,4b Mile,No,"British Joggler Meetup, Darlington",Scott Jenkins,M,GBR,0:05:54.13,0,Manually recorded by Chris Edwin
+21/04/2024,2024,5b 400m,No,"British Joggler Meetup, Darlington",Scott Jenkins,M,GBR,0:02:21.02,3,Manually recorded
+21/04/2024,2024,5b 200m,No,"British Joggler Meetup, Darlington",Scott Jenkins,M,GBR,0:01:08.00,1,First 200 of the 400 effort
+21/04/2024,2024,3c 100m,No,"British Joggler Meetup, Darlington",Scott Jenkins,M,GBR,0:00:23.13,0,Manually recorded
+21/04/2024,2024,3b Mile,Yes,"British Joggler Meetup, Darlington",Scott Jenkins,M,GBR,0:05:37.00,0,Manually recorded
+21/04/2024,2024,3b Mile,Yes,"British Joggler Meetup, Darlington",Chris Edwin,M,GBR,0:05:45.00,0,Manually recorded
+21/04/2024,2024,3b Mile,Yes,"British Joggler Meetup, Darlington",Jake Lodge,M,GBR,0:05:59.00,0,Manually recorded
+21/04/2024,2024,5b 100m,Yes,"British Joggler Meetup, Darlington",Dominic Lodge,M,GBR,0:00:26.39,0,Manually recorded
+21/04/2024,2024,5b 100m,Yes,"British Joggler Meetup, Darlington",Scott Jenkins,M,GBR,0:00:18.37,0,Manually recorded
+21/04/2024,2024,3b 100m,Yes,"British Joggler Meetup, Darlington",Chris Edwin,M,GBR,0:00:17.36,0,Manually recorded
+21/04/2024,2024,3b 100m,Yes,"British Joggler Meetup, Darlington",Jake Lodge,M,GBR,0:00:16.11,0,Manually recorded
+21/04/2024,2024,6b 100m,No,"British Joggler Meetup, Darlington",Scott Jenkins,M,GBR,0:02:02.15,16,Manually recorded
+21/04/2024,2024,3b 4x100m,Yes,"British Joggler Meetup, Darlington","Chris Edwin, Scott Jenkins, Dominic Lodge, Jake Lodge",M,GBR,0:01:08.15,0,Manually recorded
+21/04/2024,2024,3b 4x400m,Yes,"British Joggler Meetup, Darlington","Chris Edwin, Scott Jenkins, Dominic Lodge, Jake Lodge",M,GBR,0:05:14.81,1,Manually recorded
 20/04/2024,2024,4b 5km,No,"British Joggler Meetup, Darlington",Scott Jenkins,M,GBR,0:22:44.00,15,Manually recorded by Chris Edwin
 20/04/2024,2024,3b 5km,Yes,"British Joggler Meetup, Darlington",Chris Edwin,M,GBR,0:18:24.00,0,https://www.strava.com/activities/11223208296
 20/04/2024,2024,5b 100m,Yes,"British Joggler Meetup, Darlington",Scott Jenkins,M,GBR,0:00:18.84,0,Manually recorded by Chris Edwin
@@ -6,8 +20,8 @@
 20/04/2024,2024,3b 400m,Yes,"British Joggler Meetup, Darlington",Scott Jenkins,M,GBR,0:01:08.97,0,Manually recorded
 20/04/2024,2024,5b 200m,No,"British Joggler Meetup, Darlington",Scott Jenkins,M,GBR,0:01:19.49,6,Manually recorded by Chris Edwin
 20/04/2024,2024,5b Mile,Yes,"British Joggler Meetup, Darlington",Scott Jenkins,M,GBR,0:13:27.00,22,Manually recorded by Chris Edwin
-20/04/2024,2024,3b 100m,Yes,"British Joggler Meetup, Darlington",Scott Jenkins,M,GBR,0:00:17.80,0,Manually recorded
-20/04/2024,2024,3b 100m,Yes,"British Joggler Meetup, Darlington",Chris Edwin,M,GBR,0:00:15.64,0,Manually recorded
+20/04/2024,2024,3b 100m,Yes,"British Joggler Meetup, Darlington",Scott Jenkins,M,GBR,0:00:15.64,0,Manually recorded
+20/04/2024,2024,3b 100m,Yes,"British Joggler Meetup, Darlington",Chris Edwin,M,GBR,0:00:17.80,0,Manually recorded
 20/04/2024,2024,4b 100m,No,"British Joggler Meetup, Darlington",Scott Jenkins,M,GBR,0:00:16.42,0,Manually recorded by Chris Edwin
 20/04/2024,2024,3b 5km,Yes,Darlington Parkrun,Scott Jenkins,M,GBR,0:32:58.00,0,https://www.parkrun.org.uk/darlingtonsouthpark/results/514/
 20/04/2024,2024,3b 5km,Yes,Darlington Parkrun,Chris Edwin,M,GBR,0:32:58.00,0,https://www.parkrun.org.uk/darlingtonsouthpark/results/514/
@@ -153,6 +167,8 @@ https://www.parkrun.com.de/volksgarten/results/146/"
 10/09/2023,2023,3b Half Marathon,Yes,Harrisburg Half Marathon,Tim Ebersole,M,USA,1:42:57.00,?,https://www.strava.com/activities/9821889643  https://runsignup.com/Race/Results/15430
 09/09/2023,2023,3b 5km,Yes,Holyrood Parkrun,James McDiarmid,M,GBR,0:20:01.00,0,https://www.parkrun.org.uk/holyrood/results/55/
 09/09/2023,2023,4b 5km,No,Zuiderpark Parkrun,Scott Jenkins,M,GBR,0:37:32.00,50,https://www.facebook.com/reel/326772983079041  https://www.parkrun.co.nl/zuiderpark/results/95/  https://twitter.com/OonaghLewis/status/1700803926184911241?t=9Nu6QfJj-yCyN6Y2r3IbIA&s=19&fbclid=IwAR3C7MyJ8eWmpR_NLBeN_CmoOCdB-3nm4o3TKAWOvw4zOLdlvzax6GFUanU
+09/09/2023,2023,4b 400m,No,Time Trial,Scott Jenkins,M,GBR,0:01:21.00,0,https://www.strava.com/activities/9813204359
+09/09/2023,2023,4b 100m,No,Time Trial,Scott Jenkins,M,GBR,0:00:17.20,0,https://www.strava.com/activities/9813207973
 04/09/2023,2023,3c 5km,Yes,"Eatontown Labor Day 5k, New Jersey",Karly Swaim,F,USA,0:34:17.00,?,https://my.raceresult.com/256977/results#1_13B7ED
 02/09/2023,2023,3b 5km,Yes,Holyrood Parkrun,James McDiarmid,M,GBR,0:19:39.00,0,https://www.parkrun.org.uk/holyrood/results/54/
 26/08/2023,2023,3b 5km,Yes,Roberts Park Parkrun,Jake Lodge,M,GBR,0:20:11.00,2,https://www.parkrun.org.uk/robertspark/results/95/  https://www.strava.com/activities/9722525613
