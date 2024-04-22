@@ -1,55 +1,102 @@
 Ranking,Finish Time,Joggler,Gender,Nationality,Date,Event / Venue,Notes / Result Links
 1,0:00:14.48,Hayley Fix,F,Unknown,05/08/2000,"IJA, Montreal",https://dev.juggle.org/history/champs/champs2000.php
 2,0:00:14.96,Lana Bolin,F,Unknown,05/08/2000,"IJA, Montreal",https://dev.juggle.org/history/champs/champs2000.php
-3,0:00:16.13,Amanda Richter,F,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
-4,0:00:17.00,Melinda Paas,F,Unknown,1997,"IJA, Pittsburgh",https://dev.juggle.org/history/champs/champs1997.php
-5,0:00:17.20,Sandy Brown,F,Unknown,1990,"IJA, LA",http://www.juggling.org/orgs/ija/champs.txt
-6,0:00:17.54,Laura Green,F,Unknown,1991,"IJA, St. Louis",http://www.juggling.org/orgs/ija/champs.txt
-7,0:00:17.70,Dorothy Finnigan,F,Unknown,1997,"IJA, Pittsburgh",https://dev.juggle.org/history/champs/champs1997.php
-8,0:00:17.74,Bronwyn Neeser,F,Unknown,13/07/2004,"IJA, Buffalo",https://dev.juggle.org/history/champs/champs2004.php
-9,0:00:18.30,Becky Provance,F,Unknown,1997,"IJA, Pittsburgh",https://dev.juggle.org/history/champs/champs1997.php
-10,0:00:18.60,Laura Provance,F,Unknown,1997,"IJA, Pittsburgh",https://dev.juggle.org/history/champs/champs1997.php
-11,0:00:18.80,Kelsey Deutch,F,Unknown,1997,"IJA, Pittsburgh",https://dev.juggle.org/history/champs/champs1997.php
-12,0:00:18.85,Hannah Staehr,F,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
-12,0:00:18.85,Taylor Glenn,F,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
-14,0:00:18.87,Joanne Swain,F,Unknown,1992,"IJA, Quebec",http://www.juggling.org/orgs/ija/champs.txt
-15,0:00:19.04,Heather Marriott,F,USA,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
-16,0:00:19.20,Christa Rypins,F,Unknown,1990,"IJA, LA",http://www.juggling.org/orgs/ija/champs.txt
-17,0:00:19.53,Chloe Hirschowitz,F,USA,15/07/2008,"IJA, Kentucky",https://dev.juggle.org/history/champs/champs2008.php
-17,0:00:19.53,Laura Ernst,F,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
-19,0:00:19.70,KC Canter,F,Unknown,1989,"IJA, Baltimore",http://www.juggling.org/orgs/ija/champs.txt
-20,0:00:19.84,Verena Rau,F,DEU,30/07/2023,EJC Joggling Open,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html
-21,0:00:20.16,Sandy Amass,F,Unknown,1991,"IJA, St. Louis",http://www.juggling.org/orgs/ija/champs.txt
-22,0:00:20.50,Anna Kruk,F,POL,30/07/2023,EJC Joggling Open,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html
-23,0:00:20.70,Lauren Rice,F,Unknown,18/07/2006,"IJA, Portland, Oregon",https://dev.juggle.org/history/champs/champs2006.php
-24,0:00:20.82,Kaylin Meyers,F,USA,14/05/2022,Time Trial,https://www.youtube.com/shorts/bB0j1avE8g4
-25,0:00:21.30,Becky Kresser,F,Unknown,13/07/2004,"IJA, Buffalo",https://dev.juggle.org/history/champs/champs2004.php
-26,0:00:21.59,Kelsey Harr,F,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
-27,0:00:21.60,Elizabeth Sanberg,F,Unknown,1996,"IJA, Rapid City",https://dev.juggle.org/history/champs/champs1996.php
-28,0:00:21.70,Carol Mills,F,Unknown,1993,"IJA, Fargo",http://www.juggling.org/orgs/ija/champs.txt
-29,0:00:21.73,Nicole Deese,F,Unknown,19/07/2005,"IJA, Davenport, Iowa",https://dev.juggle.org/history/champs/champs2005.php
-30,0:00:21.90,Joanne Dintzis,F,Unknown,1989,"IJA, Baltimore",http://www.juggling.org/orgs/ija/champs.txt
-31,0:00:22.40,Tina Fraser,F,Unknown,1988,"IJA, Denver",http://www.juggling.org/orgs/ija/champs.txt
-32,0:00:22.77,Jane Hussey,F,Unknown,1991,"IJA, St. Louis",http://www.juggling.org/orgs/ija/champs.txt
-33,0:00:23.44,Jeri Kalvan,F,Unknown,17/07/2007,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2007.php
-34,0:00:23.60,Meghan Cain,F,Unknown,1996,"IJA, Rapid City",https://dev.juggle.org/history/champs/champs1996.php
-35,0:00:24.63,Sofia Meyer,F,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
-36,0:00:25.24,Louison Vatin,F,FRA,30/07/2023,EJC Joggling Open,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html
-37,0:00:25.42,Karen Phariss,F,Unknown,1991,"IJA, St. Louis",http://www.juggling.org/orgs/ija/champs.txt
-37,0:00:25.42,Laurie Young,F,Unknown,1991,"IJA, St. Louis",http://www.juggling.org/orgs/ija/champs.txt
-39,0:00:25.56,Veronika Rieckh,F,AUT,30/07/2023,EJC Joggling Open,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html
-40,0:00:26.20,Marion Caldwell,F,Unknown,1996,"IJA, Rapid City",https://dev.juggle.org/history/champs/champs1996.php
-40,0:00:26.20,Aubree Kolas,F,Unknown,18/07/2006,"IJA, Portland, Oregon",https://dev.juggle.org/history/champs/champs2006.php
-42,0:00:27.84,Tanja Schwanke,F,DEU,30/07/2023,EJC Joggling Open,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html
-43,0:00:28.70,Cindy Hout,F,Unknown,1995,"IJA, Las Vegas",https://dev.juggle.org/history/champs/champs1995.php
-44,0:00:29.10,Stephanie Walsh,F,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
-45,0:00:32.70,Michelle Grossman,F,Unknown,1995,"IJA, Las Vegas",https://dev.juggle.org/history/champs/champs1995.php
-46,0:00:33.40,Corinne Ozolins,F,Unknown,1996,"IJA, Rapid City",https://dev.juggle.org/history/champs/champs1996.php
-47,0:00:33.80,Silvia Osiek,F,DEU,30/07/2023,EJC Joggling Open,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html
-48,0:00:34.40,Jowita Nowogrodzka-Ligeza,F,DEU,30/07/2023,EJC Joggling Open,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html
-49,0:00:35.90,Jane Birkhead,F,Unknown,1995,"IJA, Las Vegas",https://dev.juggle.org/history/champs/champs1995.php
-50,0:00:36.00,Liana McClintock,F,Unknown,17/07/2007,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2007.php
-51,0:00:39.72,Sophia Rosman,F,Unknown,17/07/2007,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2007.php
-52,0:00:48.16,Rebecca Middleton,F,Unknown,19/07/2005,"IJA, Davenport, Iowa",https://dev.juggle.org/history/champs/champs2005.php
-53,0:01:09.16,Joy Dean,F,Unknown,19/07/2005,"IJA, Davenport, Iowa",https://dev.juggle.org/history/champs/champs2005.php
-54,0:01:22.30,Gay Shope,F,Unknown,2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
+3,0:00:15.90,Melinda Paas,F,Unknown,30/07/1999,"IJA, Niagara Falls",IJA Database
+4,0:00:16.13,Amanda Richter,F,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
+5,0:00:16.29,Trish Evans,F,USA,20/07/2011,"IJA, Rochester",IJA Database
+6,0:00:16.40,Sydney Paugh,F,Unknown,21/07/2012,"IJA, Winston-Salem",IJA Database
+7,0:00:17.20,Sandy Brown,F,Unknown,21/07/1990,"IJA, LA",http://www.juggling.org/orgs/ija/champs.txt
+8,0:00:17.54,Laura Green,F,Unknown,20/07/1991,"IJA, St. Louis",http://www.juggling.org/orgs/ija/champs.txt
+9,0:00:17.70,Dorothy Finnigan,F,Unknown,06/08/1997,"IJA, Pittsburgh",https://dev.juggle.org/history/champs/champs1997.php
+9,0:00:17.70,Gabrielle Foran,F,CAN,02/08/2014,"IJA, West Lafayette",IJA Database
+11,0:00:17.74,Bronwyn Neeser,F,Unknown,13/07/2004,"IJA, Buffalo",https://dev.juggle.org/history/champs/champs2004.php
+12,0:00:17.80,Anna Voelker,F,Unknown,20/07/2013,"IJA, Bowling Green",IJA Database
+13,0:00:17.84,Kayla Malmgren,F,Unknown,15/07/2017,"IJA, Cedar Rapids",IJA Database
+14,0:00:18.30,Becky Provance,F,Unknown,06/08/1997,"IJA, Pittsburgh",https://dev.juggle.org/history/champs/champs1997.php
+15,0:00:18.40,Maggie Armstrong,F,Unknown,21/07/2012,"IJA, Winston-Salem",IJA Database
+16,0:00:18.50,Laura Schroeder,F,Unknown,15/07/2017,"IJA, Cedar Rapids",IJA Database
+17,0:00:18.60,Laura Provance,F,Unknown,06/08/1997,"IJA, Pittsburgh",https://dev.juggle.org/history/champs/champs1997.php
+17,0:00:18.60,Joanne Swaim,F,Unknown,30/07/1999,"IJA, Niagara Falls",IJA Database
+17,0:00:18.60,Heather Marriott,F,USA,02/08/2014,"IJA, West Lafayette",IJA Database
+20,0:00:18.76,Kaylin Meyers,F,USA,22/07/2023,"IJA, Southbend",IJA Database
+21,0:00:18.80,Kelsey Deutch,F,Unknown,06/08/1997,"IJA, Pittsburgh",https://dev.juggle.org/history/champs/champs1997.php
+22,0:00:18.85,Taylor Glenn,F,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
+22,0:00:18.85,Hannah Staehr,F,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
+24,0:00:18.87,Joanne Swain,F,Unknown,25/07/2015,"IJA, Quebec",http://www.juggling.org/orgs/ija/champs.txt
+25,0:00:18.90,Rita Moettus,F,Unknown,21/07/2012,"IJA, Winston-Salem",IJA Database
+26,0:00:18.99,Katie Burgess,F,Unknown,25/07/2015,"IJA, Quebec",IJA Database
+27,0:00:19.00,Riga Moettus,F,Unknown,20/07/2013,"IJA, Bowling Green",IJA Database
+28,0:00:19.16,Mara Moettus,F,Unknown,20/07/2011,"IJA, Rochester",IJA Database
+29,0:00:19.20,Christa Rypins,F,Unknown,21/07/1990,"IJA, LA",http://www.juggling.org/orgs/ija/champs.txt
+30,0:00:19.30,Delaney Bayles,F,Unknown,20/07/2013,"IJA, Bowling Green",IJA Database
+31,0:00:19.40,Erika Randall,F,Unknown,30/07/1999,"IJA, Niagara Falls",IJA Database
+32,0:00:19.43,Logan Pearce,F,Unknown,2022,"IJA, Virtual",IJA Database
+33,0:00:19.53,Laura Ernst,F,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
+33,0:00:19.53,Chloe Hirschowitz,F,USA,15/07/2008,"IJA, Kentucky",https://dev.juggle.org/history/champs/champs2008.php
+35,0:00:19.70,KC Canter,F,Unknown,22/07/1989,"IJA, Baltimore",http://www.juggling.org/orgs/ija/champs.txt
+36,0:00:19.84,Verena Rau,F,DEU,30/07/2023,EJC Joggling Open,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html
+37,0:00:20.16,Sandy Amass,F,Unknown,20/07/1991,"IJA, St. Louis",http://www.juggling.org/orgs/ija/champs.txt
+38,0:00:20.46,Alayna Bowlin,F,Unknown,20/07/2011,"IJA, Rochester",IJA Database
+39,0:00:20.50,Anna Kruk,F,POL,30/07/2023,EJC Joggling Open,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html
+40,0:00:20.70,Lauren Rice,F,Unknown,18/07/2006,"IJA, Portland, Oregon",https://dev.juggle.org/history/champs/champs2006.php
+41,0:00:21.20,Erica Liddle,F,Unknown,20/07/2013,"IJA, Bowling Green",IJA Database
+42,0:00:21.24,JoAnn Ireland,F,USA,2020,"IJA, Virtual",IJA Database
+43,0:00:21.30,Becky Kresser,F,Unknown,13/07/2004,"IJA, Buffalo",https://dev.juggle.org/history/champs/champs2004.php
+44,0:00:21.33,Hannah Bowlin,F,Unknown,20/07/2011,"IJA, Rochester",IJA Database
+45,0:00:21.40,Elise Johnson,F,Unknown,21/07/2012,"IJA, Winston-Salem",IJA Database
+46,0:00:21.45,Marla Edgecomb,F,USA,2020,"IJA, Virtual",IJA Database
+47,0:00:21.50,Meagan Nouis,F,Unknown,20/07/2013,"IJA, Bowling Green",IJA Database
+48,0:00:21.59,Kelsey Harr,F,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
+49,0:00:21.60,Elizabeth Sanberg,F,Unknown,20/07/1996,"IJA, Rapid City",https://dev.juggle.org/history/champs/champs1996.php
+50,0:00:21.70,Carol Mills,F,Unknown,24/07/1993,"IJA, Fargo",http://www.juggling.org/orgs/ija/champs.txt
+51,0:00:21.73,Nicole Deese,F,Unknown,19/07/2005,"IJA, Davenport, Iowa",https://dev.juggle.org/history/champs/champs2005.php
+52,0:00:21.90,Joanne Dintzis,F,Unknown,22/07/1989,"IJA, Baltimore",http://www.juggling.org/orgs/ija/champs.txt
+53,0:00:22.11,Kaylyn Schull,F,Unknown,22/07/2023,"IJA, Southbend",IJA Database
+54,0:00:22.15,Hanna Stoehr,F,Unknown,20/07/2011,"IJA, Rochester",IJA Database
+55,0:00:22.30,Katie Stern,F,Unknown,15/07/1998,"IJA, Primm",IJA Database
+56,0:00:22.40,Tina Fraser,F,Unknown,16/07/1988,"IJA, Denver",http://www.juggling.org/orgs/ija/champs.txt
+57,0:00:22.70,Erin Warfield,F,Unknown,20/07/2013,"IJA, Bowling Green",IJA Database
+58,0:00:22.77,Jane Hussey,F,Unknown,20/07/1991,"IJA, St. Louis",http://www.juggling.org/orgs/ija/champs.txt
+59,0:00:22.99,Maddie Rodbourne,F,Unknown,25/07/2015,"IJA, Quebec",IJA Database
+60,0:00:23.44,Jeri Kalvan,F,Unknown,17/07/2007,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2007.php
+61,0:00:23.60,Meghan Cain,F,Unknown,20/07/1996,"IJA, Rapid City",https://dev.juggle.org/history/champs/champs1996.php
+62,0:00:24.63,Sofia Meyer,F,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
+63,0:00:25.10,Anna Gratzer,F,Unknown,20/07/2011,"IJA, Rochester",IJA Database
+64,0:00:25.24,Louison Vatin,F,FRA,30/07/2023,EJC Joggling Open,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html
+65,0:00:25.42,Karen Phariss,F,Unknown,20/07/1991,"IJA, St. Louis",http://www.juggling.org/orgs/ija/champs.txt
+65,0:00:25.42,Laurie Young,F,Unknown,20/07/1991,"IJA, St. Louis",http://www.juggling.org/orgs/ija/champs.txt
+67,0:00:25.56,Veronika Rieckh,F,AUT,30/07/2023,EJC Joggling Open,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html
+68,0:00:25.60,Rebecca Kresser,F,Unknown,20/07/2013,"IJA, Bowling Green",IJA Database
+69,0:00:25.85,Skye Jerpbak,F,Unknown,2022,"IJA, Virtual",IJA Database
+70,0:00:26.20,Marion Caldwell,F,Unknown,20/07/1996,"IJA, Rapid City",https://dev.juggle.org/history/champs/champs1996.php
+70,0:00:26.20,Aubree Kolas,F,Unknown,18/07/2006,"IJA, Portland, Oregon",https://dev.juggle.org/history/champs/champs2006.php
+72,0:00:26.46,Megan Hussey,F,Unknown,20/07/2011,"IJA, Rochester",IJA Database
+73,0:00:27.84,Tanja Schwanke,F,DEU,30/07/2023,EJC Joggling Open,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html
+74,0:00:28.50,Rachel Stern,F,Unknown,30/07/1999,"IJA, Niagara Falls",IJA Database
+75,0:00:28.70,Cindy Hout,F,Unknown,19/07/1995,"IJA, Las Vegas",https://dev.juggle.org/history/champs/champs1995.php
+76,0:00:28.97,Shivella Schwab,F,Unknown,15/07/2017,"IJA, Cedar Rapids",IJA Database
+77,0:00:29.10,Stephanie Walsh,F,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
+78,0:00:29.90,Eva Hadjiyanis,F,Unknown,15/07/2017,"IJA, Cedar Rapids",IJA Database
+79,0:00:30.23,Katie Evans,F,Unknown,20/07/2011,"IJA, Rochester",IJA Database
+80,0:00:30.31,Rebecca Moore,F,Unknown,15/07/2017,"IJA, Cedar Rapids",IJA Database
+81,0:00:32.00,Elizabeth Stockbridge,F,Unknown,15/07/2017,"IJA, Cedar Rapids",IJA Database
+82,0:00:32.70,Michelle Grossman,F,Unknown,19/07/1995,"IJA, Las Vegas",https://dev.juggle.org/history/champs/champs1995.php
+83,0:00:32.78,Jill Edgecomb,F,Unknown,2020,"IJA, Virtual",IJA Database
+84,0:00:33.40,Corinne Ozolins,F,Unknown,20/07/1996,"IJA, Rapid City",https://dev.juggle.org/history/champs/champs1996.php
+85,0:00:33.80,Silvia Osiek,F,DEU,30/07/2023,EJC Joggling Open,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html
+86,0:00:34.40,Jowita Nowogrodzka-Ligeza,F,DEU,30/07/2023,EJC Joggling Open,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html
+87,0:00:35.90,Jane Birkhead,F,Unknown,19/07/1995,"IJA, Las Vegas",https://dev.juggle.org/history/champs/champs1995.php
+88,0:00:36.00,Liana McClintock,F,Unknown,17/07/2007,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2007.php
+89,0:00:37.90,Elizabeth Cain,F,Unknown,02/08/2014,"IJA, West Lafayette",IJA Database
+90,0:00:38.75,Sarah Kresser,F,Unknown,22/07/2023,"IJA, Southbend",IJA Database
+91,0:00:39.72,Sophia Rosman,F,Unknown,17/07/2007,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2007.php
+92,0:00:41.68,Laura Shub,F,Unknown,22/07/2023,"IJA, Southbend",IJA Database
+93,0:00:41.70,Susan Hubbard,F,Unknown,02/08/2014,"IJA, West Lafayette",IJA Database
+94,0:00:44.90,Isabel Cain,F,Unknown,20/07/2013,"IJA, Bowling Green",IJA Database
+95,0:00:48.16,Rebecca Middleton,F,Unknown,19/07/2005,"IJA, Davenport, Iowa",https://dev.juggle.org/history/champs/champs2005.php
+96,0:00:53.70,Mary Geeves,F,Unknown,20/07/2013,"IJA, Bowling Green",IJA Database
+97,0:00:56.99,Alda Moettus,F,Unknown,25/07/2015,"IJA, Quebec",IJA Database
+98,0:01:09.16,Joy Dean,F,Unknown,19/07/2005,"IJA, Davenport, Iowa",https://dev.juggle.org/history/champs/champs2005.php
+99,0:01:22.30,Gay Shope,F,Unknown,20/07/2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
+100,0:01:23.80,Teresa Rochester,F,Unknown,30/07/2016,"IJA, El Paso, Texas",IJA Database
+101,0:01:43.00,Laura Dickerson,F,Unknown,20/07/2013,"IJA, Bowling Green",IJA Database
