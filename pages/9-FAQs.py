@@ -47,7 +47,33 @@ def make_faq_dict() -> dict:
                 Thanks for your submission! We aim to update the site with your latest results once a month - check back later.
                 """,
     
-                }
+                "What are the rules of competitive joggling?":
+                """
+                As first described by Bill Giduz,
+                - Balls must be joggled in a regular, recognized pattern during every step of a race. 
+                - Balls dropped during a race may be retrieved, but after retrieving the ball the joggler must return to the point of the drop to begin joggling again.  
+                - Any racer who interferes with another racer by straying from a lane, or in retrieving a dropped ball, will be disqualified, and officials have the discretion to re-run a race if they feel interference affected the outcome. 
+                - Jogglers must cross the finish line in full control of the juggle.
+                - The balls must cross the finish line first, followed by the joggler’s torso. Jogglers may be disqualified for improper form or lack of control of the balls in crossing the finish line.
+                - In relay races the approaching joggler may stop joggling as soon as he or she enters the handoff zone.  The handoff of one ball to the next joggler must be made inside the exchange zone, and the receiving joggler is allowed two steps before he or she must begin joggling.
+                """,
+
+                "Where can I find other jogglers?":
+                """
+                Whilst primarily an individual sport, you can find various communities of jogglers online. For example:
+                - Joggler's United: https://www.facebook.com/groups/372157942956062
+                - Joggling UK: https://www.facebook.com/groups/280873742742227
+                - Strava Group: https://www.strava.com/clubs/jogglers
+                """,
+
+                "Are there any joggling bloggers?":
+                """
+                Yes! Check out:
+                - Tim Butler, UK: https://www.joggling.co.uk/
+                - Michal Kapral, CAN: https://thejoggler.blogspot.com/
+                - Perry Romanowski, USA: https://justyouraveragejoggler.com/
+                """,
+    }
     
     return faq_dict
 
