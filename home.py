@@ -85,7 +85,7 @@ def filter_dataframe(df: pd.DataFrame) -> pd.DataFrame:
 ## Start of Page Content
 st.title('Joggling Results Archive')
 st.write("""Joggling (that is, the hybrid sport of running whilst juggling) is certainly a niche. But it is more popular than you might think. 
-This web app aims to present an archive of joggling achievements from around the world.
+This web app aims to present an archive of joggling achievements from around the world. So far...
 """)
 
 ## Load data and reorder columns
@@ -100,9 +100,15 @@ num_jogglers = len(data[~data['Distance'].isin(['3b 4x100m','3b 4x200m','3b 4x40
 
 # Same for number of nationalities. -1 since 'unknown' is a value in the dataset
 num_nationalities = len(data[~data['Distance'].isin(['3b 4x100m','3b 4x200m','3b 4x400m'])]['Nationality'].unique()) - 1
-    
-# Summary Stats
-st.write(f"**{len(data)} joggling results** from **{num_jogglers} jogglers** from **{num_nationalities} countries** discovered so far... see all results below.")
+
+# Summary stats    
+col1, col2, col3 = st.columns(3)
+col1.metric(label='Total Joggling Race Results', value = len(data),)
+col2.metric(label='Total Jogglers', value = num_jogglers,)
+col3.metric(label='Joggling Nationalites', value = num_nationalities,)
+
+st.write("See all results below.")
+st.divider()
 
 st.write(filter_dataframe(data))
 st.write(f'App Updated: {update_date}')
