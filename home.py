@@ -15,7 +15,7 @@ st.set_page_config(page_title='Joggling',
                    initial_sidebar_state = 'expanded'   ## 'auto','collapsed','expanded'
                    )
 
-update_date = '25th May 2024'
+update_date = '28th May 2024'
 
 ## Function to allow dataframe filtering
 def filter_dataframe(df: pd.DataFrame) -> pd.DataFrame:
@@ -84,8 +84,8 @@ def filter_dataframe(df: pd.DataFrame) -> pd.DataFrame:
 
 ## Start of Page Content
 st.title('Joggling Results Archive')
-st.write("""Joggling (that is, the hybrid sport of running whilst juggling) is certainly a niche. But it is more popular than you might think. 
-This web app aims to present an archive of joggling achievements from around the world. So far...
+st.write("""Joggling (the hybrid sport of running whilst juggling) is certainly a niche. But it is more popular than you might think. 
+This web app aims to present an archive of joggling achievements from a growing community around the world. So far...
 """)
 
 ## Load data and reorder columns

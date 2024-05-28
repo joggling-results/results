@@ -48,8 +48,8 @@ Ranking,Finish Time,Joggler,Gender,Nationality,Date,Event / Venue,Notes / Result
 47,0:20:39.00,Albert Lucas,M,USA,16/07/1988,"IJA, Denver",http://www.juggling.org/orgs/ija/champs.txt
 48,0:20:40.00,Ben Sayles,M,Unknown,05/07/2015,Guelph 5km,https://sites.google.com/site/guelph5kjoggling/results
 49,0:20:41.00,Tim Ebersole,M,USA,28/11/2019,"New Cumberland Turkey Trot 5k, PA",https://falconracetiming.com/racetimes/SMT%20Turkey%20Trot%20AG%202019.htm#%201%20M
-50,0:20:50.00,Mark Kolbus,M,Unknown,06/08/1997,"IJA, Pittsburgh",https://dev.juggle.org/history/champs/champs1997.php
 50,0:20:50.00,Paul Ballard,M,Unknown,22/07/1989,"IJA, Baltimore",http://www.juggling.org/orgs/ija/champs.txt
+50,0:20:50.00,Mark Kolbus,M,Unknown,06/08/1997,"IJA, Pittsburgh",https://dev.juggle.org/history/champs/champs1997.php
 52,0:21:03.00,Keith Baker,M,Unknown,13/08/1994,"IJA, Vermont","https://dev.juggle.org/history/champs/champs1994.php, Billy Gillen Memorial 5km"
 53,0:21:06.80,Christoph Mitasch,M,Unknown,2023,"IJA, Virtual",IJA Database
 54,0:21:09.00,Larry Kluger,M,Unknown,18/07/1981,"IJA, Cleveland, Ohio",https://dev.juggle.org/history/champs/champs1981.php
@@ -67,96 +67,105 @@ Ranking,Finish Time,Joggler,Gender,Nationality,Date,Event / Venue,Notes / Result
 66,0:22:30.00,Darren Samson,M,Unknown,13/08/1994,"IJA, Vermont","https://dev.juggle.org/history/champs/champs1994.php, Billy Gillen Memorial 5km"
 67,0:22:33.00,Gavin Levenstein,M,ZAF,08/08/2022,"North Beach Parkrun, Durban, South Africa",https://www.parkrun.co.za/northbeach/results/409/
 68,0:22:34.40,Jay Pittman ,M,Unknown,24/07/1993,"IJA, Fargo",http://www.juggling.org/orgs/ija/champs.txt
+69,0:22:37.00,Paul Arneberg,M,Unknown,15/07/2017,"IJA, Cedar Rapids",https://www.juggle.org/enewsletter/2017-07
 69,0:22:37.00,Joshua Pichotta,M,USA,11/08/2018,"Eagan Parkrun, Minnesota","https://www.parkrun.us/eagan/news/2018/08/17/lots-of-balls-in-the-air-eagan-parkrun-64-run-report/
 https://www.parkrun.us/eagan/results/64/"
-69,0:22:37.00,Paul Arneberg,M,Unknown,15/07/2017,"IJA, Cedar Rapids",https://www.juggle.org/enewsletter/2017-07
 71,0:22:55.00,Fabian Fehlhaber,M,DEU,30/07/2023,EJC Joggling Open,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html
 72,0:23:04.00,Chuck Hawley,M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
 73,0:23:14.00,George Faust,M,Unknown,06/08/1997,"IJA, Pittsburgh",https://dev.juggle.org/history/champs/champs1997.php
-74,0:23:21.00,Andrew Swan,M,Unknown,20/07/1996,"IJA, Rapid City",https://dev.juggle.org/history/champs/champs1996.php
-74,0:23:21.00,Eric Promislow,M,Unknown,16/07/1988,"IJA, Denver",http://www.juggling.org/orgs/ija/champs.txt
-76,0:23:22.00,Julian Tam,M,Unknown,2016,Guelph 5km,https://sites.google.com/site/guelph5kjoggling/results
-77,0:23:25.00,Brian Linehan,M,IRL,07/01/2023,Pobalscoil Na Trionoide Parkrun,https://www.parkrun.ie/pobalscoilnatrionoide/results/44/   https://www.facebook.com/profile/100067922504955/search/?q=juggling
-78,0:23:30.00,Mike Moore,M,USA,05/07/2015,Guelph 5km,https://sites.google.com/site/guelph5kjoggling/results
-79,0:23:36.00,Malachy Kelly,M,IRL,25/12/2019,Sligo Parkrun,https://www.parkrun.ie/sligo/results/254/
-80,0:23:39.00,George Strain,M,Unknown,30/07/1999,"IJA, Niagara Falls",IJA Database
-81,0:23:46.00,Koutaro Kawano,M,JPN,2021,IJA Virtual,IJA Database
-82,0:23:46.70,Sam Hartford,M,Unknown,05/08/2000,"IJA, Montreal",https://dev.juggle.org/history/champs/champs2000.php
-83,0:23:50.00,John Clayton,M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
-84,0:23:52.00,Ely Doan,M,Unknown,05/07/2015,Guelph 5km,https://sites.google.com/site/guelph5kjoggling/results
-84,0:23:52.00,Chris Garcia,M,Unknown,20/07/2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
-86,0:23:58.00,Andy Swan,M,Unknown,30/07/1999,"IJA, Niagara Falls",IJA Database
-87,0:24:00.00,Shahar Cohen,M,ISR,15/07/2017,"IJA, Cedar Rapids",IJA Database
-87,0:24:00.00,Shahar Cohen,M,ISR,15/07/2017,"IJA, Cedar Rapids",https://www.juggle.org/enewsletter/2017-07
-89,0:24:20.00,Stuart Humphries,M,GBR,10/11/2018,Dinton Pastures Parkrun,https://www.parkrun.org.uk/dintonpastures/results/18/   https://www.parkrun.org.uk/dintonpastures/news/2018/11/12/dinton-pastures-parkrun-18/
-90,0:24:22.00,Jarek Widomski,M,POL,30/07/2023,EJC Joggling Open,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html
-91,0:24:24.00,Jesse Joyner,M,USA,15/07/2008,"IJA, Kentucky",https://dev.juggle.org/history/champs/champs2008.php
-92,0:24:27.00,Randy Papple,M,CAN,05/07/2015,Guelph 5km,https://sites.google.com/site/guelph5kjoggling/results
-93,0:24:31.00,Gus Tate,M,USA,15/07/2008,"IJA, Kentucky",https://dev.juggle.org/history/champs/champs2008.php
-94,0:24:33.00,Rimon Cahany,M,ISR,30/07/2023,EJC Joggling Open,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html
-95,0:24:34.00,Greg Warrington,M,Unknown,17/07/2007,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2007.php
-96,0:24:35.00,Joshua Edleman,M,Unknown,05/08/2000,"IJA, Montreal",https://dev.juggle.org/history/champs/champs2000.php
-97,0:24:36.60,Bill Coad,M,USA,24/07/1993,"IJA, Fargo",http://www.juggling.org/orgs/ija/champs.txt
-98,0:24:42.00,Boris Georgiev,M,Unknown,2017,Guelph 5km,https://sites.google.com/site/guelph5kjoggling/results
-98,0:24:42.00,Tony Malikowski,M,USA,15/07/2017,"IJA, Cedar Rapids",https://www.juggle.org/enewsletter/2017-07
-100,0:24:48.00,Craig Wise,M,Unknown,15/07/2017,"IJA, Cedar Rapids",https://www.juggle.org/enewsletter/2017-07
-101,0:24:55.00,Kaudo Pilder,M,EST,30/07/2023,EJC Joggling Open,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html
-102,0:24:57.00,Joshua Edelman,M,Unknown,30/07/1999,"IJA, Niagara Falls",IJA Database
-103,0:25:02.00,Vaclav Peca,M,CZE,30/07/2023,EJC Joggling Open,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html
-104,0:25:05.00,Greg Philips,M,Unknown,2018,Guelph 5km,https://sites.google.com/site/guelph5kjoggling/results
-105,0:25:10.00,Dean Radcliffe,M,USA,16/06/2019,"Evanston Race Against Hate, IL",https://results.raceroster.com/v2/en-US/results/urrk4wsy39e9crfs/results?subEvent=25982&page=1&search=Dean+radcliffe
-106,0:25:22.00,Dominic Lodge,M,GBR,02/07/2022,York Parkrun,https://www.parkrun.org.uk/york/results/417/
-107,0:25:23.00,Ryan Himmel,M,USA,28/05/2022,Unknown,https://www.instagram.com/p/CeHhTezg4dh/
-108,0:25:27.00,Danny Tomaro,M,Unknown,18/07/2006,"IJA, Portland, Oregon",https://dev.juggle.org/history/champs/champs2006.php
-109,0:25:33.00,Scott Seltzer,M,ISR,30/07/2023,EJC Joggling Open,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html
-110,0:25:36.00,Jake Immerman,M,Unknown,17/07/2002,"IJA, Reading, Pennsylvania",https://dev.juggle.org/history/champs/champs2002.php
-111,0:25:37.00,Ralph Kidner,M,GBR,18/02/2012,Highbury Fields Parkrun,https://www.parkrun.org.uk/highburyfields/results/15/
-111,0:25:37.00,David Tate,M,USA,20/01/2024,SoJo Break the Freeze 5km,
-113,0:25:46.00,Andrew Perrin,M,Unknown,17/07/2007,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2007.php
-114,0:25:52.00,Kurt Siefken,M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
-115,0:25:57.00,Timmy Boas,M,Unknown,17/07/2002,"IJA, Reading, Pennsylvania",https://dev.juggle.org/history/champs/champs2002.php
-116,0:26:15.00,Jason Noye,M,Unknown,15/07/2017,"IJA, Cedar Rapids",https://www.juggle.org/enewsletter/2017-07
-116,0:26:15.00,Emanuele Lodigiani,M,ITA,30/07/2023,EJC Joggling Open,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html
-118,0:26:16.00,Derrick Adams,M,GBR,22/07/2023,Aberystwyth Parkrun,https://www.parkrun.org.uk/aberystwyth/results/497/ Reports of Derrick joggling on Facebook this week
-119,0:26:17.00,Craig Muhlenkamp,M,USA,2020,"IJA, Virtual",IJA Database
-120,0:26:20.00,Nicolas Fuchs,M,DEU,30/07/2023,EJC Joggling Open,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html
-120,0:26:20.00,Riley McLincha,M,USA,07/05/2005,St Paul's Spring Tune-up,https://www.athlinks.com/event/138944/results/Event/24014/Course/36946/Bib/708
-122,0:26:24.00,Pete Barnard,M,GBR,15/09/2018,Dalby Forest Parkrun,https://www.parkrun.org.uk/dalbyforest/results/127/  https://www.parkrun.org.uk/dalbyforest/news/2018/09/23/event-127-return-of-the-joggler/
-123,0:26:27.00,Cameron Edmunds,M,Unknown,05/07/2015,Guelph 5km,https://sites.google.com/site/guelph5kjoggling/results
-124,0:26:47.00,Rik Konings,M,NLD,04/03/2023,Karpendonkse Plas parkrun,https://www.parkrun.co.nl/karpendonkseplas/results/80/
-125,0:27:22.00,Scott Anthony,M,Unknown,06/08/1997,"IJA, Pittsburgh",https://dev.juggle.org/history/champs/champs1997.php
-126,0:27:33.00,Jack Hirschowitz,M,USA,20/07/2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
-127,0:27:40.00,Dean Bennett,M,Unknown,20/07/2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
-128,0:27:43.00,Nathan Agnew,M,GBR,21/06/2014,"Bangor Parkrun, Northern Ireland",https://www.parkrun.org.uk/bangor/results/13/ https://www.parkrun.org.uk/bangor/news/2014/06/24/parkrun-achieves-over-2600-runners-200-volunteers/
-129,0:27:51.00,Jared Ashton,M,Unknown,15/07/2017,"IJA, Cedar Rapids",https://www.juggle.org/enewsletter/2017-07
-130,0:27:53.00,Tom McClintock,M,Unknown,18/07/2006,"IJA, Portland, Oregon",https://dev.juggle.org/history/champs/champs2006.php
-131,0:27:56.00,Nathan Wakefield,M,Unknown,15/07/2017,"IJA, Cedar Rapids",https://www.juggle.org/enewsletter/2017-07
-132,0:28:44.00,Gil Pontius,M,Unknown,17/07/2002,"IJA, Reading, Pennsylvania",https://dev.juggle.org/history/champs/champs2002.php
-133,0:29:01.00,Andrew Hodge,M,Unknown,20/07/2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
-134,0:29:04.00,Tilman Kortenhaus,M,DEU,30/07/2023,EJC Joggling Open,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html
-135,0:29:14.00,Peter Rottenbach,M,DEU,30/07/2023,EJC Joggling Open,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html
-136,0:29:16.00,John Riden,M,USA,28/09/2019,Mill Race 5km,https://www.strava.com/activities/2746941936
-137,0:29:21.00,Will Be,M,GBR,26/11/2017,Time Trial,https://www.instagram.com/p/Bb9dKsdl_Yj/
-138,0:29:33.00,Terry Odom,M,USA,17/07/2007,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2007.php
-139,0:30:07.00,Gavin Hossack,M,Unknown,2017,Guelph 5km,https://sites.google.com/site/guelph5kjoggling/results
-140,0:30:16.00,Iunya Inoue,M,JPN,30/07/2023,EJC Joggling Open,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html
-141,0:30:17.00,David Pavlove Cunsolo,M,Unknown,2018,Guelph 5km,https://sites.google.com/site/guelph5kjoggling/results
-142,0:30:19.00,Carter Randall,M,Unknown,15/07/2017,"IJA, Cedar Rapids",https://www.juggle.org/enewsletter/2017-07
-143,0:30:46.00,Nils Berg,M,DEU,30/07/2023,EJC Joggling Open,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html
-144,0:31:20.00,Elias Loehr,M,DEU,30/07/2023,EJC Joggling Open,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html
-145,0:31:40.00,Attila Suszter,M,HUN,24/03/2024,NN City Run 2024 / Budapest / Hungary,https://gammatiming.com/result/runner/nncr2024/5790 https://www.instagram.com/p/C5CEXliM7bt/  https://www.threads.net/@casualattila/post/C5Dod0KM9gP https://futofoto.hu/esemeny/nn-city-run-2024/5790/esemeny/48/1
-146,0:32:04.00,Kevin Sawers,M,GBR,02/04/2023,Southampton 5km,https://www.strava.com/activities/8817698457   https://dbmaxresults.co.uk/results.aspx?CId=16421&RId=405&EId=6&dt=0&PageNo=2&adv=0
-147,0:32:33.00,Andrew Ruiz,M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
-148,0:33:59.00,Ting-En Chang,M,TWN,30/07/2023,EJC Joggling Open,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html
-149,0:34:11.00,Nick Burns,M,GBR,21/10/2023,Morecambe Prom Parkrun,https://www.parkrun.org.uk/morecambeprom/results/163
-150,0:34:45.00,Eric Malikowski,M,Unknown,2017,Guelph 5km,https://sites.google.com/site/guelph5kjoggling/results
-151,0:35:44.00,Martin Bartsch,M,DEU,30/07/2023,EJC Joggling Open,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html
-152,0:36:02.00,Mark Jolin,M,Unknown,2019,Guelph 5km,https://sites.google.com/site/guelph5kjoggling/results
-153,0:36:30.00,Quentin Dombro,M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
-154,0:37:43.00,Gordon Cornell,M,Unknown,20/07/2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
-155,0:38:11.00,Todd Warner,M,Unknown,19/07/2005,"IJA, Davenport, Iowa",https://dev.juggle.org/history/champs/champs2005.php
-155,0:38:11.00,Dana Lee Ling,M,FSM,27/01/2024,College of Micronesia-FSM Fun Run,https://www.strava.com/athletes/16093155?oq=dan
-157,0:38:28.00,Reggie L,M,GBR,07/05/2022,Pymmes Parkrun,https://www.parkrun.org.uk/pymmes/results/503/ https://www.parkrun.org.uk/pymmes/news/2022/05/09/pymmes-parkrun-ppr-503-the-art-of-avoidance/
-158,0:39:27.00,Anton Bartsch,M,DEU,30/07/2023,EJC Joggling Open,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html
-159,0:47:53.00,Scott Randall,M,Unknown,15/07/2017,"IJA, Cedar Rapids",https://www.juggle.org/enewsletter/2017-07
-160,1:00:00.00,Christian Gonzales,M,USA,23/09/2023,"Dempsey Challenge, Maine",Time estimated by taking the difference of the timestamp of finish line video and starting line video
+74,0:23:20.80,Jeff Lutkus,M,USA,09/11/2013,Anthem 5km,https://www.broomfieldenterprise.com/2013/11/11/jogglers-hit-broomfield-trails-to-set-world-record/  https://www.webscorer.com/racedetails?raceid=15527  https://recordsetter.com/world-record/people-running-5k-race-while-juggling/33978?autoplay=false
+75,0:23:21.00,Andrew Swan,M,Unknown,20/07/1996,"IJA, Rapid City",https://dev.juggle.org/history/champs/champs1996.php
+75,0:23:21.00,Eric Promislow,M,Unknown,16/07/1988,"IJA, Denver",http://www.juggling.org/orgs/ija/champs.txt
+77,0:23:22.00,Julian Tam,M,Unknown,2016,Guelph 5km,https://sites.google.com/site/guelph5kjoggling/results
+78,0:23:25.00,Brian Linehan,M,IRL,07/01/2023,Pobalscoil Na Trionoide Parkrun,https://www.parkrun.ie/pobalscoilnatrionoide/results/44/   https://www.facebook.com/profile/100067922504955/search/?q=juggling
+79,0:23:30.00,Mike Moore,M,USA,05/07/2015,Guelph 5km,https://sites.google.com/site/guelph5kjoggling/results
+80,0:23:36.00,Malachy Kelly,M,IRL,25/12/2019,Sligo Parkrun,https://www.parkrun.ie/sligo/results/254/
+81,0:23:39.00,George Strain,M,Unknown,30/07/1999,"IJA, Niagara Falls",IJA Database
+82,0:23:46.00,Koutaro Kawano,M,JPN,2021,IJA Virtual,IJA Database
+83,0:23:46.70,Sam Hartford,M,Unknown,05/08/2000,"IJA, Montreal",https://dev.juggle.org/history/champs/champs2000.php
+84,0:23:50.00,John Clayton,M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
+85,0:23:52.00,Ely Doan,M,Unknown,05/07/2015,Guelph 5km,https://sites.google.com/site/guelph5kjoggling/results
+85,0:23:52.00,Chris Garcia,M,Unknown,20/07/2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
+87,0:23:58.00,Andy Swan,M,Unknown,30/07/1999,"IJA, Niagara Falls",IJA Database
+88,0:24:00.00,Shahar Cohen,M,ISR,15/07/2017,"IJA, Cedar Rapids",IJA Database
+88,0:24:00.00,Shahar Cohen,M,ISR,15/07/2017,"IJA, Cedar Rapids",https://www.juggle.org/enewsletter/2017-07
+90,0:24:20.00,Stuart Humphries,M,GBR,10/11/2018,Dinton Pastures Parkrun,https://www.parkrun.org.uk/dintonpastures/results/18/   https://www.parkrun.org.uk/dintonpastures/news/2018/11/12/dinton-pastures-parkrun-18/
+91,0:24:22.00,Jarek Widomski,M,POL,30/07/2023,EJC Joggling Open,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html
+92,0:24:24.00,Jesse Joyner,M,USA,15/07/2008,"IJA, Kentucky",https://dev.juggle.org/history/champs/champs2008.php
+93,0:24:27.00,Randy Papple,M,CAN,05/07/2015,Guelph 5km,https://sites.google.com/site/guelph5kjoggling/results
+94,0:24:31.00,Gus Tate,M,USA,15/07/2008,"IJA, Kentucky",https://dev.juggle.org/history/champs/champs2008.php
+95,0:24:33.00,Rimon Cahany,M,ISR,30/07/2023,EJC Joggling Open,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html
+96,0:24:34.00,Greg Warrington,M,Unknown,17/07/2007,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2007.php
+97,0:24:35.00,Joshua Edleman,M,Unknown,05/08/2000,"IJA, Montreal",https://dev.juggle.org/history/champs/champs2000.php
+98,0:24:36.60,Bill Coad,M,USA,24/07/1993,"IJA, Fargo",http://www.juggling.org/orgs/ija/champs.txt
+99,0:24:42.00,Tony Malikowski,M,USA,15/07/2017,"IJA, Cedar Rapids",https://www.juggle.org/enewsletter/2017-07
+99,0:24:42.00,Boris Georgiev,M,Unknown,2017,Guelph 5km,https://sites.google.com/site/guelph5kjoggling/results
+101,0:24:48.00,Craig Wise,M,Unknown,15/07/2017,"IJA, Cedar Rapids",https://www.juggle.org/enewsletter/2017-07
+102,0:24:55.00,Kaudo Pilder,M,EST,30/07/2023,EJC Joggling Open,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html
+103,0:24:57.00,Joshua Edelman,M,Unknown,30/07/1999,"IJA, Niagara Falls",IJA Database
+104,0:25:02.00,Vaclav Peca,M,CZE,30/07/2023,EJC Joggling Open,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html
+105,0:25:05.00,Greg Philips,M,Unknown,2018,Guelph 5km,https://sites.google.com/site/guelph5kjoggling/results
+106,0:25:10.00,Dean Radcliffe,M,USA,16/06/2019,"Evanston Race Against Hate, IL",https://results.raceroster.com/v2/en-US/results/urrk4wsy39e9crfs/results?subEvent=25982&page=1&search=Dean+radcliffe
+107,0:25:22.00,Dominic Lodge,M,GBR,02/07/2022,York Parkrun,https://www.parkrun.org.uk/york/results/417/
+108,0:25:23.00,Ryan Himmel,M,USA,28/05/2022,Unknown,https://www.instagram.com/p/CeHhTezg4dh/
+109,0:25:27.00,Danny Tomaro,M,Unknown,18/07/2006,"IJA, Portland, Oregon",https://dev.juggle.org/history/champs/champs2006.php
+110,0:25:33.00,Scott Seltzer,M,ISR,30/07/2023,EJC Joggling Open,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html
+111,0:25:36.00,Jake Immerman,M,Unknown,17/07/2002,"IJA, Reading, Pennsylvania",https://dev.juggle.org/history/champs/champs2002.php
+112,0:25:37.00,Ralph Kidner,M,GBR,18/02/2012,Highbury Fields Parkrun,https://www.parkrun.org.uk/highburyfields/results/15/
+112,0:25:37.00,David Tate,M,USA,20/01/2024,SoJo Break the Freeze 5km,
+114,0:25:46.00,Andrew Perrin,M,Unknown,17/07/2007,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2007.php
+115,0:25:52.00,Kurt Siefken,M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
+116,0:25:57.00,Timmy Boas,M,Unknown,17/07/2002,"IJA, Reading, Pennsylvania",https://dev.juggle.org/history/champs/champs2002.php
+117,0:26:15.00,Emanuele Lodigiani,M,ITA,30/07/2023,EJC Joggling Open,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html
+117,0:26:15.00,Jason Noye,M,Unknown,15/07/2017,"IJA, Cedar Rapids",https://www.juggle.org/enewsletter/2017-07
+119,0:26:16.00,Derrick Adams,M,GBR,22/07/2023,Aberystwyth Parkrun,https://www.parkrun.org.uk/aberystwyth/results/497/ Reports of Derrick joggling on Facebook this week
+120,0:26:17.00,Craig Muhlenkamp,M,USA,2020,"IJA, Virtual",IJA Database
+121,0:26:20.00,Nicolas Fuchs,M,DEU,30/07/2023,EJC Joggling Open,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html
+121,0:26:20.00,Riley McLincha,M,USA,07/05/2005,St Paul's Spring Tune-up,https://www.athlinks.com/event/138944/results/Event/24014/Course/36946/Bib/708
+123,0:26:21.50,Chris Hooper,M,USA,09/11/2013,Anthem 5km,https://www.broomfieldenterprise.com/2013/11/11/jogglers-hit-broomfield-trails-to-set-world-record/  https://www.webscorer.com/racedetails?raceid=15527  https://recordsetter.com/world-record/people-running-5k-race-while-juggling/33978?autoplay=false
+124,0:26:24.00,Pete Barnard,M,GBR,15/09/2018,Dalby Forest Parkrun,https://www.parkrun.org.uk/dalbyforest/results/127/  https://www.parkrun.org.uk/dalbyforest/news/2018/09/23/event-127-return-of-the-joggler/
+125,0:26:27.00,Cameron Edmunds,M,Unknown,05/07/2015,Guelph 5km,https://sites.google.com/site/guelph5kjoggling/results
+126,0:26:47.00,Rik Konings,M,NLD,04/03/2023,Karpendonkse Plas parkrun,https://www.parkrun.co.nl/karpendonkseplas/results/80/
+127,0:27:22.00,Scott Anthony,M,Unknown,06/08/1997,"IJA, Pittsburgh",https://dev.juggle.org/history/champs/champs1997.php
+128,0:27:33.00,Jack Hirschowitz,M,USA,20/07/2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
+129,0:27:40.00,Dean Bennett,M,Unknown,20/07/2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
+130,0:27:43.00,Nathan Agnew,M,GBR,21/06/2014,"Bangor Parkrun, Northern Ireland",https://www.parkrun.org.uk/bangor/results/13/ https://www.parkrun.org.uk/bangor/news/2014/06/24/parkrun-achieves-over-2600-runners-200-volunteers/
+131,0:27:51.00,Jared Ashton,M,Unknown,15/07/2017,"IJA, Cedar Rapids",https://www.juggle.org/enewsletter/2017-07
+132,0:27:53.00,Tom McClintock,M,Unknown,18/07/2006,"IJA, Portland, Oregon",https://dev.juggle.org/history/champs/champs2006.php
+133,0:27:56.00,Nathan Wakefield,M,Unknown,15/07/2017,"IJA, Cedar Rapids",https://www.juggle.org/enewsletter/2017-07
+134,0:28:44.00,Gil Pontius,M,Unknown,17/07/2002,"IJA, Reading, Pennsylvania",https://dev.juggle.org/history/champs/champs2002.php
+135,0:28:52.60,Jamie Tucker-Foltz,M,USA,09/11/2013,Anthem 5km,https://www.broomfieldenterprise.com/2013/11/11/jogglers-hit-broomfield-trails-to-set-world-record/  https://www.webscorer.com/racedetails?raceid=15527  https://recordsetter.com/world-record/people-running-5k-race-while-juggling/33978?autoplay=false
+136,0:29:01.00,Andrew Hodge,M,Unknown,20/07/2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
+137,0:29:04.00,Tilman Kortenhaus,M,DEU,30/07/2023,EJC Joggling Open,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html
+138,0:29:14.00,Peter Rottenbach,M,DEU,30/07/2023,EJC Joggling Open,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html
+139,0:29:16.00,John Riden,M,USA,28/09/2019,Mill Race 5km,https://www.strava.com/activities/2746941936
+140,0:29:21.00,Will Be,M,GBR,26/11/2017,Time Trial,https://www.instagram.com/p/Bb9dKsdl_Yj/
+141,0:29:21.40,Jesse Carpenter,M,USA,09/11/2013,Anthem 5km,https://www.broomfieldenterprise.com/2013/11/11/jogglers-hit-broomfield-trails-to-set-world-record/  https://www.webscorer.com/racedetails?raceid=15527  https://recordsetter.com/world-record/people-running-5k-race-while-juggling/33978?autoplay=false
+142,0:29:21.60,Bucky Buckbinder,M,USA,09/11/2013,Anthem 5km,https://www.broomfieldenterprise.com/2013/11/11/jogglers-hit-broomfield-trails-to-set-world-record/  https://www.webscorer.com/racedetails?raceid=15527  https://recordsetter.com/world-record/people-running-5k-race-while-juggling/33978?autoplay=false
+143,0:29:33.00,Terry Odom,M,USA,17/07/2007,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2007.php
+144,0:30:04.30,Andrew Pratt,M,USA,09/11/2013,Anthem 5km,https://www.broomfieldenterprise.com/2013/11/11/jogglers-hit-broomfield-trails-to-set-world-record/  https://www.webscorer.com/racedetails?raceid=15527  https://recordsetter.com/world-record/people-running-5k-race-while-juggling/33978?autoplay=false
+145,0:30:07.00,Gavin Hossack,M,Unknown,2017,Guelph 5km,https://sites.google.com/site/guelph5kjoggling/results
+146,0:30:16.00,Iunya Inoue,M,JPN,30/07/2023,EJC Joggling Open,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html
+147,0:30:17.00,David Pavlove Cunsolo,M,Unknown,2018,Guelph 5km,https://sites.google.com/site/guelph5kjoggling/results
+148,0:30:19.00,Carter Randall,M,Unknown,15/07/2017,"IJA, Cedar Rapids",https://www.juggle.org/enewsletter/2017-07
+149,0:30:46.00,Nils Berg,M,DEU,30/07/2023,EJC Joggling Open,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html
+150,0:31:01.00,Meilyr Wyn,M,GBR,12/05/2018,Penrhyn Parkrun,https://www.parkrun.org.uk/penrhyn/results/173/ https://www.facebook.com/watch/?v=1277876379022609
+151,0:31:20.00,Elias Loehr,M,DEU,30/07/2023,EJC Joggling Open,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html
+152,0:31:40.00,Attila Suszter,M,HUN,24/03/2024,NN City Run 2024 / Budapest / Hungary,https://gammatiming.com/result/runner/nncr2024/5790 https://www.instagram.com/p/C5CEXliM7bt/  https://www.threads.net/@casualattila/post/C5Dod0KM9gP https://futofoto.hu/esemeny/nn-city-run-2024/5790/esemeny/48/1
+153,0:32:04.00,Kevin Sawers,M,GBR,02/04/2023,Southampton 5km,https://www.strava.com/activities/8817698457   https://dbmaxresults.co.uk/results.aspx?CId=16421&RId=405&EId=6&dt=0&PageNo=2&adv=0
+154,0:32:33.00,Andrew Ruiz,M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
+155,0:33:59.00,Ting-En Chang,M,TWN,30/07/2023,EJC Joggling Open,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html
+156,0:34:11.00,Nick Burns,M,GBR,21/10/2023,Morecambe Prom Parkrun,https://www.parkrun.org.uk/morecambeprom/results/163
+157,0:34:45.00,Eric Malikowski,M,Unknown,2017,Guelph 5km,https://sites.google.com/site/guelph5kjoggling/results
+158,0:35:44.00,Martin Bartsch,M,DEU,30/07/2023,EJC Joggling Open,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html
+159,0:36:02.00,Mark Jolin,M,Unknown,2019,Guelph 5km,https://sites.google.com/site/guelph5kjoggling/results
+160,0:36:30.00,Quentin Dombro,M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
+161,0:36:31.90,Jon Conley,M,USA,09/11/2013,Anthem 5km,https://www.broomfieldenterprise.com/2013/11/11/jogglers-hit-broomfield-trails-to-set-world-record/  https://www.webscorer.com/racedetails?raceid=15527  https://recordsetter.com/world-record/people-running-5k-race-while-juggling/33978?autoplay=false
+162,0:37:08.30,William Murphy,M,USA,09/11/2013,Anthem 5km,https://www.broomfieldenterprise.com/2013/11/11/jogglers-hit-broomfield-trails-to-set-world-record/  https://www.webscorer.com/racedetails?raceid=15527  https://recordsetter.com/world-record/people-running-5k-race-while-juggling/33978?autoplay=false
+163,0:37:43.00,Gordon Cornell,M,Unknown,20/07/2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
+164,0:38:11.00,Dana Lee Ling,M,FSM,27/01/2024,College of Micronesia-FSM Fun Run,https://www.strava.com/athletes/16093155?oq=dan
+164,0:38:11.00,Todd Warner,M,Unknown,19/07/2005,"IJA, Davenport, Iowa",https://dev.juggle.org/history/champs/champs2005.php
+166,0:38:28.00,Reggie L,M,GBR,07/05/2022,Pymmes Parkrun,https://www.parkrun.org.uk/pymmes/results/503/ https://www.parkrun.org.uk/pymmes/news/2022/05/09/pymmes-parkrun-ppr-503-the-art-of-avoidance/
+167,0:39:27.00,Anton Bartsch,M,DEU,30/07/2023,EJC Joggling Open,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html
+168,0:47:53.00,Scott Randall,M,Unknown,15/07/2017,"IJA, Cedar Rapids",https://www.juggle.org/enewsletter/2017-07
+169,1:00:00.00,Christian Gonzales,M,USA,23/09/2023,"Dempsey Challenge, Maine",Time estimated by taking the difference of the timestamp of finish line video and starting line video
