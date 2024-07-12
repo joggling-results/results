@@ -1,8 +1,7 @@
-Ranking,Finish Time,Joggler,Gender,Nationality,Date,Event / Venue,Notes / Result Links
-1,0:02:33.30,Delaney Bayles,F,Unknown,02/08/2014,"IJA, West Lafayette",IJA Database
-2,0:04:09.40,Heather Marriott,F,USA,02/08/2014,"IJA, West Lafayette",IJA Database
-3,0:04:30.80,Maddie Roubourne,F,Unknown,25/07/2015,"IJA, Quebec",IJA Database
-4,0:04:53.80,Madeline Rodbourne,F,Unknown,02/08/2014,"IJA, West Lafayette",IJA Database
-5,0:05:23.80,Riga Moettus,F,Unknown,21/07/2012,"IJA, Winston-Salem",IJA Database
-6,0:06:38.00,JoAnn Ireland,F,USA,24/07/2018,"IJA, Springfield",IJA Database
-7,0:09:20.20,Laura Schroeder,F,Unknown,02/08/2014,"IJA, West Lafayette",IJA Database
+Ranking,Finish Time,IAAF Points,Joggler,Gender,Nationality,Date,Event / Venue,Notes / Result Links
+1,0:02:33.30,0,Delaney Bayles,F,Unknown,02/08/2014,"IJA, West Lafayette",IJA Database
+2,0:04:09.40,0,Heather Marriott,F,USA,02/08/2014,"IJA, West Lafayette",IJA Database
+3,0:04:30.80,0,Maddie Rodbourne,F,Unknown,25/07/2015,"IJA, Quebec",IJA Database
+4,0:05:23.80,0,Riga Moettus,F,Unknown,21/07/2012,"IJA, Winston-Salem",IJA Database
+5,0:06:38.00,0,JoAnn Ireland,F,USA,24/07/2018,"IJA, Springfield",IJA Database
+6,0:09:20.20,0,Laura Schroeder,F,Unknown,02/08/2014,"IJA, West Lafayette",IJA Database

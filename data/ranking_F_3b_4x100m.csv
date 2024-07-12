@@ -1,19 +1,19 @@
-Ranking,Finish Time,Joggler,Gender,Nationality,Date,Event / Venue,Notes / Result Links
-1,0:01:15.90,"Laura Schroeder, Eva Hadjiyanis, Elizabeth Stockbridge, Kayla Malmgren",F,Unknown,15/07/2017,"IJA, Cedar Rapids",IJA Database
-2,0:01:21.50,"Laura Kaseman, Dorothy Finnigan, Becky Kresser, Bronwyn Neeser",F,Unknown,13/07/2004,"IJA, Buffalo",https://dev.juggle.org/history/champs/champs2004.php
-3,0:01:23.30,"Summer Cooper, Kaylyn Schull, Kaylin Meyers, Heather Marriott",F,Unknown,22/07/2023,"IJA, Southbend",IJA Database
-4,0:01:25.06,"Heather Marriott, Taylor Glenn, Stephanie Walsh, Laura Ernst",F,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
-5,0:01:26.00,"Gabrielle Foran, Heather Marriott, Delaney Bayles, Chloe Hirschowitz",F,Unknown,02/08/2014,"IJA, West Lafayette",IJA Database
-6,0:01:28.70,"Taylor Glenn, Mara Moettus, Sofia Meyer, Hanna Stoehr",F,Unknown,20/07/2011,"IJA, Rochester",IJA Database
-7,0:01:29.20,"Katie Burgess, JoAnn Ireland, Becky Kresser, Gabrielle Foran",F,Unknown,24/07/2018,"IJA, Springfield",IJA Database
-8,0:01:30.40,"Riga Moettus, Laura Schroeder, Elise Johnson, Erica Liddle",F,Unknown,20/07/2013,"IJA, Bowling Green",IJA Database
-9,0:01:32.60,"Erin Warfield, Anna Voelker, Gabrielle Foran, Meagan Nouis",F,Unknown,20/07/2013,"IJA, Bowling Green",IJA Database
-10,0:01:35.60,"Elise Johnson, Riga Moettus, Laura Schroeder, Alayna Bowlin",F,Unknown,21/07/2012,"IJA, Winston-Salem",IJA Database
-11,0:01:38.90,"Anna Gratzer, Megan Hussey, Riga Moettus, Alayna Bowlin",F,Unknown,20/07/2011,"IJA, Rochester",IJA Database
-12,0:01:53.80,"Mary Geeves, Laura Schroeder, Riga Moettus, Alayna Bowlin",F,Unknown,02/08/2014,"IJA, West Lafayette",IJA Database
-13,0:01:59.69,"Amy Barnes, Heather Marriott",F,Unknown,28/07/2001,"IJA, Wisconsin",https://dev.juggle.org/history/champs/champs2001.php
-14,0:02:00.00,"Sydney Paugh, Hannah Bowlin, Maggie Armstrong, Mary Geeves",F,Unknown,21/07/2012,"IJA, Winston-Salem",IJA Database
-15,0:02:00.30,"Sydney Paugh, Hannah Bowlin, Alayna Bowlin, Mary Geeves",F,Unknown,20/07/2013,"IJA, Bowling Green",IJA Database
-16,0:02:13.80,"Heather Marriott, Teresa Rochester, Gabrielle Foran, Mike Patsch",F,Unknown,30/07/2016,"IJA, El Paso, Texas",IJA Database
-17,0:02:17.21,"Jane Birkhead, Sandy Brown, Kay Caskey, Laurie Young",F,Unknown,28/07/2001,"IJA, Wisconsin",https://dev.juggle.org/history/champs/champs2001.php
-18,0:02:28.90,"Riga Moettus, Alda Moettus, Mary Geeves, Laura Schroeder",F,Unknown,25/07/2015,"IJA, Quebec",IJA Database
+Ranking,Finish Time,IAAF Points,Joggler,Gender,Nationality,Date,Event / Venue,Notes / Result Links
+1,0:01:15.90,190,"Laura Schroeder, Eva Hadjiyanis, Elizabeth Stockbridge, Kayla Malmgren",F,Unknown,15/07/2017,"IJA, Cedar Rapids",IJA Database
+2,0:01:21.50,105,"Laura Kaseman, Dorothy Finnigan, Becky Kresser, Bronwyn Neeser",F,Unknown,13/07/2004,"IJA, Buffalo",https://dev.juggle.org/history/champs/champs2004.php
+3,0:01:23.30,84,"Summer Cooper, Kaylyn Schull, Kaylin Meyers, Heather Marriott",F,Unknown,22/07/2023,"IJA, Southbend",IJA Database
+4,0:01:25.06,65,"Heather Marriott, Taylor Glenn, Stephanie Walsh, Laura Ernst",F,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
+5,0:01:26.00,55,"Gabrielle Foran, Heather Marriott, Delaney Bayles, Chloe Hirschowitz",F,Unknown,02/08/2014,"IJA, West Lafayette",IJA Database
+6,0:01:28.70,33,"Taylor Glenn, Mara Moettus, Sofia Meyer, Hannah Stoehr",F,Unknown,20/07/2011,"IJA, Rochester",IJA Database
+7,0:01:29.20,30,"Katie Burgess, JoAnn Ireland, Becky Kresser, Gabrielle Foran",F,Unknown,24/07/2018,"IJA, Springfield",IJA Database
+8,0:01:30.40,22,"Riga Moettus, Laura Schroeder, Elise Johnson, Erica Liddle",F,Unknown,20/07/2013,"IJA, Bowling Green",IJA Database
+9,0:01:32.60,11,"Erin Warfield, Anna Voelker, Gabrielle Foran, Meagan Nouis",F,Unknown,20/07/2013,"IJA, Bowling Green",IJA Database
+10,0:01:35.60,2,"Elise Johnson, Riga Moettus, Laura Schroeder, Alayna Bowlin",F,Unknown,21/07/2012,"IJA, Winston-Salem",IJA Database
+11,0:01:38.90,0,"Anna Gratzer, Megan Hussey, Riga Moettus, Alayna Bowlin",F,Unknown,20/07/2011,"IJA, Rochester",IJA Database
+12,0:01:53.80,0,"Mary Geeves, Laura Schroeder, Riga Moettus, Alayna Bowlin",F,Unknown,02/08/2014,"IJA, West Lafayette",IJA Database
+13,0:01:59.69,0,"Amy Barnes, Heather Marriott",F,Unknown,28/07/2001,"IJA, Wisconsin",https://dev.juggle.org/history/champs/champs2001.php
+14,0:02:00.00,0,"Sydney Paugh, Hannah Bowlin, Maggie Armstrong, Mary Geeves",F,Unknown,21/07/2012,"IJA, Winston-Salem",IJA Database
+15,0:02:00.30,0,"Sydney Paugh, Hannah Bowlin, Alayna Bowlin, Mary Geeves",F,Unknown,20/07/2013,"IJA, Bowling Green",IJA Database
+16,0:02:13.80,0,"Heather Marriott, Teresa Rochester, Gabrielle Foran, Mike Patsch",F,Unknown,30/07/2016,"IJA, El Paso, Texas",IJA Database
+17,0:02:17.21,0,"Jane Birkhead, Sandy Brown, Kay Caskey, Laurie Young",F,Unknown,28/07/2001,"IJA, Wisconsin",https://dev.juggle.org/history/champs/champs2001.php
+18,0:02:28.90,0,"Riga Moettus, Alda Moettus, Mary Geeves, Laura Schroeder",F,Unknown,25/07/2015,"IJA, Quebec",IJA Database

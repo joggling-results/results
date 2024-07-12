@@ -15,7 +15,7 @@ st.set_page_config(page_title='Joggling',
                    initial_sidebar_state = 'expanded'   ## 'auto','collapsed','expanded'
                    )
 
-update_date = '11th June 2024'
+update_date = '12th July 2024'
 
 ## Function to allow dataframe filtering
 def filter_dataframe(df: pd.DataFrame) -> pd.DataFrame:
@@ -84,15 +84,15 @@ def filter_dataframe(df: pd.DataFrame) -> pd.DataFrame:
 
 ## Start of Page Content
 st.title('Joggling Results Archive')
-st.write("""Joggling (the hybrid sport of running whilst juggling) is certainly a niche. But it is more popular than you might think. 
-This web app aims to present an archive of joggling achievements from a growing community around the world. So far...
+st.write("""Joggling (the hybrid sport of running whilst juggling) is a type of Sport Juggling. It is certainly a niche, but it is far more popular than you might think. 
+This web app aims to present an archive of joggling achievements from a growing community of athletes around the world. So far...
 """)
 
 ## Load data and reorder columns
 data = pd.read_csv('data/results.csv')    ## xlsx not supported.
-data = data[['Date', 'Joggler', 'Distance', 'Event / Venue','Finish Time', 'Drops',
+data = data[['Date', 'Joggler', 'Distance', 'Event / Venue','Finish Time', 'IAAF Points', 'Drops',
             'Gender', 'Nationality', 
-            'Notes / Result Links', 'Year']]
+            'Notes / Result Links', 'total_seconds', 'Year']]
 
 
 # Remove relays to get an accurate count of jogglers
