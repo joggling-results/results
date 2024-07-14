@@ -15,7 +15,7 @@ st.set_page_config(page_title='Joggling',
                    initial_sidebar_state = 'expanded'   ## 'auto','collapsed','expanded'
                    )
 
-update_date = '12th July 2024'
+update_date = '14th July 2024'
 
 ## Function to allow dataframe filtering
 def filter_dataframe(df: pd.DataFrame) -> pd.DataFrame:
@@ -90,9 +90,10 @@ This web app aims to present an archive of joggling achievements from a growing 
 
 ## Load data and reorder columns
 data = pd.read_csv('data/results.csv')    ## xlsx not supported.
-data = data[['Date', 'Joggler', 'Distance', 'Event / Venue','Finish Time', 'IAAF Points', 'Drops',
-            'Gender', 'Nationality', 
-            'Notes / Result Links', 'total_seconds', 'Year']]
+
+column_order = ['Date', 'Joggler', 'Distance', 'Event / Venue','Finish Time', 'IAAF Points', 'Drops',
+            'Gender', 'Nationality', 'Notes / Result Links',]
+data = data.reindex(columns=column_order)
 
 
 # Remove relays to get an accurate count of jogglers
