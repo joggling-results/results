@@ -14,7 +14,7 @@ import plotly.graph_objects as go
 # Do this first, is a useful field to have in other data pivots/views
 
 print('Adding IAAF Points Data')
-results = pd.read_csv('data/results.csv') ## xlsx not supported.
+results = pd.read_csv('data/results.csv', encoding= 'ISO-8859-1',) ## xlsx not supported.
 
 # Add a total_seconds column
 results['total_seconds'] = results['Finish Time'].apply(lambda x: datetime.strptime(x,"%H:%M:%S.%f"))

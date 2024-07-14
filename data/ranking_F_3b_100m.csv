@@ -30,8 +30,8 @@ Ranking,Finish Time,IAAF Points,Joggler,Gender,Nationality,Date,Event / Venue,No
 29,0:00:19.30,71,Delaney Bayles,F,Unknown,20/07/2013,"IJA, Bowling Green",IJA Database
 30,0:00:19.40,66,Erika Randall,F,Unknown,30/07/1999,"IJA, Niagara Falls",IJA Database
 31,0:00:19.43,65,Logan Pearce,F,Unknown,2022,"IJA, Virtual",IJA Database
-32,0:00:19.53,60,Laura Ernst,F,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
 32,0:00:19.53,60,Chloe Hirschowitz,F,USA,15/07/2008,"IJA, Kentucky",https://dev.juggle.org/history/champs/champs2008.php
+32,0:00:19.53,60,Laura Ernst,F,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
 34,0:00:19.70,52,KC Canter,F,Unknown,22/07/1989,"IJA, Baltimore",http://www.juggling.org/orgs/ija/champs.txt
 35,0:00:19.84,45,Verena Rau,F,DEU,30/07/2023,EJC Joggling Open,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html
 36,0:00:20.16,33,Sandy Amass,F,Unknown,20/07/1991,"IJA, St. Louis",http://www.juggling.org/orgs/ija/champs.txt
@@ -61,8 +61,8 @@ Ranking,Finish Time,IAAF Points,Joggler,Gender,Nationality,Date,Event / Venue,No
 60,0:00:24.63,0,Sofia Meyer,F,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
 61,0:00:25.10,0,Anna Gratzer,F,Unknown,20/07/2011,"IJA, Rochester",IJA Database
 62,0:00:25.24,0,Louison Vatin,F,FRA,30/07/2023,EJC Joggling Open,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html
-63,0:00:25.42,0,Karen Phariss,F,Unknown,20/07/1991,"IJA, St. Louis",http://www.juggling.org/orgs/ija/champs.txt
 63,0:00:25.42,0,Laurie Young,F,Unknown,20/07/1991,"IJA, St. Louis",http://www.juggling.org/orgs/ija/champs.txt
+63,0:00:25.42,0,Karen Phariss,F,Unknown,20/07/1991,"IJA, St. Louis",http://www.juggling.org/orgs/ija/champs.txt
 65,0:00:25.56,0,Veronika Rieckh,F,AUT,30/07/2023,EJC Joggling Open,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html
 66,0:00:25.60,0,Rebecca Kresser,F,Unknown,20/07/2013,"IJA, Bowling Green",IJA Database
 67,0:00:25.85,0,Skye Jerpbak,F,Unknown,2022,"IJA, Virtual",IJA Database
@@ -98,3 +98,4 @@ Ranking,Finish Time,IAAF Points,Joggler,Gender,Nationality,Date,Event / Venue,No
 97,0:01:22.30,0,Gay Shope,F,Unknown,20/07/2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
 98,0:01:23.80,0,Teresa Rochester,F,Unknown,30/07/2016,"IJA, El Paso, Texas",IJA Database
 99,0:01:43.00,0,Laura Dickerson,F,Unknown,20/07/2013,"IJA, Bowling Green",IJA Database
+100,0:02:25.29,0,Zoe Prawda,F,USA,11/07/2024,"IJA, Green Bay","IJA Database, Mclincha Drubbling 100"
