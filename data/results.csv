@@ -1,4 +1,10 @@
 Date,Year,Distance,Event / Venue,Joggler,Gender,Nationality,Finish Time,Drops,Notes / Result Links,total_seconds,IAAF Points
+20/07/2024,2024,3b Ultra (41.7 Miles),Manvers Dusk Till Dawn,Tim Butler,M,GBR,12:00:00.00,?,https://www.strava.com/activities/11940408152,43200.0,0
+20/07/2024,2024,3b Ultra (32.1 Miles),Manvers Dusk Till Dawn,Scott Jenkins,M,GBR,12:00:00.00,3,https://www.strava.com/activities/11939599387,43200.0,0
+20/07/2024,2024,3b Ultra (64.2 Miles),Manvers Dusk Till Dawn,Chris Edwin,M,GBR,12:00:00.00,?,https://www.strava.com/activities/11940381650,43200.0,0
+20/07/2024,2024,3b 5km,Lister Park Parkrun,Scott Jenkins,M,GBR,0:34:01.00,0,https://www.strava.com/activities/11935255004 https://www.parkrun.org.uk/listerpark/results/652/,2041.0,0
+20/07/2024,2024,3b 5km,Lister Park Parkrun,Ralph Kidner,M,GBR,0:34:00.00,4,https://www.parkrun.org.uk/listerpark/results/652/,2040.0,0
+20/07/2024,2024,3b 5km,Lister Park Parkrun,Jake Lodge,M,GBR,0:21:20.00,0,https://www.parkrun.org.uk/listerpark/results/652/,1280.0,71
 15/07/2024,2024,3b 5km,"IJA, Green Bay",Sterling Franklin,M,USA,0:20:04.00,?,IJA Database,1204.0,154
 15/07/2024,2024,3b 5km,"IJA, Green Bay",Torrey Hamilton,M,0,0:24:54.00,?,IJA Database,1494.0,0
 15/07/2024,2024,3b 5km,"IJA, Green Bay",Barak Hirschowitz,M,USA,0:24:57.00,?,IJA Database,1497.0,0
@@ -7,6 +13,8 @@ Date,Year,Distance,Event / Venue,Joggler,Gender,Nationality,Finish Time,Drops,No
 15/07/2024,2024,3b 5km,"IJA, Green Bay",Draco Tong,M,0,0:29:23.00,?,IJA Database,1763.0,0
 15/07/2024,2024,3b 5km,"IJA, Green Bay",Katie Burgess,F,0,0:27:28.00,?,IJA Database,1648.0,165
 15/07/2024,2024,3b 5km,"IJA, Green Bay",Meggie Mariah,F,0,0:25:56.00,?,IJA Database,1556.0,239
+14/07/2024,2024,3b 5km,Time Trial,Jean-Marc Doiron,M,CAN,0:17:41.00,?,https://www.strava.com/activities/11887871076,1061.0,399
+13/07/2024,2024,3b 5km,Woodley Parkrun,Stuart Humphries,M,GBR,0:25:36.00,?,https://www.parkrun.org.uk/woodley/results/535/,1536.0,0
 11/07/2024,2024,3b 1500m,"IJA, Green Bay",Aaron Heilig,M,0,0:09:41.04,?,"IJA Database, Giduz 1500m",581.04,0
 11/07/2024,2024,3b 1500m,"IJA, Green Bay",Sterling Franklin,M,USA,0:05:38.95,?,"IJA Database, Giduz 1500m",338.95,86
 11/07/2024,2024,3b 1500m,"IJA, Green Bay",Eric Raivo,M,0,0:06:01.20,?,"IJA Database, Giduz 1500m",361.2,23
@@ -362,7 +370,7 @@ https://www.strava.com/activities/9585830232",1488.0,0
 30/07/2023,2023,3b 100m,EJC Joggling Open,Sebastian Siwiec,M,POL,0:00:14.14,?,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html,14.14,200
 30/07/2023,2023,3b 100m,EJC Joggling Open,Alexander Armbruster,M,DEU,0:00:14.74,?,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html,14.74,124
 30/07/2023,2023,3b 100m,EJC Joggling Open,Vaclav Peca,M,CZE,0:00:14.84,?,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html,14.84,113
-30/07/2023,2023,3b 100m,EJC Joggling Open,Ilia Poliakov,M,ISR,0:00:14.98,?,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html,14.98,99
+30/07/2023,2023,3b 100m,EJC Joggling Open,Ilia Poliakov,,0,0:00:14.98,?,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html,14.98,0
 30/07/2023,2023,3b 100m,EJC Joggling Open,Malthe Jerup Ostergaard,M,DNK,0:00:17.18,?,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html,17.18,0
 30/07/2023,2023,3b 100m,EJC Joggling Open,Verena Rau,F,DEU,0:00:19.84,?,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html,19.84,45
 30/07/2023,2023,3b 100m,EJC Joggling Open,Anna Kruk,F,POL,0:00:20.50,?,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html,20.5,22
@@ -375,7 +383,7 @@ https://www.strava.com/activities/9585830232",1488.0,0
 30/07/2023,2023,3b 100m,EJC Joggling Open,Tanja Schwanke,F,DEU,0:00:27.84,?,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html,27.84,0
 30/07/2023,2023,5b 100m,EJC Joggling Open,Vaclav Peca,M,CZE,0:00:28.36,?,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html,28.36,0
 30/07/2023,2023,5b 100m,EJC Joggling Open,Florian Huber,M,DEU,0:00:28.76,?,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html,28.76,0
-30/07/2023,2023,5b 100m,EJC Joggling Open,Ilia Poliakov,M,ISR,0:00:29.92,?,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html,29.92,0
+30/07/2023,2023,5b 100m,EJC Joggling Open,Ilia Poliakov,,0,0:00:29.92,?,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html,29.92,0
 30/07/2023,2023,5b 100m,EJC Joggling Open,Jheng-Yu Chiu,M,TWN,0:00:33.12,?,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html,33.12,0
 30/07/2023,2023,3b 100m,EJC Joggling Open,Silvia Osiek,F,DEU,0:00:33.80,?,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html,33.8,0
 30/07/2023,2023,3b 100m,EJC Joggling Open,Jowita Nowogrodzka-Ligeza,F,DEU,0:00:34.40,?,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html,34.4,0
@@ -583,6 +591,83 @@ https://www.parkrun.org.uk/lochoremeadows/results/183/
 01/07/2023,2023,3b 5km,FSM China 5k,Dana Lee Ling,M,FSM,0:56:57.00,1,https://www.strava.com/activities/9364589789 https://www.facebook.com/100091873519711/posts/pfbid02xXwXYu6tfDkMg1nxegsv8UwobrTHehg6BjDce9DrsEsebX9qbjhPtWRQ9S2ZL9H4l/?app=fbl ,3417.0,0
 24/06/2023,2023,3b 5km,Holyrood Parkrun,James McDiarmid,M,GBR,0:21:38.00,?,https://www.parkrun.org.uk/holyrood/results/44/,1298.0,56
 24/06/2023,2023,3c 5km,"Union Beach, New Jersey",Karly Swaim,F,USA,0:32:51.00,?,https://runsignup.com/Race/Results/22604/IndividualResult/sZSf#U21578490,1971.0,13
+23/06/2023,2023,3b 100m,"Russian Juggling Convention, Dmitrov, Russia",Balabushkina Anastasia,F,RUS,0:00:23.09,?,https://vk.com/wall-64197511_4495,23.09,0
+23/06/2023,2023,3b 100m,"Russian Juggling Convention, Dmitrov, Russia",Orlov Vladimir,M,RUS,0:00:23.90,?,https://vk.com/wall-64197511_4495,23.9,0
+23/06/2023,2023,3b 100m,"Russian Juggling Convention, Dmitrov, Russia",Zyablitsky Alexander,M,RUS,0:00:24.00,?,https://vk.com/wall-64197511_4495,24.0,0
+23/06/2023,2023,3c 100m,"Russian Juggling Convention, Dmitrov, Russia",Orlov Vladimir,M,RUS,0:00:25.90,?,https://vk.com/wall-64197511_4495,25.9,0
+23/06/2023,2023,3b 100m,"Russian Juggling Convention, Dmitrov, Russia",Perevalova Tatyana,F,RUS,0:00:26.29,?,https://vk.com/wall-64197511_4495,26.29,0
+23/06/2023,2023,3b 100m,"Russian Juggling Convention, Dmitrov, Russia",Gramotin Anton,M,RUS,0:00:30.10,?,https://vk.com/wall-64197511_4495,30.1,0
+23/06/2023,2023,3c 100m,"Russian Juggling Convention, Dmitrov, Russia",Zyablitsky Alexander,M,RUS,0:00:30.95,?,https://vk.com/wall-64197511_4495,30.95,0
+23/06/2023,2023,3b 100m,"Russian Juggling Convention, Dmitrov, Russia",Penkova Olga,F,RUS,0:00:31.00,?,https://vk.com/wall-64197511_4495,31.0,0
+23/06/2023,2023,4b 100m,"Russian Juggling Convention, Dmitrov, Russia",Orlov Vladimir,M,RUS,0:00:34.08,?,https://vk.com/wall-64197511_4495,34.08,0
+23/06/2023,2023,3b 100m,"Russian Juggling Convention, Dmitrov, Russia",Kovalenko Ekaterina,F,RUS,0:00:34.28,?,https://vk.com/wall-64197511_4495,34.28,0
+23/06/2023,2023,3c 100m,"Russian Juggling Convention, Dmitrov, Russia",Penkova Olga,F,RUS,0:00:35.61,?,https://vk.com/wall-64197511_4495,35.61,0
+23/06/2023,2023,3c 100m,"Russian Juggling Convention, Dmitrov, Russia",Balabushkina Anastasia,F,RUS,0:00:36.17,?,https://vk.com/wall-64197511_4495,36.17,0
+23/06/2023,2023,3c 100m,"Russian Juggling Convention, Dmitrov, Russia",Kovalenko Alexey,M,RUS,0:00:36.19,?,https://vk.com/wall-64197511_4495,36.19,0
+23/06/2023,2023,3b 100m,"Russian Juggling Convention, Dmitrov, Russia",Kharchenko Elizaveta,F,RUS,0:00:37.28,?,https://vk.com/wall-64197511_4495,37.28,0
+23/06/2023,2023,3c 100m,"Russian Juggling Convention, Dmitrov, Russia",Tingaev Stanislav,M,RUS,0:00:37.86,?,https://vk.com/wall-64197511_4495,37.86,0
+23/06/2023,2023,3c 100m,"Russian Juggling Convention, Dmitrov, Russia",Kharchenko Elizaveta,F,RUS,0:00:39.80,?,https://vk.com/wall-64197511_4495,39.8,0
+23/06/2023,2023,3b 100m,"Russian Juggling Convention, Dmitrov, Russia",Elizabeth Sychugova,F,RUS,0:00:40.06,?,https://vk.com/wall-64197511_4495,40.06,0
+23/06/2023,2023,3b 100m,"Russian Juggling Convention, Dmitrov, Russia",Raskostova Kristina,F,RUS,0:00:42.34,?,https://vk.com/wall-64197511_4495,42.34,0
+23/06/2023,2023,3c 100m,"Russian Juggling Convention, Dmitrov, Russia",Shpilevsky Vyacheslav,M,RUS,0:00:43.34,?,https://vk.com/wall-64197511_4495,43.34,0
+23/06/2023,2023,3b 100m,"Russian Juggling Convention, Dmitrov, Russia",Mazeina Julia,F,RUS,0:00:44.00,?,https://vk.com/wall-64197511_4495,44.0,0
+23/06/2023,2023,3c 100m,"Russian Juggling Convention, Dmitrov, Russia",Romanov Nikita,M,RUS,0:00:44.73,?,https://vk.com/wall-64197511_4495,44.73,0
+23/06/2023,2023,3b 100m,"Russian Juggling Convention, Dmitrov, Russia",Tingaev Stanislav,M,RUS,0:00:44.90,?,https://vk.com/wall-64197511_4495,44.9,0
+23/06/2023,2023,4b 100m,"Russian Juggling Convention, Dmitrov, Russia",Kovalenko Alexey,M,RUS,0:00:45.42,?,https://vk.com/wall-64197511_4495,45.42,0
+23/06/2023,2023,3c 100m,"Russian Juggling Convention, Dmitrov, Russia",Gramotin Anton,M,RUS,0:00:45.85,?,https://vk.com/wall-64197511_4495,45.85,0
+23/06/2023,2023,4b 100m,"Russian Juggling Convention, Dmitrov, Russia",Gramotin Anton,M,RUS,0:00:46.93,?,https://vk.com/wall-64197511_4495,46.93,0
+23/06/2023,2023,4b 100m,"Russian Juggling Convention, Dmitrov, Russia",Balabushkina Anastasia,F,RUS,0:00:48.52,?,https://vk.com/wall-64197511_4495,48.52,0
+23/06/2023,2023,3b 100m,"Russian Juggling Convention, Dmitrov, Russia",Romanov Nikita,M,RUS,0:00:49.12,?,https://vk.com/wall-64197511_4495,49.12,0
+23/06/2023,2023,3b 100m,"Russian Juggling Convention, Dmitrov, Russia",Nikitin Egor,M,RUS,0:00:49.42,?,https://vk.com/wall-64197511_4495,49.42,0
+23/06/2023,2023,3b 100m,"Russian Juggling Convention, Dmitrov, Russia",Chuikova Olga,F,RUS,0:00:50.00,?,https://vk.com/wall-64197511_4495,50.0,0
+23/06/2023,2023,3c 100m,"Russian Juggling Convention, Dmitrov, Russia",Perevalova Tatyana,F,RUS,0:00:50.04,?,https://vk.com/wall-64197511_4495,50.04,0
+23/06/2023,2023,3c 100m,"Russian Juggling Convention, Dmitrov, Russia",Deulina Kristina,F,RUS,0:00:50.74,?,https://vk.com/wall-64197511_4495,50.74,0
+23/06/2023,2023,3b 100m,"Russian Juggling Convention, Dmitrov, Russia",Altayakov Ilnur,M,RUS,0:00:51.00,?,https://vk.com/wall-64197511_4495,51.0,0
+23/06/2023,2023,3b 100m,"Russian Juggling Convention, Dmitrov, Russia",Kovalenko Alexey,M,RUS,0:00:51.00,?,https://vk.com/wall-64197511_4495,51.0,0
+23/06/2023,2023,3b 100m,"Russian Juggling Convention, Dmitrov, Russia",Gramotina Natalia,F,RUS,0:00:51.00,?,https://vk.com/wall-64197511_4495,51.0,0
+23/06/2023,2023,3c 100m,"Russian Juggling Convention, Dmitrov, Russia",Kovalenko Ekaterina,F,RUS,0:00:52.97,?,https://vk.com/wall-64197511_4495,52.97,0
+23/06/2023,2023,3b 100m,"Russian Juggling Convention, Dmitrov, Russia",Deulina Kristina,F,RUS,0:00:53.23,?,https://vk.com/wall-64197511_4495,53.23,0
+23/06/2023,2023,4b 100m,"Russian Juggling Convention, Dmitrov, Russia",Elizabeth Sychugova,F,RUS,0:00:53.44,?,https://vk.com/wall-64197511_4495,53.44,0
+23/06/2023,2023,4b 100m,"Russian Juggling Convention, Dmitrov, Russia",Deulina Kristina,F,RUS,0:00:56.50,?,https://vk.com/wall-64197511_4495,56.5,0
+23/06/2023,2023,4b 100m,"Russian Juggling Convention, Dmitrov, Russia",Raskostova Kristina,F,RUS,0:00:56.50,?,https://vk.com/wall-64197511_4495,56.5,0
+23/06/2023,2023,3c 100m,"Russian Juggling Convention, Dmitrov, Russia",Gramotina Natalia,F,RUS,0:01:01.00,?,https://vk.com/wall-64197511_4495,61.0,0
+23/06/2023,2023,4b 100m,"Russian Juggling Convention, Dmitrov, Russia",Kharchenko Elizaveta,F,RUS,0:01:12.00,?,https://vk.com/wall-64197511_4495,72.0,0
+23/06/2023,2023,3b 100m,"Russian Juggling Convention, Dmitrov, Russia",Tsybina Victoria,F,RUS,0:01:23.05,?,https://vk.com/wall-64197511_4495,83.05,0
+23/06/2023,2023,4b 100m,"Russian Juggling Convention, Dmitrov, Russia",Zyablitsky Alexander,M,RUS,0:01:24.00,?,https://vk.com/wall-64197511_4495,84.0,0
+23/06/2023,2023,3b 100m,"Russian Juggling Convention, Dmitrov, Russia",Shpilevskaya Sofia,F,RUS,0:01:26.93,?,https://vk.com/wall-64197511_4495,86.93,0
+23/06/2023,2023,4b 100m,"Russian Juggling Convention, Dmitrov, Russia",Romanov Nikita,M,RUS,0:01:27.00,?,https://vk.com/wall-64197511_4495,87.0,0
+23/06/2023,2023,5b 100m,"Russian Juggling Convention, Dmitrov, Russia",Gramotin Anton,M,RUS,0:01:29.18,?,https://vk.com/wall-64197511_4495,89.18,0
+23/06/2023,2023,4b 100m,"Russian Juggling Convention, Dmitrov, Russia",Prokhorova Angelina,F,RUS,0:01:45.67,?,https://vk.com/wall-64197511_4495,105.67,0
+23/06/2023,2023,4b 100m,"Russian Juggling Convention, Dmitrov, Russia",Tingaev Stanislav,M,RUS,0:01:47.36,?,https://vk.com/wall-64197511_4495,107.36,0
+23/06/2023,2023,4b 100m,"Russian Juggling Convention, Dmitrov, Russia",Orlov Vladimir,M,RUS,0:01:55.24,?,https://vk.com/wall-64197511_4495,115.24,0
+23/06/2023,2023,5b 100m,"Russian Juggling Convention, Dmitrov, Russia",Kovalenko Alexey,M,RUS,0:01:58.87,?,https://vk.com/wall-64197511_4495,118.87,0
+23/06/2023,2023,3c 400m,"Russian Juggling Convention, Dmitrov, Russia",Tingaev Stanislav,M,RUS,0:02:02.09,?,https://vk.com/wall-64197511_4495,122.09,0
+23/06/2023,2023,4b 100m,"Russian Juggling Convention, Dmitrov, Russia",Kovalenko Alexey,M,RUS,0:02:02.42,?,https://vk.com/wall-64197511_4495,122.42,0
+23/06/2023,2023,3c 400m,"Russian Juggling Convention, Dmitrov, Russia",Orlov Vladimir,M,RUS,0:02:13.85,?,https://vk.com/wall-64197511_4495,133.85,0
+23/06/2023,2023,3b 400m,"Russian Juggling Convention, Dmitrov, Russia",Gramotin Anton,M,RUS,0:02:15.93,?,https://vk.com/wall-64197511_4495,135.93,0
+23/06/2023,2023,4b 100m,"Russian Juggling Convention, Dmitrov, Russia",Zyablitsky Alexander,M,RUS,0:02:16.04,?,https://vk.com/wall-64197511_4495,136.04,0
+23/06/2023,2023,4b 100m,"Russian Juggling Convention, Dmitrov, Russia",Balabushkina Anastasia,F,RUS,0:02:20.43,?,https://vk.com/wall-64197511_4495,140.43,0
+23/06/2023,2023,3c 400m,"Russian Juggling Convention, Dmitrov, Russia",Balabushkina Anastasia,F,RUS,0:02:23.00,?,https://vk.com/wall-64197511_4495,143.0,0
+23/06/2023,2023,4b 100m,"Russian Juggling Convention, Dmitrov, Russia",Romanov Nikita,M,RUS,0:02:27.33,?,https://vk.com/wall-64197511_4495,147.33,0
+23/06/2023,2023,3c 400m,"Russian Juggling Convention, Dmitrov, Russia",Prokhorova Angelina,F,RUS,0:02:27.56,?,https://vk.com/wall-64197511_4495,147.56,0
+23/06/2023,2023,4b 100m,"Russian Juggling Convention, Dmitrov, Russia",Kharchenko Elizaveta,F,RUS,0:02:27.58,?,https://vk.com/wall-64197511_4495,147.58,0
+23/06/2023,2023,3c 400m,"Russian Juggling Convention, Dmitrov, Russia",Zyablitsky Alexander,M,RUS,0:02:37.00,?,https://vk.com/wall-64197511_4495,157.0,0
+23/06/2023,2023,3b 400m,"Russian Juggling Convention, Dmitrov, Russia",Elizabeth Sychugova,F,RUS,0:02:50.41,?,https://vk.com/wall-64197511_4495,170.41,0
+23/06/2023,2023,3c 400m,"Russian Juggling Convention, Dmitrov, Russia",Kharchenko Elizaveta,F,RUS,0:02:56.00,?,https://vk.com/wall-64197511_4495,176.0,0
+23/06/2023,2023,3b 400m,"Russian Juggling Convention, Dmitrov, Russia",Deulina Kristina,F,RUS,0:02:56.20,?,https://vk.com/wall-64197511_4495,176.2,0
+23/06/2023,2023,3b 400m,"Russian Juggling Convention, Dmitrov, Russia",Raskostova Kristina,F,RUS,0:03:03.20,?,https://vk.com/wall-64197511_4495,183.2,0
+23/06/2023,2023,3c 400m,"Russian Juggling Convention, Dmitrov, Russia",Korpusov Maxim,M,RUS,0:03:17.64,?,https://vk.com/wall-64197511_4495,197.64,0
+23/06/2023,2023,4b 100m,"Russian Juggling Convention, Dmitrov, Russia",Kovalenko Ekaterina,F,RUS,0:03:33.82,?,https://vk.com/wall-64197511_4495,213.82,0
+23/06/2023,2023,4b 100m,"Russian Juggling Convention, Dmitrov, Russia",Perevalova Tatyana,F,RUS,0:03:35.59,?,https://vk.com/wall-64197511_4495,215.59,0
+23/06/2023,2023,3c 400m,"Russian Juggling Convention, Dmitrov, Russia",Kovalenko Ekaterina,F,RUS,0:03:47.00,?,https://vk.com/wall-64197511_4495,227.0,0
+23/06/2023,2023,5b 100m,"Russian Juggling Convention, Dmitrov, Russia",Balabushkina Anastasia,F,RUS,0:04:20.87,?,https://vk.com/wall-64197511_4495,260.87,0
+23/06/2023,2023,3c 400m,"Russian Juggling Convention, Dmitrov, Russia",Perevalova Tatyana,F,RUS,0:04:24.00,?,https://vk.com/wall-64197511_4495,264.0,0
+23/06/2023,2023,3b 1000m,"Russian Juggling Convention, Dmitrov, Russia",Korpusov Maxim,M,RUS,0:04:54.72,?,https://vk.com/wall-64197511_4495,294.72,0
+23/06/2023,2023,3b 1000m,"Russian Juggling Convention, Dmitrov, Russia",Tingaev Stanislav,M,RUS,0:05:46.78,?,https://vk.com/wall-64197511_4495,346.78,0
+23/06/2023,2023,3c 1000m,"Russian Juggling Convention, Dmitrov, Russia",Orlov Vladimir,M,RUS,0:06:56.76,?,https://vk.com/wall-64197511_4495,416.76,0
+23/06/2023,2023,3b 1000m,"Russian Juggling Convention, Dmitrov, Russia",Loginov Mihail,M,RUS,0:08:18.64,?,https://vk.com/wall-64197511_4495,498.64,0
+23/06/2023,2023,3c 1000m,"Russian Juggling Convention, Dmitrov, Russia",Prokhorova Angelina,F,RUS,0:10:57.62,?,https://vk.com/wall-64197511_4495,657.62,0
+23/06/2023,2023,3c 1000m,"Russian Juggling Convention, Dmitrov, Russia",Tingaev Stanislav,M,RUS,0:11:00.93,?,https://vk.com/wall-64197511_4495,660.93,0
 18/06/2023,2023,3b 50km,Trackathon,Tim Butler,M,GBR,5:58:05.00,?,https://www.joggling.co.uk/Marathon-List,21485.0,0
 17/06/2023,2023,3b 5km,Milano Nord Parkrun,Scott Jenkins,M,GBR,0:28:57.00,0,https://www.strava.com/activities/9280386127  https://www.parkrun.it/milanonord/results/271/,1737.0,0
 17/06/2023,2023,3b 5km,"Red Bank Classic, New Jersey",Karly Swaim,F,USA,0:29:13.00,?,https://my.raceresult.com/247292/results,1753.0,97
@@ -695,6 +780,56 @@ Inbox",1480.0,0
 28/07/2022,2022,3b 5km,Time Trial,John Baker,M,USA,0:16:56.00,?,https://www.instagram.com/p/CgiOHBcBGU6/,1016.0,499
 23/07/2022,2022,3b 5km,Newent Parkrun,Scott Jenkins,M,GBR,0:25:43.00,2,,1543.0,0
 23/07/2022,2022,3b Ultra (28m),Conquer the Castle,Tim Butler,M,GBR,5:27:25.00,?,https://www.joggling.co.uk/Marathon-List,19645.0,0
+17/07/2022,2022,3b 100m,"Saint-Petersburg Open Joggling Champinship, Saint-Petersburg, Russia",Kozlov Dmitry,M,RUS,0:00:21.26,?,https://vk.com/wall-16055255_8327,21.26,0
+17/07/2022,2022,3b 100m,"Saint-Petersburg Open Joggling Champinship, Saint-Petersburg, Russia",Yaroshenko Stepan,M,RUS,0:00:22.49,?,https://vk.com/wall-16055255_8327,22.49,0
+17/07/2022,2022,3b 100m,"Saint-Petersburg Open Joggling Champinship, Saint-Petersburg, Russia",Arsenyev Artyom,M,RUS,0:00:25.54,?,https://vk.com/wall-16055255_8327,25.54,0
+17/07/2022,2022,3c 100m,"Saint-Petersburg Open Joggling Champinship, Saint-Petersburg, Russia",Kozlov Dmitry,M,RUS,0:00:25.69,?,https://vk.com/wall-16055255_8327,25.69,0
+17/07/2022,2022,4b 100m,"Saint-Petersburg Open Joggling Champinship, Saint-Petersburg, Russia",Kozlov Dmitry,M,RUS,0:00:27.33,?,https://vk.com/wall-16055255_8327,27.33,0
+17/07/2022,2022,3c 100m,"Saint-Petersburg Open Joggling Champinship, Saint-Petersburg, Russia",Vorobey Artur,M,RUS,0:00:27.87,?,https://vk.com/wall-16055255_8327,27.87,0
+17/07/2022,2022,3b 100m,"Saint-Petersburg Open Joggling Champinship, Saint-Petersburg, Russia",Crack Ivan,M,RUS,0:00:31.25,?,https://vk.com/wall-16055255_8327,31.25,0
+17/07/2022,2022,3b 100m,"Saint-Petersburg Open Joggling Champinship, Saint-Petersburg, Russia",Stepanov Dmitry,M,RUS,0:00:31.60,?,https://vk.com/wall-16055255_8327,31.6,0
+17/07/2022,2022,4b 100m,"Saint-Petersburg Open Joggling Champinship, Saint-Petersburg, Russia",Vorobey Artur,M,RUS,0:00:32.30,?,https://vk.com/wall-16055255_8327,32.3,0
+17/07/2022,2022,3b 100m,"Saint-Petersburg Open Joggling Champinship, Saint-Petersburg, Russia",Vorobey Artur,M,RUS,0:00:33.78,?,https://vk.com/wall-16055255_8327,33.78,0
+17/07/2022,2022,3b 100m,"Saint-Petersburg Open Joggling Champinship, Saint-Petersburg, Russia",Chusovitin Artyom,M,RUS,0:00:35.90,?,https://vk.com/wall-16055255_8327,35.9,0
+17/07/2022,2022,3b 100m,"Saint-Petersburg Open Joggling Champinship, Saint-Petersburg, Russia",Zyablitsky Alexander,M,RUS,0:00:42.15,?,https://vk.com/wall-16055255_8327,42.15,0
+17/07/2022,2022,5b 100m,"Saint-Petersburg Open Joggling Champinship, Saint-Petersburg, Russia",Kozlov Dmitry,M,RUS,0:00:50.77,?,https://vk.com/wall-16055255_8327,50.77,0
+17/07/2022,2022,5b 100m,"Saint-Petersburg Open Joggling Champinship, Saint-Petersburg, Russia",Vorobey Artur,M,RUS,0:00:51.24,?,https://vk.com/wall-16055255_8327,51.24,0
+17/07/2022,2022,3c 100m,"Saint-Petersburg Open Joggling Champinship, Saint-Petersburg, Russia",Zyablitsky Alexander,M,RUS,0:00:59.47,?,https://vk.com/wall-16055255_8327,59.47,0
+17/07/2022,2022,3b 100m,"Saint-Petersburg Open Joggling Champinship, Saint-Petersburg, Russia",Novikova Julia,F,RUS,0:01:03.00,?,https://vk.com/wall-16055255_8327,63.0,0
+17/07/2022,2022,3c 100m,"Saint-Petersburg Open Joggling Champinship, Saint-Petersburg, Russia",Stepanov Dmitry,M,RUS,0:01:04.31,?,https://vk.com/wall-16055255_8327,64.31,0
+17/07/2022,2022,3b 100m,"Saint-Petersburg Open Joggling Champinship, Saint-Petersburg, Russia",Klementyeva Nadezhda,F,RUS,0:01:09.00,?,https://vk.com/wall-16055255_8327,69.0,0
+17/07/2022,2022,3b 100m,"Saint-Petersburg Open Joggling Champinship, Saint-Petersburg, Russia",Julia Len,F,RUS,0:01:10.40,?,https://vk.com/wall-16055255_8327,70.4,0
+17/07/2022,2022,3b 400m,"Saint-Petersburg Open Joggling Champinship, Saint-Petersburg, Russia",Yaroshenko Stepan,M,RUS,0:01:19.53,?,https://vk.com/wall-16055255_8327,79.53,0
+17/07/2022,2022,3b 400m,"Saint-Petersburg Open Joggling Champinship, Saint-Petersburg, Russia",Kozlov Dmitry,M,RUS,0:01:20.59,?,https://vk.com/wall-16055255_8327,80.59,0
+17/07/2022,2022,3b 400m,"Saint-Petersburg Open Joggling Champinship, Saint-Petersburg, Russia",Vorobey Artur,M,RUS,0:01:27.39,?,https://vk.com/wall-16055255_8327,87.39,0
+17/07/2022,2022,4b 100m,"Saint-Petersburg Open Joggling Champinship, Saint-Petersburg, Russia",Yaroshenko Stepan,M,RUS,0:01:32.55,?,https://vk.com/wall-16055255_8327,92.55,0
+17/07/2022,2022,3b 400m,"Saint-Petersburg Open Joggling Champinship, Saint-Petersburg, Russia",Chusovitin Artyom,M,RUS,0:01:41.50,?,https://vk.com/wall-16055255_8327,101.5,0
+17/07/2022,2022,3b 400m,"Saint-Petersburg Open Joggling Champinship, Saint-Petersburg, Russia",Arsenyev Artyom,M,RUS,0:01:47.05,?,https://vk.com/wall-16055255_8327,107.05,0
+17/07/2022,2022,4b 100m,"Saint-Petersburg Open Joggling Champinship, Saint-Petersburg, Russia",Zyablitsky Alexander,M,RUS,0:01:49.30,?,https://vk.com/wall-16055255_8327,109.3,0
+17/07/2022,2022,4b 400m,"Saint-Petersburg Open Joggling Champinship, Saint-Petersburg, Russia",Kozlov Dmitry,M,RUS,0:01:51.60,?,https://vk.com/wall-16055255_8327,111.6,0
+17/07/2022,2022,3b 400m,"Saint-Petersburg Open Joggling Champinship, Saint-Petersburg, Russia",Stepanov Dmitry,M,RUS,0:02:01.61,?,https://vk.com/wall-16055255_8327,121.61,0
+17/07/2022,2022,4b 400m,"Saint-Petersburg Open Joggling Champinship, Saint-Petersburg, Russia",Vorobey Artur,M,RUS,0:02:03.37,?,https://vk.com/wall-16055255_8327,123.37,0
+17/07/2022,2022,3b 400m,"Saint-Petersburg Open Joggling Champinship, Saint-Petersburg, Russia",Zyablitsky Alexander,M,RUS,0:02:08.01,?,https://vk.com/wall-16055255_8327,128.01,0
+17/07/2022,2022,3b 400m,"Saint-Petersburg Open Joggling Champinship, Saint-Petersburg, Russia",Crack Ivan,M,RUS,0:02:08.70,?,https://vk.com/wall-16055255_8327,128.7,0
+17/07/2022,2022,3c 100m,"Saint-Petersburg Open Joggling Champinship, Saint-Petersburg, Russia",Novikova Julia,F,RUS,0:02:12.83,?,https://vk.com/wall-16055255_8327,132.83,0
+17/07/2022,2022,3c 400m,"Saint-Petersburg Open Joggling Champinship, Saint-Petersburg, Russia",Zyablitsky Alexander,M,RUS,0:02:31.11,?,https://vk.com/wall-16055255_8327,151.11,0
+17/07/2022,2022,3c 400m,"Saint-Petersburg Open Joggling Champinship, Saint-Petersburg, Russia",Arsenyev Artyom,M,RUS,0:03:08.61,?,https://vk.com/wall-16055255_8327,188.61,0
+17/07/2022,2022,5b 400m,"Saint-Petersburg Open Joggling Champinship, Saint-Petersburg, Russia",Vorobey Artur,M,RUS,0:03:19.57,?,https://vk.com/wall-16055255_8327,199.57,0
+17/07/2022,2022,3c 400m,"Saint-Petersburg Open Joggling Champinship, Saint-Petersburg, Russia",Stepanov Dmitry,M,RUS,0:03:27.57,?,https://vk.com/wall-16055255_8327,207.57,0
+17/07/2022,2022,3b 400m,"Saint-Petersburg Open Joggling Champinship, Saint-Petersburg, Russia",Novikova Julia,F,RUS,0:03:28.10,?,https://vk.com/wall-16055255_8327,208.1,0
+17/07/2022,2022,3b 400m,"Saint-Petersburg Open Joggling Champinship, Saint-Petersburg, Russia",Klementyeva Nadezhda,F,RUS,0:03:33.86,?,https://vk.com/wall-16055255_8327,213.86,0
+17/07/2022,2022,5b 400m,"Saint-Petersburg Open Joggling Champinship, Saint-Petersburg, Russia",Kozlov Dmitry,M,RUS,0:03:44.72,?,https://vk.com/wall-16055255_8327,224.72,0
+17/07/2022,2022,3b 1000m,"Saint-Petersburg Open Joggling Champinship, Saint-Petersburg, Russia",Yaroshenko Stepan,M,RUS,0:03:55.30,?,https://vk.com/wall-16055255_8327,235.3,2
+17/07/2022,2022,4b 400m,"Saint-Petersburg Open Joggling Champinship, Saint-Petersburg, Russia",Zyablitsky Alexander,M,RUS,0:04:29.41,?,https://vk.com/wall-16055255_8327,269.41,0
+17/07/2022,2022,5b 100m,"Saint-Petersburg Open Joggling Champinship, Saint-Petersburg, Russia",Zyablitsky Alexander,M,RUS,0:04:35.10,?,https://vk.com/wall-16055255_8327,275.1,0
+17/07/2022,2022,3b 400m,"Saint-Petersburg Open Joggling Champinship, Saint-Petersburg, Russia",Julia Len,F,RUS,0:04:49.85,?,https://vk.com/wall-16055255_8327,289.85,0
+17/07/2022,2022,3b 1000m,"Saint-Petersburg Open Joggling Champinship, Saint-Petersburg, Russia",Butrin Ilya,M,RUS,0:04:57.89,?,https://vk.com/wall-16055255_8327,297.89,0
+17/07/2022,2022,3b 1000m,"Saint-Petersburg Open Joggling Champinship, Saint-Petersburg, Russia",Chusovitin Artyom,M,RUS,0:04:59.71,?,https://vk.com/wall-16055255_8327,299.71,0
+17/07/2022,2022,3b 1000m,"Saint-Petersburg Open Joggling Champinship, Saint-Petersburg, Russia",Arsenyev Artyom,M,RUS,0:05:10.77,?,https://vk.com/wall-16055255_8327,310.77,0
+17/07/2022,2022,3b 1000m,"Saint-Petersburg Open Joggling Champinship, Saint-Petersburg, Russia",Crack Ivan,M,RUS,0:05:15.36,?,https://vk.com/wall-16055255_8327,315.36,0
+17/07/2022,2022,3b 3000m,"Saint-Petersburg Open Joggling Champinship, Saint-Petersburg, Russia",Butrin Ilya,M,RUS,0:14:12.77,?,https://vk.com/wall-16055255_8327,852.77,0
+17/07/2022,2022,3b 3000m,"Saint-Petersburg Open Joggling Champinship, Saint-Petersburg, Russia",Stepanov Dmitry,M,RUS,0:14:27.56,?,https://vk.com/wall-16055255_8327,867.56,0
+17/07/2022,2022,3b 3000m,"Saint-Petersburg Open Joggling Champinship, Saint-Petersburg, Russia",Crack Ivan,M,RUS,0:16:11.41,?,https://vk.com/wall-16055255_8327,971.41,0
 10/07/2022,2022,3b Half Marathon,Ilkely Half Marathon,Chris Edwin,M,GBR,1:41:40.00,0,,6100.0,86
 10/07/2022,2022,3b 10km,"IJA, Virtual",Michael-Lucien Bergeron,M,CAN,0:34:47.00,?,IJA Database,2087.0,595
 09/07/2022,2022,3b 5km,Abingdon Parkrun,Scott Jenkins,M,GBR,0:26:58.00,?,,1618.0,0
@@ -809,6 +944,82 @@ Inbox",1480.0,0
 14/08/2021,2021,3b 5km,"Dishley, Loughborough Parkrun",Scott Jenkins,M,GBR,0:22:37.00,?,,1357.0,19
 14/08/2021,2021,3b 5km,Eastville Parkrun,Nati Tuppen,F,GBR,0:35:30.00,?,https://www.parkrun.org.uk/eastville/news/2021/08/14/course-record-falls-and-joggling-comes-to-eastville-park/   https://www.parkrun.org.uk/eastville/results/121/,2130.0,0
 14/08/2021,2021,3b Marathon,Horseshoe Challenge,Tim Butler,M,GBR,4:26:37.00,?,https://www.joggling.co.uk/Marathon-List,15997.0,0
+25/7/2021,2021,3b 60m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Kirill Sergeev,M,RUS,0:00:16.11,?,https://vk.com/wall-16055255_8154,16.11,0
+25/7/2021,2021,3b 60m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Ilya Polyakov,M,RUS,0:00:09.60,?,https://vk.com/wall-16055255_8154,9.6,0
+25/7/2021,2021,4b 60m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Dmitry Kozlov,M,RUS,0:00:09.85,?,https://vk.com/wall-16055255_8154,9.85,0
+25/7/2021,2021,3b 60m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Dmitry Kozlov,M,RUS,0:00:10.10,?,https://vk.com/wall-16055255_8154,10.1,0
+25/7/2021,2021,3b 60m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Antonina Tsvetkova,F,RUS,0:00:12.51,?,https://vk.com/wall-16055255_8154,12.51,0
+25/7/2021,2021,3b 60m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Peter Zaitsev,M,RUS,0:00:12.60,?,https://vk.com/wall-16055255_8154,12.6,0
+25/7/2021,2021,3b 60m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Alexander Khlebodarov,M,RUS,0:00:14.40,?,https://vk.com/wall-16055255_8154,14.4,0
+25/7/2021,2021,3c 60m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Ilya Polyakov,M,RUS,0:00:14.40,?,https://vk.com/wall-16055255_8154,14.4,0
+25/7/2021,2021,3b 60m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Korunkov Evgeny,M,RUS,0:00:14.50,?,https://vk.com/wall-16055255_8154,14.5,0
+25/7/2021,2021,3b 60m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Ulezlo Elvira,F,RUS,0:00:14.58,?,https://vk.com/wall-16055255_8154,14.58,0
+25/7/2021,2021,3b 60m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Shchipakin Konstantin,M,RUS,0:00:14.80,?,https://vk.com/wall-16055255_8154,14.8,0
+25/7/2021,2021,3c 60m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Shvetsov Vladislav,M,RUS,0:00:14.80,?,https://vk.com/wall-16055255_8154,14.8,0
+25/7/2021,2021,3c 60m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Dmitry Kozlov,M,RUS,0:00:16.20,?,https://vk.com/wall-16055255_8154,16.2,0
+25/7/2021,2021,3b 60m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Crack Ivan,M,RUS,0:00:16.60,?,https://vk.com/wall-16055255_8154,16.6,0
+25/7/2021,2021,5b 60m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Ilya Polyakov,M,RUS,0:00:17.50,?,https://vk.com/wall-16055255_8154,17.5,0
+25/7/2021,2021,3c 60m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Aleksandra Korsakova,F,RUS,0:00:17.70,?,https://vk.com/wall-16055255_8154,17.7,0
+25/7/2021,2021,4b 60m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Ilya Polyakov,M,RUS,0:00:18.00,?,https://vk.com/wall-16055255_8154,18.0,0
+25/7/2021,2021,3b 60m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Yaroshenko Stepan,M,RUS,0:00:18.20,?,https://vk.com/wall-16055255_8154,18.2,0
+25/7/2021,2021,3b 60m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Artem Chusovitin,M,RUS,0:00:19.30,?,https://vk.com/wall-16055255_8154,19.3,0
+25/7/2021,2021,3c 60m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Kirill Sergeev,M,RUS,0:00:19.30,?,https://vk.com/wall-16055255_8154,19.3,0
+25/7/2021,2021,3c 60m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Korunkov Evgeny,M,RUS,0:00:19.80,?,https://vk.com/wall-16055255_8154,19.8,0
+25/7/2021,2021,3c 60m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Ulezlo Elvira,F,RUS,0:00:20.00,?,https://vk.com/wall-16055255_8154,20.0,0
+25/7/2021,2021,4b 60m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Korunkov Evgeny,M,RUS,0:00:22.59,?,https://vk.com/wall-16055255_8154,22.59,0
+25/7/2021,2021,3b 60m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Kiryushkin Anton,M,RUS,0:00:23.00,?,https://vk.com/wall-16055255_8154,23.0,0
+25/7/2021,2021,3b 60m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Aleksandra Korsakova,F,RUS,0:00:25.27,?,https://vk.com/wall-16055255_8154,25.27,0
+25/7/2021,2021,3b 60m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Alexander Dekhtyarev,M,RUS,0:00:25.60,?,https://vk.com/wall-16055255_8154,25.6,0
+25/7/2021,2021,3c 60m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Antonina Tsvetkova,F,RUS,0:00:25.90,?,https://vk.com/wall-16055255_8154,25.9,0
+25/7/2021,2021,5b 60m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Dmitry Kozlov,M,RUS,0:00:26.10,?,https://vk.com/wall-16055255_8154,26.1,0
+25/7/2021,2021,3b 60m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Jurabayeva Yasya,F,RUS,0:00:28.84,?,https://vk.com/wall-16055255_8154,28.84,0
+25/7/2021,2021,3b 60m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Julia Len,F,RUS,0:00:32.60,?,https://vk.com/wall-16055255_8154,32.6,0
+25/7/2021,2021,3b 200m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Ilya Polyakov,M,RUS,0:00:33.70,?,https://vk.com/wall-16055255_8154,33.7,16
+25/7/2021,2021,3b 200m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Dmitry Kozlov,M,RUS,0:00:34.20,?,https://vk.com/wall-16055255_8154,34.2,8
+25/7/2021,2021,4b 60m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Peter Zaitsev,M,RUS,0:00:34.40,?,https://vk.com/wall-16055255_8154,34.4,0
+25/7/2021,2021,3b 200m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Yaroshenko Stepan,M,RUS,0:00:36.30,?,https://vk.com/wall-16055255_8154,36.3,0
+25/7/2021,2021,3b 60m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Pavel Stulikov,M,RUS,0:00:41.00,?,https://vk.com/wall-16055255_8154,41.0,0
+25/7/2021,2021,5b 60m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Korunkov Evgeny,M,RUS,0:00:41.20,?,https://vk.com/wall-16055255_8154,41.2,0
+25/7/2021,2021,3c 60m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Alexander Dekhtyarev,M,RUS,0:00:42.20,?,https://vk.com/wall-16055255_8154,42.2,0
+25/7/2021,2021,4b 200m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Ilya Polyakov,M,RUS,0:00:43.10,?,https://vk.com/wall-16055255_8154,43.1,0
+25/7/2021,2021,3? 200m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Shvetsov Vladislav,M,RUS,0:00:44.90,?,https://vk.com/wall-16055255_8154,44.9,0
+25/7/2021,2021,3? 200m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Ilya Polyakov,M,RUS,0:00:48.60,?,https://vk.com/wall-16055255_8154,48.6,0
+25/7/2021,2021,3b 200m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Artem Chusovitin,M,RUS,0:00:49.70,?,https://vk.com/wall-16055255_8154,49.7,0
+25/7/2021,2021,3b 200m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Peter Zaitsev,M,RUS,0:00:49.80,?,https://vk.com/wall-16055255_8154,49.8,0
+25/7/2021,2021,3b 200m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Crack Ivan,M,RUS,0:00:50.80,?,https://vk.com/wall-16055255_8154,50.8,0
+25/7/2021,2021,3c 60m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Shchipakin Konstantin,M,RUS,0:00:55.60,?,https://vk.com/wall-16055255_8154,55.6,0
+25/7/2021,2021,4b 200m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Dmitry Kozlov,M,RUS,0:00:56.50,?,https://vk.com/wall-16055255_8154,56.5,0
+25/7/2021,2021,3b 200m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Alexander Khlebodarov,M,RUS,0:00:57.80,?,https://vk.com/wall-16055255_8154,57.8,0
+25/7/2021,2021,3b 60m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Diana Diane,F,RUS,0:00:58.40,?,https://vk.com/wall-16055255_8154,58.4,0
+25/7/2021,2021,3? 200m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Dmitry Kozlov,M,RUS,0:00:58.70,?,https://vk.com/wall-16055255_8154,58.7,0
+25/7/2021,2021,3b 200m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Antonina Tsvetkova,F,RUS,0:00:58.80,?,https://vk.com/wall-16055255_8154,58.8,0
+25/7/2021,2021,3b 200m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Alexander Dekhtyarev,M,RUS,0:00:59.70,?,https://vk.com/wall-16055255_8154,59.7,0
+25/7/2021,2021,3c 60m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Julia Novikova,F,RUS,0:01:01.00,?,https://vk.com/wall-16055255_8154,61.0,0
+25/7/2021,2021,3b 200m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Kirill Sergeev,M,RUS,0:01:02.25,?,https://vk.com/wall-16055255_8154,62.25,0
+25/7/2021,2021,3b 200m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Aleksandra Korsakova,F,RUS,0:01:07.38,?,https://vk.com/wall-16055255_8154,67.38,0
+25/7/2021,2021,3b 200m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Kiryushkin Anton,M,RUS,0:01:09.54,?,https://vk.com/wall-16055255_8154,69.54,0
+25/7/2021,2021,3b 200m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Ulezlo Elvira,F,RUS,0:01:18.00,?,https://vk.com/wall-16055255_8154,78.0,0
+25/7/2021,2021,3b 200m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Jurabayeva Yasya,F,RUS,0:01:21.00,?,https://vk.com/wall-16055255_8154,81.0,0
+25/7/2021,2021,3? 200m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Ulezlo Elvira,F,RUS,0:01:24.00,?,https://vk.com/wall-16055255_8154,84.0,0
+25/7/2021,2021,3b 200m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Shchipakin Konstantin,M,RUS,0:01:27.00,?,https://vk.com/wall-16055255_8154,87.0,0
+25/7/2021,2021,4b 200m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Peter Zaitsev,M,RUS,0:01:36.00,?,https://vk.com/wall-16055255_8154,96.0,0
+25/7/2021,2021,5b 200m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Dmitry Kozlov,M,RUS,0:01:39.00,?,https://vk.com/wall-16055255_8154,99.0,0
+25/7/2021,2021,3? 200m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Antonina Tsvetkova,F,RUS,0:01:47.03,?,https://vk.com/wall-16055255_8154,107.03,0
+25/7/2021,2021,3b 200m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Julia Novikova,F,RUS,0:01:52.40,?,https://vk.com/wall-16055255_8154,112.4,0
+25/7/2021,2021,5b 200m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Ilya Polyakov,M,RUS,0:02:00.00,?,https://vk.com/wall-16055255_8154,120.0,0
+25/7/2021,2021,3b 200m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Diana Diane,F,RUS,0:02:10.00,?,https://vk.com/wall-16055255_8154,130.0,0
+25/7/2021,2021,3b 200m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Julia Len,F,RUS,0:02:11.00,?,https://vk.com/wall-16055255_8154,131.0,0
+25/7/2021,2021,3? 200m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Alexander Dekhtyarev,M,RUS,0:02:41.00,?,https://vk.com/wall-16055255_8154,161.0,0
+25/7/2021,2021,3? 200m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Julia Novikova,F,RUS,0:03:07.00,?,https://vk.com/wall-16055255_8154,187.0,0
+25/7/2021,2021,3b 1000m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Yaroshenko Stepan,M,RUS,0:03:45.00,?,https://vk.com/wall-16055255_8154,225.0,24
+25/7/2021,2021,3b 1000m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Ilya Polyakov,M,RUS,0:03:55.00,?,https://vk.com/wall-16055255_8154,235.0,2
+25/7/2021,2021,3b 1000m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Peter Zaitsev,M,RUS,0:04:11.00,?,https://vk.com/wall-16055255_8154,251.0,0
+25/7/2021,2021,3b 1000m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Kiryushkin Anton,M,RUS,0:05:10.00,?,https://vk.com/wall-16055255_8154,310.0,0
+25/7/2021,2021,3b 1000m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Crack Ivan,M,RUS,0:05:34.00,?,https://vk.com/wall-16055255_8154,334.0,0
+25/7/2021,2021,3b 1000m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Artem Chusovitin,M,RUS,0:05:54.00,?,https://vk.com/wall-16055255_8154,354.0,0
+25/7/2021,2021,3b 1000m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Ulezlo Elvira,F,RUS,0:06:03.00,?,https://vk.com/wall-16055255_8154,363.0,0
+25/7/2021,2021,3b 1000m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Alexander Khlebodarov,M,RUS,0:06:28.00,?,https://vk.com/wall-16055255_8154,388.0,0
+25/7/2021,2021,3b 1000m,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",Alexander Dekhtyarev,M,RUS,0:06:36.00,?,https://vk.com/wall-16055255_8154,396.0,0
 21/07/2021,2021,3b Mile,"Harrisburg Mile Race, PA",Tim Ebersole,M,USA,0:05:47.00,?,https://falconracetiming.com/racetimes/Harrisburg%20Mile%20Overall%202021.htm,347.0,162
 10/07/2021,2021,3b Ultra (40m),Dukeries 40,Tim Butler,M,GBR,8:21:43.00,?,https://www.joggling.co.uk/Marathon-List,30103.0,0
 19/06/2021,2021,3b Ultra (28m),The Halo Chesterfield,Tim Butler,M,GBR,5:50:08.00,?,https://www.joggling.co.uk/Marathon-List,21008.0,0
@@ -1074,7 +1285,7 @@ Inbox",1480.0,0
 https://www.parkrun.us/eagan/results/64/",1357.0,19
 01/08/2018,2018,3b 1000m,Time Trial,Jannik Weiss,M,DEU,0:02:41.67,0,https://www.youtube.com/watch?v=gI1bCx23-cc,161.67,658
 28/07/2018,2018,3b 5km,Gloucester North Parkrun,Jordan Evans,M,GBR,0:21:26.00,?,https://www.strava.com/activities/1732580500,1286.0,65
-28/07/2018,2018,3b Marathon,Dusk Till Dawn,Tim Butler,M,GBR,4:56:48.00,?,https://www.joggling.co.uk/Marathon-List,17808.0,0
+28/07/2018,2018,3b Marathon,Manvers Dusk Till Dawn,Tim Butler,M,GBR,4:56:48.00,?,https://www.joggling.co.uk/Marathon-List,17808.0,0
 24/07/2018,2018,3b 100m,"IJA, Springfield",Gabrielle Foran,F,CAN,0:00:18.50,?,IJA Database,18.5,120
 24/07/2018,2018,3b 100m,"IJA, Springfield",Bryan Harris,M,0,0:00:14.00,?,IJA Database,14.0,220
 24/07/2018,2018,5b 100m,"IJA, Springfield",Matthew Feldman,M,USA,0:00:14.10,?,IJA Database,14.1,205
@@ -1264,7 +1475,7 @@ https://www.parkrun.us/eagan/results/64/",1357.0,19
 30/07/2017,2017,3b 10km,Gloucester Race 4 Men,Jordan Evans,M,GBR,0:44:15.00,?,https://www.strava.com/activities/1108372759,2655.0,128
 29/07/2017,2017,3b 5km,"Windsor 5k Fun Run, Nova Scotia",Bradley Fiander,M,CAN,0:20:45.00,?,https://results.raceroster.com/v2/en-CA/results/rvd77z5qbtrc4q3c/results?subEvent=&search=Fiander&page=1    https://www.facebook.com/513379212/posts/10155174605369213/?substory_index=652552003056853&app=fbl,1245.0,105
 29/07/2017,2017,3b 5km,Cheltenham Parkrun,Jordan Evans,M,GBR,0:20:50.00,?,https://www.strava.com/activities/1106537994,1250.0,100
-29/07/2017,2017,3b Ulta (41.7m),Dusk Till Dawn,Tim Butler,M,GBR,12:00:00.00,?,https://www.joggling.co.uk/Marathon-List,43200.0,0
+29/07/2017,2017,3b Ultra (41.7m),Manvers Dusk Till Dawn,Tim Butler,M,GBR,12:00:00.00,?,https://www.joggling.co.uk/Marathon-List,43200.0,0
 15/07/2017,2017,3b 100m,"IJA, Cedar Rapids",Gabrielle Foran,F,CAN,0:00:18.27,?,IJA Database,18.27,137
 15/07/2017,2017,3b 4x100m,"IJA, Cedar Rapids","Mike Moore, Mark Fiore, Gabrielle Foran, Jacob Heimer",Mixed,0,0:01:10.30,?,IJA Database,70.3,0
 15/07/2017,2017,3b 100m,"IJA, Cedar Rapids",Mark Fiore,M,USA,0:00:14.28,?,IJA Database,14.28,180
@@ -1287,7 +1498,7 @@ https://www.parkrun.us/eagan/results/64/",1357.0,19
 15/07/2017,2017,3b 100m,"IJA, Cedar Rapids",Nick Pisanelli,M,0,0:00:29.75,?,IJA Database,29.75,0
 15/07/2017,2017,3b 100m,"IJA, Cedar Rapids",Eva Hadjiyanis,F,0,0:00:29.90,?,IJA Database,29.9,0
 15/07/2017,2017,3b 100m,"IJA, Cedar Rapids",Rebecca Moore,F,0,0:00:30.31,?,IJA Database,30.31,0
-15/07/2017,2017,5b 100m,"IJA, Cedar Rapids",Benett Santora,M,0,0:00:30.85,?,IJA Database,30.85,0
+15/07/2017,2017,5b 100m,"IJA, Cedar Rapids",Bennett Santora,M,0,0:00:30.85,?,IJA Database,30.85,0
 15/07/2017,2017,3b 100m,"IJA, Cedar Rapids",Mike Patsch,M,0,0:00:31.72,?,IJA Database,31.72,0
 15/07/2017,2017,3b 100m,"IJA, Cedar Rapids",Kyle Albrecht,M,0,0:00:32.00,?,IJA Database,32.0,0
 15/07/2017,2017,3b 100m,"IJA, Cedar Rapids",Elizabeth Stockbridge,F,0,0:00:32.00,?,IJA Database,32.0,0
@@ -1320,7 +1531,7 @@ https://www.parkrun.us/eagan/results/64/",1357.0,19
 15/07/2017,2017,3b 400m,"IJA, Cedar Rapids",Elizabeth Stockbridge,F,0,0:01:31.90,?,IJA Database,91.9,109
 15/07/2017,2017,3b 400m,"IJA, Cedar Rapids",Laura Schroeder,F,0,0:01:33.00,?,IJA Database,93.0,96
 15/07/2017,2017,3b 4x100m,"IJA, Cedar Rapids","Patrick Russell, Jared Ashton, Peter Holmquist, Kyle Albrecht",M,0,0:01:34.00,?,IJA Database,94.0,0
-15/07/2017,2017,3b 400m,"IJA, Cedar Rapids",Benett Santora,M,0,0:01:34.40,?,IJA Database,94.4,0
+15/07/2017,2017,3b 400m,"IJA, Cedar Rapids",Bennett Santora,M,0,0:01:34.40,?,IJA Database,94.4,0
 15/07/2017,2017,3b 400m,"IJA, Cedar Rapids",Carter Randall,M,0,0:01:35.60,?,IJA Database,95.6,0
 15/07/2017,2017,3b 400m,"IJA, Cedar Rapids",Martin Hiti,M,0,0:01:39.80,?,IJA Database,99.8,0
 15/07/2017,2017,3b 400m,"IJA, Cedar Rapids",Patrick Russell,M,0,0:01:39.80,?,IJA Database,99.8,0
@@ -1410,7 +1621,7 @@ https://www.parkrun.us/eagan/results/64/",1357.0,19
 18/06/2017,2017,3b 10km,"Running of the Balls 10k, New York",Jack Hirschowitz,M,USA,1:00:01.00,?,https://nycruns.com/race-results?race=the-running-of-the-balls-5k-10k-2&result=241892,3601.0,0
 17/06/2017,2017,3b 5km,Gloucester North Parkrun,Jordan Evans,M,GBR,0:20:39.00,?,https://www.strava.com/activities/1040339086,1239.0,112
 10/06/2017,2017,3b 5km,Kingsway Parkrun,Jordan Evans,M,GBR,0:20:14.00,?,https://www.strava.com/activities/1029177556,1214.0,141
-04/06/2017,2017,3b Ulta (35m),Shires and Spires Ultra,Tim Butler,M,GBR,6:52:16.00,?,https://www.joggling.co.uk/Marathon-List,24736.0,0
+04/06/2017,2017,3b Ultra (35m),Shires and Spires Ultra,Tim Butler,M,GBR,6:52:16.00,?,https://www.joggling.co.uk/Marathon-List,24736.0,0
 03/06/2017,2017,3b 5km,Kingsway Parkrun,Jordan Evans,M,GBR,0:21:17.00,?,https://www.strava.com/activities/1018599588,1277.0,73
 28/05/2017,2017,3b Marathon,"Winterthur Marathon, Switzerland",Daniel Raum,M,AUT,3:38:52.00,?,https://www.alphafoto.com/images.php?runID=875&sn=109       https://www.datasport.com/live/startlist/?racenr=21167,13132.0,116
 28/05/2017,2017,3b Marathon,Edinburgh Marathon,Tim Butler,M,GBR,4:35:41.00,?,https://www.joggling.co.uk/Marathon-List,16541.0,0
@@ -1508,7 +1719,7 @@ https://www.parkrun.us/eagan/results/64/",1357.0,19
 30/07/2016,2016,3b Mile,"IJA, El Paso, Texas",Anthony Zeszut,M,0,0:13:09.00,?,IJA Database,789.0,0
 30/07/2016,2016,3b 800m,"IJA, El Paso, Texas",Gabrielle Foran,F,CAN,0:02:44.40,?,IJA Database,164.4,504
 30/07/2016,2016,3b Mile,"IJA, El Paso, Texas",Gabrielle Foran,F,CAN,0:05:40.00,?,IJA Database,340.0,670
-05/06/2016,2016,3b Ulta (35m),Shires and Spires Ultra,Tim Butler,M,GBR,7:12:33.00,?,https://www.joggling.co.uk/Marathon-List,25953.0,0
+05/06/2016,2016,3b Ultra (35m),Shires and Spires Ultra,Tim Butler,M,GBR,7:12:33.00,?,https://www.joggling.co.uk/Marathon-List,25953.0,0
 04/06/2016,2016,3b 10km,"Moon in June, Burlington, Ontario",Gabrielle Foran,F,CAN,0:40:06.00,?,http://www.recordholders.org/en/list/joggling.html,2406.0,763
 29/05/2016,2016,3b Marathon,"Winterthur Marathon, Switzerland",Daniel Raum,M,AUT,3:20:45.00,?,https://www.alphafoto.com/images.php?runID=752&sn=81       https://www.datasport.com/live/startlist/?racenr=21167,12045.0,241
 21/05/2016,2016,3b 5km,Blue Nose 5km,Graydon Snider,M,CAN,0:17:42.00,?,https://www.sportstats.ca/display-results.xhtml?raceid=29483,1062.0,396
@@ -1731,6 +1942,8 @@ https://www.parkrun.us/eagan/results/64/",1357.0,19
 19/10/2014,2014,3b Half Marathon,Toronto Waterfront Half Marathon,Michal Kapral,M,CAN,1:20:40.00,?,,4840.0,484
 12/10/2014,2014,3b Marathon,Chicago Marathon,Perry Romanowski,M,USA,3:40:45.00,?,https://chicago-history.r.mikatiming.com/2021/?pid=search,13245.0,105
 28/09/2014,2014,3b Marathon,"Yonkers Marathon, New York",Chris Pert,M,USA,3:40:40.00,0,https://marathonview.net/search?query=christopher%20pert,13240.0,106
+27/09/2014,2014,3b 50 Mile,Time Trial,Daniel Raum,M,AUT,8:23:20.00,?,https://www.donaukurier.de/archiv/der-jonglierende-marathonlaeufer-3387708,30200.0,0
+27/09/2014,2014,3b 100km,Time Trial,Daniel Raum,M,AUT,11:05:18.00,?,https://www.donaukurier.de/archiv/der-jonglierende-marathonlaeufer-3387708,39918.0,0
 02/08/2014,2014,3b 100m,"IJA, West Lafayette",Gabrielle Foran,F,CAN,0:00:17.70,?,IJA Database,17.7,182
 02/08/2014,2014,3b 400m,"IJA, West Lafayette",Gabrielle Foran,F,CAN,0:01:16.60,?,IJA Database,76.6,373
 02/08/2014,2014,3b 4x100m,"IJA, West Lafayette","Gabrielle Foran, Heather Marriott, Delaney Bayles, Chloe Hirschowitz",F,0,0:01:26.00,?,IJA Database,86.0,55
@@ -2048,6 +2261,7 @@ https://www.parkrun.us/eagan/results/64/",1357.0,19
 07/04/2013,2013,3b Marathon,Paris Marathon,Richard Ross,M,USA,4:00:43.00,?,https://marathonview.net/result/66848234,14443.0,25
 07/10/2012,2012,3b Marathon,"Trapline Marathon, Labrador, Newfoundland",Michal Kapral,M,CAN,2:59:32.00,?,https://www.nlaa.ca/results/rr/2012/20121007traplinemarathon.php,10772.0,445
 07/10/2012,2012,3b Marathon,Chicago Marathon,Perry Romanowski,M,USA,3:40:50.00,?,https://chicago-history.r.mikatiming.com/2021/?pid=search,13250.0,105
+07/10/2012,2012,3b 50km,Sparkasse Marathon,Daniel Raum,M,AUT,4:55:24.00,?,https://www.recordholders.org/en/list/joggling.html,17724.0,0
 13/08/2012,2012,3b Mile,"Pride Stadium, Clio MI",Riley McLincha,M,USA,0:08:44.00,0,https://recordsetter.com/world-record/run-mile-while-dribbling-three-basketballs/17315?autoplay=false,524.0,0
 27/07/2012,2012,5b Mile,Time Trial,Matthew Feldman,M,USA,0:06:33.00,?,,393.0,16
 21/07/2012,2012,3b 100m,"IJA, Winston-Salem",Albert Lucas,M,USA,0:00:14.10,?,IJA Database,14.1,205
@@ -2198,7 +2412,7 @@ https://www.parkrun.us/eagan/results/64/",1357.0,19
 06/11/2011,2011,3b Marathon,New York City Marathon,Jack Hirschowitz,M,USA,4:43:53.00,?,http://www.marathonguide.com/results/search.cfm,17033.0,0
 29/10/2011,2011,3b 5km,"Race for the Cure in Nashville, Tennessee",Bob Evans,M,USA,0:16:51.00,?,https://www.prweb.com/releases/catchitearly/joggling-world-record/prweb8929941.htm,1011.0,511
 09/10/2011,2011,3b Marathon,Chicago Marathon,Perry Romanowski,M,USA,3:35:58.00,?,https://chicago-history.r.mikatiming.com/2021/?pid=search,12958.0,133
-28/08/2011,2011,3b Ulta (57m),Boston 12 Hour Race,Tim Butler,M,GBR,12:00:00.00,?,https://www.joggling.co.uk/Marathon-List,43200.0,0
+28/08/2011,2011,3b Ultra (57m),Boston 12 Hour Race,Tim Butler,M,GBR,12:00:00.00,?,https://www.joggling.co.uk/Marathon-List,43200.0,0
 09/08/2011,2011,5b 400m,Time Trial,Matthew Feldman,M,USA,0:01:10.50,0,https://www.youtube.com/watch?v=cLH2TQC3KiQ  https://www.guinnessworldrecords.com/world-records/fastest-400-m-joggling-with-five-objects-male,70.5,73
 20/07/2011,2011,3b 100m,"IJA, Rochester",Chris Lovdal,M,0,0:00:14.28,?,IJA Database,14.28,180
 20/07/2011,2011,3b 100m,"IJA, Rochester",Tyler Wishau,M,USA,0:00:14.48,?,IJA Database,14.48,155
@@ -2412,7 +2626,7 @@ https://www.parkrun.us/eagan/results/64/",1357.0,19
 10/10/2010,2010,3b Marathon,Chicago Marathon,Perry Romanowski,M,USA,3:38:08.00,?,https://chicago-history.r.mikatiming.com/2021/?pid=search,13088.0,120
 10/10/2010,2010,5b Marathon,Chicago Marathon,Barry Goldmeier,M,USA,5:51:41.00,?,http://www.marathonguide.com/results/browse.cfm?MIDD=67101010&Gen=B&Begin=31706&End=31805&Max=36159,21101.0,0
 08/08/2010,2010,3c Half Marathon,Newark Half Marathon,Tim Butler,M,GBR,2:24:00.00,?,https://www.youtube.com/watch?v=K0y6jjFVx7o  https://www.facebook.com/photo/?fbid=1467928150956&set=a.1200853594259,8640.0,0
-23/07/2010,2010,3b Ulta (70m),Grimsthorpe Ultramarathon,Tim Butler,M,GBR,20:28:00.00,?,https://www.joggling.co.uk/Marathon-List,73680.0,0
+23/07/2010,2010,3b Ultra (70m),Grimsthorpe Ultramarathon,Tim Butler,M,GBR,20:28:00.00,?,https://www.joggling.co.uk/Marathon-List,73680.0,0
 20/07/2010,2010,3b 100m,"IJA, Nevada",Tyler Wishau,M,USA,0:00:13.90,?,https://dev.juggle.org/history/champs/champs2010.php,13.9,235
 20/07/2010,2010,3b 100m,"IJA, Nevada",Chris Lovdal,M,0,0:00:13.90,?,https://dev.juggle.org/history/champs/champs2010.php,13.9,235
 20/07/2010,2010,3b 100m,"IJA, Nevada",Dylan Waickman,M,0,0:00:14.20,?,https://dev.juggle.org/history/champs/champs2010.php,14.2,191
@@ -2867,6 +3081,7 @@ https://www.parkrun.us/eagan/results/64/",1357.0,19
 15/07/2008,2008,3b 5km,"IJA, Kentucky",Tom McClintock,M,0,0:29:20.00,?,https://dev.juggle.org/history/champs/champs2008.php,1760.0,0
 22/06/2008,2008,3b 10km,Leeds 10km,Ralph Kidner,M,GBR,1:12:00.00,82,https://www.facebook.com/photo/?fbid=10231140425355467,4320.0,0
 13/04/2008,2008,3b Marathon,London Marathon,Perry Romanowski,M,USA,3:35:36.00,?,https://marathonview.net/result/45354889,12936.0,135
+27/10/2007,2007,3b 50 Mile,"Lakefront 50 Mile Ultra, Chicago",Perry Romanowski,M,USA,8:23:42.00,?,https://justyouraveragejoggler.com/joggling-the-lakefront-50-mile-ultra-marathon-part-1/  https://justyouraveragejoggler.com/there-is-a-new-joggling-50-mile-record/,30222.0,0
 14/10/2007,2007,3b Marathon,Munich Marathon,Peter Meyer,M,DEU,4:10:07.00,1,https://marathonview.net/search?query=peter%20meyer  http://home.mnet-online.de/joggling/aboutme_d.htm,15007.0,6
 07/10/2007,2007,3b Marathon,Chicago Marathon,Perry Romanowski,M,USA,3:59:00.00,?,https://chicago-history.r.mikatiming.com/2021/?pid=search,14340.0,30
 30/09/2007,2007,3b Marathon,Toronto Waterfront Marathon,Michal Kapral,M,CAN,2:50:12.00,2,,10212.0,554
@@ -3853,6 +4068,7 @@ https://www.parkrun.us/eagan/results/64/",1357.0,19
 22/07/1989,1989,3b 5km,"IJA, Baltimore",Paul Ballard,M,0,0:20:50.00,?,http://www.juggling.org/orgs/ija/champs.txt,1250.0,100
 22/07/1989,1989,3b 5km,"IJA, Baltimore",Kay Caskey,F,0,0:27:57.70,?,http://www.juggling.org/orgs/ija/champs.txt,1677.7,144
 05/03/1989,1989,3b Marathon,Los Angeles Marathon,Mike Hebebrand,M,USA,3:32:00.00,10,https://www.latimes.com/archives/la-xpm-1989-04-24-me-1750-story.html,12720.0,158
+12/02/1989,1989,3b 50 Mile,New York Time Trial,Ashrita Furman,M,USA,8:52:07.00,?,Former Guinness WR https://www.recordholders.org/en/list/joggling.html,31927.0,0
 06/11/1988,1988,5b Marathon,New York City Marathon,Billy Gillen,M,USA,7:07:16.00,?,"https://results.nyrr.org/event/881106/finishers/1329691#search=William%2520Gillen     https://www.dev.juggle.org/history/archives/jugmags/41-3/41-3,p6.htm",25636.0,0
 16/07/1988,1988,3b 100m,"IJA, Denver",Owen Morse,M,USA,0:00:11.90,?,http://www.juggling.org/orgs/ija/champs.txt,11.9,638
 16/07/1988,1988,3b 100m,"IJA, Denver",Albert Lucas,M,USA,0:00:12.00,?,http://www.juggling.org/orgs/ija/champs.txt,12.0,613
@@ -3882,6 +4098,7 @@ https://www.parkrun.us/eagan/results/64/",1357.0,19
 18/07/1987,1987,3b Mile,"IJA, Akron",Clarke McFarlane,M,0,0:05:34.28,?,http://www.juggling.org/orgs/ija/champs.txt,334.28,228
 18/07/1987,1987,3b 5km,"IJA, Akron",Billy Gillen,M,USA,0:19:52.40,?,http://www.juggling.org/orgs/ija/champs.txt,1192.4,170
 18/07/1987,1987,3b 5km,"IJA, Akron",Clarke McFarlane,M,0,0:20:06.91,?,http://www.juggling.org/orgs/ija/champs.txt,1206.91,150
+08/05/1987,1987,3b 50 Mile,"Amos Alonzo Stagg 50 Mile Hike, Utah",Helaman Pratt Ferguson,M,USA,16:12:24.00,?,https://www.recordholders.org/en/list/joggling.html,58344.0,0
 01/03/1987,1987,3b Marathon,Los Angeles Marathon,Albert Lucas,M,USA,4:04:35.00,0,Albert's first joggling marathon. https://www.instagram.com/p/B9awUjCHeG-/ Also documented in Jugglers World Spring 1987 Newsletter,14675.0,16
 26/07/1986,1986,3b 100m,"IJA, San Jose",Owen Morse,M,USA,0:00:12.03,?,http://www.juggling.org/orgs/ija/champs.txt,12.03,605
 26/07/1986,1986,3b 100m,"IJA, San Jose",Jerome Ellis,M,0,0:00:13.00,?,http://www.juggling.org/orgs/ija/champs.txt,13.0,392
