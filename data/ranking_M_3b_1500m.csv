@@ -3,15 +3,18 @@ Ranking,Finish Time,IAAF Points,Joggler,Gender,Nationality,Date,Event / Venue,No
 2,0:04:59.96,293,Jonathan Abbott,M,Unknown,11/07/2024,"IJA, Green Bay","IJA Database, Giduz 1500m"
 3,0:05:03.00,273,Michel Lauzière,M,CAN,18/07/1981,"IJA, Cleveland, Ohio","Email exchange inc photo of newpaper article, http://www.juggling.org/orgs/ija/champs.txt"
 4,0:05:26.00,141,Bill Giduz,M,USA,18/07/1981,"IJA, Cleveland, Ohio",https://dev.juggle.org/history/champs/champs1981.php
-5,0:05:31.50,116,Nathan Nard,M,Unknown,11/07/2024,"IJA, Green Bay","IJA Database, Giduz 1500m"
-6,0:05:36.00,97,Gerry Berg,M,Unknown,18/07/1981,"IJA, Cleveland, Ohio",https://dev.juggle.org/history/champs/champs1981.php
-7,0:05:38.95,86,Sterling Franklin,M,USA,11/07/2024,"IJA, Green Bay","IJA Database, Giduz 1500m"
-8,0:06:01.20,23,Eric Raivo,M,Unknown,11/07/2024,"IJA, Green Bay","IJA Database, Giduz 1500m"
-9,0:06:01.68,22,Mark Fiore,M,USA,11/07/2024,"IJA, Green Bay","IJA Database, Giduz 1500m"
-10,0:06:39.31,0,Barak Hirschowitz,M,USA,11/07/2024,"IJA, Green Bay","IJA Database, Giduz 1500m"
-11,0:06:39.57,0,Jacob Heimer,M,Unknown,11/07/2024,"IJA, Green Bay","IJA Database, Giduz 1500m"
-12,0:06:54.04,0,Mikey Free,M,Unknown,11/07/2024,"IJA, Green Bay","IJA Database, Giduz 1500m"
-13,0:08:13.35,0,Draco Tong,M,Unknown,11/07/2024,"IJA, Green Bay","IJA Database, Giduz 1500m"
-14,0:08:54.33,0,Jack Hirschowitz,M,USA,11/07/2024,"IJA, Green Bay","IJA Database, Giduz 1500m"
-15,0:09:41.04,0,Aaron Heilig,M,Unknown,11/07/2024,"IJA, Green Bay","IJA Database, Giduz 1500m"
-16,0:59:59.99,0,Mike Hout,M,Unknown,11/07/2024,"IJA, Green Bay","IJA Database, Giduz 1500m"
+5,0:05:31.00,118,Calvin Staley,M,USA,01/05/2024," Pilot Butte Middle School Meet #1, Bend, Oregon","https://www.athletic.net/TrackAndField/meet/551146/results/m/3/1500m
+
+https://youtu.be/WCAjO15PdWk?si=OthtgNMSdwFjdIQQ"
+6,0:05:31.50,116,Nathan Nard,M,Unknown,11/07/2024,"IJA, Green Bay","IJA Database, Giduz 1500m"
+7,0:05:36.00,97,Gerry Berg,M,Unknown,18/07/1981,"IJA, Cleveland, Ohio",https://dev.juggle.org/history/champs/champs1981.php
+8,0:05:38.95,86,Sterling Franklin,M,USA,11/07/2024,"IJA, Green Bay","IJA Database, Giduz 1500m"
+9,0:06:01.20,23,Eric Raivo,M,Unknown,11/07/2024,"IJA, Green Bay","IJA Database, Giduz 1500m"
+10,0:06:01.68,22,Mark Fiore,M,USA,11/07/2024,"IJA, Green Bay","IJA Database, Giduz 1500m"
+11,0:06:39.31,0,Barak Hirschowitz,M,USA,11/07/2024,"IJA, Green Bay","IJA Database, Giduz 1500m"
+12,0:06:39.57,0,Jacob Heimer,M,Unknown,11/07/2024,"IJA, Green Bay","IJA Database, Giduz 1500m"
+13,0:06:54.04,0,Mikey Free,M,Unknown,11/07/2024,"IJA, Green Bay","IJA Database, Giduz 1500m"
+14,0:08:13.35,0,Draco Tong,M,Unknown,11/07/2024,"IJA, Green Bay","IJA Database, Giduz 1500m"
+15,0:08:54.33,0,Jack Hirschowitz,M,USA,11/07/2024,"IJA, Green Bay","IJA Database, Giduz 1500m"
+16,0:09:41.04,0,Aaron Heilig,M,Unknown,11/07/2024,"IJA, Green Bay","IJA Database, Giduz 1500m"
+17,0:59:59.99,0,Mike Hout,M,Unknown,11/07/2024,"IJA, Green Bay","IJA Database, Giduz 1500m"
