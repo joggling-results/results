@@ -12,6 +12,14 @@ st.write("""Click the buttons below to download the 'Joggler's Jottings', a quar
 """)
 
 
+with open("Jogglers_Jottings/2024_08.pdf", "rb") as pdf_file:
+    PDFbyte = pdf_file.read()
+
+st.download_button(label="August 2024",
+                    data=PDFbyte,
+                    file_name="Jogglers_Jottings/2024_08.pdf",
+                    mime='application/octet-stream')
+
 with open("Jogglers_Jottings/2024_05.pdf", "rb") as pdf_file:
     PDFbyte = pdf_file.read()
 
@@ -94,4 +102,28 @@ with open("Jogglers_Jottings/1987_12.pdf", "rb") as pdf_file:
 st.download_button(label="December 1987",
                     data=PDFbyte,
                     file_name="Jogglers_Jottings/1987_12.pdf",
+                    mime='application/octet-stream')
+
+######################################################################################
+## Other Media
+st.divider()
+st.write("Additionally, find guidance on getting started in joggling below:")
+
+
+# Joggling for Jugglers Workshop Plan - Thom Herzmark
+with open("Jogglers_Jottings/Joggling_for_Jugglers_Workshop_Plan.pdf", "rb") as pdf_file:
+    PDFbyte = pdf_file.read()
+
+st.download_button(label="Jogglers for Jugglers Workshop Plan",
+                    data=PDFbyte,
+                    file_name="Jogglers_Jottings/Joggling_for_Jugglers_Workshop_Plan.pdf",
+                    mime='application/octet-stream')
+
+# Joggling for Beginners - Community Contributions
+with open("Jogglers_Jottings/Joggling_for_Beginners.pdf", "rb") as pdf_file:
+    PDFbyte = pdf_file.read()
+
+st.download_button(label="Joggling for Beginners",
+                    data=PDFbyte,
+                    file_name="Jogglers_Jottings/Joggling_for_Beginners.pdf",
                     mime='application/octet-stream')
