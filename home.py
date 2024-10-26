@@ -1,12 +1,10 @@
 import streamlit as st
 import pandas as pd
-from datetime import date
 
 from pandas.api.types import (
     is_categorical_dtype,
     is_datetime64_any_dtype,
     is_numeric_dtype,
-    is_object_dtype,
 )
 
 st.set_page_config(page_title='Joggling', 
@@ -15,7 +13,7 @@ st.set_page_config(page_title='Joggling',
                    initial_sidebar_state = 'expanded'   ## 'auto','collapsed','expanded'
                    )
 
-update_date = '8th August 2024'
+update_date = '26th October 2024'
 
 ## Function to allow dataframe filtering
 def filter_dataframe(df: pd.DataFrame) -> pd.DataFrame:
