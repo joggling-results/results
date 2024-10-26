@@ -13,9 +13,9 @@ import plotly.graph_objects as go
 ## Add IAAF Points to All Performances
 # Do this first, is a useful field to have in other data pivots/views
 
-print('Adding IAAF Points Data')
+print('Loading Raw Data')
 results = pd.read_csv('data/results.csv', encoding= 'ISO-8859-1',) ## xlsx not supported.
-
+print('Adding IAAF Points Data')
 # Add a total_seconds column
 results['total_seconds'] = results['Finish Time'].apply(lambda x: datetime.strptime(x,"%H:%M:%S.%f"))
 results['total_seconds'] = results['total_seconds'].apply(lambda x: (x - datetime(1900, 1, 1)).total_seconds())
