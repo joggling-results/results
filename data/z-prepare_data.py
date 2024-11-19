@@ -257,9 +257,9 @@ def make_all_time_list(gender, distance, data = pd.read_csv('data/results.csv'))
     
     return fastest_times
 
-distance_list = ["3b 5km", "3b 10km", '3b Half Marathon', '3b Marathon', '5b 5km','5b Marathon',
-                 "3b 800m", "3b 1500m", "3b Mile", "5b Mile",
-                 "3b 100m", "5b 100m", "7b 100m", "3b 200m", "3b 400m", "5b 400m","3b 4x100m","3b 4x400m",]
+distance_list = ["3b 5km", "3b 10km", '3b Half Marathon', '3b Marathon', '4b 5km', '4b 10km', '4b Half Marathon', '5b 5km','5b Marathon',
+                 "3b 800m", "3b 1500m", "3b Mile", "4b Mile", "5b Mile",
+                 "3b 100m", "4b 100m", "5b 100m", "7b 100m", "3b 200m", "4b 200m", "5b 200m", "3b 400m", "4b 400m", "5b 400m","3b 4x100m","3b 4x400m",]
 
 for gender in ['M','F']:
     for distance in distance_list:
