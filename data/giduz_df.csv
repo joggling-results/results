@@ -1,6 +1,6 @@
 Joggler,Giduz_Path,Giduz_Number,Nationality,Gender
 Bill Giduz,['Bill Giduz'],0.0,USA,M
-Meghan Cain,"['Bill Giduz', 'Meghan Cain']",1.0,Unknown,F
+Joe Dean,"['Bill Giduz', 'Joe Dean']",1.0,Unknown,M
 Ian Caldwell,"['Bill Giduz', 'Ian Caldwell']",1.0,Unknown,M
 Tuey Wilson,"['Bill Giduz', 'Tuey Wilson']",1.0,Unknown,M
 Jeff Mason,"['Bill Giduz', 'Jeff Mason']",1.0,Unknown,M
@@ -15,39 +15,38 @@ Jim Shellard,"['Bill Giduz', 'Jim Shellard']",1.0,Unknown,M
 Jane Hussey,"['Bill Giduz', 'Jane Hussey']",1.0,Unknown,F
 Sean McKinney,"['Bill Giduz', 'Sean McKinney']",1.0,Unknown,M
 Dave Finnigan,"['Bill Giduz', 'Dave Finnigan']",1.0,Unknown,M
+Meghan Cain,"['Bill Giduz', 'Meghan Cain']",1.0,Unknown,F
 KC Canter,"['Bill Giduz', 'KC Canter']",1.0,Unknown,F
 Mike Thomasen,"['Bill Giduz', 'Mike Thomasen']",1.0,Unknown,M
 Andrew Swan,"['Bill Giduz', 'Andrew Swan']",1.0,Unknown,M
-Larry Kluger,"['Bill Giduz', 'Larry Kluger']",1.0,Unknown,M
-Mike Draney,"['Bill Giduz', 'Mike Draney']",1.0,Unknown,M
 Kelsey Deutch,"['Bill Giduz', 'Kelsey Deutch']",1.0,Unknown,F
 Sasha Kluger,"['Bill Giduz', 'Sasha Kluger']",1.0,Unknown,M
 Mike Hebebrand,"['Bill Giduz', 'Mike Hebebrand']",1.0,USA,M
 Paul Ballard,"['Bill Giduz', 'Paul Ballard']",1.0,Unknown,M
 Will Howard,"['Bill Giduz', 'Will Howard']",1.0,USA,M
 Jamie Whoolery,"['Bill Giduz', 'Jamie Whoolery']",1.0,Unknown,M
-John Phipps,"['Bill Giduz', 'John Phipps']",1.0,Unknown,M
 Dorothy Finnigan,"['Bill Giduz', 'Dorothy Finnigan']",1.0,Unknown,F
-Sandy Brown,"['Bill Giduz', 'Sandy Brown']",1.0,Unknown,F
+John Phipps,"['Bill Giduz', 'John Phipps']",1.0,Unknown,M
+Bill Coad,"['Bill Giduz', 'Bill Coad']",1.0,USA,M
 Lana Bolin,"['Bill Giduz', 'Lana Bolin']",1.0,Unknown,F
 Travis Saunders,"['Bill Giduz', 'Travis Saunders']",1.0,CAN,M
 Adam Griffin,"['Bill Giduz', 'Adam Griffin']",1.0,Unknown,M
 Joseph Hout,"['Bill Giduz', 'Joseph Hout']",1.0,Unknown,M
 Chuck Hawley,"['Bill Giduz', 'Chuck Hawley']",1.0,Unknown,M
 Elizabeth Sanberg,"['Bill Giduz', 'Elizabeth Sanberg']",1.0,Unknown,F
-Bill Coad,"['Bill Giduz', 'Bill Coad']",1.0,USA,M
+Larry Kluger,"['Bill Giduz', 'Larry Kluger']",1.0,Unknown,M
+Sandy Brown,"['Bill Giduz', 'Sandy Brown']",1.0,Unknown,F
+Mike Draney,"['Bill Giduz', 'Mike Draney']",1.0,Unknown,M
 Nick Bartucci,"['Bill Giduz', 'Nick Bartucci']",1.0,Unknown,M
-Joe Dean,"['Bill Giduz', 'Joe Dean']",1.0,Unknown,M
-Carol Mills,"['Bill Giduz', 'Carol Mills']",1.0,Unknown,F
-Troy Fitzgerald,"['Bill Giduz', 'Troy Fitzgerald']",1.0,Unknown,M
+Dan Fitzgerald,"['Bill Giduz', 'Dan Fitzgerald']",1.0,Unknown,M
 Laura Green,"['Bill Giduz', 'Laura Green']",1.0,Unknown,F
 Kathy Glynn,"['Bill Giduz', 'Kathy Glynn']",1.0,Unknown,F
 Jim Steffens,"['Bill Giduz', 'Jim Steffens']",1.0,Unknown,M
 Keith Baker,"['Bill Giduz', 'Keith Baker']",1.0,Unknown,M
 Joe Lyons,"['Bill Giduz', 'Joe Lyons']",1.0,Unknown,M
 Richard Courter,"['Bill Giduz', 'Richard Courter']",1.0,Unknown,M
-Robin Chestnut,"['Bill Giduz', 'Robin Chestnut']",1.0,Unknown,M
 Michael Nance,"['Bill Giduz', 'Michael Nance']",1.0,Unknown,M
+Ben Schoenberg,"['Bill Giduz', 'Ben Schoenberg']",1.0,Unknown,M
 Marlin Ballard,"['Bill Giduz', 'Marlin Ballard']",1.0,Unknown,M
 Cam Fleming,"['Bill Giduz', 'Cam Fleming']",1.0,Unknown,M
 Keith Tollefson,"['Bill Giduz', 'Keith Tollefson']",1.0,Unknown,M
@@ -55,122 +54,122 @@ Joanne Swaim,"['Bill Giduz', 'Joanne Swaim']",1.0,Unknown,F
 Cindy Hout,"['Bill Giduz', 'Cindy Hout']",1.0,Unknown,F
 Joanne Dintzis,"['Bill Giduz', 'Joanne Dintzis']",1.0,Unknown,F
 Daniel Hout,"['Bill Giduz', 'Daniel Hout']",1.0,Unknown,M
-Ben Schoenberg,"['Bill Giduz', 'Ben Schoenberg']",1.0,Unknown,M
-Jerome Ellis,"['Bill Giduz', 'Jerome Ellis']",1.0,Unknown,M
+Troy Fitzgerald,"['Bill Giduz', 'Troy Fitzgerald']",1.0,Unknown,M
+Robin Chestnut,"['Bill Giduz', 'Robin Chestnut']",1.0,Unknown,M
 Kay Caskey,"['Bill Giduz', 'Kay Caskey']",1.0,Unknown,F
-Larry Boehmer,"['Bill Giduz', 'Larry Boehmer']",1.0,Unknown,M
-Dan Fitzgerald,"['Bill Giduz', 'Dan Fitzgerald']",1.0,Unknown,M
+Ben Hout,"['Bill Giduz', 'Ben Hout']",1.0,Unknown,M
 Chuck Worrell,"['Bill Giduz', 'Chuck Worrell']",1.0,Unknown,M
 Bob Neuman,"['Bill Giduz', 'Bob Neuman']",1.0,Unknown,M
 Darren Samson,"['Bill Giduz', 'Darren Samson']",1.0,Unknown,M
 John Zaleskie,"['Bill Giduz', 'John Zaleskie']",1.0,Unknown,M
 Albert Lucas,"['Bill Giduz', 'Albert Lucas']",1.0,USA,M
 Corinne Ozolins,"['Bill Giduz', 'Corinne Ozolins']",1.0,Unknown,F
-Ben Hout,"['Bill Giduz', 'Ben Hout']",1.0,Unknown,M
 Paul Arneberg,"['Bill Giduz', 'Paul Arneberg']",1.0,Unknown,M
-Jane Birkhead,"['Bill Giduz', 'Jane Birkhead']",1.0,Unknown,F
+Carol Mills,"['Bill Giduz', 'Carol Mills']",1.0,Unknown,F
+Tom Sparough,"['Bill Giduz', 'Tom Sparough']",1.0,Unknown,M
 Michelle Grossman,"['Bill Giduz', 'Michelle Grossman']",1.0,Unknown,F
 Ivan Hernandez,"['Bill Giduz', 'Ivan Hernandez']",1.0,Unknown,M
 Dan Kirk,"['Bill Giduz', 'Dan Kirk']",1.0,Unknown,M
 Iman deLachotta-Lizarazu,"['Bill Giduz', 'Iman deLachotta-Lizarazu']",1.0,Unknown,F
 Laurie Young,"['Bill Giduz', 'Laurie Young']",1.0,Unknown,F
 Sam Wildofsky,"['Bill Giduz', 'Sam Wildofsky']",1.0,Unknown,M
-Tom Sparough,"['Bill Giduz', 'Tom Sparough']",1.0,Unknown,M
-Kirk Swenson,"['Bill Giduz', 'Kirk Swenson']",1.0,USA,M
+Larry Boehmer,"['Bill Giduz', 'Larry Boehmer']",1.0,Unknown,M
+Jane Birkhead,"['Bill Giduz', 'Jane Birkhead']",1.0,Unknown,F
+Jerome Ellis,"['Bill Giduz', 'Jerome Ellis']",1.0,Unknown,M
 Paul Williamson,"['Bill Giduz', 'Paul Williamson']",1.0,Unknown,M
-Tim Baird,"['Bill Giduz', 'Tim Baird']",1.0,Unknown,M
-Franz Roos,"['Bill Giduz', 'Franz Roos']",1.0,CHE,M
-Darin Marriott,"['Bill Giduz', 'Darin Marriott']",1.0,USA,M
+Michel LauziÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¨re,"['Bill Giduz', 'Michel LauziÃ\x83Â\x83Ã\x82Â\x83Ã\x83Â\x82Ã\x82Â\x83Ã\x83Â\x83Ã\x82Â\x82Ã\x83Â\x82Ã\x82Â¨re']",1.0,CAN,M
+Daniel Margulis,"['Bill Giduz', 'Daniel Margulis']",1.0,Unknown,M
+Melinda Paas,"['Bill Giduz', 'Melinda Paas']",1.0,Unknown,F
+Hayley Fix,"['Bill Giduz', 'Hayley Fix']",1.0,Unknown,F
 Shawn Bryan,"['Bill Giduz', 'Shawn Bryan']",1.0,Unknown,M
-Heather Marriott,"['Bill Giduz', 'Heather Marriott']",1.0,USA,F
-Joe Sonnenburg,"['Bill Giduz', 'Joe Sonnenburg']",1.0,Unknown,M
 Matt Cantrell,"['Bill Giduz', 'Matt Cantrell']",1.0,Unknown,M
-Mary Holgin,"['Bill Giduz', 'Mary Holgin']",1.0,Unknown,F
+Joe Sonnenburg,"['Bill Giduz', 'Joe Sonnenburg']",1.0,Unknown,M
+Corey Connors,"['Bill Giduz', 'Corey Connors']",1.0,Unknown,M
+Heather Marriott,"['Bill Giduz', 'Heather Marriott']",1.0,USA,F
 David Hussey,"['Bill Giduz', 'David Hussey']",1.0,Unknown,M
-Michel Lauzière,"['Bill Giduz', 'Michel Lauzière']",1.0,CAN,M
+Tim Baird,"['Bill Giduz', 'Tim Baird']",1.0,Unknown,M
 Aaron Olson,"['Bill Giduz', 'Aaron Olson']",1.0,Unknown,M
 Brent Beebe,"['Bill Giduz', 'Brent Beebe']",1.0,Unknown,M
 Scott Anthony,"['Bill Giduz', 'Scott Anthony']",1.0,Unknown,M
 Tucker Weisman,"['Bill Giduz', 'Tucker Weisman']",1.0,Unknown,M
+Joshua edleman,"['Bill Giduz', 'Joshua edleman']",1.0,Unknown,M
 Robert Sandberg,"['Bill Giduz', 'Robert Sandberg']",1.0,Unknown,M
-Nate Seefeldt,"['Bill Giduz', 'Nate Seefeldt']",1.0,Unknown,M
-Dan Berg,"['Bill Giduz', 'Dan Berg']",1.0,Unknown,M
-Edward Sax,"['Bill Giduz', 'Edward Sax']",1.0,Unknown,M
-Julia Snyder,"['Bill Giduz', 'Julia Snyder']",1.0,Unknown,F
-Rachel Stern,"['Bill Giduz', 'Rachel Stern']",1.0,Unknown,F
-Erika Randall,"['Bill Giduz', 'Erika Randall']",1.0,Unknown,F
+Franz Roos,"['Bill Giduz', 'Franz Roos']",1.0,CHE,M
+Darin Marriott,"['Bill Giduz', 'Darin Marriott']",1.0,USA,M
 Mike Hout,"['Bill Giduz', 'Mike Hout']",1.0,Unknown,M
-Paul Williams,"['Bill Giduz', 'Paul Williams']",1.0,Unknown,M
-Corey Connors,"['Bill Giduz', 'Corey Connors']",1.0,Unknown,M
-David Marcias,"['Bill Giduz', 'David Marcias']",1.0,Unknown,M
-Melinda Paas,"['Bill Giduz', 'Melinda Paas']",1.0,Unknown,F
-Jerry Battenfield,"['Bill Giduz', 'Jerry Battenfield']",1.0,Unknown,M
-Sandy Amass,"['Bill Giduz', 'Sandy Amass']",1.0,Unknown,F
+Nate Seefeldt,"['Bill Giduz', 'Nate Seefeldt']",1.0,Unknown,M
 George Strain,"['Bill Giduz', 'George Strain']",1.0,Unknown,M
+Rachel Stern,"['Bill Giduz', 'Rachel Stern']",1.0,Unknown,F
+Jerry Battenfield,"['Bill Giduz', 'Jerry Battenfield']",1.0,Unknown,M
 Katie Stern,"['Bill Giduz', 'Katie Stern']",1.0,Unknown,F
-Ben Finnigan,"['Bill Giduz', 'Ben Finnigan']",1.0,Unknown,M
+Mary Holgin,"['Bill Giduz', 'Mary Holgin']",1.0,Unknown,F
 Jack Hirschowitz,"['Bill Giduz', 'Jack Hirschowitz']",1.0,USA,M
 Elias Tarantalo,"['Bill Giduz', 'Elias Tarantalo']",1.0,Unknown,M
-Sean McLoughlin,"['Bill Giduz', 'Sean McLoughlin']",1.0,Unknown,M
-Becky Provance,"['Bill Giduz', 'Becky Provance']",1.0,Unknown,F
-Joshua edleman,"['Bill Giduz', 'Joshua edleman']",1.0,Unknown,M
-Daniel Margulis,"['Bill Giduz', 'Daniel Margulis']",1.0,Unknown,M
-Laura Provance,"['Bill Giduz', 'Laura Provance']",1.0,Unknown,F
-Natalie McIntyre,"['Bill Giduz', 'Natalie McIntyre']",1.0,Unknown,F
-Andrew Head,"['Bill Giduz', 'Andrew Head']",1.0,Unknown,M
-Dave Gedeon,"['Bill Giduz', 'Dave Gedeon']",1.0,Unknown,M
-Ken Rabe,"['Bill Giduz', 'Ken Rabe']",1.0,Unknown,M
-Banks Helfrich,"['Bill Giduz', 'Banks Helfrich']",1.0,Unknown,M
-Mickey Campaniello,"['Bill Giduz', 'Mickey Campaniello']",1.0,Unknown,M
+Erika Randall,"['Bill Giduz', 'Erika Randall']",1.0,Unknown,F
+Julia Snyder,"['Bill Giduz', 'Julia Snyder']",1.0,Unknown,F
 Gerry Berg,"['Bill Giduz', 'Gerry Berg']",1.0,Unknown,M
-Hayley Fix,"['Bill Giduz', 'Hayley Fix']",1.0,Unknown,F
-Lars Rohrback,"['Bill Giduz', 'Lars Rohrback']",1.0,Unknown,M
-Reese Edwards,"['Bill Giduz', 'Reese Edwards']",1.0,Unknown,M
+Dan Berg,"['Bill Giduz', 'Dan Berg']",1.0,Unknown,M
+Edward Sax,"['Bill Giduz', 'Edward Sax']",1.0,Unknown,M
+Ben Finnigan,"['Bill Giduz', 'Ben Finnigan']",1.0,Unknown,M
+Becky Provance,"['Bill Giduz', 'Becky Provance']",1.0,Unknown,F
+Sandy Amass,"['Bill Giduz', 'Sandy Amass']",1.0,Unknown,F
 Marion Caldwell,"['Bill Giduz', 'Marion Caldwell']",1.0,Unknown,F
+Laura Provance,"['Bill Giduz', 'Laura Provance']",1.0,Unknown,F
+Reese Edwards,"['Bill Giduz', 'Reese Edwards']",1.0,Unknown,M
+Charles Williams,"['Bill Giduz', 'Charles Williams']",1.0,Unknown,M
+Kirk Swenson,"['Bill Giduz', 'Kirk Swenson']",1.0,USA,M
+Andrew Head,"['Bill Giduz', 'Andrew Head']",1.0,Unknown,M
+Barry Goldmeier,"['Bill Giduz', 'Barry Goldmeier']",1.0,USA,M
+Lars Rohrback,"['Bill Giduz', 'Lars Rohrback']",1.0,Unknown,M
+Dave Gedeon,"['Bill Giduz', 'Dave Gedeon']",1.0,Unknown,M
+Sean McLoughlin,"['Bill Giduz', 'Sean McLoughlin']",1.0,Unknown,M
+Ken Rabe,"['Bill Giduz', 'Ken Rabe']",1.0,Unknown,M
+David Groth,"['Bill Giduz', 'David Groth']",1.0,Unknown,M
+Jerry Kurtz,"['Bill Giduz', 'Jerry Kurtz']",1.0,Unknown,M
+Marty Gardella,"['Bill Giduz', 'Marty Gardella']",1.0,Unknown,M
+Mark Kolbus,"['Bill Giduz', 'Mark Kolbus']",1.0,Unknown,M
 George Faust,"['Bill Giduz', 'George Faust']",1.0,Unknown,M
 Curt Hoffman,"['Bill Giduz', 'Curt Hoffman']",1.0,Unknown,M
-Charles Williams,"['Bill Giduz', 'Charles Williams']",1.0,Unknown,M
-Barry Goldmeier,"['Bill Giduz', 'Barry Goldmeier']",1.0,USA,M
-David Groth,"['Bill Giduz', 'David Groth']",1.0,Unknown,M
+Paul Williams,"['Bill Giduz', 'Paul Williams']",1.0,Unknown,M
+Banks Helfrich,"['Bill Giduz', 'Banks Helfrich']",1.0,Unknown,M
+David Marcias,"['Bill Giduz', 'David Marcias']",1.0,Unknown,M
 Matt Henstridge,"['Bill Giduz', 'Matt Henstridge']",1.0,Unknown,M
-Marty Gardella,"['Bill Giduz', 'Marty Gardella']",1.0,Unknown,M
 Brian McAllister,"['Bill Giduz', 'Brian McAllister']",1.0,Unknown,M
 Peter Fry,"['Bill Giduz', 'Peter Fry']",1.0,Unknown,M
 Sam Kilbourn,"['Bill Giduz', 'Sam Kilbourn']",1.0,Unknown,M
-Mark Kolbus,"['Bill Giduz', 'Mark Kolbus']",1.0,Unknown,M
-Jerry Kurtz,"['Bill Giduz', 'Jerry Kurtz']",1.0,Unknown,M
-Zachary Turner,"['Bill Giduz', 'Albert Lucas', 'Zachary Turner']",2.0,Unknown,M
-Larry Schonhofen,"['Bill Giduz', 'Albert Lucas', 'Larry Schonhofen']",2.0,Unknown,M
-Danny Hodge,"['Bill Giduz', 'Albert Lucas', 'Danny Hodge']",2.0,Unknown,M
-Ty Evans,"['Bill Giduz', 'Jack Hirschowitz', 'Ty Evans']",2.0,Unknown,M
-Jacob Biesiada,"['Bill Giduz', 'Albert Lucas', 'Jacob Biesiada']",2.0,Unknown,M
+Natalie McIntyre,"['Bill Giduz', 'Natalie McIntyre']",1.0,Unknown,F
+Mickey Campaniello,"['Bill Giduz', 'Mickey Campaniello']",1.0,Unknown,M
 Jack Denger,"['Bill Giduz', 'Albert Lucas', 'Jack Denger']",2.0,Unknown,M
+Mara Moettus,"['Bill Giduz', 'Andrew Swan', 'Mara Moettus']",2.0,Unknown,F
+Jason Matkowksi,"['Bill Giduz', 'Albert Lucas', 'Jason Matkowksi']",2.0,Unknown,M
+Larry Schonhofen,"['Bill Giduz', 'Albert Lucas', 'Larry Schonhofen']",2.0,Unknown,M
+Sean Obrien,"['Bill Giduz', 'Albert Lucas', 'Sean Obrien']",2.0,Unknown,M
+Jacob Biesiada,"['Bill Giduz', 'Albert Lucas', 'Jacob Biesiada']",2.0,Unknown,M
+Danny Hodge,"['Bill Giduz', 'Albert Lucas', 'Danny Hodge']",2.0,Unknown,M
 Neelraj Arjune,"['Bill Giduz', 'Albert Lucas', 'Neelraj Arjune']",2.0,Unknown,M
 Taylor Glenn,"['Bill Giduz', 'Andrew Swan', 'Taylor Glenn']",2.0,Unknown,F
 Mike DeSalvo,"['Bill Giduz', 'Jack Hirschowitz', 'Mike DeSalvo']",2.0,Unknown,M
 Anna Gratzer,"['Bill Giduz', 'Jack Hirschowitz', 'Anna Gratzer']",2.0,Unknown,F
-Jason Matkowksi,"['Bill Giduz', 'Albert Lucas', 'Jason Matkowksi']",2.0,Unknown,M
-Sean Obrien,"['Bill Giduz', 'Albert Lucas', 'Sean Obrien']",2.0,Unknown,M
-Trish Evans,"['Bill Giduz', 'Jack Hirschowitz', 'Trish Evans']",2.0,USA,F
-Josh Jarosz,"['Bill Giduz', 'Albert Lucas', 'Josh Jarosz']",2.0,Unknown,M
-Mark Cembrowski,"['Bill Giduz', 'Barry Goldmeier', 'Mark Cembrowski']",2.0,Unknown,M
-Mara Moettus,"['Bill Giduz', 'Andrew Swan', 'Mara Moettus']",2.0,Unknown,F
-Andrew Ruiz,"['Bill Giduz', 'Andrew Swan', 'Andrew Ruiz']",2.0,Unknown,M
-Simon George,"['Bill Giduz', 'Barry Goldmeier', 'Simon George']",2.0,Unknown,M
+Zachary Turner,"['Bill Giduz', 'Albert Lucas', 'Zachary Turner']",2.0,Unknown,M
+Joey Spicola,"['Bill Giduz', 'Albert Lucas', 'Joey Spicola']",2.0,Unknown,M
+David Mlakar,"['Bill Giduz', 'Andrew Swan', 'David Mlakar']",2.0,Unknown,M
+Colin Bevis,"['Bill Giduz', 'Albert Lucas', 'Colin Bevis']",2.0,Unknown,M
 Ryan Paul,"['Bill Giduz', 'Jack Hirschowitz', 'Ryan Paul']",2.0,Unknown,M
+Simon George,"['Bill Giduz', 'Barry Goldmeier', 'Simon George']",2.0,Unknown,M
 Peter Brunette,"['Bill Giduz', 'Jack Hirschowitz', 'Peter Brunette']",2.0,Unknown,M
+Andrew Ruiz,"['Bill Giduz', 'Andrew Swan', 'Andrew Ruiz']",2.0,Unknown,M
+Hannah Stoehr,"['Bill Giduz', 'Andrew Swan', 'Hannah Stoehr']",2.0,Unknown,F
+Michael Barreto,"['Bill Giduz', 'Jack Hirschowitz', 'Michael Barreto']",2.0,Unknown,M
+Ty Evans,"['Bill Giduz', 'Jack Hirschowitz', 'Ty Evans']",2.0,Unknown,M
 Daniel Rose,"['Bill Giduz', 'Barry Goldmeier', 'Daniel Rose']",2.0,Unknown,M
 Colin Revere,"['Bill Giduz', 'Andrew Swan', 'Colin Revere']",2.0,Unknown,M
-Hannah Stoehr,"['Bill Giduz', 'Andrew Swan', 'Hannah Stoehr']",2.0,Unknown,F
 Kevin Giblin,"['Bill Giduz', 'Andrew Swan', 'Kevin Giblin']",2.0,Unknown,M
 Dave Kadlec,"['Bill Giduz', 'Jack Hirschowitz', 'Dave Kadlec']",2.0,Unknown,M
 Andrew Hodge,"['Bill Giduz', 'Andrew Swan', 'Andrew Hodge']",2.0,Unknown,M
-David Mlakar,"['Bill Giduz', 'Andrew Swan', 'David Mlakar']",2.0,Unknown,M
-Michael Barreto,"['Bill Giduz', 'Jack Hirschowitz', 'Michael Barreto']",2.0,Unknown,M
 Jesse Joyner,"['Bill Giduz', 'Andrew Swan', 'Jesse Joyner']",2.0,USA,M
+Trish Evans,"['Bill Giduz', 'Jack Hirschowitz', 'Trish Evans']",2.0,USA,F
 Joe Straitiff,"['Bill Giduz', 'Albert Lucas', 'Joe Straitiff']",2.0,Unknown,M
-Colin Bevis,"['Bill Giduz', 'Albert Lucas', 'Colin Bevis']",2.0,Unknown,M
-Joey Spicola,"['Bill Giduz', 'Albert Lucas', 'Joey Spicola']",2.0,Unknown,M
+Josh Jarosz,"['Bill Giduz', 'Albert Lucas', 'Josh Jarosz']",2.0,Unknown,M
 Vytas Vaitkus,"['Bill Giduz', 'Ben Schoenberg', 'Vytas Vaitkus']",2.0,Unknown,M
 Derek Hahn,"['Bill Giduz', 'Albert Lucas', 'Derek Hahn']",2.0,Unknown,M
 Chuck Ritzler,"['Bill Giduz', 'Albert Lucas', 'Chuck Ritzler']",2.0,Unknown,M
@@ -227,6 +226,7 @@ Keith McNeill,"['Bill Giduz', 'Albert Lucas', 'Keith McNeill']",2.0,Unknown,M
 Sofia Meyer,"['Bill Giduz', 'Andrew Swan', 'Sofia Meyer']",2.0,Unknown,F
 Griffin Kelley,"['Bill Giduz', 'Jack Hirschowitz', 'Griffin Kelley']",2.0,Unknown,M
 Jack Levy,"['Bill Giduz', 'Andrew Swan', 'Jack Levy']",2.0,Unknown,M
+Dan Rosenthal,"['Bill Giduz', 'Ben Schoenberg', 'Dan Rosenthal']",2.0,Unknown,M
 Phillip Garee,"['Bill Giduz', 'Ben Schoenberg', 'Phillip Garee']",2.0,Unknown,M
 Roy Fisher,"['Bill Giduz', 'Ben Schoenberg', 'Roy Fisher']",2.0,Unknown,M
 Kevin Beargie,"['Bill Giduz', 'Ben Schoenberg', 'Kevin Beargie']",2.0,Unknown,M
@@ -240,8 +240,8 @@ Zoe Roy,"['Bill Giduz', 'Barry Goldmeier', 'Zoe Roy']",2.0,Unknown,F
 Aubree Kolas,"['Bill Giduz', 'Andrew Swan', 'Aubree Kolas']",2.0,Unknown,F
 Lauren Rice,"['Bill Giduz', 'Andrew Swan', 'Lauren Rice']",2.0,Unknown,F
 Jonny Langholz,"['Bill Giduz', 'Ben Schoenberg', 'Jonny Langholz']",2.0,Unknown,M
-Dan Rosenthal,"['Bill Giduz', 'Ben Schoenberg', 'Dan Rosenthal']",2.0,Unknown,M
 Colin Kulstad,"['Bill Giduz', 'Andrew Swan', 'Colin Kulstad']",2.0,Unknown,M
+Marco Paoletti,"['Bill Giduz', 'Andrew Swan', 'Marco Paoletti']",2.0,Unknown,M
 Sam Nerenhaus,"['Bill Giduz', 'Andrew Swan', 'Sam Nerenhaus']",2.0,Unknown,M
 Riley Wiklund,"['Bill Giduz', 'Andrew Swan', 'Riley Wiklund']",2.0,Unknown,M
 Trey Newsome,"['Bill Giduz', 'Ben Schoenberg', 'Trey Newsome']",2.0,Unknown,M
@@ -255,13 +255,14 @@ Liana McClintock,"['Bill Giduz', 'Barry Goldmeier', 'Liana McClintock']",2.0,Unk
 Greg Warrington,"['Bill Giduz', 'Barry Goldmeier', 'Greg Warrington']",2.0,Unknown,M
 Ryan Schultz,"['Bill Giduz', 'Barry Goldmeier', 'Ryan Schultz']",2.0,Unknown,M
 Ethan Rosman,"['Bill Giduz', 'Barry Goldmeier', 'Ethan Rosman']",2.0,Unknown,M
-Marco Paoletti,"['Bill Giduz', 'Andrew Swan', 'Marco Paoletti']",2.0,Unknown,M
 Ben Hestness,"['Bill Giduz', 'Ben Schoenberg', 'Ben Hestness']",2.0,Unknown,M
+Nicole Deese,"['Bill Giduz', 'Barry Goldmeier', 'Nicole Deese']",2.0,Unknown,F
 Todd Warner,"['Bill Giduz', 'Ben Schoenberg', 'Todd Warner']",2.0,Unknown,M
-Brendan McCarthy,"['Bill Giduz', 'Ben Schoenberg', 'Brendan McCarthy']",2.0,Unknown,M
+Rebecca Middleton,"['Bill Giduz', 'Ben Schoenberg', 'Rebecca Middleton']",2.0,Unknown,F
+Eric Blaha,"['Bill Giduz', 'Ben Schoenberg', 'Eric Blaha']",2.0,Unknown,M
+Cameron Ridder,"['Bill Giduz', 'Ben Schoenberg', 'Cameron Ridder']",2.0,Unknown,M
 Joe Otonichar,"['Bill Giduz', 'Ben Schoenberg', 'Joe Otonichar']",2.0,Unknown,M
 Nathan Seedfeldt,"['Bill Giduz', 'Barry Goldmeier', 'Nathan Seedfeldt']",2.0,Unknown,M
-Cameron Ridder,"['Bill Giduz', 'Ben Schoenberg', 'Cameron Ridder']",2.0,Unknown,M
 Timmy Boas,"['Bill Giduz', 'Barry Goldmeier', 'Timmy Boas']",2.0,Unknown,M
 Chris Sutton,"['Bill Giduz', 'Barry Goldmeier', 'Chris Sutton']",2.0,Unknown,M
 Rhonda Samkoff,"['Bill Giduz', 'Barry Goldmeier', 'Rhonda Samkoff']",2.0,Unknown,F
@@ -287,22 +288,22 @@ Nick Pavlak,"['Bill Giduz', 'Ben Schoenberg', 'Nick Pavlak']",2.0,Unknown,M
 Elliot Royce,"['Bill Giduz', 'Ben Schoenberg', 'Elliot Royce']",2.0,Unknown,M
 Joy Dean,"['Bill Giduz', 'Ben Schoenberg', 'Joy Dean']",2.0,Unknown,F
 Alex Coleman,"['Bill Giduz', 'Ben Schoenberg', 'Alex Coleman']",2.0,Unknown,M
-Rebecca Middleton,"['Bill Giduz', 'Ben Schoenberg', 'Rebecca Middleton']",2.0,Unknown,F
-Nicole Deese,"['Bill Giduz', 'Barry Goldmeier', 'Nicole Deese']",2.0,Unknown,F
+Brendan McCarthy,"['Bill Giduz', 'Ben Schoenberg', 'Brendan McCarthy']",2.0,Unknown,M
+Nicholas Eaton,"['Bill Giduz', 'Jack Hirschowitz', 'Nicholas Eaton']",2.0,Unknown,M
 Matt Hall,"['Bill Giduz', 'Barry Goldmeier', 'Matt Hall']",2.0,Unknown,M
-Nathan Vehse,"['Bill Giduz', 'Barry Goldmeier', 'Nathan Vehse']",2.0,Unknown,M
 Danny Tomaro,"['Bill Giduz', 'Barry Goldmeier', 'Danny Tomaro']",2.0,Unknown,M
+Dan Chan,"['Bill Giduz', 'Andrew Swan', 'Dan Chan']",2.0,Unknown,M
+Neil Jordan,"['Bill Giduz', 'Andrew Swan', 'Neil Jordan']",2.0,Unknown,M
+Justin Kolas,"['Bill Giduz', 'Andrew Swan', 'Justin Kolas']",2.0,Unknown,M
 Greg Meehan,"['Bill Giduz', 'Andrew Swan', 'Greg Meehan']",2.0,Unknown,M
 Evan Peter,"['Bill Giduz', 'Andrew Swan', 'Evan Peter']",2.0,Unknown,M
 Chris Garcia,"['Bill Giduz', 'Andrew Swan', 'Chris Garcia']",2.0,Unknown,M
 Dan Burke,"['Bill Giduz', 'Andrew Swan', 'Dan Burke']",2.0,Unknown,M
-J Butler,"['Bill Giduz', 'Ben Schoenberg', 'J Butler']",2.0,Unknown,
 Lauge Benjaminson,"['Bill Giduz', 'Andrew Swan', 'Lauge Benjaminson']",2.0,Unknown,M
-Mike Gracie,"['Bill Giduz', 'Ben Schoenberg', 'Mike Gracie']",2.0,Unknown,M
-Amy Barnes,"['Bill Giduz', 'Ben Schoenberg', 'Amy Barnes']",2.0,Unknown,F
+Steve Caruso,"['Bill Giduz', 'Ben Schoenberg', 'Steve Caruso']",2.0,Unknown,M
+Jonathan Hartford,"['Bill Giduz', 'Ben Schoenberg', 'Jonathan Hartford']",2.0,Unknown,M
 Tim Hark,"['Bill Giduz', 'Andrew Swan', 'Tim Hark']",2.0,Unknown,M
 David Ferman,"['Bill Giduz', 'Barry Goldmeier', 'David Ferman']",2.0,USA,M
-Steve Caruso,"['Bill Giduz', 'Ben Schoenberg', 'Steve Caruso']",2.0,Unknown,M
 Charles Schweitzer,"['Bill Giduz', 'Ben Schoenberg', 'Charles Schweitzer']",2.0,USA,M
 Dean Bennett,"['Bill Giduz', 'Andrew Swan', 'Dean Bennett']",2.0,Unknown,M
 Chris Merra,"['Bill Giduz', 'Jack Hirschowitz', 'Chris Merra']",2.0,Unknown,M
@@ -311,20 +312,19 @@ Daniel Burke,"['Bill Giduz', 'Jack Hirschowitz', 'Daniel Burke']",2.0,Unknown,M
 Joe Gould,"['Bill Giduz', 'Jack Hirschowitz', 'Joe Gould']",2.0,Unknown,M
 Jonah Freed,"['Bill Giduz', 'Jack Hirschowitz', 'Jonah Freed']",2.0,Unknown,M
 Chris Olson,"['Bill Giduz', 'Andrew Swan', 'Chris Olson']",2.0,Unknown,M
-Jonathan Hartford,"['Bill Giduz', 'Ben Schoenberg', 'Jonathan Hartford']",2.0,Unknown,M
+Jaye Butler,"['Bill Giduz', 'Barry Goldmeier', 'Jaye Butler']",2.0,Unknown,F
+Joshua Edleman,"['Bill Giduz', 'Barry Goldmeier', 'Joshua Edleman']",2.0,Unknown,M
 Conor Hussey,"['Bill Giduz', 'Andrew Swan', 'Conor Hussey']",2.0,Unknown,M
 Danny Gratzer,"['Bill Giduz', 'Jack Hirschowitz', 'Danny Gratzer']",2.0,Unknown,M
 Alec Bennett,"['Bill Giduz', 'Andrew Swan', 'Alec Bennett']",2.0,Unknown,M
-Eric Blaha,"['Bill Giduz', 'Ben Schoenberg', 'Eric Blaha']",2.0,Unknown,M
-Jaye Butler,"['Bill Giduz', 'Barry Goldmeier', 'Jaye Butler']",2.0,Unknown,F
-Joshua Edleman,"['Bill Giduz', 'Barry Goldmeier', 'Joshua Edleman']",2.0,Unknown,M
+Mark Cembrowski,"['Bill Giduz', 'Barry Goldmeier', 'Mark Cembrowski']",2.0,Unknown,M
 Grace Boatman,"['Bill Giduz', 'Jack Hirschowitz', 'Grace Boatman']",2.0,Unknown,F
 Nick Hiniker,"['Bill Giduz', 'Andrew Swan', 'Nick Hiniker']",2.0,Unknown,M
 Katie Evans,"['Bill Giduz', 'Jack Hirschowitz', 'Katie Evans']",2.0,Unknown,F
-Justin Kolas,"['Bill Giduz', 'Andrew Swan', 'Justin Kolas']",2.0,Unknown,M
-Nicholas Eaton,"['Bill Giduz', 'Jack Hirschowitz', 'Nicholas Eaton']",2.0,Unknown,M
-Neil Jordan,"['Bill Giduz', 'Andrew Swan', 'Neil Jordan']",2.0,Unknown,M
 Sean Carney,"['Bill Giduz', 'Andrew Swan', 'Sean Carney']",2.0,Unknown,M
+Nathan Vehse,"['Bill Giduz', 'Barry Goldmeier', 'Nathan Vehse']",2.0,Unknown,M
+Brendan Cogan,"['Bill Giduz', 'Andrew Swan', 'Brendan Cogan']",2.0,Unknown,M
+Jon Bozak,"['Bill Giduz', 'Andrew Swan', 'Jon Bozak']",2.0,Unknown,M
 Ron Zeszut,"['Bill Giduz', 'Andrew Swan', 'Ron Zeszut']",2.0,Unknown,M
 Matt Baum,"['Bill Giduz', 'Andrew Swan', 'Matt Baum']",2.0,Unknown,M
 Tao Wei,"['Bill Giduz', 'Andrew Swan', 'Tao Wei']",2.0,Unknown,M
@@ -347,14 +347,14 @@ Austin Bruckner,"['Bill Giduz', 'Andrew Swan', 'Austin Bruckner']",2.0,Unknown,M
 Amanda Richter,"['Bill Giduz', 'Barry Goldmeier', 'Amanda Richter']",2.0,Unknown,F
 Peter Blanchard,"['Bill Giduz', 'Andrew Swan', 'Peter Blanchard']",2.0,Unknown,M
 Matt Gifford,"['Bill Giduz', 'Andrew Swan', 'Matt Gifford']",2.0,Unknown,M
+J Butler,"['Bill Giduz', 'Ben Schoenberg', 'J Butler']",2.0,Unknown,
 Nicholas Tackis,"['Bill Giduz', 'Barry Goldmeier', 'Nicholas Tackis']",2.0,Unknown,M
+Mike Gracie,"['Bill Giduz', 'Ben Schoenberg', 'Mike Gracie']",2.0,Unknown,M
+Amy Barnes,"['Bill Giduz', 'Ben Schoenberg', 'Amy Barnes']",2.0,Unknown,F
 Gay Shope,"['Bill Giduz', 'Andrew Swan', 'Gay Shope']",2.0,Unknown,F
 Mike Swan,"['Bill Giduz', 'Andrew Swan', 'Mike Swan']",2.0,Unknown,M
 Gordon Cornell,"['Bill Giduz', 'Andrew Swan', 'Gordon Cornell']",2.0,Unknown,M
-Jon Bozak,"['Bill Giduz', 'Andrew Swan', 'Jon Bozak']",2.0,Unknown,M
 Ricky Harr,"['Bill Giduz', 'Barry Goldmeier', 'Ricky Harr']",2.0,Unknown,M
-Brendan Cogan,"['Bill Giduz', 'Andrew Swan', 'Brendan Cogan']",2.0,Unknown,M
-Dan Chan,"['Bill Giduz', 'Andrew Swan', 'Dan Chan']",2.0,Unknown,M
 Jeremy Stanley,"['Bill Giduz', 'Barry Goldmeier', 'Jeremy Stanley']",2.0,Unknown,M
 Kyler McClintock,"['Bill Giduz', 'Barry Goldmeier', 'Kyler McClintock']",2.0,Unknown,M
 Riga Moettus,"['Bill Giduz', 'Barry Goldmeier', 'Riga Moettus']",2.0,Unknown,F
@@ -414,11 +414,11 @@ Aaron Heilig,"['Bill Giduz', 'Jack Hirschowitz', 'Aaron Heilig']",2.0,Unknown,M
 Katie Burgess,"['Bill Giduz', 'Barry Goldmeier', 'Katie Burgess']",2.0,Unknown,F
 Draco Tong,"['Bill Giduz', 'Jack Hirschowitz', 'Draco Tong']",2.0,Unknown,M
 Eric Raivo,"['Bill Giduz', 'Jack Hirschowitz', 'Eric Raivo']",2.0,Unknown,M
-Barak Hirschowitz,"['Bill Giduz', 'Jack Hirschowitz', 'Barak Hirschowitz']",2.0,USA,M
 Torrey Hamilton,"['Bill Giduz', 'Jack Hirschowitz', 'Torrey Hamilton']",2.0,Unknown,M
 Sterling Franklin,"['Bill Giduz', 'Barry Goldmeier', 'Sterling Franklin']",2.0,USA,M
 Summer Cooper,"['Bill Giduz', 'Jack Hirschowitz', 'Summer Cooper']",2.0,USA,F
 Samuel Dean,"['Bill Giduz', 'Jack Hirschowitz', 'Samuel Dean']",2.0,USA,M
+Barak Hirschowitz,"['Bill Giduz', 'Jack Hirschowitz', 'Barak Hirschowitz']",2.0,USA,M
 Meggie Mariah,"['Bill Giduz', 'Jack Hirschowitz', 'Meggie Mariah']",2.0,Unknown,F
 Garrett Borawski,"['Bill Giduz', 'Barry Goldmeier', 'Garrett Borawski']",2.0,Unknown,M
 Delaney Bayles,"['Bill Giduz', 'Barry Goldmeier', 'Delaney Bayles']",2.0,Unknown,F
@@ -480,40 +480,39 @@ Gerry Daher,"['Bill Giduz', 'Barry Goldmeier', 'Gerry Daher']",2.0,Unknown,M
 Jonah Botinick-Greenhouse,"['Bill Giduz', 'Barry Goldmeier', 'Jonah Botinick-Greenhouse']",2.0,Unknown,M
 Shahar Cohen,"['Bill Giduz', 'Jack Hirschowitz', 'Shahar Cohen']",2.0,ISR,M
 Kyle Hahn,"['Bill Giduz', 'Barry Goldmeier', 'Kyle Hahn']",2.0,Unknown,M
-Nick Deboom,"['Bill Giduz', 'Barry Goldmeier', 'Nick Deboom']",2.0,Unknown,M
 Katie burgess,"['Bill Giduz', 'Barry Goldmeier', 'Katie burgess']",2.0,Unknown,F
+Nick Deboom,"['Bill Giduz', 'Barry Goldmeier', 'Nick Deboom']",2.0,Unknown,M
 Kirt Albrecht,"['Bill Giduz', 'Barry Goldmeier', 'Kirt Albrecht']",2.0,Unknown,M
+Daniel Van Hoomissen,"['Bill Giduz', 'Barry Goldmeier', 'Daniel Van Hoomissen']",2.0,Unknown,M
 Mark Devlin,"['Bill Giduz', 'Barry Goldmeier', 'Mark Devlin']",2.0,Unknown,M
 Vincent Kaseman,"['Bill Giduz', 'Barry Goldmeier', 'Vincent Kaseman']",2.0,Unknown,M
-Andy Shue,"['Bill Giduz', 'Barry Goldmeier', 'Andy Shue']",2.0,Unknown,M
+Ely Doan,"['Bill Giduz', 'Barry Goldmeier', 'Ely Doan']",2.0,Unknown,M
 Anton Chainwalker,"['Bill Giduz', 'Barry Goldmeier', 'Anton Chainwalker']",2.0,Unknown,M
-Daniel Van Hoomissen,"['Bill Giduz', 'Barry Goldmeier', 'Daniel Van Hoomissen']",2.0,Unknown,M
-Terry Odom,"['Bill Giduz', 'Barry Goldmeier', 'Terry Odom']",2.0,USA,M
 Ian O'Donnell,"['Bill Giduz', 'Barry Goldmeier', ""Ian O'Donnell""]",2.0,Unknown,M
+Terry Odom,"['Bill Giduz', 'Barry Goldmeier', 'Terry Odom']",2.0,USA,M
+Andy Shue,"['Bill Giduz', 'Barry Goldmeier', 'Andy Shue']",2.0,Unknown,M
 Kayla Malmgren,"['Bill Giduz', 'Jack Hirschowitz', 'Kayla Malmgren']",2.0,Unknown,F
 Peter Hedberg,"['Bill Giduz', 'Barry Goldmeier', 'Peter Hedberg']",2.0,Unknown,M
+Bryan Nguyen,"['Bill Giduz', 'Barry Goldmeier', 'Bryan Nguyen']",2.0,Unknown,M
+Laura Schroeder,"['Bill Giduz', 'Barry Goldmeier', 'Laura Schroeder']",2.0,Unknown,F
+Brendan McGreal,"['Bill Giduz', 'Barry Goldmeier', 'Brendan McGreal']",2.0,Unknown,M
 Carter Randall,"['Bill Giduz', 'Jack Hirschowitz', 'Carter Randall']",2.0,Unknown,M
 Mark Furniss,"['Bill Giduz', 'Barry Goldmeier', 'Mark Furniss']",2.0,Unknown,M
 Raphael Harris,"['Bill Giduz', 'Jack Hirschowitz', 'Raphael Harris']",2.0,Unknown,M
-Brendan McGreal,"['Bill Giduz', 'Barry Goldmeier', 'Brendan McGreal']",2.0,Unknown,M
-Ely Doan,"['Bill Giduz', 'Barry Goldmeier', 'Ely Doan']",2.0,Unknown,M
-Laura Schroeder,"['Bill Giduz', 'Barry Goldmeier', 'Laura Schroeder']",2.0,Unknown,F
-Bryan Nguyen,"['Bill Giduz', 'Barry Goldmeier', 'Bryan Nguyen']",2.0,Unknown,M
-Kaupo Pilder,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Kaupo Pilder']",3.0,EST,M
-Josh Horowitz,"['Bill Giduz', 'Barry Goldmeier', 'Sterling Franklin', 'Josh Horowitz']",3.0,Unknown,M
-Daniela Palickova,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Daniela Palickova']",3.0,CZE,F
-Cyril Pujol,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Cyril Pujol']",3.0,FRA,M
-Karly Swaim,"['Bill Giduz', 'Jack Hirschowitz', 'Zoe Prawda', 'Karly Swaim']",3.0,USA,F
-Sydney McDonald,"['Bill Giduz', 'Barry Goldmeier', 'Mike Moore', 'Sydney McDonald']",3.0,Unknown,M
-Jan Nowosad,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Jan Nowosad']",3.0,POL,M
-Morgan Anderson,"['Bill Giduz', 'Barry Goldmeier', 'Mike Moore', 'Morgan Anderson']",3.0,Unknown,F
-Julian Tam,"['Bill Giduz', 'Barry Goldmeier', 'Mike Moore', 'Julian Tam']",3.0,Unknown,M
 Viola Radmoser,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Viola Radmoser']",3.0,DEU,F
+Boris Georgiev,"['Bill Giduz', 'Barry Goldmeier', 'Mike Moore', 'Boris Georgiev']",3.0,Unknown,M
+Julian Tam,"['Bill Giduz', 'Barry Goldmeier', 'Mike Moore', 'Julian Tam']",3.0,Unknown,M
+Morgan Anderson,"['Bill Giduz', 'Barry Goldmeier', 'Mike Moore', 'Morgan Anderson']",3.0,Unknown,F
+Cyril Pujol,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Cyril Pujol']",3.0,FRA,M
+Daniela Palickova,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Daniela Palickova']",3.0,CZE,F
+Josh Horowitz,"['Bill Giduz', 'Barry Goldmeier', 'Sterling Franklin', 'Josh Horowitz']",3.0,Unknown,M
+Nicholas Boffa,"['Bill Giduz', 'Barry Goldmeier', 'Sterling Franklin', 'Nicholas Boffa']",3.0,Unknown,M
+Kaupo Pilder,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Kaupo Pilder']",3.0,EST,M
 Eden Katsir,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Eden Katsir']",3.0,IRL,M
 Eden Katsir,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Eden Katsir']",3.0,ISR,M
-Boris Georgiev,"['Bill Giduz', 'Barry Goldmeier', 'Mike Moore', 'Boris Georgiev']",3.0,Unknown,M
+Jan Nowosad,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Jan Nowosad']",3.0,POL,M
+Sydney McDonald,"['Bill Giduz', 'Barry Goldmeier', 'Mike Moore', 'Sydney McDonald']",3.0,Unknown,M
 Thomas Boiteux,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Thomas Boiteux']",3.0,FRA,M
-Michal Kapral,"['Bill Giduz', 'Barry Goldmeier', 'Perry Romanowski', 'Michal Kapral']",3.0,CAN,M
 Artur Witek,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Artur Witek']",3.0,POL,M
 Corbinian Neubauer,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Corbinian Neubauer']",3.0,DEU,M
 Roman Belinkiy,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Roman Belinkiy']",3.0,ISR,M
@@ -537,8 +536,7 @@ Gavin Hossack,"['Bill Giduz', 'Barry Goldmeier', 'David Pavlove Cunsolo', 'Gavin
 Jowita Nowogrodzka-Ligeza,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Jowita Nowogrodzka-Ligeza']",3.0,DEU,F
 Veronika Rieckh,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Veronika Rieckh']",3.0,AUT,F
 Jheng-Yu Chiu,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Jheng-Yu Chiu']",3.0,TWN,M
-Nicholas Boffa,"['Bill Giduz', 'Barry Goldmeier', 'Sterling Franklin', 'Nicholas Boffa']",3.0,Unknown,M
-Valentin Bolognini,"['Bill Giduz', 'Barry Goldmeier', 'Sterling Franklin', 'Valentin Bolognini']",3.0,Unknown,M
+Karly Swaim,"['Bill Giduz', 'Jack Hirschowitz', 'Zoe Prawda', 'Karly Swaim']",3.0,USA,F
 Donnell Griffith,"['Bill Giduz', 'Jack Hirschowitz', 'Zoe Prawda', 'Donnell Griffith']",3.0,USA,M
 Elliot Kaplan,"['Bill Giduz', 'Jack Hirschowitz', 'Zoe Prawda', 'Elliot Kaplan']",3.0,USA,M
 Brenn Swanson,"['Bill Giduz', 'Jack Hirschowitz', 'Zoe Prawda', 'Brenn Swanson']",3.0,USA,F
@@ -551,13 +549,14 @@ Trevor Stenson,"['Bill Giduz', 'Jack Hirschowitz', 'Zoe Prawda', 'Trevor Stenson
 Joel Hilchey,"['Bill Giduz', 'Barry Goldmeier', 'Sterling Franklin', 'Joel Hilchey']",3.0,Unknown,M
 Joey Silknitter,"['Bill Giduz', 'Jack Hirschowitz', 'Zoe Prawda', 'Joey Silknitter']",3.0,USA,M
 Daniel Glus,"['Bill Giduz', 'Jack Hirschowitz', 'Zoe Prawda', 'Daniel Glus']",3.0,USA,M
+Michal Kapral,"['Bill Giduz', 'Barry Goldmeier', 'Perry Romanowski', 'Michal Kapral']",3.0,CAN,M
 Stephan Cipra,"['Bill Giduz', 'Barry Goldmeier', 'Sterling Franklin', 'Stephan Cipra']",3.0,Unknown,M
 Logan Pearce,"['Bill Giduz', 'Barry Goldmeier', 'Sterling Franklin', 'Logan Pearce']",3.0,Unknown,F
 Chris Fowler,"['Bill Giduz', 'Barry Goldmeier', 'Sterling Franklin', 'Chris Fowler']",3.0,Unknown,M
+Valentin Bolognini,"['Bill Giduz', 'Barry Goldmeier', 'Sterling Franklin', 'Valentin Bolognini']",3.0,Unknown,M
 Liya Bakhrakh,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Liya Bakhrakh']",3.0,ISR,F
-Silvia Osiek,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Silvia Osiek']",3.0,DEU,F
 Piotr Maciejewski,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Piotr Maciejewski']",3.0,POL,M
-Randy Papple,"['Bill Giduz', 'Barry Goldmeier', 'Mike Moore', 'Randy Papple']",3.0,CAN,M
+Ben Sayles,"['Bill Giduz', 'Barry Goldmeier', 'Mike Moore', 'Ben Sayles']",3.0,Unknown,M
 Florian Huber,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Florian Huber']",3.0,DEU,M
 Tanja Schwanke,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Tanja Schwanke']",3.0,DEU,F
 Yaron Davidovich,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Yaron Davidovich']",3.0,ISR,M
@@ -566,8 +565,8 @@ Louison Vatin,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Louison Vatin']"
 Eyal Bor,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Eyal Bor']",3.0,MEX,M
 Brook Roberts,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Brook Roberts']",3.0,GBR,M
 Anna Kruk,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Anna Kruk']",3.0,POL,F
+Silvia Osiek,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Silvia Osiek']",3.0,DEU,F
 Verena Rau,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Verena Rau']",3.0,DEU,F
-Malthe Jerup Ostergaard,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Malthe Jerup Ostergaard']",3.0,DNK,M
 Ilia Poliakov,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Ilia Poliakov']",3.0,ISR,M
 Vaclav Peca,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Vaclav Peca']",3.0,CZE,M
 Alexander Armbruster,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Alexander Armbruster']",3.0,DEU,M
@@ -575,7 +574,8 @@ Sebastian Siwiec,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Sebastian Siw
 Greg Philips,"['Bill Giduz', 'Barry Goldmeier', 'Mike Moore', 'Greg Philips']",3.0,Unknown,M
 Caleb Williams,"['Bill Giduz', 'Barry Goldmeier', 'Sterling Franklin', 'Caleb Williams']",3.0,USA,M
 Peter Rottenbach,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Peter Rottenbach']",3.0,DEU,M
-Ben Sayles,"['Bill Giduz', 'Barry Goldmeier', 'Mike Moore', 'Ben Sayles']",3.0,Unknown,M
+Randy Papple,"['Bill Giduz', 'Barry Goldmeier', 'Mike Moore', 'Randy Papple']",3.0,CAN,M
+Malthe Jerup Ostergaard,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Malthe Jerup Ostergaard']",3.0,DNK,M
 Jonas Broring,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Jonas Broring']",3.0,DEU,M
 Fabian Fehlhaber,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Fabian Fehlhaber']",3.0,DEU,M
 Samuel Greenwood-Wein,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Samuel Greenwood-Wein']",3.0,DEU,M
@@ -646,13 +646,13 @@ Shchipakin Konstantin,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Ilia Pol
 Artem Chusovitin,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Ilia Poliakov', 'Artem Chusovitin']",4.0,RUS,M
 Yaroshenko Stepan,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Ilia Poliakov', 'Yaroshenko Stepan']",4.0,RUS,M
 Julia Len,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Ilia Poliakov', 'Julia Len']",4.0,RUS,F
-Zach Warren,"['Bill Giduz', 'Barry Goldmeier', 'Perry Romanowski', 'Michal Kapral', 'Zach Warren']",4.0,USA,M
 Simon Hodge,"['Bill Giduz', 'Barry Goldmeier', 'Perry Romanowski', 'Michal Kapral', 'Simon Hodge']",4.0,CAN,M
+Zach Warren,"['Bill Giduz', 'Barry Goldmeier', 'Perry Romanowski', 'Michal Kapral', 'Zach Warren']",4.0,USA,M
 Crack Ivan,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Ilia Poliakov', 'Crack Ivan']",4.0,RUS,M
 Zyablitsky Alexander,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Ilia Poliakov', 'Yaroshenko Stepan', 'Zyablitsky Alexander']",5.0,RUS,M
 Butrin Ilya,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Ilia Poliakov', 'Yaroshenko Stepan', 'Butrin Ilya']",5.0,RUS,M
-Kozlov Dmitry,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Ilia Poliakov', 'Yaroshenko Stepan', 'Kozlov Dmitry']",5.0,RUS,M
 Arsenyev Artyom,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Ilia Poliakov', 'Yaroshenko Stepan', 'Arsenyev Artyom']",5.0,RUS,M
+Kozlov Dmitry,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Ilia Poliakov', 'Yaroshenko Stepan', 'Kozlov Dmitry']",5.0,RUS,M
 Stepanov Dmitry,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Ilia Poliakov', 'Yaroshenko Stepan', 'Stepanov Dmitry']",5.0,RUS,M
 Chusovitin Artyom,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Ilia Poliakov', 'Yaroshenko Stepan', 'Chusovitin Artyom']",5.0,RUS,M
 Novikova Julia,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Ilia Poliakov', 'Yaroshenko Stepan', 'Novikova Julia']",5.0,RUS,F
@@ -670,70 +670,70 @@ Orlov Vladimir,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Ilia Poliakov',
 Kovalenko Ekaterina,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Ilia Poliakov', 'Yaroshenko Stepan', 'Zyablitsky Alexander', 'Kovalenko Ekaterina']",6.0,RUS,F
 Raskostova Kristina,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Ilia Poliakov', 'Yaroshenko Stepan', 'Zyablitsky Alexander', 'Raskostova Kristina']",6.0,RUS,F
 Mazeina Julia,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Ilia Poliakov', 'Yaroshenko Stepan', 'Zyablitsky Alexander', 'Mazeina Julia']",6.0,RUS,F
-Deulina Kristina,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Ilia Poliakov', 'Yaroshenko Stepan', 'Zyablitsky Alexander', 'Deulina Kristina']",6.0,RUS,F
-Romanov Nikita,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Ilia Poliakov', 'Yaroshenko Stepan', 'Zyablitsky Alexander', 'Romanov Nikita']",6.0,RUS,M
-Nikitin Egor,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Ilia Poliakov', 'Yaroshenko Stepan', 'Zyablitsky Alexander', 'Nikitin Egor']",6.0,RUS,M
-Chuikova Olga,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Ilia Poliakov', 'Yaroshenko Stepan', 'Zyablitsky Alexander', 'Chuikova Olga']",6.0,RUS,F
-Altayakov Ilnur,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Ilia Poliakov', 'Yaroshenko Stepan', 'Zyablitsky Alexander', 'Altayakov Ilnur']",6.0,RUS,M
-Gramotina Natalia,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Ilia Poliakov', 'Yaroshenko Stepan', 'Zyablitsky Alexander', 'Gramotina Natalia']",6.0,RUS,F
 Tsybina Victoria,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Ilia Poliakov', 'Yaroshenko Stepan', 'Zyablitsky Alexander', 'Tsybina Victoria']",6.0,RUS,F
-Shpilevsky Vyacheslav,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Ilia Poliakov', 'Yaroshenko Stepan', 'Zyablitsky Alexander', 'Shpilevsky Vyacheslav']",6.0,RUS,M
-Shpilevskaya Sofia,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Ilia Poliakov', 'Yaroshenko Stepan', 'Zyablitsky Alexander', 'Shpilevskaya Sofia']",6.0,RUS,F
 Loginov Mihail,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Ilia Poliakov', 'Yaroshenko Stepan', 'Zyablitsky Alexander', 'Loginov Mihail']",6.0,RUS,M
-Prokhorova Angelina,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Ilia Poliakov', 'Yaroshenko Stepan', 'Zyablitsky Alexander', 'Prokhorova Angelina']",6.0,RUS,F
 Korpusov Maxim,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Ilia Poliakov', 'Yaroshenko Stepan', 'Zyablitsky Alexander', 'Korpusov Maxim']",6.0,RUS,M
-Andy Widmann,No Connection to Bill Giduz,inf,Unknown,M
-Ashrita Furman,No Connection to Bill Giduz,inf,USA,M
-Helaman Pratt Ferguson,No Connection to Bill Giduz,inf,USA,M
-Giovanni Gaole,No Connection to Bill Giduz,inf,Unknown,M
+Prokhorova Angelina,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Ilia Poliakov', 'Yaroshenko Stepan', 'Zyablitsky Alexander', 'Prokhorova Angelina']",6.0,RUS,F
+Shpilevskaya Sofia,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Ilia Poliakov', 'Yaroshenko Stepan', 'Zyablitsky Alexander', 'Shpilevskaya Sofia']",6.0,RUS,F
+Gramotina Natalia,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Ilia Poliakov', 'Yaroshenko Stepan', 'Zyablitsky Alexander', 'Gramotina Natalia']",6.0,RUS,F
+Altayakov Ilnur,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Ilia Poliakov', 'Yaroshenko Stepan', 'Zyablitsky Alexander', 'Altayakov Ilnur']",6.0,RUS,M
+Deulina Kristina,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Ilia Poliakov', 'Yaroshenko Stepan', 'Zyablitsky Alexander', 'Deulina Kristina']",6.0,RUS,F
+Nikitin Egor,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Ilia Poliakov', 'Yaroshenko Stepan', 'Zyablitsky Alexander', 'Nikitin Egor']",6.0,RUS,M
+Romanov Nikita,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Ilia Poliakov', 'Yaroshenko Stepan', 'Zyablitsky Alexander', 'Romanov Nikita']",6.0,RUS,M
+Shpilevsky Vyacheslav,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Ilia Poliakov', 'Yaroshenko Stepan', 'Zyablitsky Alexander', 'Shpilevsky Vyacheslav']",6.0,RUS,M
+Chuikova Olga,"['Bill Giduz', 'Andrew Swan', 'Markus Furtner', 'Ilia Poliakov', 'Yaroshenko Stepan', 'Zyablitsky Alexander', 'Chuikova Olga']",6.0,RUS,F
 Marla Edgecomb,No Connection to Bill Giduz,inf,USA,F
-Quest Crothers,No Connection to Bill Giduz,inf,Unknown,M
-Skye Jerpbak,No Connection to Bill Giduz,inf,Unknown,F
-Jill Edgecomb,No Connection to Bill Giduz,inf,Unknown,F
+Giovanni Gaole,No Connection to Bill Giduz,inf,Unknown,M
 Davld Pavlove Cunsolo,No Connection to Bill Giduz,inf,Unknown,M
-Scott Jenkins,No Connection to Bill Giduz,inf,GBR,M
+Jill Edgecomb,No Connection to Bill Giduz,inf,Unknown,F
+Andy Widmann,No Connection to Bill Giduz,inf,Unknown,M
+Quest Crothers,No Connection to Bill Giduz,inf,Unknown,M
+Helaman Pratt Ferguson,No Connection to Bill Giduz,inf,USA,M
+Ashrita Furman,No Connection to Bill Giduz,inf,USA,M
+Skye Jerpbak,No Connection to Bill Giduz,inf,Unknown,F
+James McDiarmid,No Connection to Bill Giduz,inf,GBR,M
 Ingbert Bittel,No Connection to Bill Giduz,inf,DEU,M
+Tristan Heinicke,No Connection to Bill Giduz,inf,USA,M
+Jason Bigonia,No Connection to Bill Giduz,inf,USA,M
+Johan Swartvagher,No Connection to Bill Giduz,inf,FRA,M
 Rick Kwiatkowski,No Connection to Bill Giduz,inf,USA,M
 Calvin Staley,No Connection to Bill Giduz,inf,USA,M
 Levent Denizci,No Connection to Bill Giduz,inf,TUR,M
 Jonathan Austin,No Connection to Bill Giduz,inf,USA,M
 Andrew Miller,No Connection to Bill Giduz,inf,USA,M
+Tim Ebersole,No Connection to Bill Giduz,inf,USA,M
 Attila Suszter,No Connection to Bill Giduz,inf,HUN,M
-John Dombach,No Connection to Bill Giduz,inf,USA,M
-Dillon Hutyra,No Connection to Bill Giduz,inf,USA,M
-Johan Swartvagher,No Connection to Bill Giduz,inf,FRA,M
 Kalia Handy Bosma,No Connection to Bill Giduz,inf,USA,F
+John Handy Bosma,No Connection to Bill Giduz,inf,USA,M
 Heather Thompson,No Connection to Bill Giduz,inf,USA,F
 Narelle Cabassi,No Connection to Bill Giduz,inf,AUS,F
-JL Coldham,No Connection to Bill Giduz,inf,GBR,M
 Derrick Adams,No Connection to Bill Giduz,inf,GBR,M
-Nick Burns,No Connection to Bill Giduz,inf,GBR,M
 EJ Coldham,No Connection to Bill Giduz,inf,GBR,F
 Erick Sells,No Connection to Bill Giduz,inf,USA,M
 Toon Witters,No Connection to Bill Giduz,inf,BEL,M
-John Handy Bosma,No Connection to Bill Giduz,inf,USA,M
-Jason Bigonia,No Connection to Bill Giduz,inf,USA,M
-Tristan Heinicke,No Connection to Bill Giduz,inf,USA,M
-Tim Ebersole,No Connection to Bill Giduz,inf,USA,M
+John Dombach,No Connection to Bill Giduz,inf,USA,M
+Dana Lee Ling,No Connection to Bill Giduz,inf,FSM,M
+Ricco Visser,No Connection to Bill Giduz,inf,ZAF,M
+Ralph Kidner,No Connection to Bill Giduz,inf,GBR,M
+Dominic Lodge,No Connection to Bill Giduz,inf,GBR,M
+Chris Edwin,No Connection to Bill Giduz,inf,GBR,M
+Scott Jenkins,No Connection to Bill Giduz,inf,GBR,M
+Kacper Suchora,No Connection to Bill Giduz,inf,POL,M
+David Tate,No Connection to Bill Giduz,inf,USA,M
 Jean-Marc Doiron,No Connection to Bill Giduz,inf,CAN,M
 Ketan Abhonkar,No Connection to Bill Giduz,inf,IND,M
 Martin Dalsgard,No Connection to Bill Giduz,inf,SWE,M
 Rik Konings,No Connection to Bill Giduz,inf,NLD,M
 Jonas Eberlein,No Connection to Bill Giduz,inf,DEU,M
 Stefan Nygard,No Connection to Bill Giduz,inf,SWE,M
-James McDiarmid,No Connection to Bill Giduz,inf,GBR,M
 Brady Xue,No Connection to Bill Giduz,inf,USA,M
-David Tate,No Connection to Bill Giduz,inf,USA,M
-Dominic Lodge,No Connection to Bill Giduz,inf,GBR,M
-Chris Edwin,No Connection to Bill Giduz,inf,GBR,M
 Tim Butler,No Connection to Bill Giduz,inf,GBR,M
+Dillon Hutyra,No Connection to Bill Giduz,inf,USA,M
 Stuart Humphries,No Connection to Bill Giduz,inf,GBR,M
+JL Coldham,No Connection to Bill Giduz,inf,GBR,M
 John Jervis,No Connection to Bill Giduz,inf,GBR,M
 Jake Lodge,No Connection to Bill Giduz,inf,GBR,M
-Kacper Suchora,No Connection to Bill Giduz,inf,POL,M
-Ralph Kidner,No Connection to Bill Giduz,inf,GBR,M
-Ricco Visser,No Connection to Bill Giduz,inf,ZAF,M
-Dana Lee Ling,No Connection to Bill Giduz,inf,FSM,M
+Nick Burns,No Connection to Bill Giduz,inf,GBR,M
 Trevor McQuay,No Connection to Bill Giduz,inf,USA,M
 Scott Boehret,No Connection to Bill Giduz,inf,USA,M
 Kevin Sawers,No Connection to Bill Giduz,inf,GBR,M
@@ -768,7 +768,7 @@ Gavin Levenstein,No Connection to Bill Giduz,inf,ZAF,M
 Jordan Evans,No Connection to Bill Giduz,inf,GBR,M
 Ryan Himmel,No Connection to Bill Giduz,inf,USA,M
 Jannik Weiss,No Connection to Bill Giduz,inf,DEU,M
-Ferda Tekgül,No Connection to Bill Giduz,inf,TUR,M
+Ferda TekgÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¼l,No Connection to Bill Giduz,inf,TUR,M
 Reggie L,No Connection to Bill Giduz,inf,GBR,M
 Malachy Kelly,No Connection to Bill Giduz,inf,IRL,M
 Peter Rupprecht,No Connection to Bill Giduz,inf,DEU,M
