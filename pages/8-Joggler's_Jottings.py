@@ -11,10 +11,24 @@ st.write("""Click the buttons below to download the 'Joggler's Jottings', a quar
          produced to share some of the joggling highlights from the previous months.
 """)
 
+# ADD LATEST JOGGLERS JOTTINGS HERE
+
+with open("Jogglers_Jottings/2025_02.pdf", "rb") as pdf_file:
+    PDFbyte = pdf_file.read()
+st.download_button(label="February 2025",
+                    data=PDFbyte,
+                    file_name="Jogglers_Jottings/2025_02.pdf",
+                    mime='application/octet-stream')
+
+with open("Jogglers_Jottings/2024_11.pdf", "rb") as pdf_file:
+    PDFbyte = pdf_file.read()
+st.download_button(label="November 2024",
+                    data=PDFbyte,
+                    file_name="Jogglers_Jottings/2024_11.pdf",
+                    mime='application/octet-stream')
 
 with open("Jogglers_Jottings/2024_08.pdf", "rb") as pdf_file:
     PDFbyte = pdf_file.read()
-
 st.download_button(label="August 2024",
                     data=PDFbyte,
                     file_name="Jogglers_Jottings/2024_08.pdf",
@@ -22,7 +36,6 @@ st.download_button(label="August 2024",
 
 with open("Jogglers_Jottings/2024_05.pdf", "rb") as pdf_file:
     PDFbyte = pdf_file.read()
-
 st.download_button(label="May 2024",
                     data=PDFbyte,
                     file_name="Jogglers_Jottings/2024_05.pdf",
@@ -31,7 +44,6 @@ st.download_button(label="May 2024",
 
 with open("Jogglers_Jottings/2024_02.pdf", "rb") as pdf_file:
     PDFbyte = pdf_file.read()
-
 st.download_button(label="February 2024",
                     data=PDFbyte,
                     file_name="Jogglers_Jottings/2024_02.pdf",
@@ -39,7 +51,6 @@ st.download_button(label="February 2024",
 
 with open("Jogglers_Jottings/2023_10.pdf", "rb") as pdf_file:
     PDFbyte = pdf_file.read()
-
 st.download_button(label="October 2023",
                     data=PDFbyte,
                     file_name="Jogglers_Jottings/2023_10.pdf",
