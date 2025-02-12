@@ -9,7 +9,7 @@ The app can be accessed here: https://jogglingresults.streamlit.app/
 On around a monthly basis, I add the latest results to the results.csv file. Jogglers submit their results here: https://docs.google.com/forms/u/0/d/e/1FAIpQLSekhuhhZKzYHdS-hN9owER17PPRgxAfC_DODLKGuwZyXHPkOQ/viewform?pli=1
 
 To update the app:
-- Update the results.csv file in the data directory of the repo.
-- Run the 'z-prepare_data.py' script to update all of the artifacts (csv, figures, etc.) used by the app.
-
+- Update the `results.csv` file in the data directory of the repo.
+- Run the `z-prepare_data.py` script to update all of the artifacts (csv, figures, etc.) used by the app.
+- Update the update_date in `home.py`
 
