@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/75d3b3a3-c054-4c2d-bc31-f09d3063b5c0/resourceGroups/jogglingresultsarchive_group/providers/Microsoft.Web/sites/jogglingresultsarchive",
+    "appService.deploySubpath": "."
+}
