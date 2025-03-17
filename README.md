@@ -13,3 +13,7 @@ To update the app:
 - Run the `z-prepare_data.py` script to update all of the artifacts (csv, figures, etc.) used by the app.
 - Update the update_date in `home.py`
 
+
+#### Azure Deployment
+- Have tried following this tutorial to deploy to an Azure web app: https://techcommunity.microsoft.com/blog/appsonazureblog/deploy-streamlit-on-azure-web-app/4276108
+- Not working yet
