@@ -108,7 +108,7 @@ st.write("See all results below.")
 st.divider()
 
 st.write(filter_dataframe(data))
-update_date = '12th February 2025'
+update_date = '9th April 2025'
 st.write(f'App Updated: {update_date}')
 st.write('Compiled by Scott Jenkins & Chris Edwin; 2 jogglers from the United Kingdom')
 
