@@ -466,3 +466,5 @@ giduz_df['Nationality'] = giduz_df['Nationality'].replace({'0':'Unknown'})
 giduz_df.to_csv('data/giduz_df.csv',index=False)
 
 ##########################################################################################
+
+print("ALL DATA PROCESSING COMPLETE!")
