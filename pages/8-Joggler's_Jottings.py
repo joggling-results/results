@@ -12,6 +12,12 @@ st.write("""Click the buttons below to download the 'Joggler's Jottings', a quar
 """)
 
 # ADD LATEST JOGGLERS JOTTINGS HERE
+with open("Jogglers_Jottings/2025_06.pdf", "rb") as pdf_file:
+    PDFbyte = pdf_file.read()
+st.download_button(label="June 2025",
+                    data=PDFbyte,
+                    file_name="Jogglers_Jottings/2025_06.pdf",
+                    mime='application/octet-stream')
 
 with open("Jogglers_Jottings/2025_02.pdf", "rb") as pdf_file:
     PDFbyte = pdf_file.read()
