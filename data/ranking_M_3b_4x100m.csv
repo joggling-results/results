@@ -8,78 +8,86 @@ Ranking,Finish Time,IAAF Points,Joggler,Gender,Nationality,Date,Event / Venue,No
 7,0:01:02.20,65,"Joe Gould, Jack Levy, David Mlakar, Joey Spicola",M,Unknown,20/07/2011,"IJA, Rochester",IJA Database
 8,0:01:02.40,62,"Nick Thomas, Ben Thompson, Jason Hollandsworth, Mark Fiore",M,Unknown,02/08/2014,"IJA, West Lafayette",IJA Database
 9,0:01:03.00,52,"Len Ferman, David Ferman, Tyler Wishau, Ben Fry",M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
-10,0:01:04.00,37,"Eric Gunther, Daniel Raum, Ben Fry, Michael Bergeron",M,Unknown,25/07/2015,"IJA, Quebec",IJA Database
-11,0:01:04.20,34,"Gus Tate, Jesse Joyner, Matt Baum, Andrew Ruiz",M,Unknown,15/07/2008,"IJA, Kentucky",https://dev.juggle.org/history/champs/champs2008.php
-12,0:01:04.70,28,"Peter Prokop, Scott Geyman, Jared Janssen, Nathan Lane",M,Unknown,20/07/2013,"IJA, Bowling Green",IJA Database
-13,0:01:06.00,15,"Chris Essick, Perry Romanowski, Jason Hollandsworth, Len Ferman",M,Unknown,15/07/2008,"IJA, Kentucky",https://dev.juggle.org/history/champs/champs2008.php
-14,0:01:06.20,13,"Garrett Borawski, Ben Fry, Peter Holmquist, Bryan Harris",M,Unknown,24/07/2018,"IJA, Springfield",IJA Database
-15,0:01:06.30,12,"Thomas Dietz, Eric Walter, Daniel Raum, Christoph Mitasch",M,Unknown,20/07/2013,"IJA, Bowling Green",IJA Database
-16,0:01:06.60,10,"Kevin Giblin, Chris Dokler, Chuck Ritzler, Dylan Waickman",M,Unknown,20/07/2011,"IJA, Rochester",IJA Database
-17,0:01:07.00,7,"Jeremy Stanley,Tim Hark, Cartier, Ron Zeszut",M,Unknown,15/07/2008,"IJA, Kentucky",https://dev.juggle.org/history/champs/champs2008.php
-18,0:01:08.00,2,"F Kennard, Ben Oldenburg, K Beargie, Dan Tasse",M,Unknown,13/07/2004,"IJA, Buffalo",https://dev.juggle.org/history/champs/champs2004.php
-19,0:01:08.09,2,"Marlin Ballard, Mike Draney, Jon Poppele, Ben Schoenberg",M,Unknown,28/07/2001,"IJA, Wisconsin",https://dev.juggle.org/history/champs/champs2001.php
-20,0:01:08.15,2,"Chris Edwin, Scott Jenkins, Dominic Lodge, Jake Lodge",M,GBR,21/04/2024,"British Joggler Meetup, Darlington",Manually recorded
-21,0:01:09.17,0,"Rory Bade, Joey Spicola, Chris Lovdal, Silas Wallen-Friedman",M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
-22,0:01:09.20,0,"Cole Dunbar, Max Schlech, Nick DeBoom, Chris van Hoomissen",M,Unknown,25/07/2015,"IJA, Quebec",IJA Database
-23,0:01:09.37,0,"Matt Gifford, Austin Bruckner, Jeremy Stanley, Kyler McClintock",M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
-24,0:01:10.50,0,"Nick Thomas, Mark Furniss, Ben Thompson, Mark Fiore",M,Unknown,25/07/2015,"IJA, Quebec",IJA Database
-25,0:01:10.80,0,"Danny Rose, Colin Revere, Jack Levy, Ricky Harr",M,Unknown,20/07/2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
-26,0:01:11.20,0,"Mike Moore, Neil Jordaan, Jeff Lutkus, Nicolas Souren",M,Unknown,30/07/2016,"IJA, El Paso, Texas",IJA Database
-27,0:01:12.30,0,"Jared Janssen, Ely Doan, Kyler McClintock, Mike Moore",M,Unknown,02/08/2014,"IJA, West Lafayette",IJA Database
-27,0:01:12.30,0,"Andrew Swan, Jean-Guy Beaudry, Anders Kierulf, Jack Hirschowitz",M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
-29,0:01:13.00,0,"Peter Prokop, Neelraj Arjune, Jacob Biesiada, Mark Fiore",M,Unknown,21/07/2012,"IJA, Winston-Salem",IJA Database
-30,0:01:13.50,0,"Graham Rowe, Dave Kadlec, Conor Hussey, Daniel Burke",M,Unknown,20/07/2011,"IJA, Rochester",IJA Database
-31,0:01:14.00,0,"Christopher Haaser, Nick Thomas, Sam Karschnia, Mark Fiore",M,Unknown,20/07/2013,"IJA, Bowling Green",IJA Database
-32,0:01:14.06,0,"Sam Hartford, Nicolas Souren, Jamie Whoolery",M,Unknown,28/07/2001,"IJA, Wisconsin",https://dev.juggle.org/history/champs/champs2001.php
-33,0:01:14.50,0,"Chris Dokler, Joe Straitiff, Chuck Ritzler, Dylan Waickman",M,Unknown,21/07/2012,"IJA, Winston-Salem",IJA Database
-34,0:01:14.66,0,"Tom McClintock, Neil Jordan, Lee Gifford, Paul Arneberg",M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
-35,0:01:15.20,0,"Eric Reinhart, Derek Hahn, Erick Mori-Quimper, Ryan Gerrity",M,Unknown,20/07/2013,"IJA, Bowling Green",IJA Database
-36,0:01:15.40,0,"B. Gadomski, Pavlak, Bacchus, Gabe Jakubisin",M,Unknown,13/07/2004,"IJA, Buffalo",https://dev.juggle.org/history/champs/champs2004.php
-37,0:01:15.50,0,"Anthony Zeszut, David Pavlove Cunsolo, Martin Hiti, Bennett Santora",M,Unknown,24/07/2018,"IJA, Springfield",IJA Database
-38,0:01:15.75,0,"Nathan Vehse, Ron Zeszut, Tim Mauk, Jeremy Stanley",M,Unknown,17/07/2007,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2007.php
-39,0:01:17.00,0,"Mike Monson, Andrew Swan, Danny Tomaro, Jack Hirschowitz",M,Unknown,19/07/2005,"IJA, Davenport, Iowa",https://dev.juggle.org/history/champs/champs2005.php
-40,0:01:17.50,0,"Danny Rose, Alex Koren, Andrew Ruiz, Colin Revere",M,Unknown,20/07/2011,"IJA, Rochester",IJA Database
-41,0:01:18.20,0,"Anders Kierulf, Gil Pontius, Jack Hirschowitz, Andrew Swan",M,Unknown,13/07/2004,"IJA, Buffalo",https://dev.juggle.org/history/champs/champs2004.php
-42,0:01:18.70,0,"Anthony Zeszut, Gerry Daher, Nick Pisanelli, Martin Hiti",M,Unknown,15/07/2017,"IJA, Cedar Rapids",IJA Database
-43,0:01:18.90,0,"Chris Laco, Geoff Kennard, Zach Waickman, Bacchus",M,Unknown,17/07/2002,"IJA, Reading, Pennsylvania",https://dev.juggle.org/history/champs/champs2002.php
-44,0:01:19.00,0,"Caleb Black, Rain Pierce, Mark Fiore, Sterling Franklin",M,Unknown,22/07/2023,"IJA, Southbend",IJA Database
-45,0:01:19.50,0,"Jared Ashton, Isaac Cantor, Elyse Roepe, Matt Feldman",M,Unknown,24/07/2018,"IJA, Springfield",IJA Database
-46,0:01:19.60,0,"Jack Hirschowitz, Neil Jordaan, Anders Kierulf, Tom McClintock",M,Unknown,02/08/2014,"IJA, West Lafayette",IJA Database
-47,0:01:19.70,0,"Peter Holmquist, Patrick Russell, Bennett Santora, Mike Moore",M,Unknown,25/07/2015,"IJA, Quebec",IJA Database
-48,0:01:19.80,0,"Tony Malikowski, Jack Hirschowitz, Barry Goldmeier, Len Ferman",M,Unknown,24/07/2018,"IJA, Springfield",IJA Database
-48,0:01:19.80,0,"Andrew Hodge, Conor Hussey, Justin Kolas, Kyler McClintock",M,Unknown,20/07/2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
-50,0:01:20.50,0,"Eric Blaha, Joe Otonichar, Vytas Vaitkus, Zach Waickman",M,Unknown,28/07/2001,"IJA, Wisconsin",https://dev.juggle.org/history/champs/champs2001.php
-51,0:01:22.00,0,"Tom McClintock, Jack Hirschowitz, Andrew Swan, Anders Kierulf",M,Unknown,17/07/2007,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2007.php
-52,0:01:22.20,0,"Ryan Gerrity, Kyle Hahn, Bryan Nguyen, Eric Reinhart",M,Unknown,25/07/2015,"IJA, Quebec",IJA Database
-52,0:01:22.20,0,"Jack Hirschowitz, Andrew Swan, Marlin Ballard, Paul Ballard",M,Unknown,17/07/2002,"IJA, Reading, Pennsylvania",https://dev.juggle.org/history/champs/champs2002.php
-54,0:01:23.00,0,"Peter Hedberg, Jack Hirschowitz, Jean-Guy Beaudry, Gabrielle Foran",M,Unknown,25/07/2015,"IJA, Quebec",IJA Database
-55,0:01:24.80,0,"Samuel Karschnia, Steven Karschnia, Daniel Van Hoomissen, Nick Deboom",M,Unknown,02/08/2014,"IJA, West Lafayette",IJA Database
-56,0:01:25.00,0,"Tom McClintock, Joey Newsome, Trey Newsome, Chris Essick",M,Unknown,19/07/2005,"IJA, Davenport, Iowa",https://dev.juggle.org/history/champs/champs2005.php
-56,0:01:25.00,0,"Nicolas Souren, Cooper Williams, Len Ferman, Susan Hubbard",M,Unknown,02/08/2014,"IJA, West Lafayette",IJA Database
-56,0:01:25.00,0,"Andrew Swan, Mike Monson, Tom McClintock, Anthony",M,Unknown,15/07/2008,"IJA, Kentucky",https://dev.juggle.org/history/champs/champs2008.php
-59,0:01:25.40,0,"Carter Randall, Isaac Cantor, David Pavlove Cunsolo, Bennett Santora",M,Unknown,15/07/2017,"IJA, Cedar Rapids",IJA Database
-60,0:01:26.09,0,"Broderick King, Scott Schultz, Colin Revere, Ricky Harr",M,Unknown,17/07/2007,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2007.php
-61,0:01:26.22,0,"Len Ferman, Christoph Mitasch, Kyler McClintock, Andrew Ruiz",M,Unknown,17/07/2007,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2007.php
-62,0:01:26.31,0,"David Cruz, Pete Finger, Darrin Marriott, Glen Ritter",M,Unknown,28/07/2001,"IJA, Wisconsin",https://dev.juggle.org/history/champs/champs2001.php
-63,0:01:26.40,0,"Chris Dokler, Evan Peter, Kevin GIblin, Jon Bozak",M,Unknown,20/07/2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
-64,0:01:26.60,0,"John Kilgust, Tom McClintock, Jack Hirschowitz, Anders Kierulf",M,Unknown,20/07/2011,"IJA, Rochester",IJA Database
-65,0:01:27.20,0,"Anders Kierfulf, Andrew Swan, Jack Hirshowitz, Tom McClintock",M,Unknown,20/07/2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
-66,0:01:27.40,0,"Brendan Cogan, Jake Biesiada, Greg Meehan, Scott Geyman",M,Unknown,20/07/2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
-67,0:01:28.20,0,"Bennett Santora, Matt Bagley, Adam Eckman, Anthony Zeszut",M,Unknown,30/07/2016,"IJA, El Paso, Texas",IJA Database
-68,0:01:30.00,0,"Justice Seifert, Chris Van Hoomissen, Steve Upmeyer, Nathan Wakefield",M,Unknown,20/07/2013,"IJA, Bowling Green",IJA Database
-69,0:01:30.13,0,"Tim Baird, Jerry Battenfield, Jack Hirschowitz, Andrew Swan",M,Unknown,28/07/2001,"IJA, Wisconsin",https://dev.juggle.org/history/champs/champs2001.php
-70,0:01:31.53,0,"Jonny Langholz, Ben Hestness, Kyler McClintock, Silas Wallen-Friedman",M,Unknown,19/07/2005,"IJA, Davenport, Iowa",https://dev.juggle.org/history/champs/champs2005.php
-71,0:01:34.00,0,"Patrick Russell, Jared Ashton, Peter Holmquist, Kyle Albrecht",M,Unknown,15/07/2017,"IJA, Cedar Rapids",IJA Database
-71,0:01:34.00,0,"Michael Mazur, Bryan Nguyen, Sean O'Brien, Nick Eaton",M,Unknown,20/07/2013,"IJA, Bowling Green",IJA Database
-73,0:01:34.50,0,"Bob, Gordon Cornell, Paul Arneberg, Mike Swan",M,Unknown,20/07/2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
-74,0:01:37.00,0,"Jonny Langholz, Daniel Rose, Colin Kulstud, Colin Revere",M,Unknown,18/07/2006,"IJA, Portland, Oregon",https://dev.juggle.org/history/champs/champs2006.php
-75,0:01:42.90,0,"Kirt Albrecht, Tony Malikowski, Jack Hirschowitz",M,Unknown,15/07/2017,"IJA, Cedar Rapids",IJA Database
-76,0:01:45.00,0,"Anders Kierulf, Danny Tomaro, Andrew Swan, Mike Monson",M,Unknown,18/07/2006,"IJA, Portland, Oregon",https://dev.juggle.org/history/champs/champs2006.php
-77,0:01:45.50,0,"Ian O'Donnell, Gerry Daher, Nick Showman, Adam Eckman",M,Unknown,25/07/2015,"IJA, Quebec",IJA Database
-78,0:01:47.20,0,"Kevin Beargie, Phillip Garee, Todd Warner, Brendan McCarthy",M,Unknown,19/07/2005,"IJA, Davenport, Iowa",https://dev.juggle.org/history/champs/champs2005.php
-79,0:01:50.50,0,"Josh Jarosz, Erick Mori-Quimper, Derek Hahn, Michael Mazur",M,Unknown,21/07/2012,"IJA, Winston-Salem",IJA Database
-80,0:01:50.60,0,"Michael Mazur, Scott Geyman, Mike DeSalvo, Nicholas Eaton",M,Unknown,20/07/2011,"IJA, Rochester",IJA Database
-81,0:01:52.30,0,"Dominic DiMarro, Seamus Whitford, Brendan McGreal, Bryce Polito",M,Unknown,25/07/2015,"IJA, Quebec",IJA Database
-82,0:02:14.50,0,"S. Rogal, K. McGrath, M. Stockhausen, A. Wyszynski",M,Unknown,13/07/2004,"IJA, Buffalo",https://dev.juggle.org/history/champs/champs2004.php
-83,0:02:57.80,0,"Vincent Kaseman, Joshua Black, Caleb Black, Izaak Jolin",M,Unknown,24/07/2018,"IJA, Springfield",IJA Database
-84,0:03:06.00,0,"Barry Goldmeier, Bill Coad",M,Unknown,18/07/2006,"IJA, Portland, Oregon",https://dev.juggle.org/history/champs/champs2006.php
+10,0:01:03.23,48,"Dominic Lodge, Felix Surbe, Alistair Richards, Scott Jenkins",M,GBR,09/08/2025,"European Joggling Championships 2025, EJC Arnhem",EJC results in Joggler's United Group
+11,0:01:04.00,37,"Eric Gunther, Daniel Raum, Ben Fry, Michael Bergeron",M,Unknown,25/07/2015,"IJA, Quebec",IJA Database
+12,0:01:04.20,34,"Gus Tate, Jesse Joyner, Matt Baum, Andrew Ruiz",M,Unknown,15/07/2008,"IJA, Kentucky",https://dev.juggle.org/history/champs/champs2008.php
+13,0:01:04.70,28,"Peter Prokop, Scott Geyman, Jared Janssen, Nathan Lane",M,Unknown,20/07/2013,"IJA, Bowling Green",IJA Database
+14,0:01:05.03,24,"Kevin Niittyviita, Karel Schuller, Erik Toll, Luca Pferdmenges",M,Unknown,09/08/2025,"European Joggling Championships 2025, EJC Arnhem",EJC results in Joggler's United Group
+15,0:01:06.00,15,"Chris Essick, Perry Romanowski, Jason Hollandsworth, Len Ferman",M,Unknown,15/07/2008,"IJA, Kentucky",https://dev.juggle.org/history/champs/champs2008.php
+16,0:01:06.20,13,"Garrett Borawski, Ben Fry, Peter Holmquist, Bryan Harris",M,Unknown,24/07/2018,"IJA, Springfield",IJA Database
+17,0:01:06.30,12,"Thomas Dietz, Eric Walter, Daniel Raum, Christoph Mitasch",M,Unknown,20/07/2013,"IJA, Bowling Green",IJA Database
+18,0:01:06.60,10,"Kevin Giblin, Chris Dokler, Chuck Ritzler, Dylan Waickman",M,Unknown,20/07/2011,"IJA, Rochester",IJA Database
+19,0:01:07.00,7,"Jeremy Stanley,Tim Hark, Cartier, Ron Zeszut",M,Unknown,15/07/2008,"IJA, Kentucky",https://dev.juggle.org/history/champs/champs2008.php
+20,0:01:08.00,2,"F Kennard, Ben Oldenburg, K Beargie, Dan Tasse",M,Unknown,13/07/2004,"IJA, Buffalo",https://dev.juggle.org/history/champs/champs2004.php
+21,0:01:08.09,2,"Marlin Ballard, Mike Draney, Jon Poppele, Ben Schoenberg",M,Unknown,28/07/2001,"IJA, Wisconsin",https://dev.juggle.org/history/champs/champs2001.php
+22,0:01:08.15,2,"Chris Edwin, Scott Jenkins, Dominic Lodge, Jake Lodge",M,GBR,21/04/2024,"British Joggler Meetup, Darlington",Manually recorded
+23,0:01:09.04,0,"Tamino Larisch, Shimon Levikow, Nevio Krawowski, Jamal Da Silva Ermisch",M,DEU,09/08/2025,"European Joggling Championships 2025, EJC Arnhem",EJC results in Joggler's United Group
+24,0:01:09.17,0,"Rory Bade, Joey Spicola, Chris Lovdal, Silas Wallen-Friedman",M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
+25,0:01:09.20,0,"Cole Dunbar, Max Schlech, Nick DeBoom, Chris van Hoomissen",M,Unknown,25/07/2015,"IJA, Quebec",IJA Database
+26,0:01:09.37,0,"Matt Gifford, Austin Bruckner, Jeremy Stanley, Kyler McClintock",M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
+27,0:01:10.50,0,"Nick Thomas, Mark Furniss, Ben Thompson, Mark Fiore",M,Unknown,25/07/2015,"IJA, Quebec",IJA Database
+28,0:01:10.80,0,"Danny Rose, Colin Revere, Jack Levy, Ricky Harr",M,Unknown,20/07/2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
+29,0:01:11.20,0,"Mike Moore, Neil Jordan, Jeff Lutkus, Nicolas Souren",M,Unknown,30/07/2016,"IJA, El Paso, Texas",IJA Database
+30,0:01:12.30,0,"Jared Janssen, Ely Doan, Kyler McClintock, Mike Moore",M,Unknown,02/08/2014,"IJA, West Lafayette",IJA Database
+30,0:01:12.30,0,"Andrew Swan, Jean-Guy Beaudry, Anders Kierulf, Jack Hirschowitz",M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
+32,0:01:12.79,0,"Kanoa Lindiwe, Mark Fiore, Lucas Hester, Leon Vergoossen",M,Unknown,09/08/2025,"European Joggling Championships 2025, EJC Arnhem",EJC results in Joggler's United Group
+33,0:01:13.00,0,"Peter Prokop, Neelraj Arjune, Jacob Biesiada, Mark Fiore",M,Unknown,21/07/2012,"IJA, Winston-Salem",IJA Database
+34,0:01:13.50,0,"Graham Rowe, Dave Kadlec, Conor Hussey, Daniel Burke",M,Unknown,20/07/2011,"IJA, Rochester",IJA Database
+35,0:01:14.00,0,"Christopher Haaser, Nick Thomas, Sam Karschnia, Mark Fiore",M,Unknown,20/07/2013,"IJA, Bowling Green",IJA Database
+36,0:01:14.06,0,"Sam Hartford, Nicolas Souren, Jamie Whoolery",M,Unknown,28/07/2001,"IJA, Wisconsin",https://dev.juggle.org/history/champs/champs2001.php
+37,0:01:14.50,0,"Chris Dokler, Joe Straitiff, Chuck Ritzler, Dylan Waickman",M,Unknown,21/07/2012,"IJA, Winston-Salem",IJA Database
+38,0:01:14.66,0,"Tom McClintock, Neil Jordan, Lee Gifford, Paul Arneberg",M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
+39,0:01:14.80,0,"Peter Rottenbach, Marius Trirschler, Cajus Fahrenkamp, Tobias Ludwig",M,DEU,09/08/2025,"European Joggling Championships 2025, EJC Arnhem",EJC results in Joggler's United Group
+40,0:01:15.20,0,"Eric Reinhart, Derek Hahn, Erick Mori-Quimper, Ryan Gerrity",M,Unknown,20/07/2013,"IJA, Bowling Green",IJA Database
+41,0:01:15.40,0,"B. Gadomski, Pavlak, Bacchus, Gabe Jakubisin",M,Unknown,13/07/2004,"IJA, Buffalo",https://dev.juggle.org/history/champs/champs2004.php
+42,0:01:15.50,0,"Anthony Zeszut, David Pavlove Cunsolo, Martin Hiti, Bennett Santora",M,Unknown,24/07/2018,"IJA, Springfield",IJA Database
+43,0:01:15.75,0,"Nathan Vehse, Ron Zeszut, Tim Mauk, Jeremy Stanley",M,Unknown,17/07/2007,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2007.php
+44,0:01:17.00,0,"Mike Monson, Andrew Swan, Danny Tomaro, Jack Hirschowitz",M,Unknown,19/07/2005,"IJA, Davenport, Iowa",https://dev.juggle.org/history/champs/champs2005.php
+45,0:01:17.50,0,"Danny Rose, Alex Koren, Andrew Ruiz, Colin Revere",M,Unknown,20/07/2011,"IJA, Rochester",IJA Database
+46,0:01:18.20,0,"Anders Kierulf, Gil Pontius, Jack Hirschowitz, Andrew Swan",M,Unknown,13/07/2004,"IJA, Buffalo",https://dev.juggle.org/history/champs/champs2004.php
+47,0:01:18.70,0,"Anthony Zeszut, Gerry Daher, Nick Pisanelli, Martin Hiti",M,Unknown,15/07/2017,"IJA, Cedar Rapids",IJA Database
+48,0:01:18.90,0,"Chris Laco, Geoff Kennard, Zach Waickman, Bacchus",M,Unknown,17/07/2002,"IJA, Reading, Pennsylvania",https://dev.juggle.org/history/champs/champs2002.php
+49,0:01:19.00,0,"Caleb Black, Rain Pierce, Mark Fiore, Sterling Franklin",M,Unknown,22/07/2023,"IJA, Southbend",IJA Database
+50,0:01:19.50,0,"Jared Ashton, Isaac Cantor, Elyse Roepe, Matt Feldman",M,Unknown,24/07/2018,"IJA, Springfield",IJA Database
+51,0:01:19.60,0,"Jack Hirschowitz, Neil Jordan, Anders Kierulf, Tom McClintock",M,Unknown,02/08/2014,"IJA, West Lafayette",IJA Database
+52,0:01:19.62,0,"Mark Fiore, Jacob Cowan, Nathan Nard, Samuel Dean",M,Unknown,19/07/2025,"IJA, Evansville",IJA Database
+53,0:01:19.70,0,"Peter Holmquist, Patrick Russell, Bennett Santora, Mike Moore",M,Unknown,25/07/2015,"IJA, Quebec",IJA Database
+54,0:01:19.80,0,"Tony Malikowski, Jack Hirschowitz, Barry Goldmeier, Len Ferman",M,Unknown,24/07/2018,"IJA, Springfield",IJA Database
+54,0:01:19.80,0,"Andrew Hodge, Conor Hussey, Justin Kolas, Kyler McClintock",M,Unknown,20/07/2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
+56,0:01:20.50,0,"Eric Blaha, Joe Otonichar, Vytas Vaitkus, Zach Waickman",M,Unknown,28/07/2001,"IJA, Wisconsin",https://dev.juggle.org/history/champs/champs2001.php
+57,0:01:22.00,0,"Tom McClintock, Jack Hirschowitz, Andrew Swan, Anders Kierulf",M,Unknown,17/07/2007,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2007.php
+58,0:01:22.20,0,"Jack Hirschowitz, Andrew Swan, Marlin Ballard, Paul Ballard",M,Unknown,17/07/2002,"IJA, Reading, Pennsylvania",https://dev.juggle.org/history/champs/champs2002.php
+58,0:01:22.20,0,"Ryan Gerrity, Kyle Hahn, Bryan Nguyen, Eric Reinhart",M,Unknown,25/07/2015,"IJA, Quebec",IJA Database
+60,0:01:23.00,0,"Peter Hedberg, Jack Hirschowitz, Jean-Guy Beaudry, Gabrielle Foran",M,Unknown,25/07/2015,"IJA, Quebec",IJA Database
+61,0:01:23.20,0,"Harry Hirsch, Jean Guy Beaudry, Pavel Matula, Kaupo Pilder",M,Unknown,09/08/2025,"European Joggling Championships 2025, EJC Arnhem",EJC results in Joggler's United Group
+62,0:01:24.80,0,"Samuel Karschnia, Steven Karschnia, Daniel Van Hoomissen, Nick Deboom",M,Unknown,02/08/2014,"IJA, West Lafayette",IJA Database
+63,0:01:25.00,0,"Andrew Swan, Mike Monson, Tom McClintock, Anthony",M,Unknown,15/07/2008,"IJA, Kentucky",https://dev.juggle.org/history/champs/champs2008.php
+63,0:01:25.00,0,"Nicolas Souren, Cooper Williams, Len Ferman, Susan Hubbard",M,Unknown,02/08/2014,"IJA, West Lafayette",IJA Database
+63,0:01:25.00,0,"Tom McClintock, Joey Newsome, Trey Newsome, Chris Essick",M,Unknown,19/07/2005,"IJA, Davenport, Iowa",https://dev.juggle.org/history/champs/champs2005.php
+66,0:01:25.40,0,"Carter Randall, Isaac Cantor, David Pavlove Cunsolo, Bennett Santora",M,Unknown,15/07/2017,"IJA, Cedar Rapids",IJA Database
+67,0:01:26.09,0,"Broderick King, Scott Schultz, Colin Revere, Ricky Harr",M,Unknown,17/07/2007,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2007.php
+68,0:01:26.22,0,"Len Ferman, Christoph Mitasch, Kyler McClintock, Andrew Ruiz",M,Unknown,17/07/2007,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2007.php
+69,0:01:26.31,0,"David Cruz, Pete Finger, Darrin Marriott, Glen Ritter",M,Unknown,28/07/2001,"IJA, Wisconsin",https://dev.juggle.org/history/champs/champs2001.php
+70,0:01:26.40,0,"Chris Dokler, Evan Peter, Kevin GIblin, Jon Bozak",M,Unknown,20/07/2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
+71,0:01:26.60,0,"John Kilgust, Tom McClintock, Jack Hirschowitz, Anders Kierulf",M,Unknown,20/07/2011,"IJA, Rochester",IJA Database
+72,0:01:27.20,0,"Anders Kierfulf, Andrew Swan, Jack Hirshowitz, Tom McClintock",M,Unknown,20/07/2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
+73,0:01:27.40,0,"Brendan Cogan, Jake Biesiada, Greg Meehan, Scott Geyman",M,Unknown,20/07/2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
+74,0:01:28.20,0,"Bennett Santora, Matt Bagley, Adam Eckman, Anthony Zeszut",M,Unknown,30/07/2016,"IJA, El Paso, Texas",IJA Database
+75,0:01:30.00,0,"Justice Seifert, Chris Van Hoomissen, Steve Upmeyer, Nathan Wakefield",M,Unknown,20/07/2013,"IJA, Bowling Green",IJA Database
+76,0:01:30.13,0,"Tim Baird, Jerry Battenfield, Jack Hirschowitz, Andrew Swan",M,Unknown,28/07/2001,"IJA, Wisconsin",https://dev.juggle.org/history/champs/champs2001.php
+77,0:01:31.53,0,"Jonny Langholz, Ben Hestness, Kyler McClintock, Silas Wallen-Friedman",M,Unknown,19/07/2005,"IJA, Davenport, Iowa",https://dev.juggle.org/history/champs/champs2005.php
+78,0:01:31.80,0,"Aaron Heilig, Jean-Guy Beaudry, Tim Heilig, Sterling Franklin",M,Unknown,19/07/2025,"IJA, Evansville",IJA Database
+79,0:01:34.00,0,"Michael Mazur, Bryan Nguyen, Sean O'Brien, Nick Eaton",M,Unknown,20/07/2013,"IJA, Bowling Green",IJA Database
+79,0:01:34.00,0,"Patrick Russell, Jared Ashton, Peter Holmquist, Kyle Albrecht",M,Unknown,15/07/2017,"IJA, Cedar Rapids",IJA Database
+81,0:01:34.50,0,"Bob, Gordon Cornell, Paul Arneberg, Mike Swan",M,Unknown,20/07/2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
+82,0:01:37.00,0,"Jonny Langholz, Daniel Rose, Colin Kulstud, Colin Revere",M,Unknown,18/07/2006,"IJA, Portland, Oregon",https://dev.juggle.org/history/champs/champs2006.php
+83,0:01:42.90,0,"Kirt Albrecht, Tony Malikowski, Jack Hirschowitz",M,Unknown,15/07/2017,"IJA, Cedar Rapids",IJA Database
+84,0:01:45.00,0,"Anders Kierulf, Danny Tomaro, Andrew Swan, Mike Monson",M,Unknown,18/07/2006,"IJA, Portland, Oregon",https://dev.juggle.org/history/champs/champs2006.php
+85,0:01:45.50,0,"Ian O'Donnell, Gerry Daher, Nick Showman, Adam Eckman",M,Unknown,25/07/2015,"IJA, Quebec",IJA Database
+86,0:01:47.20,0,"Kevin Beargie, Phillip Garee, Todd Warner, Brendan McCarthy",M,Unknown,19/07/2005,"IJA, Davenport, Iowa",https://dev.juggle.org/history/champs/champs2005.php
+87,0:01:50.50,0,"Josh Jarosz, Erick Mori-Quimper, Derek Hahn, Michael Mazur",M,Unknown,21/07/2012,"IJA, Winston-Salem",IJA Database
+88,0:01:50.60,0,"Michael Mazur, Scott Geyman, Mike DeSalvo, Nicholas Eaton",M,Unknown,20/07/2011,"IJA, Rochester",IJA Database
+89,0:01:52.30,0,"Dominic DiMarro, Seamus Whitford, Brendan McGreal, Bryce Polito",M,Unknown,25/07/2015,"IJA, Quebec",IJA Database
+90,0:02:14.50,0,"S. Rogal, K. McGrath, M. Stockhausen, A. Wyszynski",M,Unknown,13/07/2004,"IJA, Buffalo",https://dev.juggle.org/history/champs/champs2004.php
+91,0:02:57.80,0,"Vincent Kaseman, Joshua Black, Caleb Black, Izaak Jolin",M,Unknown,24/07/2018,"IJA, Springfield",IJA Database
+92,0:03:06.00,0,"Barry Goldmeier, Bill Coad",M,Unknown,18/07/2006,"IJA, Portland, Oregon",https://dev.juggle.org/history/champs/champs2006.php

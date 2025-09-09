@@ -5,22 +5,32 @@ Ranking,Finish Time,IAAF Points,Joggler,Gender,Nationality,Date,Event / Venue,No
 4,0:00:15.44,59,Stephan Cipra,M,Unknown,2021,IJA Virtual,IJA Database
 5,0:00:16.25,13,Michal Kapral,M,CAN,2022,"IJA, Virtual",IJA Database
 6,0:00:16.42,8,Scott Jenkins,M,GBR,20/04/2024,"British Joggler Meetup, Darlington",Manually recorded by Chris Edwin
-7,0:00:19.80,0,Caleb Black,M,Unknown,22/07/2023,"IJA, Southbend",IJA Database
-8,0:00:20.00,0,Christoph Mitasch,M,Unknown,2022,"IJA, Virtual",IJA Database
-9,0:00:20.20,0,Giovanni Gaole,M,Unknown,2022,"IJA, Virtual",IJA Database
-10,0:00:27.33,0,Kozlov Dmitry,M,RUS,17/07/2022,"Saint-Petersburg Open Joggling Champinship, Saint-Petersburg, Russia",https://vk.com/wall-16055255_8327
-11,0:00:27.36,0,Chris Fowler,M,Unknown,2021,IJA Virtual,IJA Database
-12,0:00:28.03,0,James Auriemma,M,Unknown,22/07/2023,"IJA, Southbend",IJA Database
-13,0:00:30.03,0,Torsten Hornemann,M,Unknown,22/07/2023,"IJA, Southbend",IJA Database
-14,0:00:31.40,0,Valentin Bolognini,M,Unknown,2021,IJA Virtual,IJA Database
-15,0:00:32.30,0,Vorobey Artur,M,RUS,17/07/2022,"Saint-Petersburg Open Joggling Champinship, Saint-Petersburg, Russia",https://vk.com/wall-16055255_8327
-16,0:00:34.08,0,Orlov Vladimir,M,RUS,23/06/2023,"Russian Juggling Convention, Dmitrov, Russia",https://vk.com/wall-64197511_4495
-17,0:00:37.73,0,Draco Tong,M,Unknown,22/07/2023,"IJA, Southbend",IJA Database
-18,0:00:45.42,0,Kovalenko Alexey,M,RUS,23/06/2023,"Russian Juggling Convention, Dmitrov, Russia",https://vk.com/wall-64197511_4495
-19,0:00:46.93,0,Gramotin Anton,M,RUS,23/06/2023,"Russian Juggling Convention, Dmitrov, Russia",https://vk.com/wall-64197511_4495
-20,0:01:05.70,0,Rain Pierce,M,Unknown,22/07/2023,"IJA, Southbend",IJA Database
-21,0:01:24.00,0,Zyablitsky Alexander,M,RUS,23/06/2023,"Russian Juggling Convention, Dmitrov, Russia",https://vk.com/wall-64197511_4495
-22,0:01:27.00,0,Romanov Nikita,M,RUS,23/06/2023,"Russian Juggling Convention, Dmitrov, Russia",https://vk.com/wall-64197511_4495
-23,0:01:32.55,0,Yaroshenko Stepan,M,RUS,17/07/2022,"Saint-Petersburg Open Joggling Champinship, Saint-Petersburg, Russia",https://vk.com/wall-16055255_8327
-24,0:01:47.36,0,Tingaev Stanislav,M,RUS,23/06/2023,"Russian Juggling Convention, Dmitrov, Russia",https://vk.com/wall-64197511_4495
-25,0:04:53.74,0,Chris Edwin,M,GBR,08/09/2024,British Joggler Meet Up - Leeds,Manually Timed by Scott Jenkins
+7,0:00:18.89,0,Mike Moore,M,USA,19/07/2025,"IJA, Evansville",IJA Database
+8,0:00:19.80,0,Caleb Black,M,Unknown,22/07/2023,"IJA, Southbend",IJA Database
+9,0:00:20.00,0,Christoph Mitasch,M,AUT,2022,"IJA, Virtual",IJA Database
+10,0:00:20.20,0,Giovanni Gaole,M,Unknown,2022,"IJA, Virtual",IJA Database
+11,0:00:21.57,0,Aaron Heilig,M,Unknown,19/07/2025,"IJA, Evansville",IJA Database
+12,0:00:23.43,0,Tony Gonzalez,M,Unknown,19/07/2025,"IJA, Evansville",IJA Database
+13,0:00:26.87,0,Arnav Rathi,M,Unknown,19/07/2025,"IJA, Evansville",IJA Database
+14,0:00:27.13,0,Justin Sheldon,M,Unknown,19/07/2025,"IJA, Evansville",IJA Database
+15,0:00:27.33,0,Kozlov Dmitry,M,RUS,17/07/2022,"Saint-Petersburg Open Joggling Champinship, Saint-Petersburg, Russia",https://vk.com/wall-16055255_8327
+16,0:00:27.36,0,Chris Fowler,M,USA,2021,IJA Virtual,IJA Database
+17,0:00:28.03,0,James Auriemma,M,Unknown,22/07/2023,"IJA, Southbend",IJA Database
+18,0:00:30.03,0,Torsten Hornemann,M,Unknown,22/07/2023,"IJA, Southbend",IJA Database
+19,0:00:30.09,0,Samuel Dean,M,USA,19/07/2025,"IJA, Evansville",IJA Database
+20,0:00:30.46,0,James Francis,M,Unknown,19/07/2025,"IJA, Evansville",IJA Database
+21,0:00:31.40,0,Valentin Bolognini,M,Unknown,2021,IJA Virtual,IJA Database
+22,0:00:32.30,0,Vorobey Artur,M,RUS,17/07/2022,"Saint-Petersburg Open Joggling Champinship, Saint-Petersburg, Russia",https://vk.com/wall-16055255_8327
+23,0:00:34.08,0,Orlov Vladimir,M,RUS,23/06/2023,"Russian Juggling Convention, Dmitrov, Russia",https://vk.com/wall-64197511_4495
+24,0:00:37.73,0,Draco Tong,M,Unknown,22/07/2023,"IJA, Southbend",IJA Database
+25,0:00:41.00,0,Jonathan Root,M,Unknown,19/07/2025,"IJA, Evansville",IJA Database
+26,0:00:45.42,0,Kovalenko Alexey,M,RUS,23/06/2023,"Russian Juggling Convention, Dmitrov, Russia",https://vk.com/wall-64197511_4495
+27,0:00:46.93,0,Gramotin Anton,M,RUS,23/06/2023,"Russian Juggling Convention, Dmitrov, Russia",https://vk.com/wall-64197511_4495
+28,0:00:52.68,0,Jean-Guy Beaudry,M,CAN,19/07/2025,"IJA, Evansville",IJA Database
+29,0:01:05.70,0,Rain Pierce,M,Unknown,22/07/2023,"IJA, Southbend",IJA Database
+30,0:01:07.78,0,Torrey Hamilton,M,Unknown,19/07/2025,"IJA, Evansville",IJA Database
+31,0:01:24.00,0,Zyablitsky Alexander,M,RUS,23/06/2023,"Russian Juggling Convention, Dmitrov, Russia",https://vk.com/wall-64197511_4495
+32,0:01:27.00,0,Romanov Nikita,M,RUS,23/06/2023,"Russian Juggling Convention, Dmitrov, Russia",https://vk.com/wall-64197511_4495
+33,0:01:32.55,0,Yaroshenko Stepan,M,RUS,17/07/2022,"Saint-Petersburg Open Joggling Champinship, Saint-Petersburg, Russia",https://vk.com/wall-16055255_8327
+34,0:01:47.36,0,Tingaev Stanislav,M,RUS,23/06/2023,"Russian Juggling Convention, Dmitrov, Russia",https://vk.com/wall-64197511_4495
+35,0:04:53.74,0,Chris Edwin,M,GBR,08/09/2024,British Joggler Meet Up - Leeds,Manually Timed by Scott Jenkins
