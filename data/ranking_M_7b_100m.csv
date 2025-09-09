@@ -1,34 +1,40 @@
 Ranking,Finish Time,IAAF Points,Joggler,Gender,Nationality,Date,Event / Venue,Notes / Result Links
-1,0:00:41.83,0,Chris Fowler,M,Unknown,2022,"IJA, Virtual","IJA Database, https://www.youtube.com/watch?v=PZ8Vb38s-do, "
+1,0:00:41.83,0,Chris Fowler,M,USA,2022,"IJA, Virtual","IJA Database, https://www.youtube.com/watch?v=PZ8Vb38s-do, "
 2,0:00:42.50,0,Thomas Dietz,M,DEU,27/08/2018,Time Trial,https://twitter.com/mkapral/status/1033866958666690561
-3,0:00:58.40,0,Lauge Benjaminson,M,Unknown,20/07/2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
-4,0:01:02.50,0,Nick Thomas,M,Unknown,25/07/2015,"IJA, Quebec",IJA Database
-5,0:01:02.80,0,Jack Denger,M,Unknown,20/07/2011,"IJA, Rochester",IJA Database
-6,0:01:03.00,0,Giovanni Gaole,M,Unknown,2022,"IJA, Virtual",IJA Database
-7,0:01:05.00,0,Andrew Ruiz,M,Unknown,20/07/2011,"IJA, Rochester",IJA Database
-8,0:01:05.10,0,Matan Presberg,M,Unknown,25/07/2015,"IJA, Quebec",IJA Database
-9,0:01:06.00,0,David Ferman,M,USA,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
-10,0:01:13.00,0,Austin Bruckner,M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
-11,0:01:17.80,0,Ben Thompson,M,Unknown,02/08/2014,"IJA, West Lafayette",IJA Database
-12,0:01:21.00,0,Daniel Eaker,M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
-13,0:01:23.30,0,Billy Watson,M,Unknown,20/07/2011,"IJA, Rochester",IJA Database
-14,0:01:30.90,0,Andrew Hodge,M,Unknown,20/07/2011,"IJA, Rochester",IJA Database
-15,0:01:37.40,0,Davld Pavlove Cunsolo,M,Unknown,2020,"IJA, Virtual",IJA Database
-16,0:01:37.90,0,Mike Moore,M,USA,24/07/2018,"IJA, Springfield",IJA Database
-17,0:01:43.40,0,Jonah Botinick-Greenhouse,M,Unknown,25/07/2015,"IJA, Quebec",IJA Database
-18,0:01:47.50,0,Mark Fiore,M,USA,02/08/2014,"IJA, West Lafayette",IJA Database
-19,0:01:51.90,0,Albert Lucas,M,USA,21/07/2012,"IJA, Winston-Salem",IJA Database
-20,0:01:54.60,0,Jack Levy,M,Unknown,20/07/2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
-21,0:02:04.30,0,Kyle Albrecht,M,Unknown,24/07/2018,"IJA, Springfield",IJA Database
-22,0:02:06.30,0,Kyler McClintock,M,Unknown,02/08/2014,"IJA, West Lafayette",IJA Database
-23,0:02:13.70,0,Christopher van Hoomissen,M,Unknown,25/07/2015,"IJA, Quebec",IJA Database
-24,0:02:22.80,0,Danny Gratzer,M,Unknown,20/07/2011,"IJA, Rochester",IJA Database
-25,0:02:30.10,0,Bennett Santora,M,Unknown,15/07/2017,"IJA, Cedar Rapids",IJA Database
-26,0:02:53.00,0,Nicolas Souren,M,Unknown,30/07/2016,"IJA, El Paso, Texas",IJA Database
-27,0:02:58.00,0,Christopher Haaser,M,Unknown,20/07/2013,"IJA, Bowling Green",IJA Database
-28,0:03:04.00,0,Chris Lovdal,M,Unknown,21/07/2012,"IJA, Winston-Salem",IJA Database
-29,0:03:10.70,0,Joey Spicola,M,Unknown,20/07/2011,"IJA, Rochester",IJA Database
-30,0:03:20.30,0,Daniel van Hoomissen,M,Unknown,25/07/2015,"IJA, Quebec",IJA Database
-31,0:03:53.00,0,Danny Hodge,M,Unknown,21/07/2012,"IJA, Winston-Salem",IJA Database
-32,0:04:00.00,0,Barry Goldmeier,M,USA,24/07/2018,"IJA, Springfield",IJA Database
-33,0:09:18.50,0,Sterling Franklin,M,USA,2022,"IJA, Virtual",IJA Database
+3,0:00:58.40,0,Lauge Benjaminson,M,DNK,20/07/2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
+4,0:01:01.72,0,Kevin Niittyviita,M,FIN,09/08/2025,"European Joggling Championships 2025, EJC Arnhem",EJC results in Joggler's United Group
+5,0:01:02.50,0,Nick Thomas,M,Unknown,25/07/2015,"IJA, Quebec",IJA Database
+6,0:01:02.80,0,Jack Denger,M,USA,20/07/2011,"IJA, Rochester",IJA Database
+7,0:01:03.00,0,Giovanni Gaole,M,Unknown,2022,"IJA, Virtual",IJA Database
+8,0:01:03.78,0,Erik Toll,M,SWE,09/08/2025,"European Joggling Championships 2025, EJC Arnhem",EJC results in Joggler's United Group
+9,0:01:05.00,0,Andrew Ruiz,M,Unknown,20/07/2011,"IJA, Rochester",IJA Database
+10,0:01:05.10,0,Matan Presberg,M,USA,25/07/2015,"IJA, Quebec",IJA Database
+11,0:01:06.00,0,David Ferman,M,USA,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
+12,0:01:07.23,0,Luca Pferdmenges,M,DEU,09/08/2025,"European Joggling Championships 2025, EJC Arnhem",EJC results in Joggler's United Group
+13,0:01:13.00,0,Austin Bruckner,M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
+14,0:01:17.80,0,Ben Thompson,M,Unknown,02/08/2014,"IJA, West Lafayette",IJA Database
+15,0:01:21.00,0,Daniel Eaker,M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
+16,0:01:22.17,0,Eyal Bor,M,MEX,09/08/2025,"European Joggling Championships 2025, EJC Arnhem",EJC results in Joggler's United Group
+17,0:01:23.30,0,Billy Watson,M,Unknown,20/07/2011,"IJA, Rochester",IJA Database
+18,0:01:30.90,0,Andrew Hodge,M,Unknown,20/07/2011,"IJA, Rochester",IJA Database
+19,0:01:37.40,0,Davld Pavlove Cunsolo,M,Unknown,2020,"IJA, Virtual",IJA Database
+20,0:01:37.90,0,Mike Moore,M,USA,24/07/2018,"IJA, Springfield",IJA Database
+21,0:01:43.40,0,Jonah Botinick-Greenhouse,M,USA,25/07/2015,"IJA, Quebec",IJA Database
+22,0:01:47.50,0,Mark Fiore,M,USA,02/08/2014,"IJA, West Lafayette",IJA Database
+23,0:01:51.90,0,Albert Lucas,M,USA,21/07/2012,"IJA, Winston-Salem",IJA Database
+24,0:01:54.60,0,Jack Levy,M,Unknown,20/07/2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
+25,0:02:04.10,0,Karel Schuller,M,NLD,09/08/2025,"European Joggling Championships 2025, EJC Arnhem",EJC results in Joggler's United Group
+26,0:02:04.30,0,Kyle Albrecht,M,USA,24/07/2018,"IJA, Springfield",IJA Database
+27,0:02:06.30,0,Kyler McClintock,M,Unknown,02/08/2014,"IJA, West Lafayette",IJA Database
+28,0:02:13.70,0,Christopher van Hoomissen,M,Unknown,25/07/2015,"IJA, Quebec",IJA Database
+29,0:02:22.80,0,Danny Gratzer,M,Unknown,20/07/2011,"IJA, Rochester",IJA Database
+30,0:02:24.48,0,Jan Marc Daumin,M,DEU,09/08/2025,"European Joggling Championships 2025, EJC Arnhem",EJC results in Joggler's United Group
+31,0:02:30.10,0,Bennett Santora,M,Unknown,15/07/2017,"IJA, Cedar Rapids",IJA Database
+32,0:02:53.00,0,Nicolas Souren,M,Unknown,30/07/2016,"IJA, El Paso, Texas",IJA Database
+33,0:02:58.00,0,Christopher Haaser,M,Unknown,20/07/2013,"IJA, Bowling Green",IJA Database
+34,0:03:04.00,0,Chris Lovdal,M,Unknown,21/07/2012,"IJA, Winston-Salem",IJA Database
+35,0:03:10.70,0,Joey Spicola,M,Unknown,20/07/2011,"IJA, Rochester",IJA Database
+36,0:03:20.30,0,Daniel van Hoomissen,M,Unknown,25/07/2015,"IJA, Quebec",IJA Database
+37,0:03:53.00,0,Danny Hodge,M,Unknown,21/07/2012,"IJA, Winston-Salem",IJA Database
+38,0:04:00.00,0,Barry Goldmeier,M,USA,24/07/2018,"IJA, Springfield",IJA Database
+39,0:09:18.50,0,Sterling Franklin,M,USA,2022,"IJA, Virtual",IJA Database

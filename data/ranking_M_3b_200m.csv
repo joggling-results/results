@@ -9,7 +9,7 @@ Ranking,Finish Time,IAAF Points,Joggler,Gender,Nationality,Date,Event / Venue,No
 8,0:00:28.91,219,Chris Lovdal,M,Unknown,20/07/2011,"IJA, Rochester",IJA Database
 9,0:00:29.12,206,Sterling Franklin,M,USA,2020,"IJA, Virtual",IJA Database
 10,0:00:29.39,189,Samuel Dean,M,USA,11/07/2024,"IJA, Green Bay",IJA Database
-11,0:00:29.50,182,Sean Carney,M,Unknown,20/07/2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
+11,0:00:29.50,182,Sean Carney,M,USA,20/07/2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
 12,0:00:29.90,158,Ben Thompson,M,Unknown,15/07/2008,"IJA, Kentucky",https://dev.juggle.org/history/champs/champs2008.php
 13,0:00:30.06,149,Tyler Wishau,M,USA,20/07/2011,"IJA, Rochester",IJA Database
 14,0:00:30.08,148,Barry Goldmeier,M,USA,27/05/2001,Prefontaine Classic,https://www.flashresults.com/2001_Meets/outdoor/pre/pre.htm
@@ -30,95 +30,97 @@ Ranking,Finish Time,IAAF Points,Joggler,Gender,Nationality,Date,Event / Venue,No
 29,0:00:32.30,51,David Mlakar,M,Unknown,20/07/2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
 30,0:00:32.50,45,Joey Spicola,M,Unknown,20/07/2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
 31,0:00:32.78,37,Anders Kierulf,M,Unknown,18/07/2006,"IJA, Portland, Oregon",https://dev.juggle.org/history/champs/champs2006.php
-32,0:00:32.80,36,Joel Hilchey,M,Unknown,2021,IJA Virtual,IJA Database
 32,0:00:32.80,36,Andrew Swan,M,Unknown,05/08/2000,"IJA, Montreal",https://dev.juggle.org/history/champs/champs2000.php
+32,0:00:32.80,36,Joel Hilchey,M,Unknown,2021,IJA Virtual,IJA Database
 34,0:00:32.94,33,Aaron Rosenberg,M,Unknown,17/07/2007,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2007.php
 35,0:00:33.06,29,Tao Wei,M,Unknown,15/07/2008,"IJA, Kentucky",https://dev.juggle.org/history/champs/champs2008.php
-36,0:00:33.21,26,Kyle Albrecht,M,Unknown,29/06/2019,"IJA, Fort Wayne",IJA Database
+36,0:00:33.21,26,Kyle Albrecht,M,USA,29/06/2019,"IJA, Fort Wayne",IJA Database
 37,0:00:33.28,24,Greg Warrington,M,Unknown,17/07/2007,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2007.php
 38,0:00:33.30,24,Kevin Giblin,M,Unknown,20/07/2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
 39,0:00:33.70,16,Ilia Poliakov,M,ISR,25/7/2021,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",https://vk.com/wall-16055255_8154
 40,0:00:34.00,11,Jacob Heimer,M,Unknown,11/07/2024,"IJA, Green Bay",IJA Database
-41,0:00:34.16,8,Mike Moore,M,USA,29/06/2019,"IJA, Fort Wayne",IJA Database
-42,0:00:34.20,8,Dmitry Kozlov,M,RUS,25/7/2021,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",https://vk.com/wall-16055255_8154
-42,0:00:34.20,8,Kyler McClintock,M,Unknown,15/07/2008,"IJA, Kentucky",https://dev.juggle.org/history/champs/champs2008.php
-44,0:00:34.24,7,Daniel Raum,M,AUT,2022,"IJA, Virtual",IJA Database
-44,0:00:34.24,7,Giovanni Gaole,M,Unknown,2022,"IJA, Virtual",IJA Database
-46,0:00:34.50,4,Nicolas Souren,M,Unknown,29/06/2019,"IJA, Fort Wayne",IJA Database
-47,0:00:34.97,1,Tom McClintock,M,Unknown,18/07/2006,"IJA, Portland, Oregon",https://dev.juggle.org/history/champs/champs2006.php
-48,0:00:35.02,1,Draco Tong,M,Unknown,11/07/2024,"IJA, Green Bay",IJA Database
-49,0:00:35.06,0,Owen Gerba,M,Unknown,29/06/2019,"IJA, Fort Wayne",IJA Database
-50,0:00:35.33,0,Brady Xue,M,USA,2023,"IJA, Virtual",IJA Database
-51,0:00:35.37,0,David Pavlove Cunsolo,M,Unknown,2021,IJA Virtual,IJA Database
-52,0:00:35.43,0,Daniel Rose,M,Unknown,17/07/2007,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2007.php
-53,0:00:35.60,0,Perry Romanowski,M,USA,15/07/2008,"IJA, Kentucky",https://dev.juggle.org/history/champs/champs2008.php
-54,0:00:35.80,0,Sam Nerenhaus,M,Unknown,18/07/2006,"IJA, Portland, Oregon",https://dev.juggle.org/history/champs/champs2006.php
-55,0:00:35.85,0,Mike Monson,M,Unknown,18/07/2006,"IJA, Portland, Oregon",https://dev.juggle.org/history/champs/champs2006.php
-56,0:00:35.94,0,Christoph Mitasch,M,Unknown,2021,IJA Virtual,IJA Database
-57,0:00:36.17,0,Andy Widmann,M,Unknown,2023,"IJA, Virtual",IJA Database
-58,0:00:36.30,0,Yaroshenko Stepan,M,RUS,25/7/2021,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",https://vk.com/wall-16055255_8154
-59,0:00:36.47,0,Peter Blanchard,M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
-60,0:00:36.52,0,Reid Johnson,M,Unknown,20/07/2011,"IJA, Rochester",IJA Database
-61,0:00:36.59,0,Neil Jordan,M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
-62,0:00:36.63,0,Jean-Guy Beaudry,M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
-63,0:00:36.81,0,Aaron Scott,M,USA,29/06/2019,"IJA, Fort Wayne",IJA Database
-64,0:00:36.84,0,Zach Waickman,M,Unknown,28/07/2001,"IJA, Wisconsin",https://dev.juggle.org/history/champs/champs2001.php
-65,0:00:37.16,0,Roy Fisher,M,Unknown,19/07/2005,"IJA, Davenport, Iowa",https://dev.juggle.org/history/champs/champs2005.php
-66,0:00:37.30,0,Ricky Harr,M,Unknown,20/07/2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
-67,0:00:37.40,0,Andrew Hodge,M,Unknown,20/07/2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
-68,0:00:37.67,0,Quest Crothers,M,Unknown,2022,"IJA, Virtual",IJA Database
-69,0:00:37.84,0,Bennett Santora,M,Unknown,29/06/2019,"IJA, Fort Wayne",IJA Database
-70,0:00:38.31,0,Austin Bruckner,M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
-71,0:00:38.32,0,Rory Bade,M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
-72,0:00:38.70,0,Marlin Ballard,M,Unknown,17/07/2002,"IJA, Reading, Pennsylvania",https://dev.juggle.org/history/champs/champs2002.php
-73,0:00:39.20,0,Colin Revere,M,Unknown,20/07/2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
-74,0:00:39.50,0,Chris Laco,M,Unknown,17/07/2002,"IJA, Reading, Pennsylvania",https://dev.juggle.org/history/champs/champs2002.php
-75,0:00:39.90,0,Eric Raivo,M,Unknown,11/07/2024,"IJA, Green Bay",IJA Database
-76,0:00:40.00,0,Alec Bennett,M,Unknown,20/07/2011,"IJA, Rochester",IJA Database
-77,0:00:40.80,0,Nathan Biggs-Penton,M,Unknown,15/07/2008,"IJA, Kentucky",https://dev.juggle.org/history/champs/champs2008.php
-78,0:00:40.84,0,Izaak Jolin,M,Unknown,29/06/2019,"IJA, Fort Wayne",IJA Database
-79,0:00:41.06,0,Paul Arneberg,M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
-80,0:00:41.31,0,Nestor Sokhan,M,Unknown,29/06/2019,"IJA, Fort Wayne",IJA Database
-81,0:00:41.40,0,Jack Hirschowitz,M,USA,20/07/2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
-82,0:00:41.90,0,Chris Dokler,M,Unknown,20/07/2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
-83,0:00:41.93,0,Adam Hellman,M,Unknown,29/06/2019,"IJA, Fort Wayne",IJA Database
-84,0:00:42.14,0,Danny Hodge,M,Unknown,20/07/2011,"IJA, Rochester",IJA Database
-85,0:00:42.16,0,Craig Muhlenkamp,M,USA,29/06/2019,"IJA, Fort Wayne",IJA Database
-86,0:00:44.14,0,Justin Kolas,M,Unknown,18/07/2006,"IJA, Portland, Oregon",https://dev.juggle.org/history/champs/champs2006.php
-87,0:00:45.20,0,Paul Ballard,M,Unknown,17/07/2002,"IJA, Reading, Pennsylvania",https://dev.juggle.org/history/champs/champs2002.php
-87,0:00:45.20,0,Danny Tomaro,M,Unknown,17/07/2002,"IJA, Reading, Pennsylvania",https://dev.juggle.org/history/champs/champs2002.php
-89,0:00:46.53,0,Mike Gracie,M,Unknown,28/07/2001,"IJA, Wisconsin",https://dev.juggle.org/history/champs/champs2001.php
-90,0:00:46.90,0,Anthony Zeszut,M,Unknown,29/06/2019,"IJA, Fort Wayne",IJA Database
-91,0:00:46.94,0,Colin Kulstad,M,Unknown,18/07/2006,"IJA, Portland, Oregon",https://dev.juggle.org/history/champs/champs2006.php
-92,0:00:47.74,0,Joshua Black,M,Unknown,29/06/2019,"IJA, Fort Wayne",IJA Database
-93,0:00:47.80,0,Dan Chan,M,Unknown,20/07/2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
-94,0:00:47.90,0,Mike Swan,M,Unknown,20/07/2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
-95,0:00:48.47,0,Evan Peter,M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
-96,0:00:49.12,0,Ty Evans,M,Unknown,20/07/2011,"IJA, Rochester",IJA Database
-97,0:00:49.70,0,Artem Chusovitin,M,RUS,25/7/2021,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",https://vk.com/wall-16055255_8154
-98,0:00:49.80,0,Peter Zaitsev,M,RUS,25/7/2021,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",https://vk.com/wall-16055255_8154
-99,0:00:49.87,0,Aaron Heilig,M,Unknown,11/07/2024,"IJA, Green Bay",IJA Database
-100,0:00:49.95,0,John Kilgust,M,Unknown,20/07/2011,"IJA, Rochester",IJA Database
-101,0:00:50.80,0,Crack Ivan,M,RUS,25/7/2021,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",https://vk.com/wall-16055255_8154
-102,0:00:51.71,0,Andrew Ruiz,M,Unknown,20/07/2011,"IJA, Rochester",IJA Database
-103,0:00:51.73,0,Eric Blaha,M,Unknown,28/07/2001,"IJA, Wisconsin",https://dev.juggle.org/history/champs/champs2001.php
-104,0:00:51.75,0,Joe Otonichar,M,Unknown,28/07/2001,"IJA, Wisconsin",https://dev.juggle.org/history/champs/champs2001.php
-105,0:00:52.37,0,Markus Furtner,M,DEU,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
-106,0:00:53.36,0,Mikey Free,M,Unknown,11/07/2024,"IJA, Green Bay",IJA Database
-107,0:00:54.30,0,Caleb Black,M,Unknown,29/06/2019,"IJA, Fort Wayne",IJA Database
-108,0:00:57.33,0,Mark Jolin,M,Unknown,29/06/2019,"IJA, Fort Wayne",IJA Database
-109,0:00:57.80,0,Alexander Khlebodarov,M,RUS,25/7/2021,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",https://vk.com/wall-16055255_8154
-110,0:00:58.78,0,Justin Sheldon,M,Unknown,11/07/2024,"IJA, Green Bay",IJA Database
-111,0:00:59.30,0,Gordon Cornell,M,Unknown,20/07/2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
-112,0:00:59.70,0,Alexander Dekhtyarev,M,RUS,25/7/2021,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",https://vk.com/wall-16055255_8154
-113,0:00:59.80,0,Geoff Kennard,M,Unknown,17/07/2002,"IJA, Reading, Pennsylvania",https://dev.juggle.org/history/champs/champs2002.php
-114,0:01:01.70,0,Daniel James,M,Unknown,29/06/2019,"IJA, Fort Wayne",IJA Database
-115,0:01:02.25,0,Kirill Sergeev,M,RUS,25/7/2021,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",https://vk.com/wall-16055255_8154
-116,0:01:09.54,0,Kiryushkin Anton,M,RUS,25/7/2021,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",https://vk.com/wall-16055255_8154
-117,0:01:11.31,0,Brendan McCarthy,M,Unknown,19/07/2005,"IJA, Davenport, Iowa",https://dev.juggle.org/history/champs/champs2005.php
-118,0:01:13.40,0,Josh Dibbin,M,Unknown,29/06/2019,"IJA, Fort Wayne",IJA Database
-119,0:01:18.56,0,Ryan Schultz,M,Unknown,17/07/2007,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2007.php
-120,0:01:21.75,0,Alex Coleman,M,Unknown,19/07/2005,"IJA, Davenport, Iowa",https://dev.juggle.org/history/champs/champs2005.php
-121,0:01:27.00,0,Shchipakin Konstantin,M,RUS,25/7/2021,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",https://vk.com/wall-16055255_8154
-122,0:01:32.90,0,Riley McLincha,M,USA,29/06/2019,"IJA, Fort Wayne",IJA Database
-123,0:01:53.40,0,Shane Kaseman,M,Unknown,29/06/2019,"IJA, Fort Wayne",IJA Database
+41,0:00:34.07,10,Andrew Widmann,M,Unknown,2025,"IJA, Virtual",IJA Database
+42,0:00:34.16,8,Mike Moore,M,USA,29/06/2019,"IJA, Fort Wayne",IJA Database
+43,0:00:34.20,8,Dmitry Kozlov,M,RUS,25/7/2021,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",https://vk.com/wall-16055255_8154
+43,0:00:34.20,8,Kyler McClintock,M,Unknown,15/07/2008,"IJA, Kentucky",https://dev.juggle.org/history/champs/champs2008.php
+45,0:00:34.24,7,Giovanni Gaole,M,Unknown,2022,"IJA, Virtual",IJA Database
+45,0:00:34.24,7,Daniel Raum,M,AUT,2022,"IJA, Virtual",IJA Database
+47,0:00:34.50,4,Nicolas Souren,M,Unknown,29/06/2019,"IJA, Fort Wayne",IJA Database
+48,0:00:34.97,1,Tom McClintock,M,Unknown,18/07/2006,"IJA, Portland, Oregon",https://dev.juggle.org/history/champs/champs2006.php
+49,0:00:35.02,1,Draco Tong,M,Unknown,11/07/2024,"IJA, Green Bay",IJA Database
+50,0:00:35.06,0,Owen Gerba,M,Unknown,29/06/2019,"IJA, Fort Wayne",IJA Database
+51,0:00:35.33,0,Brady Xue,M,USA,2023,"IJA, Virtual",IJA Database
+52,0:00:35.37,0,David Pavlove Cunsolo,M,Unknown,2021,IJA Virtual,IJA Database
+53,0:00:35.43,0,Daniel Rose,M,Unknown,17/07/2007,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2007.php
+54,0:00:35.60,0,Perry Romanowski,M,USA,15/07/2008,"IJA, Kentucky",https://dev.juggle.org/history/champs/champs2008.php
+55,0:00:35.80,0,Sam Nerenhaus,M,Unknown,18/07/2006,"IJA, Portland, Oregon",https://dev.juggle.org/history/champs/champs2006.php
+56,0:00:35.85,0,Mike Monson,M,Unknown,18/07/2006,"IJA, Portland, Oregon",https://dev.juggle.org/history/champs/champs2006.php
+57,0:00:35.94,0,Christoph Mitasch,M,AUT,2021,IJA Virtual,IJA Database
+58,0:00:36.17,0,Andy Widmann,M,Unknown,2023,"IJA, Virtual",IJA Database
+59,0:00:36.30,0,Yaroshenko Stepan,M,RUS,25/7/2021,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",https://vk.com/wall-16055255_8154
+60,0:00:36.47,0,Peter Blanchard,M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
+61,0:00:36.52,0,Reid Johnson,M,Unknown,20/07/2011,"IJA, Rochester",IJA Database
+62,0:00:36.59,0,Neil Jordan,M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
+63,0:00:36.63,0,Jean-Guy Beaudry,M,CAN,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
+64,0:00:36.81,0,Aaron Scott,M,USA,29/06/2019,"IJA, Fort Wayne",IJA Database
+65,0:00:36.84,0,Zach Waickman,M,Unknown,28/07/2001,"IJA, Wisconsin",https://dev.juggle.org/history/champs/champs2001.php
+66,0:00:37.16,0,Roy Fisher,M,Unknown,19/07/2005,"IJA, Davenport, Iowa",https://dev.juggle.org/history/champs/champs2005.php
+67,0:00:37.30,0,Ricky Harr,M,Unknown,20/07/2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
+68,0:00:37.40,0,Andrew Hodge,M,Unknown,20/07/2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
+69,0:00:37.45,0,Craig Muhlenkamp,M,USA,2025,"IJA, Virtual",IJA Database
+70,0:00:37.67,0,Quest Crothers,M,Unknown,2022,"IJA, Virtual",IJA Database
+71,0:00:37.84,0,Bennett Santora,M,Unknown,29/06/2019,"IJA, Fort Wayne",IJA Database
+72,0:00:38.31,0,Austin Bruckner,M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
+73,0:00:38.32,0,Rory Bade,M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
+74,0:00:38.70,0,Marlin Ballard,M,Unknown,17/07/2002,"IJA, Reading, Pennsylvania",https://dev.juggle.org/history/champs/champs2002.php
+75,0:00:39.20,0,Colin Revere,M,Unknown,20/07/2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
+76,0:00:39.50,0,Chris Laco,M,Unknown,17/07/2002,"IJA, Reading, Pennsylvania",https://dev.juggle.org/history/champs/champs2002.php
+77,0:00:39.90,0,Eric Raivo,M,Unknown,11/07/2024,"IJA, Green Bay",IJA Database
+78,0:00:40.00,0,Alec Bennett,M,Unknown,20/07/2011,"IJA, Rochester",IJA Database
+79,0:00:40.80,0,Nathan Biggs-Penton,M,Unknown,15/07/2008,"IJA, Kentucky",https://dev.juggle.org/history/champs/champs2008.php
+80,0:00:40.84,0,Izaak Jolin,M,Unknown,29/06/2019,"IJA, Fort Wayne",IJA Database
+81,0:00:41.06,0,Paul Arneberg,M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
+82,0:00:41.31,0,Nestor Sokhan,M,Unknown,29/06/2019,"IJA, Fort Wayne",IJA Database
+83,0:00:41.40,0,Jack Hirschowitz,M,USA,20/07/2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
+84,0:00:41.90,0,Chris Dokler,M,Unknown,20/07/2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
+85,0:00:41.93,0,Adam Hellman,M,Unknown,29/06/2019,"IJA, Fort Wayne",IJA Database
+86,0:00:42.14,0,Danny Hodge,M,Unknown,20/07/2011,"IJA, Rochester",IJA Database
+87,0:00:44.14,0,Justin Kolas,M,Unknown,18/07/2006,"IJA, Portland, Oregon",https://dev.juggle.org/history/champs/champs2006.php
+88,0:00:45.20,0,Paul Ballard,M,Unknown,17/07/2002,"IJA, Reading, Pennsylvania",https://dev.juggle.org/history/champs/champs2002.php
+88,0:00:45.20,0,Danny Tomaro,M,Unknown,17/07/2002,"IJA, Reading, Pennsylvania",https://dev.juggle.org/history/champs/champs2002.php
+90,0:00:46.53,0,Mike Gracie,M,Unknown,28/07/2001,"IJA, Wisconsin",https://dev.juggle.org/history/champs/champs2001.php
+91,0:00:46.90,0,Anthony Zeszut,M,Unknown,29/06/2019,"IJA, Fort Wayne",IJA Database
+92,0:00:46.94,0,Colin Kulstad,M,Unknown,18/07/2006,"IJA, Portland, Oregon",https://dev.juggle.org/history/champs/champs2006.php
+93,0:00:47.74,0,Joshua Black,M,Unknown,29/06/2019,"IJA, Fort Wayne",IJA Database
+94,0:00:47.80,0,Dan Chan,M,Unknown,20/07/2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
+95,0:00:47.90,0,Mike Swan,M,Unknown,20/07/2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
+96,0:00:48.33,0,Thijs Niesten,M,Unknown,2025,"IJA, Virtual",IJA Database
+97,0:00:48.47,0,Evan Peter,M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
+98,0:00:49.12,0,Ty Evans,M,Unknown,20/07/2011,"IJA, Rochester",IJA Database
+99,0:00:49.70,0,Artem Chusovitin,M,RUS,25/7/2021,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",https://vk.com/wall-16055255_8154
+100,0:00:49.80,0,Peter Zaitsev,M,RUS,25/7/2021,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",https://vk.com/wall-16055255_8154
+101,0:00:49.87,0,Aaron Heilig,M,Unknown,11/07/2024,"IJA, Green Bay",IJA Database
+102,0:00:49.95,0,John Kilgust,M,Unknown,20/07/2011,"IJA, Rochester",IJA Database
+103,0:00:50.80,0,Crack Ivan,M,RUS,25/7/2021,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",https://vk.com/wall-16055255_8154
+104,0:00:51.71,0,Andrew Ruiz,M,Unknown,20/07/2011,"IJA, Rochester",IJA Database
+105,0:00:51.73,0,Eric Blaha,M,Unknown,28/07/2001,"IJA, Wisconsin",https://dev.juggle.org/history/champs/champs2001.php
+106,0:00:51.75,0,Joe Otonichar,M,Unknown,28/07/2001,"IJA, Wisconsin",https://dev.juggle.org/history/champs/champs2001.php
+107,0:00:52.37,0,Markus Furtner,M,DEU,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
+108,0:00:53.36,0,Mikey Free,M,Unknown,11/07/2024,"IJA, Green Bay",IJA Database
+109,0:00:54.30,0,Caleb Black,M,Unknown,29/06/2019,"IJA, Fort Wayne",IJA Database
+110,0:00:57.33,0,Mark Jolin,M,Unknown,29/06/2019,"IJA, Fort Wayne",IJA Database
+111,0:00:57.80,0,Alexander Khlebodarov,M,RUS,25/7/2021,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",https://vk.com/wall-16055255_8154
+112,0:00:58.78,0,Justin Sheldon,M,Unknown,11/07/2024,"IJA, Green Bay",IJA Database
+113,0:00:59.30,0,Gordon Cornell,M,Unknown,20/07/2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
+114,0:00:59.70,0,Alexander Dekhtyarev,M,RUS,25/7/2021,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",https://vk.com/wall-16055255_8154
+115,0:00:59.80,0,Geoff Kennard,M,Unknown,17/07/2002,"IJA, Reading, Pennsylvania",https://dev.juggle.org/history/champs/champs2002.php
+116,0:01:01.70,0,Daniel James,M,Unknown,29/06/2019,"IJA, Fort Wayne",IJA Database
+117,0:01:02.25,0,Kirill Sergeev,M,RUS,25/7/2021,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",https://vk.com/wall-16055255_8154
+118,0:01:09.54,0,Kiryushkin Anton,M,RUS,25/7/2021,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",https://vk.com/wall-16055255_8154
+119,0:01:11.31,0,Brendan McCarthy,M,Unknown,19/07/2005,"IJA, Davenport, Iowa",https://dev.juggle.org/history/champs/champs2005.php
+120,0:01:13.40,0,Josh Dibbin,M,Unknown,29/06/2019,"IJA, Fort Wayne",IJA Database
+121,0:01:18.56,0,Ryan Schultz,M,Unknown,17/07/2007,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2007.php
+122,0:01:21.75,0,Alex Coleman,M,Unknown,19/07/2005,"IJA, Davenport, Iowa",https://dev.juggle.org/history/champs/champs2005.php
+123,0:01:27.00,0,Shchipakin Konstantin,M,RUS,25/7/2021,"Kalininsky District Open Joggling Championship, Saint-Petersburg, Russia",https://vk.com/wall-16055255_8154
+124,0:01:32.90,0,Riley McLincha,M,USA,29/06/2019,"IJA, Fort Wayne",IJA Database
+125,0:01:53.40,0,Shane Kaseman,M,Unknown,29/06/2019,"IJA, Fort Wayne",IJA Database

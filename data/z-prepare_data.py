@@ -273,7 +273,7 @@ print('All Time Lists Complete')
 
 
 #################################################################################
-
+print('Producing Joggler Network Data...')
 ## Produce Joggler Network dataframes (Giduz Number) and Plotly Viz 
 def prepare_data(data = pd.read_csv('data/results.csv')):
     '''
