@@ -104,7 +104,7 @@ col1.metric(label='Total Joggling Race Results', value = len(data),)
 col2.metric(label='Total Jogglers', value = num_jogglers,)
 col3.metric(label='Joggling Nationalites', value = num_nationalities,)
 
-st.write("See all joggling results below.")
+st.write("See all results below.")
 st.divider()
 
 st.write(filter_dataframe(data))
