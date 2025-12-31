@@ -15,5 +15,5 @@ To update the app:
 
 
 #### Azure Deployment
-- Deployed at https://jogglingresultsarchive.azurewebsites.net/ as an Azure web app.
-- Though some dependency issues with plotly, yet to be resolved, mean the joggler map isn't working.
+- I've thought about deploying as an Azure web app, something like: https://jogglingresultsarchive.azurewebsites.net/, but haven't done this yet.
+It needn't be with Microsoft, am sure there are lots of alternatives.
