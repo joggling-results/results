@@ -110,7 +110,7 @@ st.divider()
 st.write(filter_dataframe(data))
 
 ## UPDATE THE DATE BELOW!!
-st.write('App Updated: 9th September 2025')
+st.write('App Updated: 31st December 2025')
 st.write('Compiled by Scott Jenkins & Chris Edwin; 2 jogglers from the United Kingdom')
 
 
