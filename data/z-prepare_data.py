@@ -45,18 +45,21 @@ EVENT_DICT = {
     "Marathon": ["3b Marathon", "4b Marathon", "5b Marathon", "3c Marathon"],
 }
 
-RANKING_DISTANCES = [
+RANKING_DISTANCES = [   
+    "3b 100m", "3c 100m", "4b 100m", "5b 100m", "7b 100m",
+    "3b 200m", "3c 200m", "4b 200m", "5b 200m",
+    "3b 400m", "3c 400m", "4b 400m", "5b 400m",
+    "3b 800m", "4b 800m", "5b 800m",
+    "3b 1500m", "3b Mile", "3c Mile", "4b Mile", "5b Mile",
+    "3b 4x100m", "3c 4x100m", "3b 4x400m",
     "3b 5km", "3c 5km", "4b 5km", "5b 5km",
     "3b 10km", "3c 10km", "4b 10km", "5b 10km",
     "3b Half Marathon", "3c Half Marathon", "4b Half Marathon",
     "3b Marathon", "3c Marathon", "5b Marathon",
-    "3b 800m", "4b 800m", "5b 800m",
-    "3b 1500m", "3b Mile", "3c Mile", "4b Mile", "5b Mile",
-    "3b 100m", "3c 100m", "4b 100m", "5b 100m", "7b 100m",
-    "3b 200m", "3c 200m", "4b 200m", "5b 200m",
-    "3b 400m", "3c 400m", "4b 400m", "5b 400m",
-    "3b 4x100m", "3c 4x100m", "3b 4x400m",
 ]
+
+# Use this for sorting the national records
+DISTANCE_ORDER = pl.Enum(RANKING_DISTANCES)
 
 
 # =============================================================================
@@ -475,8 +478,86 @@ def create_all_time_lists(data: pl.DataFrame) -> None:
             fastest_times.write_csv(
                 DATA_DIR / f"{file_string}.csv"
             )
+    
+# =============================================================================
+# National Records
+# =============================================================================
 
-    print("All Time Lists Complete")
+def make_national_record_list(gender: str, nationality: str, data: pl.DataFrame,) -> pl.DataFrame:
+    """
+    Find each joggler's fastest performance for an event and rank it.
+    """
+    event_data = data.filter(
+        (pl.col("Gender") == gender)
+        & (pl.col("Nationality") == nationality)
+        & (pl.col("Distance").is_in(RANKING_DISTANCES))
+    )
+
+    if event_data.height == 0:
+        # No results yet, so empty df.
+        return pl.DataFrame({
+            "Ranking": pl.Series([], dtype=pl.Int64),
+            "Finish Time": pl.Series([], dtype=pl.String),
+            "IAAF Points": pl.Series([], dtype=pl.Int64),
+            "Joggler": pl.Series([], dtype=pl.String),
+            "Gender": pl.Series([], dtype=pl.String),
+            "Nationality": pl.Series([], dtype=pl.String),
+            "Date": pl.Series([], dtype=pl.String),
+            "Event / Venue": pl.Series([], dtype=pl.String),
+            "Notes / Result Links": pl.Series([], dtype=pl.String),
+        })
+
+    fastest = (
+        event_data
+        # Keep only the fastest result per event: these are national records
+        .sort("Finish Time")
+        .unique(subset=["Distance"], keep="first", maintain_order=True)
+        .with_columns(pl.col("Distance").cast(DISTANCE_ORDER))
+        .sort("Distance")
+        .with_columns(pl.col("Distance").cast(pl.String))  # cast back so CSV output/downstream code sees plain strings
+    )
+
+    return fastest.select([
+        "Distance",
+        "Gender",
+        "Finish Time",
+        "IAAF Points",
+        "Joggler",
+        "Nationality",
+        "Date",
+        "Event / Venue",
+        "Notes / Result Links",
+    ])
+    
+
+def create_national_record_data(data:pl.DataFrame) -> None:
+    """
+    Saves a set of csvs for the Joggling national records, 1 file per gender, per country.
+    """
+    clean_national_data = data.filter(~pl.col('Nationality').is_in(['Mixed','0']))
+    NATIONALITIES = clean_national_data['Nationality'].unique().to_list()
+    print(NATIONALITIES)
+
+    for gender in ["M", "F"]:
+        for nationality in NATIONALITIES:
+            file_string = (
+                "records_"
+                + gender
+                + "_"
+                + nationality.replace(" ", "_")
+            )
+
+            national_records = make_national_record_list(
+                gender,
+                nationality,
+                clean_national_data,
+            )
+
+            national_records.write_csv(
+                DATA_DIR / f"{file_string}.csv"
+            )
+
+    print("All National Record Lists Complete")
 
 
 # =============================================================================
@@ -806,6 +887,13 @@ def main() -> None:
     # -------------------------------------------------------------------------
 
     create_all_time_lists(data)
+
+
+    # -------------------------------------------------------------------------
+    # National Records
+    # -------------------------------------------------------------------------
+
+    create_national_record_data(data)
 
     # -------------------------------------------------------------------------
     # Joggler network
