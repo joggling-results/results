@@ -1,4 +1,651 @@
 Date,Year,Distance,Event / Venue,Joggler,Gender,Nationality,Finish Time,Drops,Notes / Result Links,total_seconds,IAAF Points
+08/08/2026,2026,3c Mile,European Joggling Championships 2026 - Road Races,Kevin Niittyviita,M,FIN,0:06:27.00,?,https://drive.google.com/file/d/1v5KXHNKD3UqQcFqTQ_POWGjEc5X8w7t7/view?usp=sharing,387.0,0
+08/08/2026,2026,3c Mile,European Joggling Championships 2026 - Road Races,Stijn Westerbeek,M,NLD,0:06:42.00,?,https://drive.google.com/file/d/1v5KXHNKD3UqQcFqTQ_POWGjEc5X8w7t7/view?usp=sharing,402.0,0
+08/08/2026,2026,3c Mile,European Joggling Championships 2026 - Road Races,Karel Schuller,M,NLD,0:07:38.00,?,https://drive.google.com/file/d/1v5KXHNKD3UqQcFqTQ_POWGjEc5X8w7t7/view?usp=sharing,458.0,0
+08/08/2026,2026,3c Mile,European Joggling Championships 2026 - Road Races,Luuk Hofmeijer,M,NLD,0:08:22.00,?,https://drive.google.com/file/d/1v5KXHNKD3UqQcFqTQ_POWGjEc5X8w7t7/view?usp=sharing,502.0,0
+08/08/2026,2026,3c Mile,European Joggling Championships 2026 - Road Races,Kenny Cheung,M,AUS,0:08:45.00,?,https://drive.google.com/file/d/1v5KXHNKD3UqQcFqTQ_POWGjEc5X8w7t7/view?usp=sharing,525.0,0
+08/08/2026,2026,3c Mile,European Joggling Championships 2026 - Road Races,Samuel Bastida,M,NZL,0:09:48.00,?,https://drive.google.com/file/d/1v5KXHNKD3UqQcFqTQ_POWGjEc5X8w7t7/view?usp=sharing,588.0,0
+08/08/2026,2026,3c Mile,European Joggling Championships 2026 - Road Races,Beer van Noordwijk,M,NLD,0:10:09.00,?,https://drive.google.com/file/d/1v5KXHNKD3UqQcFqTQ_POWGjEc5X8w7t7/view?usp=sharing,609.0,0
+08/08/2026,2026,3c Mile,European Joggling Championships 2026 - Road Races,Stephan Neinhardt,M,DEU,0:10:14.00,?,https://drive.google.com/file/d/1v5KXHNKD3UqQcFqTQ_POWGjEc5X8w7t7/view?usp=sharing,614.0,0
+08/08/2026,2026,3c Mile,European Joggling Championships 2026 - Road Races,Jakub Tomko,M,SVK,0:10:22.00,?,https://drive.google.com/file/d/1v5KXHNKD3UqQcFqTQ_POWGjEc5X8w7t7/view?usp=sharing,622.0,0
+08/08/2026,2026,3c Mile,European Joggling Championships 2026 - Road Races,Leo Ostenrath,M,DEU,0:11:10.00,?,https://drive.google.com/file/d/1v5KXHNKD3UqQcFqTQ_POWGjEc5X8w7t7/view?usp=sharing,670.0,0
+08/08/2026,2026,3c Mile,European Joggling Championships 2026 - Road Races,Karly Swaim,F,USA,0:11:16.00,?,https://drive.google.com/file/d/1v5KXHNKD3UqQcFqTQ_POWGjEc5X8w7t7/view?usp=sharing,676.0,0
+08/08/2026,2026,3c Mile,European Joggling Championships 2026 - Road Races,Sophie Mrazek,F,AUT,0:16:09.00,?,https://drive.google.com/file/d/1v5KXHNKD3UqQcFqTQ_POWGjEc5X8w7t7/view?usp=sharing,969.0,0
+08/08/2026,2026,3b Mile,European Joggling Championships 2026 - Road Races,PrimoÃÂ ÃÂeÃÂek,M,SVN,0:07:16.00,?,https://drive.google.com/file/d/1v5KXHNKD3UqQcFqTQ_POWGjEc5X8w7t7/view?usp=sharing,436.0,0
+08/08/2026,2026,3b Mile,European Joggling Championships 2026 - Road Races,Tamara Maul,F,DEU,0:07:57.00,?,https://drive.google.com/file/d/1v5KXHNKD3UqQcFqTQ_POWGjEc5X8w7t7/view?usp=sharing,477.0,123
+08/08/2026,2026,3b Mile,European Joggling Championships 2026 - Road Races,Co Stuifbergen,M,NLD,0:08:07.00,?,https://drive.google.com/file/d/1v5KXHNKD3UqQcFqTQ_POWGjEc5X8w7t7/view?usp=sharing,487.0,0
+08/08/2026,2026,3b Mile,European Joggling Championships 2026 - Road Races,Shahar cohen,M,ISR,0:08:18.00,?,https://drive.google.com/file/d/1v5KXHNKD3UqQcFqTQ_POWGjEc5X8w7t7/view?usp=sharing,498.0,0
+08/08/2026,2026,3b Mile,European Joggling Championships 2026 - Road Races,Stephan neinhardt,M,DEU,0:08:32.00,?,https://drive.google.com/file/d/1v5KXHNKD3UqQcFqTQ_POWGjEc5X8w7t7/view?usp=sharing,512.0,0
+08/08/2026,2026,3b Mile,European Joggling Championships 2026 - Road Races,Pavel Matula,M,CZE,0:08:33.00,?,https://drive.google.com/file/d/1v5KXHNKD3UqQcFqTQ_POWGjEc5X8w7t7/view?usp=sharing,513.0,0
+08/08/2026,2026,3b Mile,European Joggling Championships 2026 - Road Races,Ruth Groene,F,DEU,0:09:55.00,?,https://drive.google.com/file/d/1v5KXHNKD3UqQcFqTQ_POWGjEc5X8w7t7/view?usp=sharing,595.0,0
+08/08/2026,2026,3b Mile,European Joggling Championships 2026 - Road Races,Romana Brosch,F,AUT,0:11:08.00,?,https://drive.google.com/file/d/1v5KXHNKD3UqQcFqTQ_POWGjEc5X8w7t7/view?usp=sharing,668.0,0
+08/08/2026,2026,3b Mile,European Joggling Championships 2026 - Road Races,Sophie Mrazek,F,AUT,0:11:12.00,?,https://drive.google.com/file/d/1v5KXHNKD3UqQcFqTQ_POWGjEc5X8w7t7/view?usp=sharing,672.0,0
+08/08/2026,2026,3b Mile,European Joggling Championships 2026 - Road Races,Marissa Adler,F,DEU,0:11:16.00,?,https://drive.google.com/file/d/1v5KXHNKD3UqQcFqTQ_POWGjEc5X8w7t7/view?usp=sharing,676.0,0
+08/08/2026,2026,3b Mile,European Joggling Championships 2026 - Road Races,Saskia Bershinski,F,DEU,0:11:24.00,?,https://drive.google.com/file/d/1v5KXHNKD3UqQcFqTQ_POWGjEc5X8w7t7/view?usp=sharing,684.0,0
+08/08/2026,2026,3b Mile,European Joggling Championships 2026 - Road Races,Corinna Werther,F,DEU,0:12:15.00,?,https://drive.google.com/file/d/1v5KXHNKD3UqQcFqTQ_POWGjEc5X8w7t7/view?usp=sharing,735.0,0
+08/08/2026,2026,3b Mile,European Joggling Championships 2026 - Road Races,Jessie Fahey,F,NZL,0:12:24.00,?,https://drive.google.com/file/d/1v5KXHNKD3UqQcFqTQ_POWGjEc5X8w7t7/view?usp=sharing,744.0,0
+08/08/2026,2026,3b Mile,European Joggling Championships 2026 - Road Races,Emma Roschkowski,F,DEU,0:12:43.00,?,https://drive.google.com/file/d/1v5KXHNKD3UqQcFqTQ_POWGjEc5X8w7t7/view?usp=sharing,763.0,0
+08/08/2026,2026,3b Mile,European Joggling Championships 2026 - Road Races,Emilia Panke,F,DEU,0:12:43.00,?,https://drive.google.com/file/d/1v5KXHNKD3UqQcFqTQ_POWGjEc5X8w7t7/view?usp=sharing,763.0,0
+08/08/2026,2026,3b Mile,European Joggling Championships 2026 - Road Races,Simona Uguccioni,F,ITA,0:12:57.00,?,https://drive.google.com/file/d/1v5KXHNKD3UqQcFqTQ_POWGjEc5X8w7t7/view?usp=sharing,777.0,0
+08/08/2026,2026,3b Mile,European Joggling Championships 2026 - Road Races,Michaela KlÃÂ¼h,F,DEU,0:13:43.00,?,https://drive.google.com/file/d/1v5KXHNKD3UqQcFqTQ_POWGjEc5X8w7t7/view?usp=sharing,823.0,0
+08/08/2026,2026,3b Mile,European Joggling Championships 2026 - Road Races,Scott Jenkins,M,GBR,0:05:21.00,?,https://drive.google.com/file/d/1v5KXHNKD3UqQcFqTQ_POWGjEc5X8w7t7/view?usp=sharing,321.0,310
+08/08/2026,2026,3b Mile,European Joggling Championships 2026 - Road Races,Stijn Westerbeek,M,NLD,0:05:21.00,?,https://drive.google.com/file/d/1v5KXHNKD3UqQcFqTQ_POWGjEc5X8w7t7/view?usp=sharing,321.0,310
+08/08/2026,2026,3b Mile,European Joggling Championships 2026 - Road Races,Kevin Niittyviita,M,FIN,0:05:37.00,?,https://drive.google.com/file/d/1v5KXHNKD3UqQcFqTQ_POWGjEc5X8w7t7/view?usp=sharing,337.0,213
+08/08/2026,2026,3b Mile,European Joggling Championships 2026 - Road Races,Karel Schuller,M,NLD,0:06:10.00,?,https://drive.google.com/file/d/1v5KXHNKD3UqQcFqTQ_POWGjEc5X8w7t7/view?usp=sharing,370.0,71
+08/08/2026,2026,3b Mile,European Joggling Championships 2026 - Road Races,Alistair Richards,M,GBR,0:06:32.00,?,https://drive.google.com/file/d/1v5KXHNKD3UqQcFqTQ_POWGjEc5X8w7t7/view?usp=sharing,392.0,18
+08/08/2026,2026,3b Mile,European Joggling Championships 2026 - Road Races,Shimon Levikov,M,DEU,0:06:33.00,?,https://drive.google.com/file/d/1v5KXHNKD3UqQcFqTQ_POWGjEc5X8w7t7/view?usp=sharing,393.0,16
+08/08/2026,2026,3b Mile,European Joggling Championships 2026 - Road Races,Joe Kara,M,AUS,0:06:46.00,?,https://drive.google.com/file/d/1v5KXHNKD3UqQcFqTQ_POWGjEc5X8w7t7/view?usp=sharing,406.0,2
+08/08/2026,2026,3b Mile,European Joggling Championships 2026 - Road Races,Jamal da Silva Ermisch,M,DEU,0:06:48.00,?,https://drive.google.com/file/d/1v5KXHNKD3UqQcFqTQ_POWGjEc5X8w7t7/view?usp=sharing,408.0,1
+08/08/2026,2026,3b Mile,European Joggling Championships 2026 - Road Races,Bo Butze,M,DEU,0:06:49.00,?,https://drive.google.com/file/d/1v5KXHNKD3UqQcFqTQ_POWGjEc5X8w7t7/view?usp=sharing,409.0,1
+08/08/2026,2026,3b Mile,European Joggling Championships 2026 - Road Races,Vasek Peca,M,CZE,0:06:55.00,?,https://drive.google.com/file/d/1v5KXHNKD3UqQcFqTQ_POWGjEc5X8w7t7/view?usp=sharing,415.0,0
+08/08/2026,2026,3b Mile,European Joggling Championships 2026 - Road Races,Simeon Doetsch,M,DEU,0:07:05.00,?,https://drive.google.com/file/d/1v5KXHNKD3UqQcFqTQ_POWGjEc5X8w7t7/view?usp=sharing,425.0,0
+08/08/2026,2026,3b Mile,European Joggling Championships 2026 - Road Races,Kaupo Pilder,M,EST,0:07:12.00,?,https://drive.google.com/file/d/1v5KXHNKD3UqQcFqTQ_POWGjEc5X8w7t7/view?usp=sharing,432.0,0
+08/08/2026,2026,3b Mile,European Joggling Championships 2026 - Road Races,Samuel Tittelein,M,FRA,0:07:26.00,?,https://drive.google.com/file/d/1v5KXHNKD3UqQcFqTQ_POWGjEc5X8w7t7/view?usp=sharing,446.0,0
+08/08/2026,2026,3b Mile,European Joggling Championships 2026 - Road Races,UroÃÂ Marolt,M,SVN,0:07:26.00,?,https://drive.google.com/file/d/1v5KXHNKD3UqQcFqTQ_POWGjEc5X8w7t7/view?usp=sharing,446.0,0
+08/08/2026,2026,3b Mile,European Joggling Championships 2026 - Road Races,Pavol Hlavaty,M,SVK,0:07:31.00,?,https://drive.google.com/file/d/1v5KXHNKD3UqQcFqTQ_POWGjEc5X8w7t7/view?usp=sharing,451.0,0
+08/08/2026,2026,3b Mile,European Joggling Championships 2026 - Road Races,Luuk Hofmeijer,M,NLD,0:07:41.00,?,https://drive.google.com/file/d/1v5KXHNKD3UqQcFqTQ_POWGjEc5X8w7t7/view?usp=sharing,461.0,0
+08/08/2026,2026,3b Mile,European Joggling Championships 2026 - Road Races,Onur Erdem,M,TUR,0:07:48.00,?,https://drive.google.com/file/d/1v5KXHNKD3UqQcFqTQ_POWGjEc5X8w7t7/view?usp=sharing,468.0,0
+08/08/2026,2026,3b Mile,European Joggling Championships 2026 - Road Races,Tobias Ludwig,M,DEU,0:07:55.00,?,https://drive.google.com/file/d/1v5KXHNKD3UqQcFqTQ_POWGjEc5X8w7t7/view?usp=sharing,475.0,0
+08/08/2026,2026,3b Mile,European Joggling Championships 2026 - Road Races,Leander Weise,M,DEU,0:08:08.00,?,https://drive.google.com/file/d/1v5KXHNKD3UqQcFqTQ_POWGjEc5X8w7t7/view?usp=sharing,488.0,0
+08/08/2026,2026,3b Mile,European Joggling Championships 2026 - Road Races,Krzysztof Riewold,M,POL,0:08:23.00,?,https://drive.google.com/file/d/1v5KXHNKD3UqQcFqTQ_POWGjEc5X8w7t7/view?usp=sharing,503.0,0
+08/08/2026,2026,3b Mile,European Joggling Championships 2026 - Road Races,Simon Hilbich,M,DEU,0:09:00.00,?,https://drive.google.com/file/d/1v5KXHNKD3UqQcFqTQ_POWGjEc5X8w7t7/view?usp=sharing,540.0,0
+08/08/2026,2026,3b Mile,European Joggling Championships 2026 - Road Races,Junya Inoue,M,JPN,0:09:24.00,?,https://drive.google.com/file/d/1v5KXHNKD3UqQcFqTQ_POWGjEc5X8w7t7/view?usp=sharing,564.0,0
+08/08/2026,2026,3b Mile,European Joggling Championships 2026 - Road Races,Beer van Noordwijk,M,NLD,0:09:31.00,?,https://drive.google.com/file/d/1v5KXHNKD3UqQcFqTQ_POWGjEc5X8w7t7/view?usp=sharing,571.0,0
+08/08/2026,2026,3b Mile,European Joggling Championships 2026 - Road Races,Samuel Bastida,M,NZL,0:09:44.00,?,https://drive.google.com/file/d/1v5KXHNKD3UqQcFqTQ_POWGjEc5X8w7t7/view?usp=sharing,584.0,0
+06/08/2026,2026,3b 100m,European Joggling Championships 2026 - Finals,Simona Uguccioni,F,ITA,0:00:33.18,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,33.18,0
+06/08/2026,2026,3b 100m,European Joggling Championships 2026 - Finals,Ruth Groene,F,DEU,0:00:33.59,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,33.59,0
+06/08/2026,2026,3b 100m,European Joggling Championships 2026 - Finals,Kevin Niittyviita,M,FIN,0:00:16.37,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,16.37,9
+06/08/2026,2026,3b 100m,European Joggling Championships 2026 - Finals,Karly Swaim,F,USA,0:00:20.91,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,20.91,11
+06/08/2026,2026,3b 100m,European Joggling Championships 2026 - Finals,Hannaloore Teder,F,EST,0:00:48.50,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,48.5,0
+06/08/2026,2026,3b 100m,European Joggling Championships 2026 - Finals,Michaela KlÃÂ¼h,F,DEU,0:00:46.81,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,46.81,0
+06/08/2026,2026,3b 100m,European Joggling Championships 2026 - Finals,Pavel Matula,M,CZE,0:00:20.91,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,20.91,0
+06/08/2026,2026,3b 100m,European Joggling Championships 2026 - Finals,Gordon Wilson,M,GBR,0:00:17.72,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,17.72,0
+06/08/2026,2026,3b 100m,European Joggling Championships 2026 - Finals,Timothy Ross,M,USA,0:00:16.15,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,16.15,17
+06/08/2026,2026,3b 100m,European Joggling Championships 2026 - Finals,PrimoÃÂ ÃÂeÃÂek,M,SVN,0:00:18.03,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,18.03,0
+06/08/2026,2026,3b 100m,European Joggling Championships 2026 - Finals,Vojt?ch HolickÃÂ½,M,CZE,0:00:16.09,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,16.09,19
+06/08/2026,2026,3b 100m,European Joggling Championships 2026 - Finals,Benjamin Go,M,NLD,0:00:27.59,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,27.59,0
+06/08/2026,2026,3b 100m,European Joggling Championships 2026 - Finals,Caterina Denzler,F,DEU,0:00:28.21,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,28.21,0
+06/08/2026,2026,3b 100m,European Joggling Championships 2026 - Finals,Yvonne Burchartz,F,DEU,0:00:21.59,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,21.59,1
+06/08/2026,2026,3b 100m,European Joggling Championships 2026 - Finals,Jowita Nowogrodzka-Ligeza,F,POL,0:00:19.72,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,19.72,51
+06/08/2026,2026,3b 100m,European Joggling Championships 2026 - Finals,Verena Rau,F,DEU,0:00:18.69,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,18.69,108
+06/08/2026,2026,3b 100m,European Joggling Championships 2026 - Finals,Natascha Ilgin,F,DEU,0:00:17.83,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,17.83,171
+06/08/2026,2026,3b 100m,European Joggling Championships 2026 - Finals,Iveta Navratilova,F,CZE,0:00:26.28,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,26.28,0
+06/08/2026,2026,3b 100m,European Joggling Championships 2026 - Finals,Vasek Peca,M,CZE,0:00:24.29,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,24.29,0
+06/08/2026,2026,3b 100m,European Joggling Championships 2026 - Finals,Luca Pferdmenges,M,DEU,0:00:15.07,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,15.07,90
+06/08/2026,2026,3b 100m,European Joggling Championships 2026 - Finals,Karel Schuller,M,NLD,0:00:14.63,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,14.63,137
+06/08/2026,2026,3b 100m,European Joggling Championships 2026 - Finals,Samuel Tittelein,M,FRA,0:00:19.47,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,19.47,0
+06/08/2026,2026,3b 100m,European Joggling Championships 2026 - Finals,Kaupo Pilder,M,EST,0:00:15.87,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,15.87,30
+06/08/2026,2026,3b 100m,European Joggling Championships 2026 - Finals,UroÃÂ Marolt,M,SVN,0:00:20.32,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,20.32,0
+06/08/2026,2026,3b 100m,European Joggling Championships 2026 - Finals,Anna Maria Denzler,F,DEU,0:00:27.87,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,27.87,0
+06/08/2026,2026,3b 100m,European Joggling Championships 2026 - Finals,Christina-Anna Senser,F,DEU,0:00:18.29,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,18.29,135
+06/08/2026,2026,3b 100m,European Joggling Championships 2026 - Finals,Tamara Maul,F,DEU,0:00:18.29,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,18.29,135
+06/08/2026,2026,3b 100m,European Joggling Championships 2026 - Finals,Fiona Verscheure,F,BEL,0:00:20.81,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,20.81,13
+06/08/2026,2026,3b 100m,European Joggling Championships 2026 - Finals,Finn Mertens,M,BEL,0:00:21.41,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,21.41,0
+06/08/2026,2026,3b 100m,European Joggling Championships 2026 - Finals,Dominic Lodge,M,GBR,0:00:21.50,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,21.5,0
+06/08/2026,2026,3b 100m,European Joggling Championships 2026 - Finals,Scott Jenkins,M,GBR,0:00:13.57,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,13.57,288
+06/08/2026,2026,3b 100m,European Joggling Championships 2026 - Finals,Shimon Levikov,M,DEU,0:00:27.00,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,27.0,0
+06/08/2026,2026,3b 100m,European Joggling Championships 2026 - Finals,Stijn Westerbeek,M,NLD,0:00:13.97,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,13.97,224
+06/08/2026,2026,3b 100m,European Joggling Championships 2026 - Finals,Tamino Larisch,M,DEU,0:00:14.87,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,14.87,110
+06/08/2026,2026,3b 400m,European Joggling Championships 2026 - Finals,Michaela KlÃÂ¼h,F,DEU,0:03:07.84,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,187.84,0
+06/08/2026,2026,3b 400m,European Joggling Championships 2026 - Finals,Simona Uguccioni,F,ITA,0:02:14.78,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,134.78,0
+06/08/2026,2026,3b 400m,European Joggling Championships 2026 - Finals,Ruth Groene,F,DEU,0:01:53.41,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,113.41,0
+06/08/2026,2026,3b 400m,European Joggling Championships 2026 - Finals,Karly Swaim,F,USA,0:01:46.43,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,106.43,4
+06/08/2026,2026,3b 400m,European Joggling Championships 2026 - Finals,Benjamin Go,M,NLD,0:01:52.59,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,112.59,0
+06/08/2026,2026,3b 400m,European Joggling Championships 2026 - Finals,Pavel Matula,M,CZE,0:01:39.25,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,99.25,0
+06/08/2026,2026,3b 400m,European Joggling Championships 2026 - Finals,PrimoÃÂ ÃÂeÃÂek,M,SVN,0:01:25.50,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,85.5,0
+06/08/2026,2026,3c 400m,European Joggling Championships 2026 - Finals,Thom Herzmark,M,GBR,0:01:23.73,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,83.73,0
+06/08/2026,2026,3b 400m,European Joggling Championships 2026 - Finals,Caterina Denzler,F,DEU,0:02:08.12,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,128.12,0
+06/08/2026,2026,3b 400m,European Joggling Championships 2026 - Finals,Iveta Navratilova,F,CZE,0:01:55.88,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,115.88,0
+06/08/2026,2026,3b 400m,European Joggling Championships 2026 - Finals,Anna Maria Denzler,F,DEU,0:01:48.59,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,108.59,0
+06/08/2026,2026,3b 400m,European Joggling Championships 2026 - Finals,Yasmin StÃÂ¶hr,F,DEU,0:01:40.66,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,100.66,29
+06/08/2026,2026,3b 400m,European Joggling Championships 2026 - Finals,Kevin Niittyviita,M,FIN,0:01:11.79,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,71.79,52
+06/08/2026,2026,3b 400m,European Joggling Championships 2026 - Finals,Alistair Richards,M,GBR,0:01:18.22,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,78.22,0
+06/08/2026,2026,3b 400m,European Joggling Championships 2026 - Finals,Joe Kara,M,AUS,0:01:11.78,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,71.78,53
+06/08/2026,2026,3b 400m,European Joggling Championships 2026 - Finals,Kaupo Pilder,M,EST,0:01:24.25,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,84.25,0
+06/08/2026,2026,3b 400m,European Joggling Championships 2026 - Finals,Samuel Tittelein,M,FRA,0:01:24.25,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,84.25,0
+06/08/2026,2026,3b 400m,European Joggling Championships 2026 - Finals,Vasek Peca,M,CZE,0:01:13.97,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,73.97,25
+06/08/2026,2026,3b 400m,European Joggling Championships 2026 - Finals,Tamino Larisch,M,DEU,0:01:17.16,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,77.16,3
+06/08/2026,2026,3b 400m,European Joggling Championships 2026 - Finals,Dominic Lodge,M,GBR,0:01:07.00,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,67.0,146
+06/08/2026,2026,3b 400m,European Joggling Championships 2026 - Finals,Finn Mertens,M,BEL,0:01:14.38,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,74.38,21
+06/08/2026,2026,3b 400m,European Joggling Championships 2026 - Finals,Karel Schuller,M,NLD,0:01:09.53,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,69.53,91
+06/08/2026,2026,3b 400m,European Joggling Championships 2026 - Finals,Shimon Levikov,M,DEU,0:01:09.09,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,69.09,100
+06/08/2026,2026,3b 400m,European Joggling Championships 2026 - Finals,Stijn Westerbeek,M,NLD,0:01:02.43,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,62.43,279
+06/08/2026,2026,3b 400m,European Joggling Championships 2026 - Finals,Scott Jenkins,M,GBR,0:01:00.23,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,60.23,359
+06/08/2026,2026,3b 400m,European Joggling Championships 2026 - Finals,Verena Rau,F,DEU,0:01:41.91,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,101.91,21
+06/08/2026,2026,3b 400m,European Joggling Championships 2026 - Finals,Jowita Nowogrodzka-Ligeza,F,POL,0:01:45.19,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,105.19,7
+06/08/2026,2026,3b 400m,European Joggling Championships 2026 - Finals,Fiona Verscheure,F,BEL,0:01:33.62,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,93.62,89
+06/08/2026,2026,3b 400m,European Joggling Championships 2026 - Finals,Yvonne Burchartz,F,DEU,0:01:35.94,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,95.94,66
+06/08/2026,2026,3b 400m,European Joggling Championships 2026 - Finals,Christina-Anna Senser,F,DEU,0:01:33.63,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,93.63,89
+06/08/2026,2026,3b 400m,European Joggling Championships 2026 - Finals,Tamara Maul,F,DEU,0:01:30.78,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,90.78,123
+06/08/2026,2026,7b 100m,European Joggling Championships 2026 - Finals,Karel Schuller,M,NLD,0:01:43.09,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,103.09,0
+06/08/2026,2026,7b 100m,European Joggling Championships 2026 - Finals,Kenny Cheung,M,AUS,0:02:24.81,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,144.81,0
+06/08/2026,2026,7b 100m,European Joggling Championships 2026 - Finals,Kevin Niittyviita,M,FIN,0:01:18.30,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,78.3,0
+06/08/2026,2026,7b 100m,European Joggling Championships 2026 - Finals,Jan Marc Daumin,M,DEU,0:03:19.81,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,199.81,0
+06/08/2026,2026,7b 100m,European Joggling Championships 2026 - Finals,Luca Pferdmenges,M,DEU,0:01:22.69,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,82.69,0
+06/08/2026,2026,7b 100m,European Joggling Championships 2026 - Finals,Vasek Peca,M,CZE,0:02:24.56,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,144.56,0
+06/08/2026,2026,3c 4x100m,European Joggling Championships 2026 - Finals,"Kevin Niittyviita, David Lohuis, Shimon Levikov, Tamino Larisch",M,Mixed,0:01:19.78,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,79.78,0
+06/08/2026,2026,3c 4x100m,European Joggling Championships 2026 - Finals,"Stijn Westerbeek, Marijn, Luuk Hofmeijer, Karel Schuller",M,NLD,0:01:18.66,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,78.66,0
+06/08/2026,2026,3c 4x100m,European Joggling Championships 2026 - Finals,"Anezka Houhova, Jan Marc Daumin, Vasek Peca, Luca Pferdmenges",M,Mixed,0:01:29.69,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,89.69,0
+06/08/2026,2026,3c 4x100m,European Joggling Championships 2026 - Finals,"Bosznay Balazs, Istvan Toth, Balazs Palmai, Bence Onodi",M,HUN,0:02:25.50,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,145.5,0
+06/08/2026,2026,3c 4x100m,European Joggling Championships 2026 - Finals,"Tamara Maul, Thomas Killus, Clariss Widder, Verena Rau",Mixed,DEU,0:01:28.76,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,88.76,0
+06/08/2026,2026,3c 4x100m,European Joggling Championships 2026 - Finals,"Jan Zdunkiewicz, Dominik Biel, Jowita Nowogrodzka-Ligeza, Krzysztof Riewold",Mixed,POL,0:02:09.34,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,129.34,0
+06/08/2026,2026,5b 100m,European Joggling Championships 2026 - Finals,Pavel Matula,M,CZE,0:01:56.81,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,116.81,0
+06/08/2026,2026,5b 100m,European Joggling Championships 2026 - Finals,Kevin Niittyviita,M,FIN,0:00:20.28,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,20.28,0
+06/08/2026,2026,5b 100m,European Joggling Championships 2026 - Finals,Gordon Wilson,M,GBR,0:01:50.75,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,110.75,0
+06/08/2026,2026,5b 100m,European Joggling Championships 2026 - Finals,Karly Swaim,F,USA,0:03:59.72,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,239.72,0
+06/08/2026,2026,5b 100m,European Joggling Championships 2026 - Finals,Katharina Michalski,F,DEU,0:01:54.88,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,114.88,0
+06/08/2026,2026,5b 100m,European Joggling Championships 2026 - Finals,Christina-Anna Senser,F,DEU,0:01:00.79,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,60.79,0
+06/08/2026,2026,5b 100m,European Joggling Championships 2026 - Finals,Verena Rau,F,DEU,0:01:01.78,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,61.78,0
+06/08/2026,2026,5b 100m,European Joggling Championships 2026 - Finals,Fiona Verscheure,F,BEL,0:01:49.09,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,109.09,0
+06/08/2026,2026,5b 100m,European Joggling Championships 2026 - Finals,Tamara Maul,F,DEU,0:01:57.32,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,117.32,0
+06/08/2026,2026,5b 100m,European Joggling Championships 2026 - Finals,Alistair Richards,M,GBR,0:00:54.57,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,54.57,0
+06/08/2026,2026,5b 100m,European Joggling Championships 2026 - Finals,Pavol Hlavaty,M,SVK,0:00:38.09,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,38.09,0
+06/08/2026,2026,5b 100m,European Joggling Championships 2026 - Finals,Vasek Peca,M,CZE,0:00:31.91,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,31.91,0
+06/08/2026,2026,5b 100m,European Joggling Championships 2026 - Finals,Stijn Westerbeek,M,NLD,0:00:29.86,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,29.86,0
+06/08/2026,2026,5b 100m,European Joggling Championships 2026 - Finals,Bence ÃÂnodi,M,HUN,0:00:21.22,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,21.22,0
+06/08/2026,2026,5b 100m,European Joggling Championships 2026 - Finals,Karel Schuller,M,NLD,0:00:18.47,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,18.47,0
+06/08/2026,2026,5b 100m,European Joggling Championships 2026 - Finals,Scott Jenkins,M,GBR,0:00:26.82,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,26.82,0
+06/08/2026,2026,5b 100m,European Joggling Championships 2026 - Finals,Tamino Larisch,M,DEU,0:00:22.60,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,22.6,0
+06/08/2026,2026,5b 100m,European Joggling Championships 2026 - Finals,Luca Pferdmenges,M,DEU,0:00:30.28,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,30.28,0
+06/08/2026,2026,5b 100m,European Joggling Championships 2026 - Finals,Dominic Lodge,M,GBR,0:00:43.85,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,43.85,0
+06/08/2026,2026,3c 100m,European Joggling Championships 2026 - Finals,Karly Swaim,F,USA,0:00:26.74,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,26.74,0
+06/08/2026,2026,3c 100m,European Joggling Championships 2026 - Finals,Simona Uguccioni,F,ITA,0:00:40.31,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,40.31,0
+06/08/2026,2026,3c 100m,European Joggling Championships 2026 - Finals,Pavel Matula,M,CZE,0:00:39.25,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,39.25,0
+06/08/2026,2026,3c 100m,European Joggling Championships 2026 - Finals,Gordon Wilson,M,GBR,0:00:24.91,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,24.91,0
+06/08/2026,2026,3c 100m,European Joggling Championships 2026 - Finals,Kevin Niittyviita,M,FIN,0:00:16.85,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,16.85,0
+06/08/2026,2026,3c 100m,European Joggling Championships 2026 - Finals,Thom Herzmark,M,GBR,0:00:18.82,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,18.82,0
+06/08/2026,2026,3c 100m,European Joggling Championships 2026 - Finals,Samuel Tittelein,M,FRA,0:00:30.47,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,30.47,0
+06/08/2026,2026,3c 100m,European Joggling Championships 2026 - Finals,Shimon Levikov,M,DEU,0:00:17.55,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,17.55,0
+06/08/2026,2026,3c 100m,European Joggling Championships 2026 - Finals,Kenny Cheung,M,AUS,0:00:18.38,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,18.38,0
+06/08/2026,2026,3c 100m,European Joggling Championships 2026 - Finals,Thomas Killus,M,DEU,0:00:28.60,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,28.6,0
+06/08/2026,2026,3c 100m,European Joggling Championships 2026 - Finals,Luca Pferdmenges,M,DEU,0:00:17.37,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,17.37,0
+06/08/2026,2026,3c 100m,European Joggling Championships 2026 - Finals,Karel Schuller,M,NLD,0:00:32.19,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,32.19,0
+06/08/2026,2026,3c 100m,European Joggling Championships 2026 - Finals,Stijn Westerbeek,M,NLD,0:00:16.01,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,16.01,23
+06/08/2026,2026,3c 100m,European Joggling Championships 2026 - Finals,David Lohuis,M,DEU,0:00:23.94,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,23.94,0
+06/08/2026,2026,3c 100m,European Joggling Championships 2026 - Finals,Tamino Larisch,M,DEU,0:00:21.00,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,21.0,0
+06/08/2026,2026,3c 100m,European Joggling Championships 2026 - Finals,Jan Marc Daumin,M,DEU,0:00:17.66,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,17.66,0
+06/08/2026,2026,3c 100m,European Joggling Championships 2026 - Finals,Tamara Maul,F,DEU,0:00:24.72,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,24.72,0
+06/08/2026,2026,3c 100m,European Joggling Championships 2026 - Finals,Christina-Anna Senser,F,DEU,0:00:34.22,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,34.22,0
+06/08/2026,2026,3c 100m,European Joggling Championships 2026 - Finals,Clarissa Widder,F,DEU,0:00:22.83,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,22.83,0
+06/08/2026,2026,3c 100m,European Joggling Championships 2026 - Finals,Verena Rau,F,DEU,0:00:24.09,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,24.09,0
+06/08/2026,2026,3c 100m,European Joggling Championships 2026 - Finals,Yvonne Burchartz,F,DEU,0:00:27.90,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,27.9,0
+06/08/2026,2026,3c 100m,European Joggling Championships 2026 - Finals,Fiona Verscheure,F,BEL,0:00:36.28,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,36.28,0
+06/08/2026,2026,3b 4x100m,European Joggling Championships 2026 - Finals,"Michaela KlÃÂ¼h, Ruth Groene, Caterina Denzler, Anna Maria Denzler",F,DEU,0:02:00.41,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,120.41,0
+06/08/2026,2026,3b 4x100m,European Joggling Championships 2026 - Finals,"Jan Zdunkiewicz, Dominik Biel, Jowita Nowogrodzka-Ligeza, Krzysztof Riewold",Mixed,POL,0:01:22.69,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,82.69,0
+06/08/2026,2026,3b 4x100m,European Joggling Championships 2026 - Finals,"Emily, Marlene Chudzian, Luise Chudzian, Lukas",Mixed,DEU,0:01:38.10,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,98.1,0
+06/08/2026,2026,3b 4x100m,European Joggling Championships 2026 - Finals,"Anezka Houhova, Jan Marc Daumin, Vasek Peca, Luca Pferdmenges",Mixed,Mixed,0:01:08.76,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,68.76,0
+06/08/2026,2026,3b 4x100m,European Joggling Championships 2026 - Finals,"Jamal da Silva Ermisch, Kevin Niittyviita, Tamino Larisch, Shimon Levikov",M,Mixed,0:01:10.71,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,70.71,0
+06/08/2026,2026,3b 4x100m,European Joggling Championships 2026 - Finals,"Sake Roelofs, Scott, Sean, Gordon Wilson",M,Mixed,0:01:35.68,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,95.68,0
+06/08/2026,2026,3b 4x100m,European Joggling Championships 2026 - Finals,"Tamara Maul, Katharina Michalski, Christina-Anna Senser, Verena Rau",F,DEU,0:01:23.62,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,83.62,80
+06/08/2026,2026,3b 4x100m,European Joggling Championships 2026 - Finals,"Stijn Westerbeek, Marijn, Luuk Hofmeijer, Karel Schuller",M,NLD,0:01:10.75,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,70.75,0
+06/08/2026,2026,3b 4x100m,European Joggling Championships 2026 - Finals,"Bosznay Balazs, Istvan Toth, Veronika, Balazs Palmai",Mixed,HUN,0:01:45.75,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,105.75,0
+06/08/2026,2026,3b 4x100m,European Joggling Championships 2026 - Finals,"PrimoÃÂ ÃÂeÃÂek, Sacha Tomse, Andrej Tomse, Uros Marolt",M,SVN,0:01:32.35,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,92.35,0
+06/08/2026,2026,3b 4x100m,European Joggling Championships 2026 - Finals,"Junya Inoue, Tobias Ludwig, Simeon Doetsch, Paul Adam",M,Mixed,0:01:21.13,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,81.13,0
+06/08/2026,2026,3b 4x100m,European Joggling Championships 2026 - Finals,"Alistair Richards, Dominic Lodge, Karly Swaim, Scott Jenkins",Mixed,Mixed,0:01:12.71,?,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing,72.71,0
+04/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Pavol Hlavaty,M,SVK,0:00:48.75,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,48.75,0
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Krzysztof Riewold,M,POL,0:00:16.90,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,16.9,0
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Jowita Nowogrodzka-Ligeza,F,POL,0:00:21.69,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,21.69,0
+04/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Tamino Larisch,M,DEU,0:00:20.94,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,20.94,0
+04/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Tamara Maul,F,DEU,0:02:23.41,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,143.41,0
+04/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 3 Qualifying,Thom Herzmark,M,GBR,0:00:18.32,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,18.32,0
+04/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 3 Qualifying,Jan Marc Daumin,M,DEU,0:00:23.97,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,23.97,0
+04/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 3 Qualifying,Finn Mertens,M,BEL,0:00:24.85,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,24.85,0
+04/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 3 Qualifying,Krzysztof Riewold,M,POL,0:00:29.84,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,29.84,0
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Jowita Nowogrodzka-Ligeza,F,POL,0:00:22.03,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,22.03,0
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Jamal da Silva Ermisch,M,DEU,0:00:21.87,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,21.87,0
+04/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Alistair Richards,M,GBR,0:00:46.03,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,46.03,0
+04/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Kaupo Pilder,M,EST,0:01:40.91,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,100.91,0
+04/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 3 Qualifying,Jan Marc Daumin,M,DEU,0:00:18.25,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,18.25,0
+04/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 3 Qualifying,Gandalf Bondimir,M,SVK,0:00:37.53,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,37.53,0
+04/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 3 Qualifying,Luca Pferdmenges,M,DEU,0:00:31.82,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,31.82,0
+04/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 3 Qualifying,Finn Mertens,M,BEL,0:01:10.72,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,70.72,69
+04/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 3 Qualifying,Yasmin StÃÂ¶hr,F,DEU,0:01:48.19,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,108.19,1
+04/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 3 Qualifying,Francisco MuÃÂ±oz ValdÃÂ©s,M,CHL,0:01:29.81,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,89.81,0
+04/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 3 Qualifying,Krzysztof Riewold,M,POL,0:01:35.38,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,95.38,0
+04/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 3 Qualifying,Luca Pferdmenges,M,DEU,0:01:21.69,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,81.69,0
+04/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 3 Qualifying,Ben-Janning Hackbarth,M,DEU,0:01:20.19,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,80.19,0
+04/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 3 Qualifying,Francisco MuÃÂ±oz ValdÃÂ©s,M,CHL,0:01:25.41,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,85.41,0
+04/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 3 Qualifying,Stephan Neinhaidt,,0,0:01:52.56,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,112.56,0
+04/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 3 Qualifying,Jan Marc Daumin,M,DEU,0:00:17.63,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,17.63,0
+04/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 3 Qualifying,Bosznay BalÃÂ¡zs,M,HUN,0:00:26.00,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,26.0,0
+04/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Scott Jenkins,M,GBR,0:00:18.28,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,18.28,0
+04/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Francisco MuÃÂ±oz ValdÃÂ©s,M,CHL,0:00:41.62,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,41.62,0
+04/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Ben-Janning Hackbarth,M,DEU,0:01:09.22,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,69.22,0
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Tamara Maul,F,DEU,0:00:22.38,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,22.38,0
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Caterina Denzler,F,DEU,0:00:24.85,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,24.85,0
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Anna Maria Denzler,F,DEU,0:00:30.34,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,30.34,0
+04/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 3 Qualifying,Christina-Anna Senser,F,DEU,0:00:22.35,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,22.35,0
+04/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 3 Qualifying,Jakub Tomko,M,SVK,0:00:22.19,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,22.19,0
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Iveta Navratilova,F,CZE,0:00:26.00,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,26.0,0
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Peter Hlavaty,M,SVK,0:00:18.07,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,18.07,0
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Marie Marenbach,F,DEU,0:00:28.00,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,28.0,0
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Samuel Tittelein,M,FRA,0:00:15.34,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,15.34,67
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Katharina Michalski,F,DEU,0:00:28.50,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,28.5,0
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Michaela KlÃÂ¼h,F,DEU,0:01:00.75,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,60.75,0
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Marie Marenbach,F,DEU,0:00:29.31,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,29.31,0
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Jekaterina Lissovskaja,F,EST,0:00:33.31,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,33.31,0
+04/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Vasek Peca,M,CZE,0:00:32.75,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,32.75,0
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Finn Mertens,M,BEL,0:00:14.22,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,14.22,188
+04/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Dominic Lodge,M,GBR,0:00:30.19,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,30.19,0
+04/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Timothy Ross,M,USA,0:00:52.97,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,52.97,0
+04/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 3 Qualifying,Thom Herzmark,M,GBR,0:00:18.62,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,18.62,0
+04/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 3 Qualifying,Kaupo Pilder,M,EST,0:00:18.34,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,18.34,0
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Michaela KlÃÂ¼h,F,DEU,0:00:58.15,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,58.15,0
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Peter Hlavaty,M,SVK,0:00:26.50,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,26.5,0
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Vasek Peca,M,CZE,0:00:15.53,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,15.53,52
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Iveta Navratilova,F,CZE,0:00:35.09,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,35.09,0
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Peter Hlavaty,M,SVK,0:00:34.03,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,34.03,0
+04/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 3 Qualifying,Thom Herzmark,M,GBR,0:00:25.00,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,25.0,0
+04/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 3 Qualifying,Jakub Tomko,M,SVK,0:00:25.16,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,25.16,0
+04/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 3 Qualifying,Gandalf Bondimir,M,SVK,0:00:31.44,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,31.44,0
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Jowita Nowogrodzka-Ligeza,F,POL,0:00:21.07,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,21.07,8
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Iveta Navratilova,F,CZE,0:00:33.12,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,33.12,0
+04/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Alistair Richards,M,GBR,0:00:44.25,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,44.25,0
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Peter Hlavaty,M,SVK,0:00:18.47,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,18.47,0
+04/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Tamino Larisch,M,DEU,0:00:23.10,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,23.1,0
+04/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 3 Qualifying,Shahar cohen,M,ISR,0:01:40.15,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,100.15,0
+04/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 3 Qualifying,Michaela KlÃÂ¼h,F,DEU,0:03:16.32,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,196.32,0
+04/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 3 Qualifying,Tamino Larisch,M,DEU,0:01:12.93,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,72.93,37
+04/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 3 Qualifying,Ben-Janning Hackbarth,M,DEU,0:01:23.85,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,83.85,0
+04/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 3 Qualifying,Thom Herzmark,M,GBR,0:01:27.21,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,87.21,0
+04/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 3 Qualifying,Simeon Doetsch,M,DEU,0:01:24.75,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,84.75,0
+04/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 3 Qualifying,Jamal da Silva Ermisch,M,DEU,0:01:31.75,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,91.75,0
+04/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 3 Qualifying,Pavol Hlavaty,M,SVK,0:01:22.85,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,82.85,0
+04/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 3 Qualifying,Onur Erdem,M,TUR,0:01:25.21,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,85.21,0
+04/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 3 Qualifying,Francisco MuÃÂ±oz ValdÃÂ©s,M,CHL,0:01:32.56,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,92.56,0
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Jamal da Silva Ermisch,M,DEU,0:00:19.94,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,19.94,0
+04/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 3 Qualifying,Thom Herzmark,M,GBR,0:00:18.44,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,18.44,0
+04/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 3 Qualifying,Tamino Larisch,M,DEU,0:00:23.47,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,23.47,0
+04/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Alistair Richards,M,GBR,0:00:43.72,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,43.72,0
+04/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Pavol Hlavaty,M,SVK,0:00:45.65,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,45.65,0
+04/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Francisco MuÃÂ±oz ValdÃÂ©s,M,CHL,0:00:59.87,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,59.87,0
+04/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Krzysztof Riewold,M,POL,0:01:22.31,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,82.31,0
+04/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Junya Inoue,M,JPN,0:01:43.94,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,103.94,0
+04/08/2026,2026,7b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Jan Marc Daumin,M,DEU,0:03:59.13,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,239.13,0
+04/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Fiona Verscheure,F,BEL,0:02:24.75,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,144.75,0
+04/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 3 Qualifying,Thom Herzmark,M,GBR,0:00:23.69,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,23.69,0
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Vojt?ch HolickÃÂ½,M,CZE,0:00:20.28,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,20.28,0
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Tamara Maul,F,DEU,0:00:18.38,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,18.38,129
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Ben-Janning Hackbarth,M,DEU,0:00:16.47,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,16.47,6
+04/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 3 Qualifying,Simeon Doetsch,M,DEU,0:00:25.81,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,25.81,0
+04/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 3 Qualifying,Krzysztof Riewold,M,POL,0:00:27.69,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,27.69,0
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Caterina Denzler,F,DEU,0:00:34.03,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,34.03,0
+04/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Alistair Richards,M,GBR,0:00:44.93,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,44.93,0
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Fiona Verscheure,F,BEL,0:00:20.44,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,20.44,23
+04/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 3 Qualifying,Christina-Anna Senser,F,DEU,0:00:24.62,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,24.62,0
+04/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Krzysztof Riewold,M,POL,0:01:41.97,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,101.97,0
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Karel Schuller,M,NLD,0:00:14.93,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,14.93,104
+04/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Ben-Janning Hackbarth,M,DEU,0:01:20.50,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,80.5,0
+04/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Alistair Richards,M,GBR,0:00:40.94,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,40.94,0
+04/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 3 Qualifying,Stijn Westerbeek,M,NLD,0:00:16.63,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,16.63,3
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Fiona Verscheure,F,BEL,0:00:19.97,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,19.97,40
+04/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Krzysztof Riewold,M,POL,0:01:11.00,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,71.0,0
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Karel Schuller,M,NLD,0:00:15.09,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,15.09,88
+04/08/2026,2026,4b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Ruth Groene,F,DEU,0:04:28.00,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,268.0,0
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Finn Mertens,M,BEL,0:00:14.75,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,14.75,123
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Jamal da Silva Ermisch,M,DEU,0:00:15.87,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,15.87,30
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Fiona Verscheure,F,BEL,0:00:21.53,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,21.53,2
+04/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 3 Qualifying,Fiona Verscheure,F,BEL,0:01:45.37,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,105.37,7
+04/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 3 Qualifying,Krzysztof Riewold,M,POL,0:01:30.63,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,90.63,0
+04/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 3 Qualifying,Luca Pferdmenges,M,DEU,0:01:24.81,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,84.81,0
+04/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 3 Qualifying,Jan Marc Daumin,M,DEU,0:01:21.15,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,81.15,0
+04/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 3 Qualifying,Dominic Lodge,M,GBR,0:01:11.91,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,71.91,51
+04/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 3 Qualifying,Jowita Nowogrodzka-Ligeza,F,POL,0:01:46.25,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,106.25,4
+04/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 3 Qualifying,Peter Hlavaty,M,SVK,0:01:48.97,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,108.97,0
+04/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 3 Qualifying,Vasek Peca,M,CZE,0:01:18.72,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,78.72,0
+04/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 3 Qualifying,Iveta Navratilova,F,CZE,0:02:20.25,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,140.25,0
+04/08/2026,2026,3c 400m,European Joggling Championships 2026 - Day 3 Qualifying,Jakub Tomko,M,SVK,0:02:19.75,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,139.75,0
+04/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 3 Qualifying,Stephan Neinhaidt,,0,0:01:55.07,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,115.07,0
+04/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 3 Qualifying,Alistair Richards,M,GBR,0:01:18.81,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,78.81,0
+04/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 3 Qualifying,Onur Erdem,M,TUR,0:01:27.13,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,87.13,0
+04/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 3 Qualifying,Gandalf Bondimir,M,SVK,0:01:40.29,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,100.29,0
+04/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 3 Qualifying,Jan Marc Daumin,M,DEU,0:01:20.53,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,80.53,0
+04/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 3 Qualifying,Vasek Peca,M,CZE,0:01:13.47,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,73.47,31
+04/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 3 Qualifying,Shimon Levikov,M,DEU,0:01:09.78,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,69.78,86
+04/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 3 Qualifying,Karel Schuller,M,NLD,0:01:10.53,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,70.53,73
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Caterina Denzler,F,DEU,0:00:24.03,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,24.03,0
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Iveta Navratilova,F,CZE,0:00:24.34,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,24.34,0
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Peter Hlavaty,M,SVK,0:00:18.19,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,18.19,0
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Joe Kara,M,AUS,0:00:19.25,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,19.25,0
+04/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 3 Qualifying,Francisco MuÃÂ±oz ValdÃÂ©s,M,CHL,0:00:18.41,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,18.41,0
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Yasmin StÃÂ¶hr,F,DEU,0:00:30.58,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,30.58,0
+04/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 3 Qualifying,Fiona Verscheure,F,BEL,0:00:41.71,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,41.71,0
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Karel Schuller,M,NLD,0:00:14.97,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,14.97,100
+04/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 3 Qualifying,Shimon Levikov,M,DEU,0:00:17.94,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,17.94,0
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Tamara Maul,F,DEU,0:00:18.38,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,18.38,129
+04/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 3 Qualifying,Iveta Navratilova,F,CZE,0:00:51.72,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,51.72,0
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Yasmin StÃÂ¶hr,F,DEU,0:00:20.78,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,20.78,14
+04/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 3 Qualifying,Simeon Doetsch,M,DEU,0:00:30.81,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,30.81,0
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Dominic Lodge,M,GBR,0:00:14.03,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,14.03,215
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Scott Jenkins,M,GBR,0:00:13.88,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,13.88,238
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,UroÃÂ Marolt,M,SVN,0:00:15.75,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,15.75,37
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Natascha Ilgin,F,DEU,0:00:27.43,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,27.43,0
+04/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 3 Qualifying,Jan Marc Daumin,M,DEU,0:00:20.34,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,20.34,0
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Krzysztof Riewold,M,POL,0:00:17.62,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,17.62,0
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Luca Pferdmenges,M,DEU,0:00:15.00,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,15.0,97
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Jowita Nowogrodzka-Ligeza,F,POL,0:00:27.90,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,27.9,0
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Natascha Ilgin,F,DEU,0:00:28.50,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,28.5,0
+04/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Jan Marc Daumin,M,DEU,0:00:51.06,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,51.06,0
+04/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 3 Qualifying,Joe Kara,M,AUS,0:00:32.47,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,32.47,0
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Luca Pferdmenges,M,DEU,0:00:15.22,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,15.22,77
+04/08/2026,2026,7b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Vasek Peca,M,CZE,0:01:53.69,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,113.69,0
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Natascha Ilgin,F,DEU,0:00:22.16,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,22.16,0
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Marie Marenbach,F,DEU,0:00:29.06,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,29.06,0
+04/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Christina-Anna Senser,F,DEU,0:00:58.66,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,58.66,0
+04/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Katharina Michalski,F,DEU,0:02:20.38,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,140.38,0
+04/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 3 Qualifying,Luca Pferdmenges,M,DEU,0:00:17.15,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,17.15,0
+04/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 3 Qualifying,Samuel Tittelein,M,FRA,0:00:19.60,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,19.6,0
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Felix Spiller,M,DEU,0:00:22.81,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,22.81,0
+04/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 3 Qualifying,Joe Kara,M,AUS,0:00:20.53,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,20.53,0
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Shimon Levikov,M,DEU,0:00:14.00,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,14.0,220
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Tamino Larisch,M,DEU,0:00:14.87,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,14.87,110
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Felix Spiller,M,DEU,0:00:22.16,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,22.16,0
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Christina-Anna Senser,F,DEU,0:00:44.63,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,44.63,0
+04/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 3 Qualifying,Finn Mertens,M,BEL,0:00:21.53,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,21.53,0
+04/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 3 Qualifying,Luca Pferdmenges,M,DEU,0:00:31.59,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,31.59,0
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Samuel Tittelein,M,FRA,0:00:14.94,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,14.94,103
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Caterina Denzler,F,DEU,0:00:34.12,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,34.12,0
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Tamara Maul,F,DEU,0:00:18.56,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,18.56,116
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Eugene Petkevich,M,POL,0:00:26.29,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,26.29,0
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Caterina Denzler,F,DEU,0:00:26.84,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,26.84,0
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Anna Maria Denzler,F,DEU,0:00:23.04,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,23.04,0
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Christina-Anna Senser,F,DEU,0:00:45.87,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,45.87,0
+04/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Pavol Hlavaty,M,SVK,0:00:46.31,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,46.31,0
+04/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Gordon Wilson,M,GBR,0:02:16.75,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,136.75,0
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Yasmin StÃÂ¶hr,F,DEU,0:00:20.50,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,20.5,22
+04/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Francisco MuÃÂ±oz ValdÃÂ©s,M,CHL,0:00:40.85,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,40.85,0
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Caterina Denzler,F,DEU,0:00:23.40,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,23.4,0
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Gordon Wilson,M,GBR,0:00:19.72,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,19.72,0
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Tamino Larisch,M,DEU,0:00:20.53,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,20.53,0
+04/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Pavol Hlavaty,M,SVK,0:00:35.60,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,35.6,0
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Tamino Larisch,M,DEU,0:00:14.97,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,14.97,100
+04/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 3 Qualifying,Jess East,F,GBR,0:01:38.47,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,98.47,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Kenny Cheung,M,AUS,0:00:17.06,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,17.06,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Pavol Hlavaty,M,SVK,0:00:17.69,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,17.69,0
+03/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Tamino Larisch,M,DEU,0:00:34.57,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,34.57,0
+03/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Alistair Richards,M,GBR,0:00:58.40,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,58.4,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Tamara Maul,F,DEU,0:00:18.88,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,18.88,95
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Paul Adam,M,DEU,0:00:26.03,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,26.03,0
+03/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 2 Qualifying,Kevin Niittyviita,M,FIN,0:00:17.63,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,17.63,0
+03/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Pavel Matula,M,CZE,0:02:14.69,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,134.69,0
+03/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 2 Qualifying,Gordon Wilson,M,GBR,0:00:26.84,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,26.84,0
+03/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Bence ÃÂnodi,M,HUN,0:00:29.59,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,29.59,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Simeon Doetsch,M,DEU,0:00:19.16,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,19.16,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Luca Pferdmenges,M,DEU,0:00:16.10,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,16.1,19
+03/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Karel Schuller,M,NLD,0:00:32.21,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,32.21,0
+03/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 2 Qualifying,Karly Swaim,F,USA,0:00:29.41,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,29.41,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Simona Uguccioni,F,ITA,0:00:41.75,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,41.75,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Michaela KlÃÂ¼h,F,DEU,0:01:14.66,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,74.66,0
+03/08/2026,2026,4b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Karly Swaim,F,USA,0:00:39.13,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,39.13,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Ruth Groene,F,DEU,0:00:28.25,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,28.25,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Simona Uguccioni,F,ITA,0:00:41.22,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,41.22,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Michaela KlÃÂ¼h,F,DEU,0:01:00.28,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,60.28,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,UroÃÂ Marolt,M,SVN,0:00:16.68,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,16.68,2
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Pavel Matula,M,CZE,0:00:27.72,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,27.72,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Simeon Doetsch,M,DEU,0:00:19.63,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,19.63,0
+03/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 2 Qualifying,Paul Adam,M,DEU,0:00:21.78,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,21.78,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Ruth Groene,F,DEU,0:00:24.97,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,24.97,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Pavel Matula,M,CZE,0:00:22.04,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,22.04,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Jan Marc Daumin,M,DEU,0:00:16.97,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,16.97,0
+03/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 2 Qualifying,Clarissa Widder,F,DEU,0:00:22.28,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,22.28,0
+03/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 2 Qualifying,Thomas Killus,M,DEU,0:00:20.34,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,20.34,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Tamino Larisch,M,DEU,0:00:24.27,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,24.27,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Yasmin StÃÂ¶hr,F,DEU,0:00:27.22,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,27.22,0
+03/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Juan Cristobal Silva Espinoza,M,CHL,0:00:49.43,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,49.43,0
+03/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 2 Qualifying,Simona Uguccioni,F,ITA,0:00:46.03,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,46.03,0
+03/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Christina-Anna Senser,F,DEU,0:00:58.60,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,58.6,0
+03/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 2 Qualifying,Pavel Matula,M,CZE,0:01:36.16,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,96.16,0
+03/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 2 Qualifying,Simona Uguccioni,F,ITA,0:02:50.00,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,170.0,0
+03/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 2 Qualifying,Ruth Groene,F,DEU,0:02:12.59,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,132.59,0
+03/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 2 Qualifying,Gordon Wilson,M,GBR,0:01:48.44,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,108.44,0
+03/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 2 Qualifying,Stephan Neinhaidt,,0,0:01:58.38,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,118.38,0
+03/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 2 Qualifying,Fabian Faisst,M,DEU,0:01:50.56,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,110.56,0
+03/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 2 Qualifying,Caterina Denzler,F,DEU,0:02:21.94,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,141.94,0
+03/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 2 Qualifying,Verena Rau,F,DEU,0:01:47.00,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,107.0,2
+03/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 2 Qualifying,Kevin Niittyviita,M,FIN,0:01:15.34,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,75.34,13
+03/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 2 Qualifying,Shimon Levikov,M,DEU,0:01:13.87,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,73.87,26
+03/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 2 Qualifying,Eugene Petkevich,M,POL,0:01:59.87,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,119.87,0
+03/08/2026,2026,3c 400m,European Joggling Championships 2026 - Day 2 Qualifying,David Lohuis,M,DEU,0:01:36.53,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,96.53,0
+03/08/2026,2026,7b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Kevin Niittyviita,M,FIN,0:01:09.57,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,69.57,0
+03/08/2026,2026,7b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Luca Pferdmenges,M,DEU,0:01:09.29,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,69.29,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Caterina Denzler,F,DEU,0:00:25.87,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,25.87,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Junya Inoue,M,JPN,0:00:16.36,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,16.36,9
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Tobias Ludwig,M,DEU,0:00:17.47,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,17.47,0
+03/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 2 Qualifying,Francisco MuÃÂ±oz ValdÃÂ©s,M,CHL,0:00:18.78,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,18.78,0
+03/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 2 Qualifying,Gordon Wilson,M,GBR,0:00:21.06,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,21.06,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Fiona Verscheure,F,BEL,0:00:24.10,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,24.1,0
+03/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 2 Qualifying,Kaupo Pilder,M,EST,0:00:21.94,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,21.94,0
+03/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 2 Qualifying,David Lohuis,M,DEU,0:00:16.63,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,16.63,3
+03/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 2 Qualifying,Luca Pferdmenges,M,DEU,0:00:24.03,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,24.03,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Alistair Richards,M,GBR,0:00:17.25,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,17.25,0
+03/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Pavol Hlavaty,M,SVK,0:00:54.28,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,54.28,0
+03/08/2026,2026,7b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Kenny Cheung,M,AUS,0:02:52.50,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,172.5,0
+03/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 2 Qualifying,Kevin Niittyviita,M,FIN,0:00:18.16,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,18.16,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Peter Hlavaty,M,SVK,0:00:19.27,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,19.27,0
+03/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 2 Qualifying,Christina-Anna Senser,F,DEU,0:00:23.56,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,23.56,0
+03/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 2 Qualifying,Luca Pferdmenges,M,DEU,0:00:18.43,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,18.43,0
+03/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 2 Qualifying,Scott Jenkins,M,GBR,0:01:01.97,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,61.97,295
+03/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 2 Qualifying,Ruth Groene,F,DEU,0:02:06.50,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,126.5,0
+03/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 2 Qualifying,Dominic Lodge,M,GBR,0:01:27.63,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,87.63,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Benjamin Go,M,NLD,0:00:34.50,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,34.5,0
+03/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 2 Qualifying,Gordon Wilson,M,GBR,0:00:31.63,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,31.63,0
+03/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 2 Qualifying,Robert Harkonen,M,FIN,0:00:22.97,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,22.97,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Katharina Michalski,F,DEU,0:00:28.03,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,28.03,0
+03/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Jan Marc Daumin,M,DEU,0:00:46.06,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,46.06,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Francisco MuÃÂ±oz ValdÃÂ©s,M,CHL,0:00:21.69,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,21.69,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Bence ÃÂnodi,M,HUN,0:00:16.68,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,16.68,2
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Kevin Niittyviita,M,FIN,0:00:16.38,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,16.38,9
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Kaupo Pilder,M,EST,0:00:15.40,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,15.4,62
+03/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Christina-Anna Senser,F,DEU,0:00:52.81,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,52.81,0
+03/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 2 Qualifying,Verena Rau,F,DEU,0:00:22.23,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,22.23,0
+03/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Tamino Larisch,M,DEU,0:00:39.75,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,39.75,0
+03/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Kevin Niittyviita,M,FIN,0:00:23.33,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,23.33,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Alistair Richards,M,GBR,0:00:17.16,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,17.16,0
+03/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Christina-Anna Senser,F,DEU,0:00:43.91,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,43.91,0
+03/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 2 Qualifying,David Lohuis,M,DEU,0:00:24.31,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,24.31,0
+03/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 2 Qualifying,Thomas Killus,M,DEU,0:00:21.72,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,21.72,0
+03/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 2 Qualifying,Gordon Wilson,M,GBR,0:00:29.97,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,29.97,0
+03/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 2 Qualifying,Kaupo Pilder,M,EST,0:00:23.30,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,23.3,0
+03/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Tamino Larisch,M,DEU,0:00:32.07,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,32.07,0
+03/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Luca Pferdmenges,M,DEU,0:00:24.75,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,24.75,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Pavel Matula,M,CZE,0:00:22.98,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,22.98,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Karel Schuller,M,NLD,0:00:15.18,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,15.18,80
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Paul Adam,M,DEU,0:00:17.69,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,17.69,0
+03/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 2 Qualifying,Francisco MuÃÂ±oz ValdÃÂ©s,M,CHL,0:00:23.60,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,23.6,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Fiona Verscheure,F,BEL,0:00:24.37,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,24.37,0
+03/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Tamino Larisch,M,DEU,0:00:29.84,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,29.84,0
+03/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 2 Qualifying,Kaupo Pilder,M,EST,0:00:22.07,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,22.07,0
+03/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 2 Qualifying,David Lohuis,M,DEU,0:00:20.65,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,20.65,0
+03/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 2 Qualifying,Thomas Killus,M,DEU,0:00:20.00,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,20.0,0
+03/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 2 Qualifying,Tobias Ludwig,M,DEU,0:01:24.25,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,84.25,0
+03/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 2 Qualifying,Simeon Doetsch,M,DEU,0:01:24.44,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,84.44,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Junya Inoue,M,JPN,0:00:22.81,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,22.81,0
+03/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 2 Qualifying,Luuk Hofmeijer,M,NLD,0:00:29.29,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,29.29,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,IstvÃÂ¡n Toth,M,HUN,0:00:34.72,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,34.72,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Tobias Ludwig,M,DEU,0:00:21.25,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,21.25,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Hele-Mari Ots,F,EST,0:00:35.31,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,35.31,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Marion Alnek,F,EST,0:00:31.62,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,31.62,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Hannaloore Teder,F,EST,0:00:36.56,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,36.56,0
+03/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 2 Qualifying,Kaupo Pilder,M,EST,0:00:24.41,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,24.41,0
+03/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 2 Qualifying,Tamara Maul,F,DEU,0:00:32.78,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,32.78,0
+03/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 2 Qualifying,Kenny Cheung,M,AUS,0:00:24.09,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,24.09,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Luuk Hofmeijer,M,NLD,0:00:28.66,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,28.66,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Caterina Denzler,F,DEU,0:00:25.88,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,25.88,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Anna Maria Denzler,F,DEU,0:00:22.85,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,22.85,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Marlene Chudzian,F,DEU,0:00:29.00,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,29.0,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Luise Chudzian,F,DEU,0:00:21.00,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,21.0,9
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Yasmin StÃÂ¶hr,F,DEU,0:00:20.97,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,20.97,10
+03/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Simeon Doetsch,M,DEU,0:02:30.66,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,150.66,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Pavol Hlavaty,M,SVK,0:00:16.91,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,16.91,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Bosznay BalÃÂ¡zs,M,HUN,0:00:27.47,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,27.47,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,IstvÃÂ¡n Toth,M,HUN,0:00:32.72,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,32.72,0
+03/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Kevin Niittyviita,M,FIN,0:00:20.41,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,20.41,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Tamara Maul,F,DEU,0:00:24.57,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,24.57,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Eugene Petkevich,M,POL,0:00:31.25,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,31.25,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Tobias Ludwig,M,DEU,0:00:18.12,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,18.12,0
+03/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Alistair Richards,M,GBR,0:00:55.22,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,55.22,0
+03/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 2 Qualifying,Jakub Tomko,M,SVK,0:00:31.84,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,31.84,0
+03/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 2 Qualifying,Clarissa Widder,F,DEU,0:00:22.19,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,22.19,0
+03/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 2 Qualifying,Francisco MuÃÂ±oz ValdÃÂ©s,M,CHL,0:00:18.94,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,18.94,0
+03/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Verena Rau,F,DEU,0:01:11.07,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,71.07,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Jan Marc Daumin,M,DEU,0:00:32.19,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,32.19,0
+03/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 2 Qualifying,Simona Uguccioni,F,ITA,0:00:59.09,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,59.09,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Karly Swaim,F,USA,0:00:20.84,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,20.84,13
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,UroÃÂ Marolt,M,SVN,0:00:15.66,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,15.66,43
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Samuel Tittelein,M,FRA,0:00:28.42,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,28.42,0
+03/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 2 Qualifying,Simona Uguccioni,F,ITA,0:00:41.03,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,41.03,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Shimon Levikov,M,DEU,0:00:14.10,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,14.1,205
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Verena Rau,F,DEU,0:00:21.63,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,21.63,1
+03/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 2 Qualifying,Samuel Tittelein,M,FRA,0:01:16.15,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,76.15,8
+03/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 2 Qualifying,Jan Marc Daumin,M,DEU,0:01:26.96,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,86.96,0
+03/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 2 Qualifying,Bosznay BalÃÂ¡zs,M,HUN,0:01:43.41,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,103.41,0
+03/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 2 Qualifying,Michaela KlÃÂ¼h,F,DEU,0:03:59.69,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,239.69,0
+03/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 2 Qualifying,UroÃÂ Marolt,M,SVN,0:01:28.19,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,88.19,0
+03/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 2 Qualifying,Karly Swaim,F,USA,0:01:40.59,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,100.59,29
+03/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 2 Qualifying,Anna Maria Denzler,F,DEU,0:02:04.19,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,124.19,0
+03/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 2 Qualifying,Benjamin Go,M,NLD,0:01:47.35,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,107.35,0
+03/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 2 Qualifying,Junya Inoue,M,JPN,0:01:25.41,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,85.41,0
+03/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 2 Qualifying,Kaupo Pilder,M,EST,0:01:16.69,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,76.69,5
+03/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 2 Qualifying,Luuk Hofmeijer,M,NLD,0:01:30.75,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,90.75,0
+03/08/2026,2026,3c 400m,European Joggling Championships 2026 - Day 2 Qualifying,Thomas Killus,M,DEU,0:01:29.12,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,89.12,0
+03/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 2 Qualifying,Pavol Hlavaty,M,SVK,0:01:33.25,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,93.25,0
+03/08/2026,2026,3c 400m,European Joggling Championships 2026 - Day 2 Qualifying,Karly Swaim,F,USA,0:02:24.62,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,144.62,0
+03/08/2026,2026,3c 400m,European Joggling Championships 2026 - Day 2 Qualifying,Robert Harkonen,M,FIN,0:01:46.84,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,106.84,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Gordon Wilson,M,GBR,0:00:27.38,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,27.38,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Paul Adam,M,DEU,0:00:25.33,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,25.33,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Tamara Maul,F,DEU,0:00:19.03,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,19.03,86
+03/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 2 Qualifying,Pavel Matula,M,CZE,0:00:34.19,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,34.19,0
+03/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 2 Qualifying,Eugene Petkevich,M,POL,0:00:52.09,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,52.09,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Caterina Denzler,F,DEU,0:00:27.85,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,27.85,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Anna Maria Denzler,F,DEU,0:00:23.94,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,23.94,0
+03/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 2 Qualifying,Clarissa Widder,F,DEU,0:00:27.81,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,27.81,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Peter Hlavaty,M,SVK,0:00:26.97,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,26.97,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Samuel Tittelein,M,FRA,0:00:15.62,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,15.62,46
+03/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 2 Qualifying,Robert Harkonen,M,FIN,0:00:27.79,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,27.79,0
+03/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 2 Qualifying,Jakub Tomko,M,SVK,0:00:37.04,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,37.04,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Juan Cristobal Silva Espinoza,M,CHL,0:00:23.44,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,23.44,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Luuk Hofmeijer,M,NLD,0:00:24.16,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,24.16,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,IstvÃÂ¡n Toth,M,HUN,0:00:35.40,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,35.4,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Tamara Maul,F,DEU,0:00:18.97,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,18.97,90
+03/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Kevin Niittyviita,M,FIN,0:00:58.35,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,58.35,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Bosznay BalÃÂ¡zs,M,HUN,0:00:21.22,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,21.22,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Simeon Doetsch,M,DEU,0:00:17.00,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,17.0,0
+03/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 2 Qualifying,Tamino Larisch,M,DEU,0:00:16.94,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,16.94,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Luuk Hofmeijer,M,NLD,0:00:19.44,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,19.44,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Eugene Petkevich,M,POL,0:00:20.22,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,20.22,0
+03/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 2 Qualifying,Jakub Tomko,M,SVK,0:00:27.44,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,27.44,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Caterina Denzler,F,DEU,0:00:30.28,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,30.28,0
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Anna Maria Denzler,F,DEU,0:00:19.94,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,19.94,41
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Yasmin StÃÂ¶hr,F,DEU,0:00:20.53,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,20.53,21
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Tamara Maul,F,DEU,0:00:18.41,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,18.41,127
+03/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Fiona Verscheure,F,BEL,0:00:25.00,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,25.0,0
+03/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 2 Qualifying,Francisco MuÃÂ±oz ValdÃÂ©s,M,CHL,0:00:18.97,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,18.97,0
+03/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 2 Qualifying,Luuk Hofmeijer,M,NLD,0:00:21.85,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,21.85,0
+03/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 2 Qualifying,Alistair Richards,M,GBR,0:00:45.69,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,45.69,0
+02/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 1 Qualifying,Ruth Groene,F,DEU,0:00:25.84,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,25.84,0
+02/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 1 Qualifying,PrimoÃÂ ÃÂeÃÂek,M,SVN,0:00:22.19,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,22.19,0
+02/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 1 Qualifying,Yvonne Burchartz,F,DEU,0:00:35.62,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,35.62,0
+02/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 1 Qualifying,Felix Spiller,M,DEU,0:00:21.47,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,21.47,0
+02/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 1 Qualifying,Joe Kara,M,AUS,0:00:21.78,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,21.78,0
+02/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 1 Qualifying,Stijn Westerbeek,M,NLD,0:00:14.13,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,14.13,201
+02/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 1 Qualifying,Kenny Cheung,M,AUS,0:00:25.75,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,25.75,0
+02/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 1 Qualifying,Matteo Sicamois,M,ITA,0:00:18.37,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,18.37,0
+02/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 1 Qualifying,Felix Spiller,M,DEU,0:00:17.66,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,17.66,0
+02/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 1 Qualifying,Joe Kara,M,AUS,0:00:16.35,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,16.35,10
+02/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 1 Qualifying,Felix Spiller,M,DEU,0:00:17.88,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,17.88,0
+02/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 1 Qualifying,PrimoÃÂ ÃÂeÃÂek,M,SVN,0:00:19.81,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,19.81,0
+02/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 1 Qualifying,Karly Swaim,F,USA,0:00:21.53,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,21.53,2
+02/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 1 Qualifying,Bosznay BalÃÂ¡zs,M,HUN,0:00:21.40,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,21.4,0
+02/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 1 Qualifying,Kenny Cheung,M,AUS,0:00:18.59,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,18.59,0
+02/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 1 Qualifying,Felix Spiller,M,DEU,0:00:15.78,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,15.78,36
+02/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 1 Qualifying,Karel Schuller,M,NLD,0:00:27.06,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,27.06,0
+02/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 1 Qualifying,Ruth Groene,F,DEU,0:00:26.10,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,26.1,0
+02/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 1 Qualifying,Fiona Verscheure,F,BEL,0:00:26.19,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,26.19,0
+02/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 1 Qualifying,Alistair Richards,M,GBR,0:00:18.03,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,18.03,0
+02/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 1 Qualifying,Felix Spiller,M,DEU,0:01:16.59,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,76.59,0
+02/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 1 Qualifying,Samuel Tittelein,M,FRA,0:00:16.85,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,16.85,0
+02/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 1 Qualifying,Fiona Verscheure,F,BEL,0:00:29.00,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,29.0,0
+02/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 1 Qualifying,Matteo Sicamois,M,ITA,0:00:16.59,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,16.59,3
+02/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 1 Qualifying,Simona Uguccioni,F,ITA,0:00:39.72,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,39.72,0
+02/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 1 Qualifying,Karly Swaim,F,USA,0:03:46.40,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,226.4,0
+02/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 1 Qualifying,Timothy Ross,M,USA,0:00:16.31,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,16.31,11
+02/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 1 Qualifying,Stijn Westerbeek,M,NLD,0:00:18.06,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,18.06,0
+02/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 1 Qualifying,Kornelius Rohmeyer,M,DEU,0:00:28.63,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,28.63,0
+02/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 1 Qualifying,Matteo Sicamois,M,ITA,0:00:16.91,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,16.91,0
+02/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 1 Qualifying,Joe Kara,M,AUS,0:00:31.19,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,31.19,0
+02/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 1 Qualifying,Ruth Groene,F,DEU,0:02:09.81,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,129.81,0
+02/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 1 Qualifying,Christina-Anna Senser,F,DEU,0:01:41.38,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,101.38,24
+02/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 1 Qualifying,Fiona Verscheure,F,BEL,0:02:04.53,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,124.53,0
+02/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 1 Qualifying,Yvonne Burchartz,F,DEU,0:01:41.94,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,101.94,21
+02/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 1 Qualifying,Felix Spiller,M,DEU,0:01:28.13,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,88.13,0
+02/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 1 Qualifying,PrimoÃÂ ÃÂeÃÂek,M,SVN,0:01:37.51,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,97.51,0
+02/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 1 Qualifying,Shimon Levikov,M,DEU,0:00:18.88,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,18.88,0
+02/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 1 Qualifying,Christina-Anna Senser,F,DEU,0:00:25.35,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,25.35,0
+02/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 1 Qualifying,Kenny Cheung,M,AUS,0:00:19.41,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,19.41,0
+02/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 1 Qualifying,Shimon Levikov,M,DEU,0:00:49.47,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,49.47,0
+02/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 1 Qualifying,Christina-Anna Senser,F,DEU,0:00:24.47,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,24.47,0
+02/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 1 Qualifying,Felix Spiller,M,DEU,0:01:21.16,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,81.16,0
+02/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 1 Qualifying,Tobias Ludwig,M,DEU,0:00:18.59,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,18.59,0
+02/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 1 Qualifying,Shimon Levikov,M,DEU,0:00:14.97,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,14.97,100
+02/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 1 Qualifying,Tobias Ludwig,M,DEU,0:01:32.57,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,92.57,0
+02/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 1 Qualifying,Tamara Maul,F,DEU,0:01:29.91,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,89.91,135
+02/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 1 Qualifying,Karel Schuller,M,NLD,0:00:14.93,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,14.93,104
+02/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 1 Qualifying,Bosznay BalÃÂ¡zs,M,HUN,0:00:36.00,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,36.0,0
+02/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 1 Qualifying,Christina-Anna Senser,F,DEU,0:00:18.34,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,18.34,132
+02/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 1 Qualifying,PrimoÃÂ ÃÂeÃÂek,M,SVN,0:00:20.82,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,20.82,0
+02/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 1 Qualifying,Yvonne Burchartz,F,DEU,0:00:26.81,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,26.81,0
+02/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 1 Qualifying,Yvonne Burchartz,F,DEU,0:00:21.81,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,21.81,0
+02/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 1 Qualifying,Christina-Anna Senser,F,DEU,0:00:19.03,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,19.03,86
+02/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 1 Qualifying,PrimoÃÂ ÃÂeÃÂek,M,SVN,0:00:19.04,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,19.04,0
+02/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 1 Qualifying,Stijn Westerbeek,M,NLD,0:00:35.25,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,35.25,0
+02/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 1 Qualifying,Timothy Ross,M,USA,0:00:16.47,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,16.47,6
+02/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 1 Qualifying,Alistair Richards,M,GBR,0:01:14.91,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,74.91,0
+02/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 1 Qualifying,Kenny Cheung,M,AUS,0:00:46.75,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,46.75,0
+02/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 1 Qualifying,Karel Schuller,M,NLD,0:00:16.66,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,16.66,2
+02/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 1 Qualifying,Yvonne Burchartz,F,DEU,0:00:31.50,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,31.5,0
+02/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 1 Qualifying,Christina-Anna Senser,F,DEU,0:00:53.53,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,53.53,0
+02/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 1 Qualifying,Felix Spiller,M,DEU,0:00:25.41,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,25.41,0
+02/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 1 Qualifying,Shimon Levikov,M,DEU,0:00:14.87,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,14.87,110
+02/08/2026,2026,3c 400m,European Joggling Championships 2026 - Day 1 Qualifying,Simona Uguccioni,F,ITA,0:03:04.15,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,184.15,0
+02/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 1 Qualifying,Bosznay BalÃÂ¡zs,M,HUN,0:02:00.50,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,120.5,0
+02/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 1 Qualifying,Alistair Richards,M,GBR,0:01:22.10,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,82.1,0
+02/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 1 Qualifying,Timothy Ross,M,USA,0:01:18.12,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,78.12,0
+02/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 1 Qualifying,Jakob Neinhardt,M,DEU,0:01:58.38,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,118.38,0
+02/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 1 Qualifying,Karel Schuller,M,NLD,0:01:12.06,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,72.06,49
+02/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 1 Qualifying,PrimoÃÂ ÃÂeÃÂek,M,SVN,0:01:32.40,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,92.4,0
+02/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 1 Qualifying,Onur Erdem,M,TUR,0:01:26.82,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,86.82,0
+02/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 1 Qualifying,Matteo Sicamois,M,ITA,0:01:33.56,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,93.56,0
+02/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 1 Qualifying,Tamara Maul,F,DEU,0:01:35.34,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,95.34,71
+02/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 1 Qualifying,Tobias Ludwig,M,DEU,0:01:44.53,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,104.53,0
+02/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 1 Qualifying,Shimon Levikov,M,DEU,0:01:14.88,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,74.88,17
+02/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 1 Qualifying,Stijn Westerbeek,M,NLD,0:01:05.91,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,65.91,174
+02/08/2026,2026,3c 400m,European Joggling Championships 2026 - Day 1 Qualifying,Kornelius Rohmeyer,M,DEU,0:01:47.41,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,107.41,0
+02/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 1 Qualifying,Jonte Rohmeyer,M,DEU,0:01:40.47,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,100.47,0
+02/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 1 Qualifying,Stephan Neinhaidt,,0,0:01:56.35,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,116.35,0
+02/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 1 Qualifying,Kenny Cheung,M,AUS,0:01:36.00,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,96.0,0
+02/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 1 Qualifying,Samuel Tittelein,M,FRA,0:01:14.25,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,74.25,22
+02/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 1 Qualifying,Joe Kara,M,AUS,0:01:16.87,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,76.87,4
+02/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 1 Qualifying,Felix Spiller,M,DEU,0:01:21.43,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,81.43,0
+02/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 1 Qualifying,Fiona Verscheure,F,BEL,0:02:12.56,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,132.56,0
+02/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 1 Qualifying,Ruth Groene,F,DEU,0:02:04.25,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,124.25,0
+02/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 1 Qualifying,Tamino Larisch,M,DEU,0:00:15.75,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,15.75,37
+02/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 1 Qualifying,Fabian Faisst,M,DEU,0:00:25.97,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,25.97,0
+02/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 1 Qualifying,Alistair Richards,M,GBR,0:00:51.53,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,51.53,0
+02/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 1 Qualifying,Tobias Ludwig,M,DEU,0:00:18.85,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,18.85,0
+02/08/2026,2026,3c 100m,European Joggling Championships 2026 - Day 1 Qualifying,Tamara Maul,F,DEU,0:00:35.60,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,35.6,0
+02/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 1 Qualifying,Tobias Ludwig,M,DEU,0:00:25.28,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,25.28,0
+02/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 1 Qualifying,Alistair Richards,M,GBR,0:00:22.88,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,22.88,0
+02/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 1 Qualifying,Tamara Maul,F,DEU,0:00:19.56,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,19.56,58
+02/08/2026,2026,7b 100m,European Joggling Championships 2026 - Day 1 Qualifying,Karel Schuller,M,NLD,0:01:24.97,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,84.97,0
+02/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 1 Qualifying,Alistair Richards,M,GBR,0:00:16.82,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,16.82,0
+02/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 1 Qualifying,Tamara Maul,F,DEU,0:00:22.84,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,22.84,0
+02/08/2026,2026,3b 100m,European Joggling Championships 2026 - Day 1 Qualifying,Ruth Groene,F,DEU,0:00:24.78,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,24.78,0
+02/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 1 Qualifying,Christina-Anna Senser,F,DEU,0:00:52.00,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,52.0,0
+02/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 1 Qualifying,Karel Schuller,M,NLD,0:00:22.03,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,22.03,0
+02/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 1 Qualifying,Onur Erdem,M,TUR,0:01:24.53,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,84.53,0
+02/08/2026,2026,3b 400m,European Joggling Championships 2026 - Day 1 Qualifying,Tamino Larisch,M,DEU,0:01:25.25,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,85.25,0
+02/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 1 Qualifying,Felix Spiller,M,DEU,0:01:01.94,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,61.94,0
+02/08/2026,2026,5b 100m,European Joggling Championships 2026 - Day 1 Qualifying,Tamino Larisch,M,DEU,0:00:52.10,?,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing,52.1,0
 14/07/2026,2026,3b Mile,Time Trial,Rick Kwiatkowski,M,USA,0:07:58.00,3,https://www.strava.com/activities/19317174485,478.0,0
 11/07/2026,2026,3b 5km,Ganavan Sands Parkrun,Scott Jenkins,M,GBR,0:21:31.00,0,https://www.parkrun.org.uk/ganavan sands/results/426/,1291.0,61
 11/07/2026,2026,3b 10.5km,Csillagok utjan,Attila Suszter,M,HUN,1:03:33.00,1,"https://www.strava.com/activities/19273959770
@@ -185,7 +832,7 @@ https://www.facebook.com/119400016/posts/pfbid0GyHtwrU6N29SaSrJQ5DYgB4rDHwbediAt
 16/08/2025,2025,3b 5km,Oriam Parkrun,Dominic Lodge,M,GBR,0:32:03.00,?,https://www.parkrun.org.uk/oriam/results/209/,1923.0,0
 16/08/2025,2025,3b 5km,Oriam Parkrun,Scott Jenkins,M,GBR,0:32:03.00,0,https://www.parkrun.org.uk/oriam/results/209/,1923.0,0
 15/08/2025,2025,3b 10km,Atenx Independence Run,Ketan Abhonkar,M,IND,1:04:16.00,3,https://alpharacingsolution.com/event/bibres/7171a2af-910a-4ff4-b00f-04b00613b2b3/?bibno=1457,3856.0,0
-10/08/2025,2025,3b 14km,"City2Surf 14k, Sydney",Joe TicTacJoe,M,AUS,1:23:57.00,?,"https://www.facebook.com/groups/372157942956062/permalink/2967184530120044/?mibextid=rS40aB7S9Ucbxw6v
+10/08/2025,2025,3b 14km,"City2Surf 14k, Sydney",Joe Kara,M,AUS,1:23:57.00,?,"https://www.facebook.com/groups/372157942956062/permalink/2967184530120044/?mibextid=rS40aB7S9Ucbxw6v
 https://www.multisportaustralia.com.au/races/city2surf-2025/events/1/results/individuals/106524/
 Dressed as where's wally!!",5037.0,0
 09/08/2025,2025,3b 100m,"European Joggling Championships 2025, EJC Arnhem",Mark Fiore,M,USA,0:00:13.53,?,EJC results in Joggler's United Group,13.53,294
@@ -205,7 +852,7 @@ Dressed as where's wally!!",5037.0,0
 09/08/2025,2025,3b 100m,"European Joggling Championships 2025, EJC Arnhem",Alistair Richards,M,GBR,0:00:17.73,?,EJC results in Joggler's United Group,17.73,0
 09/08/2025,2025,3b 100m,"European Joggling Championships 2025, EJC Arnhem",Jamal Da Silva Ermisch,M,DEU,0:00:18.07,?,EJC results in Joggler's United Group,18.07,0
 09/08/2025,2025,3b 100m,"European Joggling Championships 2025, EJC Arnhem",Junya Inoue,M,JPN,0:00:18.21,?,EJC results in Joggler's United Group,18.21,0
-09/08/2025,2025,3b 100m,"European Joggling Championships 2025, EJC Arnhem",Jean Guy Beaudry,M,CAN,0:00:18.29,?,EJC results in Joggler's United Group,18.29,0
+09/08/2025,2025,3b 100m,"European Joggling Championships 2025, EJC Arnhem",Jean-Guy Beaudry,M,CAN,0:00:18.29,?,EJC results in Joggler's United Group,18.29,0
 09/08/2025,2025,3b 100m,"European Joggling Championships 2025, EJC Arnhem",Luca Malzahn,M,DEU,0:00:18.42,?,EJC results in Joggler's United Group,18.42,0
 09/08/2025,2025,3b 100m,"European Joggling Championships 2025, EJC Arnhem",Tobias Ludwig,M,DEU,0:00:18.70,?,EJC results in Joggler's United Group,18.7,0
 09/08/2025,2025,3b 100m,"European Joggling Championships 2025, EJC Arnhem",Rik Konings,M,NLD,0:00:18.73,?,EJC results in Joggler's United Group,18.73,0
@@ -221,7 +868,7 @@ Dressed as where's wally!!",5037.0,0
 09/08/2025,2025,3b 100m,"European Joggling Championships 2025, EJC Arnhem",Tom Aulenkamp,M,DEU,0:00:22.54,?,EJC results in Joggler's United Group,22.54,0
 09/08/2025,2025,3b 100m,"European Joggling Championships 2025, EJC Arnhem",Karel Schuller,M,NLD,0:00:23.50,?,EJC results in Joggler's United Group,23.5,0
 09/08/2025,2025,3b 100m,"European Joggling Championships 2025, EJC Arnhem",Sake Roelofs,M,NLD,0:00:24.23,?,EJC results in Joggler's United Group,24.23,0
-09/08/2025,2025,3b 100m,"European Joggling Championships 2025, EJC Arnhem",Jowita Nowogrodzka-Ligeza,F,DEU,0:00:24.34,?,EJC results in Joggler's United Group,24.34,0
+09/08/2025,2025,3b 100m,"European Joggling Championships 2025, EJC Arnhem",Jowita Nowogrodzka-Ligeza,F,POL,0:00:24.34,?,EJC results in Joggler's United Group,24.34,0
 09/08/2025,2025,3b 100m,"European Joggling Championships 2025, EJC Arnhem",Harry Hirsch,M,DEU,0:00:24.93,?,EJC results in Joggler's United Group,24.93,0
 09/08/2025,2025,3b 100m,"European Joggling Championships 2025, EJC Arnhem",Sean Carney,M,USA,0:00:24.98,?,EJC results in Joggler's United Group,24.98,0
 09/08/2025,2025,3b 100m,"European Joggling Championships 2025, EJC Arnhem",Nevio Krawowski,M,DEU,0:00:25.73,?,EJC results in Joggler's United Group,25.73,0
@@ -233,7 +880,7 @@ Dressed as where's wally!!",5037.0,0
 09/08/2025,2025,3b 100m,"European Joggling Championships 2025, EJC Arnhem",Sanne Carper,F,NLD,0:00:28.73,?,EJC results in Joggler's United Group,28.73,0
 09/08/2025,2025,3b 100m,"European Joggling Championships 2025, EJC Arnhem",Sanne Carper,F,NLD,0:00:28.89,?,EJC results in Joggler's United Group,28.89,0
 09/08/2025,2025,3b 100m,"European Joggling Championships 2025, EJC Arnhem",Garry Rossiter,M,IRL,0:00:28.98,?,EJC results in Joggler's United Group,28.98,0
-09/08/2025,2025,3b 100m,"European Joggling Championships 2025, EJC Arnhem",Katerina Matulova,0,CZE,0:00:29.28,?,EJC results in Joggler's United Group,29.28,0
+09/08/2025,2025,3b 100m,"European Joggling Championships 2025, EJC Arnhem",Katerina Matulova,F,CZE,0:00:29.28,?,EJC results in Joggler's United Group,29.28,0
 09/08/2025,2025,3b 100m,"European Joggling Championships 2025, EJC Arnhem",Lea Schmuck,F,DEU,0:00:32.29,?,EJC results in Joggler's United Group,32.29,0
 09/08/2025,2025,3b 100m,"European Joggling Championships 2025, EJC Arnhem",Danny Decreus,M,BEL,0:00:34.28,?,EJC results in Joggler's United Group,34.28,0
 09/08/2025,2025,3b 100m,"European Joggling Championships 2025, EJC Arnhem",Benjamin Go,M,NLD,0:00:34.35,?,EJC results in Joggler's United Group,34.35,0
@@ -254,7 +901,7 @@ Dressed as where's wally!!",5037.0,0
 09/08/2025,2025,5b 100m,"European Joggling Championships 2025, EJC Arnhem",Jan Marc Daumin,M,DEU,0:00:46.60,?,EJC results in Joggler's United Group,46.6,0
 09/08/2025,2025,5b 100m,"European Joggling Championships 2025, EJC Arnhem",Marvin Kuster,M,DEU,0:00:53.42,?,EJC results in Joggler's United Group,53.42,0
 09/08/2025,2025,5b 100m,"European Joggling Championships 2025, EJC Arnhem",Alistair Richards,M,GBR,0:00:59.29,?,EJC results in Joggler's United Group,59.29,0
-09/08/2025,2025,5b 100m,"European Joggling Championships 2025, EJC Arnhem",Jean Guy Beaudry,M,CAN,0:01:08.02,?,EJC results in Joggler's United Group,68.02,0
+09/08/2025,2025,5b 100m,"European Joggling Championships 2025, EJC Arnhem",Jean-Guy Beaudry,M,CAN,0:01:08.02,?,EJC results in Joggler's United Group,68.02,0
 09/08/2025,2025,5b 100m,"European Joggling Championships 2025, EJC Arnhem",Cajus Fahrenkamp,M,DEU,0:01:09.35,?,EJC results in Joggler's United Group,69.35,0
 09/08/2025,2025,5b 100m,"European Joggling Championships 2025, EJC Arnhem",Krzysztof Riewold,M,POL,0:01:10.17,?,EJC results in Joggler's United Group,70.17,0
 09/08/2025,2025,5b 100m,"European Joggling Championships 2025, EJC Arnhem",Lea Schmuck,F,DEU,0:02:31.99,?,EJC results in Joggler's United Group,151.99,0
@@ -282,7 +929,7 @@ Dressed as where's wally!!",5037.0,0
 09/08/2025,2025,3c 100m,"European Joggling Championships 2025, EJC Arnhem",Nevio Krawowski,M,DEU,0:00:24.35,?,EJC results in Joggler's United Group,24.35,0
 09/08/2025,2025,3c 100m,"European Joggling Championships 2025, EJC Arnhem",Kanoa Lindiwe,M,USA,0:00:24.47,?,EJC results in Joggler's United Group,24.47,0
 09/08/2025,2025,3c 100m,"European Joggling Championships 2025, EJC Arnhem",Cajus Fahrenkamp,M,DEU,0:00:24.48,?,EJC results in Joggler's United Group,24.48,0
-09/08/2025,2025,3c 100m,"European Joggling Championships 2025, EJC Arnhem",Jean Guy Beaudry,M,CAN,0:00:24.92,?,EJC results in Joggler's United Group,24.92,0
+09/08/2025,2025,3c 100m,"European Joggling Championships 2025, EJC Arnhem",Jean-Guy Beaudry,M,CAN,0:00:24.92,?,EJC results in Joggler's United Group,24.92,0
 09/08/2025,2025,3c 100m,"European Joggling Championships 2025, EJC Arnhem",Tom Aulenkamp,M,DEU,0:00:29.42,?,EJC results in Joggler's United Group,29.42,0
 09/08/2025,2025,3c 100m,"European Joggling Championships 2025, EJC Arnhem",Jan Marc Daumin,M,DEU,0:00:30.07,?,EJC results in Joggler's United Group,30.07,0
 09/08/2025,2025,3c 100m,"European Joggling Championships 2025, EJC Arnhem",Rik Konings,M,NLD,0:00:31.26,?,EJC results in Joggler's United Group,31.26,0
@@ -313,14 +960,14 @@ Dressed as where's wally!!",5037.0,0
 09/08/2025,2025,3b 400m,"European Joggling Championships 2025, EJC Arnhem",Krzysztof Riewold,M,POL,0:01:23.42,?,EJC results in Joggler's United Group,83.42,0
 09/08/2025,2025,3b 400m,"European Joggling Championships 2025, EJC Arnhem",Luca Pferdmenges,M,DEU,0:01:23.65,?,EJC results in Joggler's United Group,83.65,0
 09/08/2025,2025,3b 400m,"European Joggling Championships 2025, EJC Arnhem",Tobias Ludwig,M,DEU,0:01:24.90,?,EJC results in Joggler's United Group,84.9,0
-09/08/2025,2025,3b 400m,"European Joggling Championships 2025, EJC Arnhem",Jean Guy Beaudry,M,CAN,0:01:26.79,?,EJC results in Joggler's United Group,86.79,0
+09/08/2025,2025,3b 400m,"European Joggling Championships 2025, EJC Arnhem",Jean-Guy Beaudry,M,CAN,0:01:26.79,?,EJC results in Joggler's United Group,86.79,0
 09/08/2025,2025,3b 400m,"European Joggling Championships 2025, EJC Arnhem",Rik Konings,M,NLD,0:01:29.51,?,EJC results in Joggler's United Group,89.51,0
 09/08/2025,2025,3b 400m,"European Joggling Championships 2025, EJC Arnhem",Marvin Kuster,M,DEU,0:01:29.53,?,EJC results in Joggler's United Group,89.53,0
 09/08/2025,2025,3b 400m,"European Joggling Championships 2025, EJC Arnhem",Pavel Matula,M,CZE,0:01:31.03,?,EJC results in Joggler's United Group,91.03,0
 09/08/2025,2025,3b 400m,"European Joggling Championships 2025, EJC Arnhem",Anezka Houhova,F,CZE,0:01:33.54,?,EJC results in Joggler's United Group,93.54,90
 09/08/2025,2025,3b 400m,"European Joggling Championships 2025, EJC Arnhem",Sake Roelofs,M,NLD,0:01:34.42,?,EJC results in Joggler's United Group,94.42,0
-09/08/2025,2025,3b 400m,"European Joggling Championships 2025, EJC Arnhem",Katerina Matulova,0,CZE,0:01:42.73,?,EJC results in Joggler's United Group,102.73,0
-09/08/2025,2025,3b 400m,"European Joggling Championships 2025, EJC Arnhem",Jowita Nowogrodzka-Ligeza,F,DEU,0:01:45.35,?,EJC results in Joggler's United Group,105.35,7
+09/08/2025,2025,3b 400m,"European Joggling Championships 2025, EJC Arnhem",Katerina Matulova,F,CZE,0:01:42.73,?,EJC results in Joggler's United Group,102.73,17
+09/08/2025,2025,3b 400m,"European Joggling Championships 2025, EJC Arnhem",Jowita Nowogrodzka-Ligeza,F,POL,0:01:45.35,?,EJC results in Joggler's United Group,105.35,7
 09/08/2025,2025,3b 400m,"European Joggling Championships 2025, EJC Arnhem",Yvonne Burchartz,F,DEU,0:01:47.48,?,EJC results in Joggler's United Group,107.48,2
 09/08/2025,2025,3b 400m,"European Joggling Championships 2025, EJC Arnhem",Silvia Osiek,F,DEU,0:01:47.78,?,EJC results in Joggler's United Group,107.78,1
 09/08/2025,2025,3b 400m,"European Joggling Championships 2025, EJC Arnhem",Benjamin Go,M,NLD,0:01:49.67,?,EJC results in Joggler's United Group,109.67,0
@@ -329,13 +976,13 @@ Dressed as where's wally!!",5037.0,0
 09/08/2025,2025,3b 400m,"European Joggling Championships 2025, EJC Arnhem",Sanne Carper,F,NLD,0:02:22.04,?,EJC results in Joggler's United Group,142.04,0
 09/08/2025,2025,3b 400m,"European Joggling Championships 2025, EJC Arnhem",Vicente Peris Tamarit,M,ESP,0:03:03.65,?,EJC results in Joggler's United Group,183.65,0
 09/08/2025,2025,3b 4x100m,"European Joggling Championships 2025, EJC Arnhem","Tamino Larisch, Shimon Levikow, Nevio Krawowski, Jamal Da Silva Ermisch",M,DEU,0:01:09.04,0,EJC results in Joggler's United Group,69.04,0
-09/08/2025,2025,3b 4x100m,"European Joggling Championships 2025, EJC Arnhem","Kevin Niittyviita, Karel Schuller, Erik Toll, Luca Pferdmenges",M,0,0:01:05.03,0,EJC results in Joggler's United Group,65.03,24
-09/08/2025,2025,3b 4x100m,"European Joggling Championships 2025, EJC Arnhem","Tom Aulenkamp, Fabian Knieps, ?, Luca Malzahn",Mixed,0,0:01:22.46,0,EJC results in Joggler's United Group,82.46,0
+09/08/2025,2025,3b 4x100m,"European Joggling Championships 2025, EJC Arnhem","Kevin Niittyviita, Karel Schuller, Erik Toll, Luca Pferdmenges",M,Mixed,0:01:05.03,0,EJC results in Joggler's United Group,65.03,24
+09/08/2025,2025,3b 4x100m,"European Joggling Championships 2025, EJC Arnhem","Tom Aulenkamp, Fabian Knieps, ?, Luca Malzahn",Mixed,Mixed,0:01:22.46,0,EJC results in Joggler's United Group,82.46,0
 09/08/2025,2025,3b 4x100m,"European Joggling Championships 2025, EJC Arnhem","Yvonne Burchartz, Louisa Frankhauser, Christina-Anna Senser, Lea Schmuck",F,DEU,0:01:37.79,0,EJC results in Joggler's United Group,97.79,0
-09/08/2025,2025,3b 4x100m,"European Joggling Championships 2025, EJC Arnhem","Jowita Nowogrodzka-Ligeza, Junya Inoue, Krzysztof Riewold,?",Mixed,0,0:01:21.23,0,EJC results in Joggler's United Group,81.23,0
+09/08/2025,2025,3b 4x100m,"European Joggling Championships 2025, EJC Arnhem","Jowita Nowogrodzka-Ligeza, Junya Inoue, Krzysztof Riewold,?",Mixed,Mixed,0:01:21.23,0,EJC results in Joggler's United Group,81.23,0
 09/08/2025,2025,3b 4x100m,"European Joggling Championships 2025, EJC Arnhem","Peter Rottenbach, Marius Trirschler, Cajus Fahrenkamp, Tobias Ludwig",M,DEU,0:01:14.80,0,EJC results in Joggler's United Group,74.8,0
-09/08/2025,2025,3b 4x100m,"European Joggling Championships 2025, EJC Arnhem","Kanoa Lindiwe, Mark Fiore, Lucas Hester, Leon Vergoossen",M,0,0:01:12.79,0,EJC results in Joggler's United Group,72.79,0
-09/08/2025,2025,3b 4x100m,"European Joggling Championships 2025, EJC Arnhem","Harry Hirsch, Jean Guy Beaudry, Pavel Matula, Kaupo Pilder",M,0,0:01:23.20,0,EJC results in Joggler's United Group,83.2,0
+09/08/2025,2025,3b 4x100m,"European Joggling Championships 2025, EJC Arnhem","Kanoa Lindiwe, Mark Fiore, Lucas Hester, Leon Vergoossen",M,Mixed,0:01:12.79,0,EJC results in Joggler's United Group,72.79,0
+09/08/2025,2025,3b 4x100m,"European Joggling Championships 2025, EJC Arnhem","Harry Hirsch, Jean Guy Beaudry, Pavel Matula, Kaupo Pilder",M,Mixed,0:01:23.20,0,EJC results in Joggler's United Group,83.2,0
 09/08/2025,2025,3b Half Marathon,MFG Madison Mini Marathon,Samuel Dean,M,USA,1:23:23.00,0,"https://strava.app.link/Tgzoq0r7rWb
 https://runsignup.com/Race/Results/131236/IndividualResult/cLYC?resultSetId=570293#U50715666",5003.0,414
 09/08/2025,2025,3b 100m,"European Joggling Championships 2025, EJC Arnhem",Scott Jenkins,M,GBR,0:00:14.43,?,EJC results in Joggler's United Group,14.43,161
@@ -354,10 +1001,10 @@ https://runsignup.com/Race/Results/131236/IndividualResult/cLYC?resultSetId=5702
 04/08/2025,2025,3c 5km,"EJC 2025 5km Road Race, Arnhem",David Lohuis,M,DEU,0:22:56.00,?,EJC results in Joggler's United Group,1376.0,11
 04/08/2025,2025,3b 5km,"EJC 2025 5km Road Race, Arnhem",Vasek Peca,M,CZE,0:22:58.00,?,EJC results in Joggler's United Group,1378.0,10
 04/08/2025,2025,3b 5km,"EJC 2025 5km Road Race, Arnhem",Brook Roberts,M,GBR,0:22:58.00,?,EJC results in Joggler's United Group,1378.0,10
-04/08/2025,2025,3b 5km,"EJC 2025 5km Road Race, Arnhem",Fabian Fellhaber,M,DEU,0:23:02.00,?,EJC results in Joggler's United Group,1382.0,9
+04/08/2025,2025,3b 5km,"EJC 2025 5km Road Race, Arnhem",Fabian Fehlhaber,M,DEU,0:23:02.00,?,EJC results in Joggler's United Group,1382.0,9
 04/08/2025,2025,3b 5km,"EJC 2025 5km Road Race, Arnhem",Boris de Schipper,M,NLD,0:23:12.00,?,EJC results in Joggler's United Group,1392.0,6
 04/08/2025,2025,3b 5km,"EJC 2025 5km Road Race, Arnhem",Paul Cahen,M,FRA,0:23:29.00,?,EJC results in Joggler's United Group,1409.0,2
-04/08/2025,2025,3b 5km,"EJC 2025 5km Road Race, Arnhem",Luca Haase,M,CAN,0:23:31.00,?,EJC results in Joggler's United Group,1411.0,2
+04/08/2025,2025,3b 5km,"EJC 2025 5km Road Race, Arnhem",Luca Haase,M,NLD,0:23:31.00,?,EJC results in Joggler's United Group,1411.0,2
 04/08/2025,2025,3b 5km,"EJC 2025 5km Road Race, Arnhem",Shimon Levikov,M,DEU,0:23:37.00,?,EJC results in Joggler's United Group,1417.0,1
 04/08/2025,2025,3b 5km,"EJC 2025 5km Road Race, Arnhem",Cajus Fahrenkamp,M,DEU,0:23:46.00,?,EJC results in Joggler's United Group,1426.0,0
 04/08/2025,2025,3b 5km,"EJC 2025 5km Road Race, Arnhem",Lucas Hester,M,USA,0:24:14.00,?,EJC results in Joggler's United Group,1454.0,0
@@ -415,7 +1062,7 @@ https://runsignup.com/Race/Results/131236/IndividualResult/cLYC?resultSetId=5702
 04/08/2025,2025,3b 5km,"EJC 2025 5km Road Race, Arnhem",Nathan V,M,FRA,0:34:20.00,?,EJC results in Joggler's United Group,2060.0,0
 04/08/2025,2025,3b 5km,"EJC 2025 5km Road Race, Arnhem",Guillaume Moretie,M,BEL,0:34:29.00,?,EJC results in Joggler's United Group,2069.0,0
 04/08/2025,2025,3b 5km,"EJC 2025 5km Road Race, Arnhem",Hugo Segoufin-Chollet,M,FRA,0:34:40.00,?,EJC results in Joggler's United Group,2080.0,0
-04/08/2025,2025,3c 5km,"EJC 2025 5km Road Race, Arnhem",Stephan Neiuhaidt,M,DEU,0:35:28.00,?,EJC results in Joggler's United Group,2128.0,0
+04/08/2025,2025,3c 5km,"EJC 2025 5km Road Race, Arnhem",Stephan Neinhaidt,,0,0:35:28.00,?,EJC results in Joggler's United Group,2128.0,0
 04/08/2025,2025,3b 5km,"EJC 2025 5km Road Race, Arnhem",Jonas Tasch,M,DEU,0:35:52.00,?,EJC results in Joggler's United Group,2152.0,0
 04/08/2025,2025,3b 5km,"EJC 2025 5km Road Race, Arnhem",Yvonne Burchartz,F,DEU,0:35:54.00,?,EJC results in Joggler's United Group,2154.0,0
 04/08/2025,2025,3c 5km,"EJC 2025 5km Road Race, Arnhem",Lonne Peters,F,DEU,0:36:10.00,?,EJC results in Joggler's United Group,2170.0,0
@@ -424,11 +1071,11 @@ https://runsignup.com/Race/Results/131236/IndividualResult/cLYC?resultSetId=5702
 04/08/2025,2025,3b 5km,"EJC 2025 5km Road Race, Arnhem",Anna Sophia Martin,F,DEU,0:37:08.00,?,EJC results in Joggler's United Group,2228.0,0
 04/08/2025,2025,3b 5km,"EJC 2025 5km Road Race, Arnhem",Katerina Matubra,F,CZE,0:37:28.00,?,EJC results in Joggler's United Group,2248.0,0
 04/08/2025,2025,3b 5km,"EJC 2025 5km Road Race, Arnhem",Di-Hong Tay,M,SGP,0:37:44.00,?,EJC results in Joggler's United Group,2264.0,0
-04/08/2025,2025,3b 5km,"EJC 2025 5km Road Race, Arnhem",Corinna,F,DEU,0:38:06.00,?,EJC results in Joggler's United Group,2286.0,0
+04/08/2025,2025,3b 5km,"EJC 2025 5km Road Race, Arnhem",Corinna Werther,F,DEU,0:38:06.00,?,EJC results in Joggler's United Group,2286.0,0
 04/08/2025,2025,3b 5km,"EJC 2025 5km Road Race, Arnhem",Ryusuke Thu,M,JPN,0:38:07.00,?,EJC results in Joggler's United Group,2287.0,0
 04/08/2025,2025,3b 5km,"EJC 2025 5km Road Race, Arnhem",Johannes Blank,M,DEU,0:38:15.00,?,EJC results in Joggler's United Group,2295.0,0
 04/08/2025,2025,3b 5km,"EJC 2025 5km Road Race, Arnhem",Nate Ycas,M,USA,0:38:19.00,?,EJC results in Joggler's United Group,2299.0,0
-04/08/2025,2025,3b 5km,"EJC 2025 5km Road Race, Arnhem",Onur,M,TUR,0:38:29.00,?,EJC results in Joggler's United Group,2309.0,0
+04/08/2025,2025,3b 5km,"EJC 2025 5km Road Race, Arnhem",Onur Erdem,M,TUR,0:38:29.00,?,EJC results in Joggler's United Group,2309.0,0
 04/08/2025,2025,3c 5km,"EJC 2025 5km Road Race, Arnhem",Tim Pieloth,M,DEU,0:38:43.00,?,EJC results in Joggler's United Group,2323.0,0
 04/08/2025,2025,3b 5km,"EJC 2025 5km Road Race, Arnhem",Florian Veenendoaluz,M,NLD,0:39:22.00,?,EJC results in Joggler's United Group,2362.0,0
 04/08/2025,2025,3b 5km,"EJC 2025 5km Road Race, Arnhem",Saskia Bershinski,F,DEU,0:40:29.00,?,EJC results in Joggler's United Group,2429.0,0
@@ -712,7 +1359,7 @@ https://runsignup.com/Race/Results/53399/IndividualResult/gTsb?resultSetId=51160
 15/11/2024,2024,3b 5km,"Bill Bruno Alumni Cross Country Run, New Jersey",Karly Swaim,F,USA,0:31:41.00,2,https://runsignup.com/Race/Results/67106/IndividualResult/BgJT?resultSetId=510695#U21578490,1901.0,31
 09/11/2024,2024,3b 5km,Mlynowka Krolewska Parkrun,Kacper Suchora,M,POL,0:21:40.00,2,https://www.parkrun.pl/mlynowkakrolewska/results/57/,1300.0,54
 03/11/2024,2024,3b 23km,Cracow Mountain Running Grand Prix (Grand Prix Krakowa w Biegach Gorskich) Stage 1,Kacper Suchora,M,POL,2:11:10.00,?,https://orientharper.pl/timego/?page=result&action=live&cid=142&did=3 (937m elevation!),7870.0,0
-03/11/2024,2024,3b Marathon,New York Marathon,Barak Hirschowitz,M,USA,4:29:32.00,?,https://results.nyrr.org/event/M2024/result/49329Â Â Â  https://www.marathonfoto.com/Proofs,16172.0,0
+03/11/2024,2024,3b Marathon,New York Marathon,Barak Hirschowitz,M,USA,4:29:32.00,?,https://results.nyrr.org/event/M2024/result/49329ÃÂÃÂ ÃÂÃÂ ÃÂÃÂ  https://www.marathonfoto.com/Proofs,16172.0,0
 03/11/2024,2024,3b Marathon,New York City Marathon,Jack Hirschowitz,M,USA,5:00:07.00,?,,18007.0,0
 27/10/2024,2024,3b 4 Miles,"JSRC Deal Trick or Trot, New Jersey",Karly Swaim,F,USA,0:38:53.00,1,https://runsignup.com/Race/Results/21841/IndividualResult/BLNd?resultSetId=505595#U21578490,2333.0,0
 27/10/2024,2024,3b 10km,Bieg Twierdzy Krakow (Cracow Fortress Race),Kacper Suchora,M,POL,1:06:14.00,?,https://orientharper.pl/timego/?page=result&action=live&cid=141,3974.0,0
@@ -1077,7 +1724,7 @@ https://youtu.be/WCAjO15PdWk?si=OthtgNMSdwFjdIQQ",331.0,118
 30/03/2024,2024,3b 5km,Malling Parkrun,Scott Jenkins,M,GBR,0:24:09.00,1,https://www.strava.com/activities/11069438917,1449.0,0
 24/03/2024,2024,3b 5km,NN City Run 2024 / Budapest / Hungary,Attila Suszter,M,HUN,0:31:40.00,1,https://gammatiming.com/result/runner/nncr2024/5790 https://www.instagram.com/p/C5CEXliM7bt/  https://www.threads.net/@casualattila/post/C5Dod0KM9gP https://futofoto.hu/esemeny/nn-city-run-2024/5790/esemeny/48/1,1900.0,0
 23/03/2024,2024,3b 5km,Drumpellier Country Parkrun,Scott Jenkins,M,GBR,0:24:19.00,0,https://www.strava.com/activities/11019500708,1459.0,0
-17/03/2024,2024,3b Half Marathon,X Bieg Zielonych Sznurowadea,Kacper Suchora,M,POL,1:51:20.00,?,https://sts-timing.pl/event/x-jubileuszowy-bieg-zielonych-sznurowadel-2024-2/#tabs-24367,6680.0,11
+17/03/2024,2024,3b Half Marathon,X Bieg Zielonych SznurowadeaÃÂ,Kacper Suchora,M,POL,1:51:20.00,?,https://sts-timing.pl/event/x-jubileuszowy-bieg-zielonych-sznurowadel-2024-2/#tabs-24367,6680.0,11
 17/03/2024,2024,3b Marathon,LA Marathon,Barak Hirschowitz,M,USA,4:12:34.00,?,https://results2.xacte.com/#/e/2537/placings,15154.0,3
 17/03/2024,2024,3b Half Marathon,Carlisle Half Marathon,Scott Jenkins,M,GBR,1:43:54.00,0,https://www.strava.com/activities/10978093785,6234.0,62
 16/03/2024,2024,3b Mile,Time Trial,Karly Swaim,F,USA,0:08:00.00,0,,480.0,116
@@ -1085,7 +1732,7 @@ https://youtu.be/WCAjO15PdWk?si=OthtgNMSdwFjdIQQ",331.0,118
 16/03/2024,2024,3b 10km,"Shamrock Shuffle, Madison, WI",Samuel Dean,M,USA,0:39:23.00,2,https://www.strava.com/activities/10971982364,2363.0,326
 16/03/2024,2024,3b 5km,Carlisle Parkrun,Scott Jenkins,M,GBR,0:29:46.00,0,https://www.strava.com/activities/10971687586,1786.0,0
 10/03/2024,2024,3b Half Marathon,Inverness Half Marathon,James McDiarmid,M,GBR,1:28:47.00,?,https://invernesshalfmarathon.co.uk/results/1/2024/,5327.0,292
-09/03/2024,2024,3b 5km,parkrun Puszcza Niepoaomicka,Kacper Suchora,M,POL,0:23:03.00,2,https://www.parkrun.pl/puszczaniepolomicka/results/latestresults/,1383.0,9
+09/03/2024,2024,3b 5km,parkrun Puszcza NiepoaÃÂomicka,Kacper Suchora,M,POL,0:23:03.00,2,https://www.parkrun.pl/puszczaniepolomicka/results/latestresults/,1383.0,9
 09/03/2024,2024,3b 5km,Denton Dene Parkrun,Scott Jenkins,M,GBR,0:19:45.00,0,https://www.strava.com/activities/10921014895,1185.0,180
 03/03/2024,2024,3b 10km,Pune City Marathon 2024,Ketan Abhonkar,M,IND,1:04:30.00,?,https://www.sportstimingsolutions.in/share.php?event_id=78946&bib=17051,3870.0,0
 03/03/2024,2024,3b 10 Miles,Lasswade 10 Mile,James McDiarmid,M,GBR,1:09:21.00,4,,4161.0,0
@@ -1212,7 +1859,7 @@ https://www.parkrun.com.de/volksgarten/results/146/",1248.0,102
 23/09/2023,2023,3b 5km,"Dempsey Challenge, Maine",Nanci Newton,F,USA,1:00:00.00,?,https://www.dempseycenter.org,3600.0,0
 23/09/2023,2023,3b 5km,"Dempsey Challenge, Maine",Karly Swaim,F,USA,1:00:00.00,?,,3600.0,0
 23/09/2023,2023,3b 5km,Penallta Parkrun,Scott Jenkins,M,GBR,0:22:38.00,2,https://www.parkrun.org.uk/penallta/results/346/,1358.0,18
-17/09/2023,2023,3b 10km,Tübingen Heritage Run,Peter Rottenbach,M,DEU,1:01:15.00,?,https://my.raceresult.com/248587/#0_128718 ,3675.0,0
+17/09/2023,2023,3b 10km,TÃÂ¼bingen Heritage Run,Peter Rottenbach,M,DEU,1:01:15.00,?,https://my.raceresult.com/248587/#0_128718 ,3675.0,0
 16/09/2023,2023,3b 5km,Holyrood Parkrun,James McDiarmid,M,GBR,0:19:53.00,?,https://www.parkrun.org.uk/holyrood/results/56/,1193.0,169
 16/09/2023,2023,3b 5km,Coed Cefn-pwll-du Parkrun,Scott Jenkins,M,GBR,0:23:59.00,0,https://www.facebook.com/100070150012167/videos/3833914350163308  https://www.parkrun.org.uk/coedcefnpwlldu/results/103/,1439.0,0
 10/09/2023,2023,3b Half Marathon,Harrisburg Half Marathon,Tim Ebersole,M,USA,1:42:57.00,?,https://www.strava.com/activities/9821889643  https://runsignup.com/Race/Results/15430,6177.0,72
@@ -1266,7 +1913,7 @@ https://www.strava.com/activities/9585830232",1488.0,0
 30/07/2023,2023,5b 100m,EJC Joggling Open,Ilia Poliakov,M,ISR,0:00:29.92,?,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html,29.92,0
 30/07/2023,2023,5b 100m,EJC Joggling Open,Jheng-Yu Chiu,M,TWN,0:00:33.12,?,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html,33.12,0
 30/07/2023,2023,3b 100m,EJC Joggling Open,Silvia Osiek,F,DEU,0:00:33.80,?,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html,33.8,0
-30/07/2023,2023,3b 100m,EJC Joggling Open,Jowita Nowogrodzka-Ligeza,F,DEU,0:00:34.40,?,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html,34.4,0
+30/07/2023,2023,3b 100m,EJC Joggling Open,Jowita Nowogrodzka-Ligeza,F,POL,0:00:34.40,?,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html,34.4,0
 30/07/2023,2023,3b 100m,EJC Joggling Open,David Benz,M,DEU,0:00:34.47,?,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html,34.47,0
 30/07/2023,2023,5b 100m,EJC Joggling Open,Eden Katsir,M,ISR,0:00:40.72,?,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html,40.72,0
 30/07/2023,2023,5b 100m,EJC Joggling Open,Daniela Palickova,F,CZE,0:00:57.76,?,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html,57.76,0
@@ -1290,7 +1937,7 @@ https://www.strava.com/activities/9585830232",1488.0,0
 30/07/2023,2023,3b 400m,EJC Joggling Open,Jarek Widomski,M,POL,0:01:31.36,?,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html,91.36,0
 30/07/2023,2023,3b 400m,EJC Joggling Open,Gregor Straub,M,DEU,0:01:31.38,?,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html,91.38,0
 30/07/2023,2023,3b 400m,EJC Joggling Open,Karel Schuller,M,NLD,0:01:32.58,?,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html,92.58,0
-30/07/2023,2023,3b 400m,EJC Joggling Open,Eugene Petkevich,M,BLR,0:01:34.60,?,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html,94.6,0
+30/07/2023,2023,3b 400m,EJC Joggling Open,Eugene Petkevich,M,POL,0:01:34.60,?,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html,94.6,0
 30/07/2023,2023,3b 400m,EJC Joggling Open,Jeremy Vik,M,USA,0:01:35.58,?,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html,95.58,0
 30/07/2023,2023,3b 400m,EJC Joggling Open,Elias Loehr,M,DEU,0:01:35.72,?,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html,95.72,0
 30/07/2023,2023,3b 400m,EJC Joggling Open,Peter Rottenbach,M,DEU,0:01:35.82,?,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html,95.82,0
@@ -1311,7 +1958,7 @@ https://www.strava.com/activities/9585830232",1488.0,0
 30/07/2023,2023,3b 400m,EJC Joggling Open,Nestor Koktysz,M,POL,0:02:04.58,?,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html,124.58,0
 30/07/2023,2023,3b 400m,EJC Joggling Open,Samuel Greenwood-Wein,M,DEU,0:02:12.70,?,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html,132.7,0
 30/07/2023,2023,3b 400m,EJC Joggling Open,Louison Vatin,F,FRA,0:02:13.50,?,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html,133.5,0
-30/07/2023,2023,3b 400m,EJC Joggling Open,Jowita Nowogrodzka-Ligeza,F,DEU,0:02:16.78,?,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html,136.78,0
+30/07/2023,2023,3b 400m,EJC Joggling Open,Jowita Nowogrodzka-Ligeza,F,POL,0:02:16.78,?,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html,136.78,0
 30/07/2023,2023,3b 400m,EJC Joggling Open,Julia Bonhoff,F,DEU,0:02:41.60,?,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html,161.6,0
 30/07/2023,2023,3b 400m,EJC Joggling Open,Eric Carvalho,M,BRA,0:02:57.16,?,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html,177.16,0
 30/07/2023,2023,3b 400m,EJC Joggling Open,Aline Faller,F,DEU,0:02:57.22,?,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html,177.22,0
@@ -1325,7 +1972,7 @@ https://www.strava.com/activities/9585830232",1488.0,0
 30/07/2023,2023,3b 1600m,EJC Joggling Open,Elias Loehr,M,DEU,0:08:14.14,?,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html,494.14,0
 30/07/2023,2023,3b 1600m,EJC Joggling Open,Maximillian Gruber,M,AUT,0:08:15.72,?,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html,495.72,0
 30/07/2023,2023,3b 1600m,EJC Joggling Open,Jeremy Vik,M,USA,0:08:17.22,?,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html,497.22,0
-30/07/2023,2023,3b 1600m,EJC Joggling Open,Eugene Petkevich,M,BLR,0:08:18.64,?,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html,498.64,0
+30/07/2023,2023,3b 1600m,EJC Joggling Open,Eugene Petkevich,M,POL,0:08:18.64,?,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html,498.64,0
 30/07/2023,2023,3b 1600m,EJC Joggling Open,Cyril Pujol,M,FRA,0:08:19.66,?,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html,499.66,0
 30/07/2023,2023,3b 1600m,EJC Joggling Open,Peter Rottenbach,M,DEU,0:08:31.40,?,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html,511.4,0
 30/07/2023,2023,3b 1600m,EJC Joggling Open,Christina-Anna Senser,F,DEU,0:08:55.69,?,https://www.joggling.pl/joggling-competitionszawody/2023-lublin-open.html,535.69,0
@@ -1760,7 +2407,7 @@ Inbox",1480.0,0
 28/05/2022,2022,3b 5km,Unknown,Ryan Himmel,M,USA,0:25:23.00,?,https://www.instagram.com/p/CeHhTezg4dh/,1523.0,0
 23/05/2022,2022,3b Mile,Time Trial,Henry Wellenstein,M,USA,0:04:39.00,0,https://www.strava.com/activities/7136444528,279.0,649
 21/05/2022,2022,3b 400m,Time Trial,Jannik Weiss,M,DEU,0:00:59.00,?,https://www.youtube.com/watch?v=H0abml3gEIQ&t=16535s,59.0,407
-15/05/2022,2022,3b 10km,?stanbul'u Ko?uyorum Asya Etab? (Üsküdar),Ferda Tekgül,M,TUR,1:00:02.00,?,https://event.spor.istanbul/eventresults.aspx,3602.0,0
+15/05/2022,2022,3b 10km,?stanbul'u Ko?uyorum Asya Etab? (ÃÂskÃÂ¼dar),Ferda TekgÃÂ¼l,M,TUR,1:00:02.00,?,https://event.spor.istanbul/eventresults.aspx,3602.0,0
 15/05/2022,2022,3b Ultra (35m),Shires and Spires Ultra,Tim Butler,M,GBR,6:56:35.00,?,Marathon #66: https://www.joggling.co.uk/Marathon-List,24995.0,0
 14/05/2022,2022,3b 100m,Time Trial,Kaylin Meyers,F,USA,0:00:20.82,0,https://www.youtube.com/shorts/bB0j1avE8g4,20.82,13
 08/05/2022,2022,3b Half Marathon,Leeds Half Marathon,Chris Edwin,M,GBR,1:20:27.00,1,,4827.0,490
@@ -1804,7 +2451,7 @@ Inbox",1480.0,0
 31/10/2021,2021,3b 4 Miles,"JSRC Deal Trick or Trot, New Jersey",Karly Swaim,F,USA,0:37:35.00,0,https://runsignup.com/Race/Results/21841/IndividualResult/MsHF?resultSetId=286654#U21578490,2255.0,0
 28/10/2021,2021,3b Marathon,"Time Trial, Yokohama",Koutaro Kawano,M,JPN,4:22:24.00,?,"https://www.strava.com/activities/6176836328 His first full marathon, a Japanese record",15744.0,0
 17/10/2021,2021,3b Marathon,Bedford Autodrome Marathon,Tim Butler,M,GBR,4:15:15.00,?,Marathon #60: https://www.joggling.co.uk/Marathon-List,15315.0,1
-10/10/2021,2021,3b 10km,?stanbulu Ko?uyorum Üsküdar Etab? 2021,Ferda Tekgül,M,TUR,0:52:54.00,?,https://event.spor.istanbul/eventresults.aspx,3174.0,0
+10/10/2021,2021,3b 10km,?stanbulu Ko?uyorum ÃÂskÃÂ¼dar Etab? 2021,Ferda TekgÃÂ¼l,M,TUR,0:52:54.00,?,https://event.spor.istanbul/eventresults.aspx,3174.0,0
 10/10/2021,2021,3b Marathon,Chicago Marathon,Perry Romanowski,M,USA,3:49:05.00,?,https://chicago-history.r.mikatiming.com/2021/?pid=search,13745.0,65
 10/10/2021,2021,3b Marathon,Manchester Marathon,Chris Edwin,M,GBR,3:50:15.00,15,,13815.0,60
 03/10/2021,2021,3b 5km,"Little Silver Classic, New Jersey",Karly Swaim,F,USA,0:28:46.00,?,https://my.raceresult.com/177613/#1_320D20,1726.0,113
@@ -1819,7 +2466,7 @@ Inbox",1480.0,0
 12/09/2021,2021,3b Half Marathon,"Auffahrtslauf St. Gallen Half Marathon, Switzerland",Daniel Raum,M,AUT,1:32:12.00,?,https://my.raceresult.com/163389/,5532.0,225
 11/09/2021,2021,3b 5km,"Dishley, Loughborough Parkrun",Scott Jenkins,M,GBR,0:22:50.00,?,,1370.0,13
 09/09/2021,2021,3b 10km,Time Trial,Gopi Devarajulu,M,IND,1:15:33.00,?,https://www.youtube.com/watch?v=1A8KjLwMQ3M,4533.0,0
-05/09/2021,2021,3b 10km,?stanbul'u Ko?uyorum Caddebostan Colour Run,Ferda Tekgül,M,TUR,0:55:22.00,?,https://event.spor.istanbul/eventresults.aspx,3322.0,0
+05/09/2021,2021,3b 10km,?stanbul'u Ko?uyorum Caddebostan Colour Run,Ferda TekgÃÂ¼l,M,TUR,0:55:22.00,?,https://event.spor.istanbul/eventresults.aspx,3322.0,0
 04/09/2021,2021,3b 5km,"Dishley, Loughborough Parkrun",Scott Jenkins,M,GBR,0:22:16.00,?,,1336.0,30
 28/08/2021,2021,3b 5km,Ashton Court Parkrun,Nati Tuppen,F,GBR,0:42:26.00,?,https://www.parkrun.org.uk/ashtoncourt/results/454/  https://www.parkrun.org.uk/ashtoncourt/news/2021/08/29/just-do-it-your-way-ashton-court-parkrun-454/,2546.0,0
 21/08/2021,2021,3b 5km,Burnham and Highbridge Parkrun,Scott Jenkins,M,GBR,0:26:31.00,?,,1591.0,0
@@ -1910,12 +2557,12 @@ Inbox",1480.0,0
 08/05/2021,2021,3b Marathon,Colliery Canter,Tim Butler,M,GBR,5:10:02.00,?,Marathon #54: https://www.joggling.co.uk/Marathon-List,18602.0,0
 28/04/2021,2021,3b Mile,Time Trial,Koutaro Kawano,M,JPN,0:06:17.00,?,https://www.strava.com/activities/5204608300,377.0,50
 24/04/2021,2021,3b 5km,Time Trial,Toon Witters,M,BEL,0:22:19.00,15,https://www.strava.com/activities/5182010335,1339.0,28
-04/04/2021,2021,3b 10km,N Kolay ?stanbul Yar? Maratonu 2021,Ferda Tekgül,M,TUR,0:48:21.00,?,https://event.spor.istanbul/eventresults.aspx,2901.0,32
+04/04/2021,2021,3b 10km,N Kolay ?stanbul Yar? Maratonu 2021,Ferda TekgÃÂ¼l,M,TUR,0:48:21.00,?,https://event.spor.istanbul/eventresults.aspx,2901.0,32
 19/12/2020,2020,3b 5km,5km Joggling Challenge,EJ Coldham,F,GBR,0:30:20.00,?,https://www.strava.com/activities/4491314701/overview,1820.0,63
 29/11/2020,2020,3b Marathon,Space Coast Marathon,Barak Hirschowitz,M,USA,4:46:03.00,?,https://marathonview.net/search?query=barak%20hirschowitz,17163.0,0
 26/11/2020,2020,3b 10km,"Newport Turkey Trot 10k, PA",Tim Ebersole,M,USA,0:44:32.00,?,https://resultscui.active.com/events/2020NewportTurkeyTrot,2672.0,120
-26/10/2020,2020,3b 10km,?stanbulu Ko?uyorum Caddebostan Gazi Ko?usu 2020,Ferda Tekgül,M,TUR,0:52:29.00,?,https://event.spor.istanbul/eventresults.aspx,3149.0,0
-11/10/2020,2020,3b 10km,?stanbulu Ko?uyorum Bak?rköy Etab? 2020,Ferda Tekgül,M,TUR,0:50:55.00,?,https://event.spor.istanbul/eventresults.aspx,3055.0,4
+26/10/2020,2020,3b 10km,?stanbulu Ko?uyorum Caddebostan Gazi Ko?usu 2020,Ferda TekgÃÂ¼l,M,TUR,0:52:29.00,?,https://event.spor.istanbul/eventresults.aspx,3149.0,0
+11/10/2020,2020,3b 10km,?stanbulu Ko?uyorum Bak?rkÃÂ¶y Etab? 2020,Ferda TekgÃÂ¼l,M,TUR,0:50:55.00,?,https://event.spor.istanbul/eventresults.aspx,3055.0,4
 12/09/2020,2020,3b Half Marathon,"Harrisburg Half Marathon, PA",Tim Ebersole,M,USA,1:29:56.00,0,https://falconracetiming.com/racetimes/Harrisburg%20Half%20Overall%202020.htm,5396.0,268
 29/08/2020,2020,3b Marathon,Temple Newsam Marathon,Tim Butler,M,GBR,4:53:01.00,?,Marathon #53: https://www.joggling.co.uk/Marathon-List,17581.0,0
 22/08/2020,2020,3b Mile,Time Trial,Charlie Freeman,M,USA,0:05:06.00,1,https://www.tiktok.com/@cfreeman77/video/6863613020333985029,306.0,416
@@ -1938,7 +2585,7 @@ Inbox",1480.0,0
 21/12/2019,2019,3b 5km,Burnham and Highbridge Parkrun,Scott Jenkins,M,GBR,0:23:01.00,?,,1381.0,9
 14/12/2019,2019,3b 5km,"Killarney House Parkrun, Ireland",Malachy Kelly,M,IRL,0:24:20.00,?,https://www.facebook.com/killarneyhouseparkrun/videos/473825933533323/?app=fbl     https://www.parkrun.ie/killarneyhouse/results/22/,1460.0,0
 14/12/2019,2019,3b Marathon,Elsecar Marathon,Tim Butler,M,GBR,4:59:36.00,?,Marathon #48: https://www.joggling.co.uk/Marathon-List,17976.0,0
-08/12/2019,2019,3b 10km,Bebek Etab? ?stanbulu Ko?uyorum,Ferda Tekgül,M,TUR,0:49:51.00,?,https://event.spor.istanbul/eventresults.aspx,2991.0,13
+08/12/2019,2019,3b 10km,Bebek Etab? ?stanbulu Ko?uyorum,Ferda TekgÃÂ¼l,M,TUR,0:49:51.00,?,https://event.spor.istanbul/eventresults.aspx,2991.0,13
 08/12/2019,2019,3b 15km,"Bruggenloop, Rotterdam",Roy van Rijn,M,NLD,1:45:43.00,?,https://marathonphotos.live/Event/Sports%2FNFNL%2F2019%2FBruggenloop%20Rotterdam/9626#free   https://twitter.com/royvanrijn/status/1203735661641175040?t=gGl1n9Ktl6OiiY0rAWW56w&s=19,6343.0,0
 07/12/2019,2019,3b 4.5km,Gossau Christmas Run 10k,Daniel Raum,M,AUT,0:20:17.00,?,https://www.alphafoto.com/images.php?runID=1206&sn=9091    https://www.datasport.com/live/startlist/?racenr=21167,1217.0,0
 01/12/2019,2019,3b 5km,"JSRC Navesink Challenge, New Jersey",Karly Swaim,F,USA,0:32:18.00,?,https://runsignup.com/Race/Results/38943/#resultSetId-182064;page:2;perpage:100,1938.0,21
@@ -1946,7 +2593,7 @@ Inbox",1480.0,0
 23/11/2019,2019,3b 5km,Mallow Castle Parkrun,Malachy Kelly,M,IRL,0:25:06.00,?,https://www.facebook.com/481403242254926/posts/880304059031507/?mibextid=rS40aB7S9Ucbxw6v,1506.0,0
 16/11/2019,2019,3b Marathon,Rother Valley Park Marathon,Tim Butler,M,GBR,4:29:54.00,?,Marathon #47: https://www.joggling.co.uk/Marathon-List,16194.0,0
 11/11/2019,2019,3b 10km,Olsztyn Independence Run,Jarek Widomski,M,POL,0:48:22.00,?,,2902.0,32
-03/11/2019,2019,3b 15km,Istanbul,Ferda Tekgül,M,TUR,1:29:50.00,?,https://event.spor.istanbul/eventresults.aspx,5390.0,0
+03/11/2019,2019,3b 15km,Istanbul,Ferda TekgÃÂ¼l,M,TUR,1:29:50.00,?,https://event.spor.istanbul/eventresults.aspx,5390.0,0
 03/11/2019,2019,3b Marathon,New York City Marathon,Barak Hirschowitz,M,USA,4:54:10.00,?,https://www.nyrr.org/tcsnycmarathon/getinspired/photos-and-stories/2020/jack-hirschowitz,17650.0,0
 03/11/2019,2019,3b Marathon,New York City Marathon,Jack Hirschowitz,M,USA,4:56:52.00,?,https://results.nyrr.org/event/M2019/finishers#search=Hirschowitz&page=1,17812.0,0
 28/10/2019,2019,3b Mile,Time Trial (GWR),David Rush,M,USA,0:07:54.00,?,Blindfolded! https://www.youtube.com/watch?v=TdYXwSeqxOk,474.0,0
@@ -1954,13 +2601,13 @@ Inbox",1480.0,0
 20/10/2019,2019,3b Half Marathon,Amsterdam,Necmi Oztoprak,M,TUR,1:50:51.00,0,https://www.instagram.com/p/B32bLemgnSv/,6651.0,13
 13/10/2019,2019,3b 10km,Munich,Necmi Oztoprak,M,TUR,0:46:14.00,0,https://www.instagram.com/p/B3mGtkLAt7M/  https://www.abavent.de/anmeldeservice/muenchenmarathon2019/ergebnisse?en#3_CF93CE,2774.0,74
 13/10/2019,2019,3b Marathon,Chicago Marathon,Perry Romanowski,M,USA,3:43:46.00,?,https://chicago-history.r.mikatiming.com/2021/?pid=search,13426.0,90
-06/10/2019,2019,3b 10km,?stanbulu Ko?uyorum Bak?rköy Etab? 2019,Ferda Tekgül,M,TUR,0:55:51.00,?,https://event.spor.istanbul/eventresults.aspx,3351.0,0
+06/10/2019,2019,3b 10km,?stanbulu Ko?uyorum Bak?rkÃÂ¶y Etab? 2019,Ferda TekgÃÂ¼l,M,TUR,0:55:51.00,?,https://event.spor.istanbul/eventresults.aspx,3351.0,0
 06/10/2019,2019,3b Half Marathon,Bridlington Half Marathon,Pete Barnard,M,GBR,2:11:16.00,2,https://www.sportstimingsolutions.co.uk/rcd_mobile.php?id=355&bib=114,7876.0,0
-06/10/2019,2019,3b Marathon,"3-Länder-Marathon, Lindau, Germany",Daniel Raum,M,AUT,3:21:37.00,?,https://bregenz.r.mikatiming.de/2019/?pid=search,12097.0,234
-05/10/2019,2019,4b 10km,"Runinaddu, Maldives ",Michal Kapral,M,CAN,0:55:48.00,?,https://runningmagazine.ca/the-scene/michal-kapral-sets-worlds-first-4-ball-joggling-10k-record-in-paradise/,3348.0,0
+06/10/2019,2019,3b Marathon,"3-LÃÂ¤nder-Marathon, Lindau, Germany",Daniel Raum,M,AUT,3:21:37.00,?,https://bregenz.r.mikatiming.de/2019/?pid=search,12097.0,234
+05/10/2019,2019,4b 10km,"Runinaddu, MaldivesÃÂ ",Michal Kapral,M,CAN,0:55:48.00,?,https://runningmagazine.ca/the-scene/michal-kapral-sets-worlds-first-4-ball-joggling-10k-record-in-paradise/,3348.0,0
 28/09/2019,2019,3b 5km,Mill Race 5km,John Riden,M,USA,0:29:16.00,4,https://www.strava.com/activities/2746941936,1756.0,0
 22/09/2019,2019,3b Marathon,Rutland Water Marathon,Tim Butler,M,GBR,4:49:25.00,?,Marathon #46: https://www.joggling.co.uk/Marathon-List,17365.0,0
-15/09/2019,2019,3b 10km,Tübingen Heritage Run,Peter Rottenbach,M,DEU,0:58:45.00,?,https://my.raceresult.com/119388/#0_E863AF ,3525.0,0
+15/09/2019,2019,3b 10km,TÃÂ¼bingen Heritage Run,Peter Rottenbach,M,DEU,0:58:45.00,?,https://my.raceresult.com/119388/#0_E863AF ,3525.0,0
 14/09/2019,2019,3b 10km,VI Run Grand Prix Warsaw,Jarek Widomski,M,POL,0:45:15.00,2,,2715.0,99
 08/09/2019,2019,3b Half Marathon,Harrisburg Half Marathon,Tim Ebersole,M,USA,1:32:59.00,2,https://falconracetiming.com/racetimes/Harrisburg%20Half%20Marathon%20Overall%202019.htm,5579.0,211
 08/09/2019,2019,3b Half Marathon,Maybank Bali Marathon,Levent Denizci,M,TUR,2:14:32.00,3,https://www.instagram.com/p/B2qhaW0g48r/  https://www.instagram.com/p/B2Llfk0AXco/,8072.0,0
@@ -2111,7 +2758,7 @@ Inbox",1480.0,0
 27/06/2019,2019,3b 5km,"St. Peter's Fiesta 5km, Gloucester, MA",Richard Ross,M,USA,0:19:59.00,?,https://www.instagram.com/p/BzQTDEWhe-X/  https://newenglandruns.com/race-results/st-peters-fiesta-5k/?date=2019-06-27&result=43122&bib=ross&gender=&division=&order_by=finish_time&order=ASC,1199.0,161
 16/06/2019,2019,3b 5km,"Evanston Race Against Hate, IL",Dean Radcliffe,M,USA,0:25:10.00,?,https://results.raceroster.com/v2/en-US/results/urrk4wsy39e9crfs/results?subEvent=25982&page=1&search=Dean+radcliffe,1510.0,0
 16/06/2019,2019,3b Marathon,Bahtat Marathon,Tim Butler,M,GBR,5:33:23.00,?,Marathon #42: https://www.joggling.co.uk/Marathon-List,20003.0,0
-15/06/2019,2019,3b 13km,Sapanca ultra 13K,Ferda Tekgül,M,TUR,1:28:27.00,?,https://onedrive.live.com/?authkey=%21ADr22XJVkZDvUAU&cid=D218D0DBBD3CA6B9&id=D218D0DBBD3CA6B9%21143009&parId=D218D0DBBD3CA6B9%21188717&o=OneUp,5307.0,0
+15/06/2019,2019,3b 13km,Sapanca ultra 13K,Ferda TekgÃÂ¼l,M,TUR,1:28:27.00,?,https://onedrive.live.com/?authkey=%21ADr22XJVkZDvUAU&cid=D218D0DBBD3CA6B9&id=D218D0DBBD3CA6B9%21143009&parId=D218D0DBBD3CA6B9%21188717&o=OneUp,5307.0,0
 15/06/2019,2019,3b Marathon,LGT Alpine Marathon,Daniel Raum,M,AUT,5:07:21.00,?,https://www.alphafoto.com/images.php?runID=1143&sn=582 https://www.datasport.com/en/diploma/?racenr=21181&stnr=582,18441.0,0
 09/06/2019,2019,3b Half Marathon,"Dumb Dutchman Half Marathon, Reading, PA",Tim Ebersole,M,USA,1:38:42.00,17,https://www.pretzelcitysports.com/wp-content/uploads/2019/06/19-reading-dumb-half-res.pdf,5922.0,122
 08/06/2019,2019,3b 5km,"Blue Nose 5k, Halifax, Nova Scotia",Michael-Lucien Bergeron,M,CAN,0:17:16.00,?,https://www.sportstats.ca/display-results.xhtml?raceid=100727&status=results&lastname=Bergeron    https://www.facebook.com/664250217053533/posts/pfbid02AgUtA5gMLKM8xnTKednYBmKC4xshKLLrVbZs8PcD2xoLobwPAifzwaotF4kj43N2l/?app=fbl,1036.0,453
@@ -2126,13 +2773,13 @@ Inbox",1480.0,0
 21/04/2019,2019,3b Marathon,Northampton Chocathon,Tim Butler,M,GBR,4:47:09.00,?,Marathon #39: https://www.joggling.co.uk/Marathon-List,17229.0,0
 14/04/2019,2019,3b Marathon,Peterborough Marathon,Tim Butler,M,GBR,4:24:54.00,?,Marathon #38: https://www.joggling.co.uk/Marathon-List,15894.0,0
 13/04/2019,2019,3b Marathon,"Linz Marathon, Austria",Daniel Raum,M,AUT,3:14:19.00,?,https://linzmarathon.r.mikatiming.de/2019/?pid=search,11659.0,296
-07/04/2019,2019,3b 10km,Vodafone ?stanbul Yar? Maratonu 2019,Ferda Tekgül,M,TUR,1:06:54.00,?,https://event.spor.istanbul/eventresults.aspx,4014.0,0
+07/04/2019,2019,3b 10km,Vodafone ?stanbul Yar? Maratonu 2019,Ferda TekgÃÂ¼l,M,TUR,1:06:54.00,?,https://event.spor.istanbul/eventresults.aspx,4014.0,0
 07/04/2019,2019,3b Half Marathon,Bonn Half Marathon,Peter Meyer,M,DEU,2:14:57.00,4,50% 4 balls,8097.0,0
 30/03/2019,2019,3b 5km,Leicester Victoria Parkrun,Scott Jenkins,M,GBR,0:25:39.00,?,,1539.0,0
 23/03/2019,2019,3b Marathon,Yorkshire Cakeathon,Tim Butler,M,GBR,4:58:51.00,?,Marathon #37: https://www.joggling.co.uk/Marathon-List,17931.0,0
 16/03/2019,2019,3b 5km,Gloucester City Parkrun,Jordan Evans,M,GBR,0:20:48.00,2,https://www.strava.com/activities/2222976844,1248.0,102
 10/03/2019,2019,3b Marathon,Cambridge Boundary Run,Tim Butler,M,GBR,4:53:28.00,?,Marathon #36: https://www.joggling.co.uk/Marathon-List,17608.0,0
-09/02/2019,2019,3b 12km,Manavgat ultra  12k,Ferda Tekgül,M,TUR,1:51:39.00,?,https://limitsensin.org/live/results/manavgatultra2019/12K,6699.0,0
+09/02/2019,2019,3b 12km,Manavgat ultra  12k,Ferda TekgÃÂ¼l,M,TUR,1:51:39.00,?,https://limitsensin.org/live/results/manavgatultra2019/12K,6699.0,0
 27/01/2019,2019,3b Marathon,Celebration Orlando Marathon,Barak Hirschowitz,M,USA,5:08:29.00,?,https://marathonview.net/search?query=barak%20hirschowitz,18509.0,0
 19/01/2019,2019,3b 10 Miles,"Winter Beach Run, Jacksonville Beach",Rhett Farber,M,USA,2:50:38.00,0,https://www.facebook.com/photo/?fbid=10160334330333661&set=p.10160334330333661,10238.0,0
 19/01/2019,2019,3b Ultra (30m),Pierrepont 6 Hour,Tim Butler,M,GBR,5:39:44.00,?,Marathon #35: https://www.joggling.co.uk/Marathon-List,20384.0,0
@@ -2161,7 +2808,7 @@ Inbox",1480.0,0
 27/08/2018,2018,7b 100m,Time Trial,Thomas Dietz,M,DEU,0:00:42.50,?,https://twitter.com/mkapral/status/1033866958666690561,42.5,0
 25/08/2018,2018,3b 5 Miles,"Summer Beach Run, Jacksonville Beach",Rhett Farber,M,USA,1:17:45.00,0,https://www.facebook.com/photo/?fbid=10160334331328661&set=p.10160334331328661,4665.0,0
 19/08/2018,2018,3b 10km,"Navy 10k Race, Halifax, Nova Scotia",Michael-Lucien Bergeron,M,CAN,0:35:36.00,?,https://athleticsillustrated.com/michael-lucien-bergerons-ballsy-joggling-nets-him-a-world-10k-record/    https://runningmagazine.ca/the-scene/canadian-runs-5000m-joggling-world-record-of-1650/,2136.0,542
-18/08/2018,2018,3b 5km,Frédéric Back parkrun,Graydon Snider,M,CAN,0:16:57.00,0,https://www.parkrun.ca/fredericback/news/2018/09/15/highlights-from-the-last-few-weeks/  https://www.parkrun.ca/fredericback/results/58/,1017.0,497
+18/08/2018,2018,3b 5km,FrÃÂ©dÃÂ©ric Back parkrun,Graydon Snider,M,CAN,0:16:57.00,0,https://www.parkrun.ca/fredericback/news/2018/09/15/highlights-from-the-last-few-weeks/  https://www.parkrun.ca/fredericback/results/58/,1017.0,497
 12/08/2018,2018,3b Marathon,Rocky Horror Tribute Marathon,Tim Butler,M,GBR,4:52:41.00,?,Marathon #30: https://www.joggling.co.uk/Marathon-List,17561.0,0
 11/08/2018,2018,3b 5km,"Eagan Parkrun, Minnesota",Joshua Pichotta,M,USA,0:22:37.00,?,"https://www.parkrun.us/eagan/news/2018/08/17/lots-of-balls-in-the-air-eagan-parkrun-64-run-report/
 https://www.parkrun.us/eagan/results/64/",1357.0,19
@@ -2335,7 +2982,7 @@ https://www.parkrun.us/eagan/results/64/",1357.0,19
 26/11/2017,2017,3b 5km,Time Trial,Will Be,M,GBR,0:29:21.00,4,https://www.instagram.com/p/Bb9dKsdl_Yj/,1761.0,0
 26/11/2017,2017,3b 10km,Gloucester 10km,Jordan Evans,M,GBR,0:39:32.00,?,https://www.strava.com/activities/1291259819 https://www.thepowerof10.info/resultsfiles/2017/222094_7901_05122017010351_GLOS.pdf,2372.0,319
 26/11/2017,2017,3b 10km,Doncaster 10k,Pete Barnard,M,GBR,1:05:33.00,0,https://racetimingsolutions.racetecresults.com/Search.aspx?CId=16269&RId=808&S=Barnard     https://www.facebook.com/765064822/posts/pfbid0omvHhgfAT2zPhZ9nX4PYSe1Sp2qJLBtZzjTyiKnuPzjy4Li2Dg3VHdMgTxGW6f4Bl/?app=fbl,3933.0,0
-25/11/2017,2017,3b 10km,Bodrun Ultra 2017,Ferda Tekgül,M,TUR,1:05:58.00,?,https://onedrive.live.com/?authkey=%21AESvHE3mopXxiiM&cid=D218D0DBBD3CA6B9&id=D218D0DBBD3CA6B9%21142974&parId=D218D0DBBD3CA6B9%21170908&o=OneUp,3958.0,0
+25/11/2017,2017,3b 10km,Bodrun Ultra 2017,Ferda TekgÃÂ¼l,M,TUR,1:05:58.00,?,https://onedrive.live.com/?authkey=%21AESvHE3mopXxiiM&cid=D218D0DBBD3CA6B9&id=D218D0DBBD3CA6B9%21142974&parId=D218D0DBBD3CA6B9%21170908&o=OneUp,3958.0,0
 17/11/2017,2017,3b Marathon,Kirkstall Abbey Marathon,Tim Butler,M,GBR,4:55:00.00,?,Marathon #19: https://www.joggling.co.uk/Marathon-List,17700.0,0
 11/11/2017,2017,3b 5km,Hull Parkrun,Pete Barnard,M,GBR,0:30:59.00,?,https://www.parkrun.org.uk/hull/news/2017/11/13/event-404-11th-november-2017-by-claire-hughes/,1859.0,0
 05/11/2017,2017,3b Marathon,New York City Marathon,Jack Hirschowitz,M,USA,4:57:36.00,?,https://results.nyrr.org/event/M2017/finishers#search=Jack%2520Hirschowitz,17856.0,0
@@ -5010,15 +5657,15 @@ https://thejoggler.blogspot.com/2007/10/monkeying-around-at-oasis-zoorun.html",2
 21/07/1984,1984,3b Mile,"IJA, Las Vegas",Kirk Swenson,M,USA,0:04:56.01,?,http://www.juggling.org/orgs/ija/champs.txt,296.01,496
 21/07/1984,1984,3b Mile,"IJA, Las Vegas",Jim Piaskowy,M,0,0:05:06.95,?,http://www.juggling.org/orgs/ija/champs.txt,306.95,409
 21/07/1984,1984,3b Mile,"IJA, Las Vegas",John Ellwanger,M,0,0:05:23.00,?,http://www.juggling.org/orgs/ija/champs.txt,323.0,297
-23/07/1983,1983,3b 100m,"IJA, Purchase, NY",Michel Lauzière,M,CAN,0:00:14.63,?,http://www.juggling.org/orgs/ija/champs.txt,14.63,137
+23/07/1983,1983,3b 100m,"IJA, Purchase, NY",Michel LauziÃÂ¨re,M,CAN,0:00:14.63,?,http://www.juggling.org/orgs/ija/champs.txt,14.63,137
 23/07/1983,1983,3b 100m,"IJA, Purchase, NY",Yvon Tourigny,M,0,0:00:14.83,?,http://www.juggling.org/orgs/ija/champs.txt,14.83,114
 23/07/1983,1983,3b 100m,"IJA, Purchase, NY",Matt Cantrell,M,0,0:00:15.63,?,http://www.juggling.org/orgs/ija/champs.txt,15.63,45
-23/07/1983,1983,3b Mile,"IJA, Purchase, NY",Michel Lauzière,M,CAN,0:05:25.00,?,http://www.juggling.org/orgs/ija/champs.txt,325.0,284
+23/07/1983,1983,3b Mile,"IJA, Purchase, NY",Michel LauziÃÂ¨re,M,CAN,0:05:25.00,?,http://www.juggling.org/orgs/ija/champs.txt,325.0,284
 23/07/1983,1983,3b Mile,"IJA, Purchase, NY",Andrew Head,M,0,0:05:29.00,?,http://www.juggling.org/orgs/ija/champs.txt,329.0,259
 23/07/1983,1983,3b Mile,"IJA, Purchase, NY",Paul Bernardo,M,0,0:05:38.00,?,http://www.juggling.org/orgs/ija/champs.txt,338.0,208
 23/07/1983,1983,3b 5km,"IJA, Purchase, NY",Shidan Habib,M,0,0:19:35.00,?,http://www.juggling.org/orgs/ija/champs.txt,1175.0,195
 23/07/1983,1983,3b 5km,"IJA, Purchase, NY",Billy Gillen,M,USA,0:20:07.00,?,http://www.juggling.org/orgs/ija/champs.txt,1207.0,150
-23/07/1983,1983,3b 5km,"IJA, Purchase, NY",Michel Lauzière,M,CAN,0:20:09.00,?,http://www.juggling.org/orgs/ija/champs.txt,1209.0,148
+23/07/1983,1983,3b 5km,"IJA, Purchase, NY",Michel LauziÃÂ¨re,M,CAN,0:20:09.00,?,http://www.juggling.org/orgs/ija/champs.txt,1209.0,148
 17/07/1982,1982,3b 100y,"IJA, Santa Barbara",Edward Sax,M,0,0:00:14.81,?,http://www.juggling.org/orgs/ija/champs.txt,14.81,0
 17/07/1982,1982,3b 100y,"IJA, Santa Barbara",Ken Rabe,M,0,0:00:15.12,?,http://www.juggling.org/orgs/ija/champs.txt,15.12,0
 17/07/1982,1982,3b 100y,"IJA, Santa Barbara",Matt Cantrell,M,0,0:00:17.80,?,http://www.juggling.org/orgs/ija/champs.txt,17.8,0
@@ -5028,12 +5675,12 @@ https://thejoggler.blogspot.com/2007/10/monkeying-around-at-oasis-zoorun.html",2
 17/07/1982,1982,3b 5km,"IJA, Santa Barbara",Marty Gardella,M,0,0:18:47.95,?,http://www.juggling.org/orgs/ija/champs.txt,1127.95,270
 17/07/1982,1982,3b 5km,"IJA, Santa Barbara",Sean McLoughlin,M,0,0:19:00.00,?,http://www.juggling.org/orgs/ija/champs.txt,1140.0,250
 17/07/1982,1982,3b 5km,"IJA, Santa Barbara",David Marcias,M,0,0:19:51.00,?,http://www.juggling.org/orgs/ija/champs.txt,1191.0,172
-30/05/1982,1982,3b Marathon,Montreal International Marathon,Michel Lauzière,M,CAN,3:57:00.00,?,Email exchange,14220.0,36
-12/09/1981,1981,3b Marathon,Montreal International Marathon,Michel Lauzière,M,CAN,4:05:00.00,1,"The very first marathon joggled http://www.dev.juggle.org/history/archives/jugmags/33-5/33-5,p28.htm  https://michellauziere.com/en/biography?fbclid=IwAR2anhLNF-oEFjURGW7YdlZSqmlNxilYRQdh3MeirIdGkLK9dzQRfV8nOwM",14700.0,15
+30/05/1982,1982,3b Marathon,Montreal International Marathon,Michel LauziÃÂ¨re,M,CAN,3:57:00.00,?,Email exchange,14220.0,36
+12/09/1981,1981,3b Marathon,Montreal International Marathon,Michel LauziÃÂ¨re,M,CAN,4:05:00.00,1,"The very first marathon joggled http://www.dev.juggle.org/history/archives/jugmags/33-5/33-5,p28.htm  https://michellauziere.com/en/biography?fbclid=IwAR2anhLNF-oEFjURGW7YdlZSqmlNxilYRQdh3MeirIdGkLK9dzQRfV8nOwM",14700.0,15
 18/07/1981,1981,3b 100m,"IJA, Cleveland, Ohio",Paul Williams,M,0,0:00:14.50,?,https://dev.juggle.org/history/champs/champs1981.php,14.5,152
 18/07/1981,1981,3b 100m,"IJA, Cleveland, Ohio",Bill Giduz,M,USA,0:00:14.85,?,https://dev.juggle.org/history/champs/champs1981.php,14.85,112
-18/07/1981,1981,3b 100m,"IJA, Cleveland, Ohio",Michel Lauzière,M,CAN,0:00:15.15,?,https://dev.juggle.org/history/champs/champs1981.php,15.15,83
-18/07/1981,1981,3b 1500m,"IJA, Cleveland, Ohio",Michel Lauzière,M,CAN,0:05:03.00,?,"Email exchange inc photo of newpaper article, http://www.juggling.org/orgs/ija/champs.txt",303.0,273
+18/07/1981,1981,3b 100m,"IJA, Cleveland, Ohio",Michel LauziÃÂ¨re,M,CAN,0:00:15.15,?,https://dev.juggle.org/history/champs/champs1981.php,15.15,83
+18/07/1981,1981,3b 1500m,"IJA, Cleveland, Ohio",Michel LauziÃÂ¨re,M,CAN,0:05:03.00,?,"Email exchange inc photo of newpaper article, http://www.juggling.org/orgs/ija/champs.txt",303.0,273
 18/07/1981,1981,3b 1500m,"IJA, Cleveland, Ohio",Bill Giduz,M,USA,0:05:26.00,?,https://dev.juggle.org/history/champs/champs1981.php,326.0,141
 18/07/1981,1981,3b 1500m,"IJA, Cleveland, Ohio",Gerry Berg,M,0,0:05:36.00,?,https://dev.juggle.org/history/champs/champs1981.php,336.0,97
 18/07/1981,1981,3b 5km,"IJA, Cleveland, Ohio",Paul Williams,M,0,0:20:11.00,?,https://dev.juggle.org/history/champs/champs1981.php,1211.0,145
@@ -5369,7 +6016,7 @@ https://thejoggler.blogspot.com/2007/10/monkeying-around-at-oasis-zoorun.html",2
 2017,2017,3b 5km,Guelph 5km,David Pavlove Cunsolo,M,0,0:33:15.00,?,https://sites.google.com/site/guelph5kjoggling/results,1995.0,0
 2017,2017,3b 5km,Guelph 5km,Eric Malikowski,M,0,0:34:45.00,?,https://sites.google.com/site/guelph5kjoggling/results,2085.0,0
 2017,2017,3c 10km,Ignite Istanbul,Levent Denizci,M,TUR,1:05:37.00,10,,3937.0,0
-2017,2017,3b 15km,Istanbul,Ferda Tekgül,M,TUR,1:35:55.00,?,https://event.spor.istanbul/eventresults.aspx,5755.0,0
+2017,2017,3b 15km,Istanbul,Ferda TekgÃÂ¼l,M,TUR,1:35:55.00,?,https://event.spor.istanbul/eventresults.aspx,5755.0,0
 2017,2017,3c 15km,Istanbul,Levent Denizci,M,TUR,1:47:42.00,10,,6462.0,0
 2016,2016,3b 5km,Guelph 5km,Gabrielle Foran,F,CAN,0:18:26.00,?,https://sites.google.com/site/guelph5kjoggling/results,1106.0,798
 2016,2016,3b 5km,Guelph 5km,Julian Tam,M,0,0:23:22.00,?,https://sites.google.com/site/guelph5kjoggling/results,1402.0,4
@@ -5400,4 +6047,4 @@ https://thejoggler.blogspot.com/2007/10/monkeying-around-at-oasis-zoorun.html",2
 1988,1988,3b Marathon,??,Albert Lucas,M,USA,3:29:04.00,?,,12544.0,178
 1988,1988,3b Marathon,West Australian Marathon,Reg Bolton,M,GBR,3:45:50.00,?,https://www.heraldscotland.com/default_content/12429364.reg-bolton/  https://www.jugglingballs.com.au/15-famous-jugglers-from-australia-and-the-world/,13550.0,80
 1983,1983,3c Marathon,Swindon Marathon,Colin Francome,M,GBR,4:26:00.00,?,"Phone call with Colin, August 2023",15960.0,0
-1982,1982,3b Half Marathon,Montreal University Half Marathon,Michel Lauzière,M,CAN,1:19:00.00,?,Email exchange,4740.0,529
+1982,1982,3b Half Marathon,Montreal University Half Marathon,Michel LauziÃÂ¨re,M,CAN,1:19:00.00,?,Email exchange,4740.0,529
