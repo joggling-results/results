@@ -17,8 +17,10 @@ IAAF_F_PATH = "data/IAAF_F_seconds.csv"
 
 RELAY_EVENTS = {
     "3b 4x100m",
+    "3c 4x100m"
     "3b 4x200m",
     "3b 4x400m",
+    "3c 4x400m"
 }
 
 EVENT_DICT = {

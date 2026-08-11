@@ -81,7 +81,7 @@ def filter_dataframe(df: pd.DataFrame) -> pd.DataFrame:
 ## Start of Page Content
 st.title('Joggling Results Archive')
 st.write("""Joggling (the hybrid sport of running whilst juggling) is a type of Sport Juggling. It is certainly a niche, but it is far more popular than you might think. 
-This web app aims to present an archive of joggling achievements from a growing community of athletes around the world. So far...
+This web app aims to present an archive of joggling achievements from a growing community of Sport Juggling athletes around the world. So far...
 """)
 
 ## Load data and reorder columns
@@ -91,12 +91,13 @@ column_order = ['Date', 'Joggler', 'Distance', 'Event / Venue','Finish Time', 'I
             'Gender', 'Nationality', 'Notes / Result Links',]
 data = data.reindex(columns=column_order)
 
+RELAY_EVENTS = ['3b 4x100m', '3c 4x100m', '3b 4x200m','3b 4x400m', '3c 4x400m']
 
 # Remove relays to get an accurate count of jogglers
 num_jogglers = len(data[~data['Distance'].isin(['3b 4x100m','3b 4x200m','3b 4x400m'])]['Joggler'].unique())
 
 # Same for number of nationalities. -1 since 'unknown' is a value in the dataset
-num_nationalities = len(data[~data['Distance'].isin(['3b 4x100m','3b 4x200m','3b 4x400m'])]['Nationality'].unique()) - 1
+num_nationalities = len(data[~data['Distance'].isin(RELAY_EVENTS)]['Nationality'].unique()) - 1
 
 # Summary stats    
 col1, col2, col3 = st.columns(3)
