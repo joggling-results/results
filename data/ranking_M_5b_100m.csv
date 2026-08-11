@@ -1,8 +1,8 @@
 Ranking,Finish Time,IAAF Points,Joggler,Gender,Nationality,Date,Event / Venue,Notes / Result Links
-1,0:00:13.39,319,Matthew Feldman,M,USA,15/06/2018,Time Trial,https://www.youtube.com/watch?v=g18oD4SjaEs
-2,0:00:13.80,250,Owen Morse,M,USA,1988,Time Trial,https://www.youtube.com/watch?v=g18oD4SjaEs
-3,0:00:14.37,169,Mark Fiore,M,USA,2021,IJA Virtual,IJA Database
-4,0:00:15.50,54,Albert Lucas,M,USA,17/07/2002,"IJA, Reading, Pennsylvania",https://dev.juggle.org/history/champs/champs2002.php
+1,0:00:13.39,394,Matthew Feldman,M,USA,15/06/2018,Time Trial,https://www.youtube.com/watch?v=g18oD4SjaEs
+2,0:00:13.80,394,Owen Morse,M,USA,1988,Time Trial,https://www.youtube.com/watch?v=g18oD4SjaEs
+3,0:00:14.37,221,Mark Fiore,M,USA,2021,IJA Virtual,IJA Database
+4,0:00:15.50,98,Albert Lucas,M,USA,17/07/2002,"IJA, Reading, Pennsylvania",https://dev.juggle.org/history/champs/champs2002.php
 5,0:00:17.80,0,Stephan Cipra,M,DEU,2021,IJA Virtual,IJA Database
 6,0:00:18.10,0,Sam Hartford,M,Unknown,17/07/2002,"IJA, Reading, Pennsylvania",https://dev.juggle.org/history/champs/champs2002.php
 7,0:00:18.28,0,Scott Jenkins,M,GBR,04/08/2026,European Joggling Championships 2026 - Day 3 Qualifying,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing
@@ -74,111 +74,110 @@ Ranking,Finish Time,IAAF Points,Joggler,Gender,Nationality,Date,Event / Venue,No
 73,0:00:43.67,0,Marius Tritschler,M,DEU,09/08/2025,"European Joggling Championships 2025, EJC Arnhem",EJC results in Joggler's United Group
 74,0:00:43.90,0,Evan Peter,M,Unknown,20/07/2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
 75,0:00:43.94,0,Griffin Kelley,M,Unknown,20/07/2011,"IJA, Rochester",IJA Database
-76,0:00:44.30,0,Peter Morris,M,Unknown,13/07/2004,"IJA, Buffalo",https://dev.juggle.org/history/champs/champs2004.php
 76,0:00:44.30,0,Samuel Karschnia,M,Unknown,02/08/2014,"IJA, West Lafayette",IJA Database
+77,0:00:44.30,0,Peter Morris,M,Unknown,13/07/2004,"IJA, Buffalo",https://dev.juggle.org/history/champs/champs2004.php
 78,0:00:44.50,0,Jared Janssen,M,Unknown,22/07/2023,"IJA, Southbend",IJA Database
-78,0:00:44.50,0,Jared Janssen,M,Unknown,02/08/2014,"IJA, West Lafayette",IJA Database
-80,0:00:45.06,0,Trey Newsome,M,USA,19/07/2005,"IJA, Davenport, Iowa",https://dev.juggle.org/history/champs/champs2005.php
-81,0:00:45.12,0,Ricky Harr,M,Unknown,17/07/2007,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2007.php
-82,0:00:46.00,0,David Mlakar,M,Unknown,20/07/2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
-83,0:00:46.06,0,Jan Marc Daumin,M,DEU,03/08/2026,European Joggling Championships 2026 - Day 2 Qualifying,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing
-84,0:00:46.15,0,Brett Kissell,M,Unknown,17/07/2007,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2007.php
-85,0:00:46.30,0,Eric Raivo,M,Unknown,20/07/2013,"IJA, Bowling Green",IJA Database
-86,0:00:46.75,0,Kenny Cheung,M,AUS,02/08/2026,European Joggling Championships 2026 - Day 1 Qualifying,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing
-87,0:00:46.88,0,Jacob Cowan,M,Unknown,19/07/2025,"IJA, Evansville",IJA Database
-88,0:00:48.50,0,Tom Sparough,M,Unknown,13/08/1994,"IJA, Vermont",https://dev.juggle.org/history/champs/champs1994.php
-89,0:00:49.00,0,Chris Dokler,M,Unknown,21/07/2012,"IJA, Winston-Salem",IJA Database
-90,0:00:49.43,0,Juan Cristobal Silva Espinoza,M,CHL,03/08/2026,European Joggling Championships 2026 - Day 2 Qualifying,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing
-91,0:00:49.47,0,Shimon Levikov,M,DEU,02/08/2026,European Joggling Championships 2026 - Day 1 Qualifying,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing
-92,0:00:49.88,0,Matt Hall,M,USA,17/07/2007,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2007.php
-93,0:00:49.94,0,David Pavlove Cunsolo,M,Unknown,24/07/2018,"IJA, Springfield",IJA Database
-94,0:00:50.00,0,Silas Wallen-Friedman,M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
-95,0:00:50.77,0,Kozlov Dmitry,M,RUS,17/07/2022,"Saint-Petersburg Open Joggling Champinship, Saint-Petersburg, Russia",https://vk.com/wall-16055255_8327
-96,0:00:51.24,0,Vorobey Artur,M,RUS,17/07/2022,"Saint-Petersburg Open Joggling Champinship, Saint-Petersburg, Russia",https://vk.com/wall-16055255_8327
-97,0:00:51.50,0,Christopher Haaser,M,Unknown,20/07/2013,"IJA, Bowling Green",IJA Database
-98,0:00:51.66,0,Jesse Joyner,M,USA,15/07/2008,"IJA, Kentucky",https://dev.juggle.org/history/champs/champs2008.php
-99,0:00:52.13,0,Ben Fry,M,Unknown,25/07/2015,"IJA, Quebec",IJA Database
-100,0:00:52.28,0,Sam Nerenhaus,M,Unknown,18/07/2006,"IJA, Portland, Oregon",https://dev.juggle.org/history/champs/champs2006.php
-101,0:00:52.37,0,Max Schlech,M,Unknown,25/07/2015,"IJA, Quebec",IJA Database
-102,0:00:52.76,0,Danny Gratzer,M,Unknown,20/07/2011,"IJA, Rochester",IJA Database
-103,0:00:52.90,0,Daniel Hout,M,Unknown,13/08/1994,"IJA, Vermont",https://dev.juggle.org/history/champs/champs1994.php
-104,0:00:52.97,0,Timothy Ross,M,USA,04/08/2026,European Joggling Championships 2026 - Day 3 Qualifying,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing
-105,0:00:53.42,0,Marvin Kuster,M,DEU,09/08/2025,"European Joggling Championships 2025, EJC Arnhem",EJC results in Joggler's United Group
-106,0:00:53.60,0,Chris Fowler,M,USA,2022,"IJA, Virtual",IJA Database
-107,0:00:54.03,0,Eric Reinhart,M,Unknown,25/07/2015,"IJA, Quebec",IJA Database
-108,0:00:54.31,0,Conor Hussey,M,Unknown,20/07/2011,"IJA, Rochester",IJA Database
+79,0:00:45.06,0,Trey Newsome,M,USA,19/07/2005,"IJA, Davenport, Iowa",https://dev.juggle.org/history/champs/champs2005.php
+80,0:00:45.12,0,Ricky Harr,M,Unknown,17/07/2007,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2007.php
+81,0:00:46.00,0,David Mlakar,M,Unknown,20/07/2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
+82,0:00:46.06,0,Jan Marc Daumin,M,DEU,03/08/2026,European Joggling Championships 2026 - Day 2 Qualifying,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing
+83,0:00:46.15,0,Brett Kissell,M,Unknown,17/07/2007,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2007.php
+84,0:00:46.30,0,Eric Raivo,M,Unknown,20/07/2013,"IJA, Bowling Green",IJA Database
+85,0:00:46.75,0,Kenny Cheung,M,AUS,02/08/2026,European Joggling Championships 2026 - Day 1 Qualifying,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing
+86,0:00:46.88,0,Jacob Cowan,M,Unknown,19/07/2025,"IJA, Evansville",IJA Database
+87,0:00:48.50,0,Tom Sparough,M,Unknown,13/08/1994,"IJA, Vermont",https://dev.juggle.org/history/champs/champs1994.php
+88,0:00:49.00,0,Chris Dokler,M,Unknown,21/07/2012,"IJA, Winston-Salem",IJA Database
+89,0:00:49.43,0,Juan Cristobal Silva Espinoza,M,CHL,03/08/2026,European Joggling Championships 2026 - Day 2 Qualifying,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing
+90,0:00:49.47,0,Shimon Levikov,M,DEU,02/08/2026,European Joggling Championships 2026 - Day 1 Qualifying,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing
+91,0:00:49.88,0,Matt Hall,M,USA,17/07/2007,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2007.php
+92,0:00:49.94,0,David Pavlove Cunsolo,M,Unknown,24/07/2018,"IJA, Springfield",IJA Database
+93,0:00:50.00,0,Silas Wallen-Friedman,M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
+94,0:00:50.77,0,Kozlov Dmitry,M,RUS,17/07/2022,"Saint-Petersburg Open Joggling Champinship, Saint-Petersburg, Russia",https://vk.com/wall-16055255_8327
+95,0:00:51.24,0,Vorobey Artur,M,RUS,17/07/2022,"Saint-Petersburg Open Joggling Champinship, Saint-Petersburg, Russia",https://vk.com/wall-16055255_8327
+96,0:00:51.50,0,Christopher Haaser,M,Unknown,20/07/2013,"IJA, Bowling Green",IJA Database
+97,0:00:51.66,0,Jesse Joyner,M,USA,15/07/2008,"IJA, Kentucky",https://dev.juggle.org/history/champs/champs2008.php
+98,0:00:52.13,0,Ben Fry,M,Unknown,25/07/2015,"IJA, Quebec",IJA Database
+99,0:00:52.28,0,Sam Nerenhaus,M,Unknown,18/07/2006,"IJA, Portland, Oregon",https://dev.juggle.org/history/champs/champs2006.php
+100,0:00:52.37,0,Max Schlech,M,Unknown,25/07/2015,"IJA, Quebec",IJA Database
+101,0:00:52.76,0,Danny Gratzer,M,Unknown,20/07/2011,"IJA, Rochester",IJA Database
+102,0:00:52.90,0,Daniel Hout,M,Unknown,13/08/1994,"IJA, Vermont",https://dev.juggle.org/history/champs/champs1994.php
+103,0:00:52.97,0,Timothy Ross,M,USA,04/08/2026,European Joggling Championships 2026 - Day 3 Qualifying,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing
+104,0:00:53.42,0,Marvin Kuster,M,DEU,09/08/2025,"European Joggling Championships 2025, EJC Arnhem",EJC results in Joggler's United Group
+105,0:00:53.60,0,Chris Fowler,M,USA,2022,"IJA, Virtual",IJA Database
+106,0:00:54.03,0,Eric Reinhart,M,Unknown,25/07/2015,"IJA, Quebec",IJA Database
+107,0:00:54.31,0,Conor Hussey,M,Unknown,20/07/2011,"IJA, Rochester",IJA Database
+108,0:00:54.35,0,Len Ferman,M,USA,20/07/2011,"IJA, Rochester",IJA Database
 109,0:00:54.35,0,Chuck Hawley,M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
-109,0:00:54.35,0,Len Ferman,M,USA,20/07/2011,"IJA, Rochester",IJA Database
-111,0:00:55.83,0,Chris Olson,M,Unknown,20/07/2011,"IJA, Rochester",IJA Database
-112,0:00:56.40,0,Nick Deboom,M,Unknown,02/08/2014,"IJA, West Lafayette",IJA Database
-113,0:00:56.80,0,Nathan Lane,M,Unknown,20/07/2013,"IJA, Bowling Green",IJA Database
-114,0:00:56.94,0,Daniel Van Hoomissen,M,Unknown,25/07/2015,"IJA, Quebec",IJA Database
-115,0:00:57.13,0,Gus Tate,M,USA,15/07/2008,"IJA, Kentucky",https://dev.juggle.org/history/champs/champs2008.php
-116,0:00:57.19,0,Greg Warrington,M,Unknown,17/07/2007,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2007.php
-117,0:00:57.28,0,Jonny Langholz,M,Unknown,18/07/2006,"IJA, Portland, Oregon",https://dev.juggle.org/history/champs/champs2006.php
-118,0:00:57.80,0,Daniel Rose,M,Unknown,20/07/2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
-119,0:00:58.00,0,Colin Revere,M,Unknown,20/07/2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
-120,0:00:58.93,0,Peter Brunette,M,Unknown,20/07/2011,"IJA, Rochester",IJA Database
-121,0:00:59.94,0,Michael Yoon,M,Unknown,15/07/2017,"IJA, Cedar Rapids",IJA Database
-122,0:01:00.00,0,Mark Furniss,M,Unknown,25/07/2015,"IJA, Quebec",IJA Database
-123,0:01:00.20,0,Jonah Freed,M,Unknown,20/07/2011,"IJA, Rochester",IJA Database
-124,0:01:01.00,0,Dan Kirk,M,Unknown,20/07/1996,"IJA, Rapid City",https://dev.juggle.org/history/champs/champs1996.php
-125,0:01:01.10,0,Jared Ashton,M,Unknown,24/07/2018,"IJA, Springfield",IJA Database
+110,0:00:55.83,0,Chris Olson,M,Unknown,20/07/2011,"IJA, Rochester",IJA Database
+111,0:00:56.40,0,Nick Deboom,M,Unknown,02/08/2014,"IJA, West Lafayette",IJA Database
+112,0:00:56.80,0,Nathan Lane,M,Unknown,20/07/2013,"IJA, Bowling Green",IJA Database
+113,0:00:56.94,0,Daniel Van Hoomissen,M,Unknown,25/07/2015,"IJA, Quebec",IJA Database
+114,0:00:57.13,0,Gus Tate,M,USA,15/07/2008,"IJA, Kentucky",https://dev.juggle.org/history/champs/champs2008.php
+115,0:00:57.19,0,Greg Warrington,M,Unknown,17/07/2007,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2007.php
+116,0:00:57.28,0,Jonny Langholz,M,Unknown,18/07/2006,"IJA, Portland, Oregon",https://dev.juggle.org/history/champs/champs2006.php
+117,0:00:57.80,0,Daniel Rose,M,Unknown,20/07/2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
+118,0:00:58.00,0,Colin Revere,M,Unknown,20/07/2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
+119,0:00:58.93,0,Peter Brunette,M,Unknown,20/07/2011,"IJA, Rochester",IJA Database
+120,0:00:59.94,0,Michael Yoon,M,Unknown,15/07/2017,"IJA, Cedar Rapids",IJA Database
+121,0:01:00.00,0,Mark Furniss,M,Unknown,25/07/2015,"IJA, Quebec",IJA Database
+122,0:01:00.20,0,Jonah Freed,M,Unknown,20/07/2011,"IJA, Rochester",IJA Database
+123,0:01:01.00,0,Dan Kirk,M,Unknown,20/07/1996,"IJA, Rapid City",https://dev.juggle.org/history/champs/champs1996.php
+124,0:01:01.10,0,Jared Ashton,M,Unknown,24/07/2018,"IJA, Springfield",IJA Database
+125,0:01:01.40,0,Caleb Black,M,Unknown,22/07/2023,"IJA, Southbend",IJA Database
 126,0:01:01.40,0,Joe Gould,M,Unknown,20/07/2011,"IJA, Rochester",IJA Database
-126,0:01:01.40,0,Caleb Black,M,Unknown,22/07/2023,"IJA, Southbend",IJA Database
-128,0:01:01.80,0,Danny Hodge,M,Unknown,20/07/2011,"IJA, Rochester",IJA Database
-129,0:01:01.94,0,Felix Spiller,M,DEU,02/08/2026,European Joggling Championships 2026 - Day 1 Qualifying,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing
-130,0:01:02.20,0,Alex Koren,M,Unknown,21/07/2012,"IJA, Winston-Salem",IJA Database
-131,0:01:02.40,0,Dylan Waickman,M,Unknown,21/07/2012,"IJA, Winston-Salem",IJA Database
-132,0:01:02.80,0,Aaron Rosenberg,M,Unknown,20/07/2013,"IJA, Bowling Green",IJA Database
-133,0:01:03.30,0,Dave Kadlec,M,Unknown,20/07/2011,"IJA, Rochester",IJA Database
-134,0:01:04.80,0,Robert D'Amours,M,Unknown,30/07/2016,"IJA, El Paso, Texas",IJA Database
-135,0:01:05.00,0,Nick Hiniker,M,Unknown,20/07/2011,"IJA, Rochester",IJA Database
+127,0:01:01.80,0,Danny Hodge,M,Unknown,20/07/2011,"IJA, Rochester",IJA Database
+128,0:01:01.94,0,Felix Spiller,M,DEU,02/08/2026,European Joggling Championships 2026 - Day 1 Qualifying,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing
+129,0:01:02.20,0,Alex Koren,M,Unknown,21/07/2012,"IJA, Winston-Salem",IJA Database
+130,0:01:02.40,0,Dylan Waickman,M,Unknown,21/07/2012,"IJA, Winston-Salem",IJA Database
+131,0:01:02.80,0,Aaron Rosenberg,M,Unknown,20/07/2013,"IJA, Bowling Green",IJA Database
+132,0:01:03.30,0,Dave Kadlec,M,Unknown,20/07/2011,"IJA, Rochester",IJA Database
+133,0:01:04.80,0,Robert D'Amours,M,Unknown,30/07/2016,"IJA, El Paso, Texas",IJA Database
+134,0:01:05.00,0,Nick Hiniker,M,Unknown,20/07/2011,"IJA, Rochester",IJA Database
 135,0:01:05.00,0,Tyler Wishau,M,USA,20/07/2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
-137,0:01:05.20,0,Patrick Russell,M,Unknown,15/07/2017,"IJA, Cedar Rapids",IJA Database
-138,0:01:06.40,0,Carter Randall,M,Unknown,15/07/2017,"IJA, Cedar Rapids",IJA Database
-139,0:01:08.02,0,Jean-Guy Beaudry,M,CAN,09/08/2025,"European Joggling Championships 2025, EJC Arnhem",EJC results in Joggler's United Group
-140,0:01:09.22,0,Ben-Janning Hackbarth,M,DEU,04/08/2026,European Joggling Championships 2026 - Day 3 Qualifying,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing
-141,0:01:09.35,0,Cajus Fahrenkamp,M,DEU,09/08/2025,"European Joggling Championships 2025, EJC Arnhem",EJC results in Joggler's United Group
-142,0:01:09.40,0,Keith McNeill,M,Unknown,21/07/2012,"IJA, Winston-Salem",IJA Database
-143,0:01:10.17,0,Krzysztof Riewold,M,POL,09/08/2025,"European Joggling Championships 2025, EJC Arnhem",EJC results in Joggler's United Group
-144,0:01:10.90,0,Vincent Kaseman,M,Unknown,24/07/2018,"IJA, Springfield",IJA Database
-145,0:01:11.20,0,Zachary Turner,M,Unknown,21/07/2012,"IJA, Winston-Salem",IJA Database
-146,0:01:14.00,0,Erick Mori-Quimper,M,Unknown,20/07/2013,"IJA, Bowling Green",IJA Database
-147,0:01:15.20,0,Adam Eckman,M,Unknown,30/07/2016,"IJA, El Paso, Texas",IJA Database
-148,0:01:15.30,0,Scott Geyman,M,Unknown,20/07/2013,"IJA, Bowling Green",IJA Database
+136,0:01:05.20,0,Patrick Russell,M,Unknown,15/07/2017,"IJA, Cedar Rapids",IJA Database
+137,0:01:06.40,0,Carter Randall,M,Unknown,15/07/2017,"IJA, Cedar Rapids",IJA Database
+138,0:01:08.02,0,Jean-Guy Beaudry,M,CAN,09/08/2025,"European Joggling Championships 2025, EJC Arnhem",EJC results in Joggler's United Group
+139,0:01:09.22,0,Ben-Janning Hackbarth,M,DEU,04/08/2026,European Joggling Championships 2026 - Day 3 Qualifying,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing
+140,0:01:09.35,0,Cajus Fahrenkamp,M,DEU,09/08/2025,"European Joggling Championships 2025, EJC Arnhem",EJC results in Joggler's United Group
+141,0:01:09.40,0,Keith McNeill,M,Unknown,21/07/2012,"IJA, Winston-Salem",IJA Database
+142,0:01:10.17,0,Krzysztof Riewold,M,POL,09/08/2025,"European Joggling Championships 2025, EJC Arnhem",EJC results in Joggler's United Group
+143,0:01:10.90,0,Vincent Kaseman,M,Unknown,24/07/2018,"IJA, Springfield",IJA Database
+144,0:01:11.20,0,Zachary Turner,M,Unknown,21/07/2012,"IJA, Winston-Salem",IJA Database
+145,0:01:14.00,0,Erick Mori-Quimper,M,Unknown,20/07/2013,"IJA, Bowling Green",IJA Database
+146,0:01:15.20,0,Adam Eckman,M,Unknown,30/07/2016,"IJA, El Paso, Texas",IJA Database
+147,0:01:15.30,0,Scott Geyman,M,Unknown,20/07/2013,"IJA, Bowling Green",IJA Database
 148,0:01:15.30,0,Chris Garcia,M,Unknown,20/07/2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
-150,0:01:15.42,0,Justin Sheldon,M,Unknown,19/07/2025,"IJA, Evansville",IJA Database
-151,0:01:15.70,0,Matt Bagley,M,Unknown,30/07/2016,"IJA, El Paso, Texas",IJA Database
-152,0:01:16.30,0,Jeff Lutkus,M,USA,30/07/2016,"IJA, El Paso, Texas",IJA Database
-153,0:01:16.34,0,Ben Hestness,M,Unknown,19/07/2005,"IJA, Davenport, Iowa",https://dev.juggle.org/history/champs/champs2005.php
-154,0:01:16.80,0,Anthony Zeszut,M,Unknown,24/07/2018,"IJA, Springfield",IJA Database
-155,0:01:16.82,0,James Francis,M,Unknown,19/07/2025,"IJA, Evansville",IJA Database
-156,0:01:19.30,0,Elias Tarantalo,M,Unknown,15/07/1998,"IJA, Primm",IJA Database
-157,0:01:21.38,0,Bernard Dehoog,M,Unknown,19/07/2005,"IJA, Davenport, Iowa",https://dev.juggle.org/history/champs/champs2005.php
-158,0:01:26.30,0,Sean O'Brien,M,Unknown,20/07/2013,"IJA, Bowling Green",IJA Database
-159,0:01:29.18,0,Gramotin Anton,M,RUS,23/06/2023,"Russian Juggling Convention, Dmitrov, Russia",https://vk.com/wall-64197511_4495
-160,0:01:33.27,0,Aaron Heilig,M,Unknown,19/07/2025,"IJA, Evansville",IJA Database
-161,0:01:34.00,0,Garrett Borawski,M,Unknown,24/07/2018,"IJA, Springfield",IJA Database
-162,0:01:40.91,0,Kaupo Pilder,M,EST,04/08/2026,European Joggling Championships 2026 - Day 3 Qualifying,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing
-163,0:01:40.99,0,Arnav Rathi,M,Unknown,19/07/2025,"IJA, Evansville",IJA Database
-164,0:01:42.00,0,Graham Rowe,M,Unknown,21/07/2012,"IJA, Winston-Salem",IJA Database
-165,0:01:43.94,0,Junya Inoue,M,JPN,04/08/2026,European Joggling Championships 2026 - Day 3 Qualifying,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing
-166,0:01:47.30,0,Jonathan Root,M,Unknown,19/07/2025,"IJA, Evansville",IJA Database
-167,0:01:50.10,0,Paul Arneberg,M,Unknown,20/07/2011,"IJA, Rochester",IJA Database
-168,0:01:50.75,0,Gordon Wilson,M,GBR,06/08/2026,European Joggling Championships 2026 - Finals,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing
-169,0:01:53.16,0,Bill Coad,M,USA,18/07/2006,"IJA, Portland, Oregon",https://dev.juggle.org/history/champs/champs2006.php
-170,0:01:55.40,0,Draco Tong,M,Unknown,22/07/2023,"IJA, Southbend",IJA Database
-171,0:01:55.90,0,Chris Van Hoomissen,M,Unknown,20/07/2013,"IJA, Bowling Green",IJA Database
-172,0:01:56.81,0,Pavel Matula,M,CZE,06/08/2026,European Joggling Championships 2026 - Finals,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing
-173,0:01:58.80,0,Tom McClintock,M,Unknown,20/07/2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
-174,0:01:58.87,0,Kovalenko Alexey,M,RUS,23/06/2023,"Russian Juggling Convention, Dmitrov, Russia",https://vk.com/wall-64197511_4495
-175,0:02:01.25,0,Peter Blanchard,M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
-176,0:02:02.47,0,Jack Hirschowitz,M,USA,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
-177,0:02:11.00,0,Joshua Black,M,Unknown,2020,"IJA, Virtual",IJA Database
-178,0:02:14.20,0,Bryce Polito,M,Unknown,25/07/2015,"IJA, Quebec",IJA Database
-179,0:02:27.50,0,Markus Furtner,M,DEU,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
-180,0:02:30.66,0,Simeon Doetsch,M,DEU,03/08/2026,European Joggling Championships 2026 - Day 2 Qualifying,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing
-181,0:02:53.50,0,Scott Dudek,M,Unknown,20/07/2013,"IJA, Bowling Green",IJA Database
-182,0:03:40.80,0,Raphael Harris,M,Unknown,15/07/2017,"IJA, Cedar Rapids",IJA Database
-183,0:04:35.10,0,Zyablitsky Alexander,M,RUS,17/07/2022,"Saint-Petersburg Open Joggling Champinship, Saint-Petersburg, Russia",https://vk.com/wall-16055255_8327
+149,0:01:15.42,0,Justin Sheldon,M,Unknown,19/07/2025,"IJA, Evansville",IJA Database
+150,0:01:15.70,0,Matt Bagley,M,Unknown,30/07/2016,"IJA, El Paso, Texas",IJA Database
+151,0:01:16.30,0,Jeff Lutkus,M,USA,30/07/2016,"IJA, El Paso, Texas",IJA Database
+152,0:01:16.34,0,Ben Hestness,M,Unknown,19/07/2005,"IJA, Davenport, Iowa",https://dev.juggle.org/history/champs/champs2005.php
+153,0:01:16.80,0,Anthony Zeszut,M,Unknown,24/07/2018,"IJA, Springfield",IJA Database
+154,0:01:16.82,0,James Francis,M,Unknown,19/07/2025,"IJA, Evansville",IJA Database
+155,0:01:19.30,0,Elias Tarantalo,M,Unknown,15/07/1998,"IJA, Primm",IJA Database
+156,0:01:21.38,0,Bernard Dehoog,M,Unknown,19/07/2005,"IJA, Davenport, Iowa",https://dev.juggle.org/history/champs/champs2005.php
+157,0:01:26.30,0,Sean O'Brien,M,Unknown,20/07/2013,"IJA, Bowling Green",IJA Database
+158,0:01:29.18,0,Gramotin Anton,M,RUS,23/06/2023,"Russian Juggling Convention, Dmitrov, Russia",https://vk.com/wall-64197511_4495
+159,0:01:33.27,0,Aaron Heilig,M,Unknown,19/07/2025,"IJA, Evansville",IJA Database
+160,0:01:34.00,0,Garrett Borawski,M,Unknown,24/07/2018,"IJA, Springfield",IJA Database
+161,0:01:40.91,0,Kaupo Pilder,M,EST,04/08/2026,European Joggling Championships 2026 - Day 3 Qualifying,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing
+162,0:01:40.99,0,Arnav Rathi,M,Unknown,19/07/2025,"IJA, Evansville",IJA Database
+163,0:01:42.00,0,Graham Rowe,M,Unknown,21/07/2012,"IJA, Winston-Salem",IJA Database
+164,0:01:43.94,0,Junya Inoue,M,JPN,04/08/2026,European Joggling Championships 2026 - Day 3 Qualifying,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing
+165,0:01:47.30,0,Jonathan Root,M,Unknown,19/07/2025,"IJA, Evansville",IJA Database
+166,0:01:50.10,0,Paul Arneberg,M,Unknown,20/07/2011,"IJA, Rochester",IJA Database
+167,0:01:50.75,0,Gordon Wilson,M,GBR,06/08/2026,European Joggling Championships 2026 - Finals,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing
+168,0:01:53.16,0,Bill Coad,M,USA,18/07/2006,"IJA, Portland, Oregon",https://dev.juggle.org/history/champs/champs2006.php
+169,0:01:55.40,0,Draco Tong,M,Unknown,22/07/2023,"IJA, Southbend",IJA Database
+170,0:01:55.90,0,Chris Van Hoomissen,M,Unknown,20/07/2013,"IJA, Bowling Green",IJA Database
+171,0:01:56.81,0,Pavel Matula,M,CZE,06/08/2026,European Joggling Championships 2026 - Finals,https://drive.google.com/file/d/1qnrcWsPurOdbl_2fbmmvB_rNF_XWH7Ph/view?usp=sharing
+172,0:01:58.80,0,Tom McClintock,M,Unknown,20/07/2010,"IJA, Nevada",https://dev.juggle.org/history/champs/champs2010.php
+173,0:01:58.87,0,Kovalenko Alexey,M,RUS,23/06/2023,"Russian Juggling Convention, Dmitrov, Russia",https://vk.com/wall-64197511_4495
+174,0:02:01.25,0,Peter Blanchard,M,Unknown,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
+175,0:02:02.47,0,Jack Hirschowitz,M,USA,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
+176,0:02:11.00,0,Joshua Black,M,Unknown,2020,"IJA, Virtual",IJA Database
+177,0:02:14.20,0,Bryce Polito,M,Unknown,25/07/2015,"IJA, Quebec",IJA Database
+178,0:02:27.50,0,Markus Furtner,M,DEU,14/07/2009,"IJA, Winston-Salem",https://dev.juggle.org/history/champs/champs2009.php
+179,0:02:30.66,0,Simeon Doetsch,M,DEU,03/08/2026,European Joggling Championships 2026 - Day 2 Qualifying,https://drive.google.com/file/d/1XEZ6TLz2q2lpJ89CLP3F6wQBp5zFDskm/view?usp=sharing
+180,0:02:53.50,0,Scott Dudek,M,Unknown,20/07/2013,"IJA, Bowling Green",IJA Database
+181,0:03:40.80,0,Raphael Harris,M,Unknown,15/07/2017,"IJA, Cedar Rapids",IJA Database
+182,0:04:35.10,0,Zyablitsky Alexander,M,RUS,17/07/2022,"Saint-Petersburg Open Joggling Champinship, Saint-Petersburg, Russia",https://vk.com/wall-16055255_8327
