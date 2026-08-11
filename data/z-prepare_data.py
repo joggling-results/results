@@ -1,471 +1,860 @@
-import pandas as pd
-import numpy as np
 from itertools import combinations
-import math
-import bisect
-from datetime import timedelta, datetime
+from pathlib import Path
+
 import networkx as nx
+import numpy as np
+import polars as pl
 import plotly.graph_objects as go
 
-## Don't add any views here, do it below the IAAF Point col has been added!
+# =============================================================================
+# Configuration
+# =============================================================================
 
-######################################################################################
-## Add IAAF Points to All Performances
-# Do this first, is a useful field to have in other data pivots/views
+DATA_DIR = Path("data")
+RESULTS_PATH = "data/results.csv"
+IAAF_M_PATH = "data/IAAF_M_seconds.csv"
+IAAF_F_PATH = "data/IAAF_F_seconds.csv"
 
-print('Loading Raw Data')
-results = pd.read_csv('data/results.csv', encoding= 'ISO-8859-1',) ## xlsx not supported.
-print('Adding IAAF Points Data')
-# Add a total_seconds column
-results['total_seconds'] = results['Finish Time'].apply(lambda x: datetime.strptime(x,"%H:%M:%S.%f"))
-results['total_seconds'] = results['total_seconds'].apply(lambda x: (x - datetime(1900, 1, 1)).total_seconds())
-results['IAAF Points'] = np.nan
-results.head()
-
-## Load in the IAAF points tables
-iaaf_m = pd.read_csv('data/IAAF_M_seconds.csv')
-iaaf_f = pd.read_csv('data/IAAF_F_seconds.csv')
-
-# Use this dictionary to map columns of the iaaf tables to 
-# the various relevant events in the joggling results tables
-event_dict = {
-    '100m':['3b 100m','4b 100m','5b 100m','6b 100m','7b 100m','3c 100m'],
-    '200m':['3b 200m','4b 200m','5b 200m','7b 200m'],
-    '400m':['3b 400m','4b 400m','5b 400m','6b 400m', '7b 400m','3c 400m'],
-    '110mH':['3b 110mH'],
-    '400mH':['3b 400mH'],
-    '4x100m':['3b 4x100m'],
-    '4x200m':['3b 4x200m'],
-    '4x400m':['3b 4x400m'],
-    '600m':['3b 600m','4b 600m','5b 600m'],
-    '800m':['3b 800m','4b 800m','5b 800m'],
-    '1000m':['3b 1000m'],
-    '1500m':['3b 1500m'],
-    'Mile':['3b Mile','4b Mile','5b Mile'],
-    '3000m':['3b 3km','3c 3km'],
-    '2 Miles':['3b 2 Miles','3c 2 Miles'],
-    '5000m':['3b 5km','4b 5km','5b 5km','3c 5km'],
-    '10 km':['3b 10km','4b 10km','5b 10km','3c 10km'],
-    '15 km':['3b 15km','3c 15km'],
-    '10 Miles':['3b 10 Mile'],
-    'HM':['3b Half Marathon','4b Half Marathon','3c Half Marathon'],
-    'Marathon':['3b Marathon','4b Marathon','5b Marathon','3c Marathon'],
+RELAY_EVENTS = {
+    "3b 4x100m",
+    "3b 4x200m",
+    "3b 4x400m",
 }
 
-def find_iaaf_points(iaaf_perf_col, iaaf_points_col, joggler_time):
+EVENT_DICT = {
+    "100m": ["3b 100m", "4b 100m", "5b 100m", "6b 100m", "7b 100m", "3c 100m"],
+    "200m": ["3b 200m", "4b 200m", "5b 200m", "7b 200m"],
+    "400m": ["3b 400m", "4b 400m", "5b 400m", "6b 400m", "7b 400m", "3c 400m"],
+    "110mH": ["3b 110mH"],
+    "400mH": ["3b 400mH"],
+    "4x100m": ["3b 4x100m"],
+    "4x200m": ["3b 4x200m"],
+    "4x400m": ["3b 4x400m"],
+    "600m": ["3b 600m", "4b 600m", "5b 600m"],
+    "800m": ["3b 800m", "4b 800m", "5b 800m"],
+    "1000m": ["3b 1000m"],
+    "1500m": ["3b 1500m"],
+    "Mile": ["3b Mile", "4b Mile", "5b Mile"],
+    "3000m": ["3b 3km", "3c 3km"],
+    "2 Miles": ["3b 2 Miles", "3c 2 Miles"],
+    "5000m": ["3b 5km", "4b 5km", "5b 5km", "3c 5km"],
+    "10 km": ["3b 10km", "4b 10km", "5b 10km", "3c 10km"],
+    "15 km": ["3b 15km", "3c 15km"],
+    "10 Miles": ["3b 10 Mile"],
+    "HM": ["3b Half Marathon", "4b Half Marathon", "3c Half Marathon"],
+    "Marathon": ["3b Marathon", "4b Marathon", "5b Marathon", "3c Marathon"],
+}
+
+RANKING_DISTANCES = [
+    "3b 5km", "3c 5km", "4b 5km", "5b 5km",
+    "3b 10km", "3c 10km", "4b 10km", "5b 10km",
+    "3b Half Marathon", "3c Half Marathon", "4b Half Marathon",
+    "3b Marathon", "3c Marathon", "5b Marathon",
+    "3b 800m", "4b 800m", "5b 800m",
+    "3b 1500m", "3b Mile", "3c Mile", "4b Mile", "5b Mile",
+    "3b 100m", "3c 100m", "4b 100m", "5b 100m", "7b 100m",
+    "3b 200m", "3c 200m", "4b 200m", "5b 200m",
+    "3b 400m", "3c 400m", "4b 400m", "5b 400m",
+    "3b 4x100m", "3c 4x100m", "3b 4x400m",
+]
+
+
+# =============================================================================
+# Loading / preparation
+# =============================================================================
+
+def load_results(path: Path = RESULTS_PATH) -> pl.DataFrame:
+    """Load raw joggling results and add total_seconds."""
+
+    print("Loading Raw Data")
+
+    data = pl.read_csv(
+        path,
+        encoding="iso8859-1",
+    )
+
+    return data.with_columns(
+        pl.col("Finish Time")
+        .str.to_time()
+        .cast(pl.Duration("ms"))
+        .dt.total_seconds()
+        .alias("total_seconds")
+    )
+
+
+def load_iaaf_tables() -> tuple[pl.DataFrame, pl.DataFrame]:
+    """Load the male and female IAAF points tables."""
+
+    print("Loading IAAF Points Data")
+
+    iaaf_m = pl.read_csv(IAAF_M_PATH)
+    iaaf_f = pl.read_csv(IAAF_F_PATH)
+
+    return iaaf_m, iaaf_f
+
+
+def remove_relays(data: pl.DataFrame) -> pl.DataFrame:
+    """Remove relay events where nationality is not well defined."""
+
+    return data.filter(
+        ~pl.col("Distance").is_in(RELAY_EVENTS)
+    )
+
+
+# =============================================================================
+# IAAF points
+# =============================================================================
+
+def find_iaaf_points(
+    iaaf_perf_col: pl.Series,
+    iaaf_points_col: pl.Series,
+    joggler_time: float,
+) -> int:
     """
-    Function to assign points looked up from the iaaf performance column for the joggler_time
-    Uses bisect method to find the two times in which the joggler_time sits between
+    Assign IAAF points using the same bisect-style lookup as the
+    original script.
     """
-    iaaf_perf_col = iaaf_perf_col.ffill()
-    id = bisect.bisect(iaaf_perf_col, joggler_time)
-    try:
-        points = iaaf_points_col[id]
-    except:
-        points = 0
-    if points > 1300: # No joggler is getting above 1300 points!!
-        points = 0
-    return int(points)
 
-for e in list(event_dict.keys()):
-    print(e)
-    # Male and Mixed
-    results['IAAF Points'].update(results.loc[(results['Distance'].isin(event_dict[e])) & (results['Gender'].isin(['M','Mixed']))].apply(lambda x: find_iaaf_points(iaaf_perf_col=iaaf_m[e],
-                                                                                                          iaaf_points_col=iaaf_m['Points'],
-                                                                                                          joggler_time= x['total_seconds'],
-                                                                                                          ),
-                                                                                                          axis=1
-                                                                                )
-             )
-    # Female
-    results['IAAF Points'].update(results.loc[(results['Distance'].isin(event_dict[e])) & (results['Gender'].isin(['F']))].apply(lambda x: find_iaaf_points(iaaf_perf_col=iaaf_f[e],
-                                                                                                          iaaf_points_col=iaaf_f['Points'],
-                                                                                                          joggler_time= x['total_seconds'],
-                                                                                                          ),
-                                                                                                          axis=1
-                                                                                )
-             )
+    # Preserve the original forward-fill behaviour.
+    performance = iaaf_perf_col.fill_null(strategy="forward").to_list()
+    points = iaaf_points_col.to_list()
 
-# Fill all other performances to 0 (many distances are not recognised by the IAAF)
-results['IAAF Points'] = results['IAAF Points'].fillna(0).astype(dtype = int)
+    index = int(np.searchsorted(performance, joggler_time, side="left"))
 
-# Save it down and read in ready for other data preparation
-results.to_csv('data/results.csv',index=False)
-data = pd.read_csv('data/results.csv')   
+    if index >= len(points):
+        return 0
 
-#####################################################################################
+    value = points[index]
 
-## Create other views here!
+    if value is None or value > 1300:
+        return 0
 
-#######################################################################################
+    return int(value)
 
-def iaaf_best_performances(data = pd.read_csv('data/results.csv')) -> pd.DataFrame:
-    '''
-    This function creates a ranking table of the best jogglers, and performances according to the IAAF points tables.
 
-    Load the result data, Sort performances by IAAF Points and tidy columns
+def add_iaaf_points(
+    data: pl.DataFrame,
+    iaaf_m: pl.DataFrame,
+    iaaf_f: pl.DataFrame,
+) -> pl.DataFrame:
+    """Add IAAF points to all recognised performances."""
 
-    Then deduplicate on joggler to get joggler rank
-    Returns:
-        iaaf_best_performance_df: pd.DataFrame
-        iaaf_best_joggler_df:pd.DataFrame
-    '''
-    
-    ## Remove relay events from the data - nationality not well defined.
-    data = data[~data['Distance'].isin(['3b 4x100m','3b 4x200m','3b 4x400m'])]
+    print("Adding IAAF Points Data")
 
-    ## Filter out any performances which do not have a positive IAAF Points score
-    data = data[data['IAAF Points']>0]
+    # Start with zero: unrecognised events remain zero.
+    points = np.zeros(data.height, dtype=np.int64)
 
-    ## Sort by IAAF Points descending
-    data = data.sort_values('IAAF Points', ascending=False).reset_index(drop=True)
+    distances = data.get_column("Distance").to_list()
+    genders = data.get_column("Gender").to_list()
+    times = data.get_column("total_seconds").to_list()
 
-    # ## Add ranking column as integer
-    data['Rank'] = data['IAAF Points'].rank(ascending=False).astype(int)
-    
-    ## Reorder columns
-    new_col_order = ['Rank','IAAF Points','Distance','Finish Time','Joggler','Gender','Nationality','Date','Drops','Notes / Result Links']
-    perf_rank = data.reindex(columns=new_col_order)
+    male_tables = {
+        event: (
+            iaaf_m.get_column(event),
+            iaaf_m.get_column("Points"),
+        )
+        for event in EVENT_DICT
+    }
+    female_tables = {
+        event: (
+            iaaf_f.get_column(event),
+            iaaf_f.get_column("Points"),
+        )
+        for event in EVENT_DICT
+    }
 
-    ## Deduplicate perf_data on Joggler field to get best performance by joggler
-    joggler_rank = perf_rank.drop_duplicates(subset='Joggler').reset_index(drop=True)
-    joggler_rank['Rank'] = joggler_rank['IAAF Points'].rank(ascending=False).astype(int)
-    
+    for event, event_distances in EVENT_DICT.items():
+        male_table = male_tables[event]
+        female_table = female_tables[event]
+
+        for i, (distance, gender, time) in enumerate(
+            zip(distances, genders, times)
+        ):
+            if distance not in event_distances:
+                continue
+
+            if gender in {"M", "Mixed"}:
+                points[i] = find_iaaf_points(
+                    male_table[0],
+                    male_table[1],
+                    time,
+                )
+            elif gender == "F":
+                points[i] = find_iaaf_points(
+                    female_table[0],
+                    female_table[1],
+                    time,
+                )
+
+    return data.with_columns(
+        pl.Series("IAAF Points", points)
+    )
+
+
+# =============================================================================
+# IAAF rankings
+# =============================================================================
+
+def iaaf_best_performances(
+    data: pl.DataFrame,
+) -> tuple[pl.DataFrame, pl.DataFrame]:
+    """
+    Create ranking tables for performances and best performance per joggler.
+    """
+
+    data = (
+        remove_relays(data)
+        .filter(pl.col("IAAF Points") > 0)
+        .sort("IAAF Points", descending=True)
+    )
+
+    perf_rank = data.select([
+        pl.col("IAAF Points"),
+        pl.col("Distance"),
+        pl.col("Finish Time"),
+        pl.col("Joggler"),
+        pl.col("Gender"),
+        pl.col("Nationality"),
+        pl.col("Date"),
+        pl.col("Drops"),
+        pl.col("Notes / Result Links"),
+    ])
+
+    # Pandas rank(method="average").astype(int) was effectively used here
+    # after sorting. Dense row numbering is clearer for the sorted output.
+    perf_rank = perf_rank.with_row_index("Rank", offset=1)
+
+    # Best performance per joggler.
+    joggler_rank = (
+        perf_rank
+        .unique(subset=["Joggler"], keep="first", maintain_order=True)
+        .with_columns(
+            pl.col("IAAF Points")
+            .rank(method="ordinal", descending=True)
+            .cast(pl.Int64)
+            .alias("Rank")
+        )
+    )
+
+    # Keep Rank first, matching the original output.
+    perf_rank = perf_rank.select([
+        "Rank",
+        "IAAF Points",
+        "Distance",
+        "Finish Time",
+        "Joggler",
+        "Gender",
+        "Nationality",
+        "Date",
+        "Drops",
+        "Notes / Result Links",
+    ])
+
+    joggler_rank = joggler_rank.select([
+        "Rank",
+        "IAAF Points",
+        "Distance",
+        "Finish Time",
+        "Joggler",
+        "Gender",
+        "Nationality",
+        "Date",
+        "Drops",
+        "Notes / Result Links",
+    ])
+
     return perf_rank, joggler_rank
 
 
-perf_rank, joggler_rank = iaaf_best_performances(pd.read_csv('data/results.csv'))
-perf_rank.to_csv('data/iaaf_perf_rank.csv',index=False)
-joggler_rank.to_csv('data/iaaf_joggler_rank.csv',index=False)
-print('Joggling IAAF Best Performance Tables Complete')
+# =============================================================================
+# Joggler-level pivot
+# =============================================================================
 
-#####################################################################################
+def make_joggler_pivot(data: pl.DataFrame) -> pl.DataFrame:
+    """Create joggler-level statistics and personal bests."""
 
-## Create Joggler Level Pivot and save to csv.
- 
-def make_joggler_pivot(data = pd.read_csv('data/results.csv')) -> pd.DataFrame:
-    '''
-    Load the result data, group by joggler to record #results, earliest and latest etc.
+    data = remove_relays(data)
 
-    Separately, pivot the result data to find each jogglers fastest times over a set of common distances.
-
-    Merge these datasets together.
-
-    Returns:
-        joggler_df: pd.DataFrame
-    '''
-    # Filter out relays
-    data = data[~data['Distance'].isin(['3b 4x100m','3b 4x200m','3b 4x400m'])]
-    # Create table at joggler level: nationality, years active
-    joggler_df = (data.groupby(['Joggler','Nationality','Gender'])
-                    .agg({'Year':['min','max'],'Event / Venue':'count'})
-                    .reset_index()
-                    .replace({'0':'Unknown'})
+    joggler_df = (
+        data
+        .group_by(["Joggler", "Nationality", "Gender"])
+        .agg([
+            pl.col("Year").min().alias("First Active"),
+            pl.col("Year").max().alias("Last Active"),
+            pl.col("Event / Venue").count().alias("Entry Count"),
+        ])
+        .with_columns([
+            pl.col("Nationality")
+            .replace("0", "Unknown"),
+            (
+                pl.col("Last Active")
+                - pl.col("First Active")
+                + 1
+            ).alias("Years Active"),
+        ])
+        .select([
+            "Joggler",
+            "Nationality",
+            "Gender",
+            "Years Active",
+            "First Active",
+            "Last Active",
+            "Entry Count",
+        ])
     )
-    joggler_df.columns = ['Joggler','Nationality','Gender','First Active','Last Active','Entry Count']
-    joggler_df['Years Active'] = 1 + joggler_df['Last Active'] - joggler_df['First Active']
-    joggler_df = joggler_df[['Joggler','Nationality','Gender','Years Active','First Active','Last Active','Entry Count']]
 
-    # Create personal best times for common events for each joggler
-    pivot_df = pd.pivot_table(data,
-                            values='Finish Time',
-                            index='Joggler', 
-                            columns='Distance', 
-                            aggfunc='min')
-    pivot_df = pivot_df[['3b 100m',
-                         '3c 100m', 
-                        '3b 400m',
-                        '3b Mile',
-                        '3b 5km',
-                        '3b 10km',
-                        '3b Half Marathon',
-                        '3b Marathon',
-                        '5b 100m',
-                        '5b Mile',
-                        '5b 5km']].reset_index().fillna('-')
+    pivot_columns = [
+        "3b 100m",
+        "3c 100m",
+        "3b 400m",
+        "3b Mile",
+        "3b 5km",
+        "3b 10km",
+        "3b Half Marathon",
+        "3b Marathon",
+        "5b 100m",
+        "5b Mile",
+        "5b 5km",
+    ]
 
-    # Merge to produce single joggler_df
-    joggler_df = joggler_df.merge(pivot_df,on='Joggler')
+    pivot_df = (
+        data
+        .pivot(
+            on="Distance",
+            index="Joggler",
+            values="Finish Time",
+            aggregate_function="min",
+        )
+        .select(
+            ["Joggler"]
+            + [
+                col for col in pivot_columns
+                if col in data.get_column("Distance").unique().to_list()
+            ]
+        )
+    )
 
-    return joggler_df
- 
-joggler_df = make_joggler_pivot(data)
-joggler_df.to_csv('data/joggler_pivot.csv',index=False)
-print('Joggler Pivot Complete')
+    # Add missing expected columns so output shape remains stable.
+    for col in pivot_columns:
+        if col not in pivot_df.columns:
+            pivot_df = pivot_df.with_columns(
+                pl.lit("-").alias(col)
+            )
 
-####################################################################################
+    pivot_df = pivot_df.select(
+        ["Joggler"] + pivot_columns
+    ).with_columns(
+        [
+            pl.col(col).fill_null("-")
+            for col in pivot_columns
+        ]
+    )
 
-## Create Pivot of jogglers by country by year for Joggler Map
-def make_country_year_pivot(data = pd.read_csv('data/results.csv')) -> pd.DataFrame:
-    '''
-    Source the results data, group by joggler to get the year of their latest result, and pivot by nationality
-
-    Return:
-        pivot_df: pd.DataFrame
-    '''
-
-    ## Remove relay events from the data - nationality not well defined.
-    data = data[~data['Distance'].isin(['3b 4x100m','3b 4x200m','3b 4x400m'])]
-
-    grouped_df = (data[['Joggler','Nationality','Year']].groupby('Joggler')
-                                                        .max()
-                                                        .reset_index())
-    grouped_df['Nationality'].replace({'0':'Unknown'}, 
-                                      inplace=True)
-    
-    pivot_df = (pd.pivot_table(grouped_df,
-                              values='Joggler',
-                              index='Year',
-                              columns='Nationality',
-                              aggfunc='count')
-                  .fillna(0)
-                  .reset_index())
-    
-    return pivot_df
-
-map_pivot_df = make_country_year_pivot(data)
-map_pivot_df.to_csv('data/map_pivot.csv',index=False)
-print('Joggler Map Data Complete')
-
-###################################################################################
-
-## Produce Ranking Lists by Event and Gender
-def make_all_time_list(gender, distance, data = pd.read_csv('data/results.csv')) -> pd.DataFrame:
-    '''
-    Source the results data, filter to distance and gender, and group by joggler to find their fastest time. Rank fastest to slowest.
-
-    Return:
-        fastest_times: pd.DataFrame
-    '''
-    # Filter to gender
-    data = data[data['Gender'] == gender]
-    
-    # Get the fastest time by joggler for the distance
-    fastest_times = data[data['Distance'] == distance][['Joggler','Finish Time']].groupby(['Joggler']).min().reset_index()
-    
-    # Merge back on the joggler nationality
-    fastest_times = fastest_times.merge(data,how='left',left_on=['Joggler','Finish Time'],right_on=['Joggler','Finish Time'])
-    
-    # Add a ranking column (rank 1  = fastest)
-    fastest_times['Ranking'] = pd.to_numeric(fastest_times['Finish Time'].rank(method="min")).astype(int)
-    
-    # Filling Unknown Nationalities
-    fastest_times['Nationality'] = fastest_times['Nationality'].replace({'0':'Unknown'})  # 0 loaded in as a string
-    
-    # Column selection
-    column_order = ['Ranking','Finish Time', 'IAAF Points', 'Joggler','Gender','Nationality','Date','Event / Venue','Notes / Result Links']
-    fastest_times = fastest_times.reindex(columns = column_order).sort_values('Ranking').reset_index(drop=True)
-    
-    return fastest_times
-
-distance_list = ["3b 5km", "3c 5km", '4b 5km', '5b 5km', "3b 10km", "3c 10km", '4b 10km', '5b 10km', "3b Half Marathon", '3c Half Marathon', '4b Half Marathon', '3b Marathon', "3c Marathon", '5b Marathon',
-                 "3b 800m", "4b 800m", "5b 800m", "3b 1500m", "3b Mile", "3c Mile", "4b Mile", "5b Mile",
-                 "3b 100m", "3c 100m", "4b 100m", "5b 100m", "7b 100m", "3b 200m", "3c 200m", "4b 200m", "5b 200m", "3b 400m", "3c 400m", "4b 400m", "5b 400m","3b 4x100m", "3c 4x100m", "3b 4x400m",]
-
-for gender in ['M','F']:
-    for distance in distance_list:
-        # Prepare file name based on gender and distance
-        file_string = 'ranking_' + gender + '_' + distance.replace(' ','_')
-        # Produce dataframe of rankings
-        fastest_times = make_all_time_list(gender,distance,data)
-        # Save to csv file
-        fastest_times.to_csv(f'data/{file_string}.csv',index=False)
-print('All Time Lists Complete')
+    return joggler_df.join(
+        pivot_df,
+        on="Joggler",
+        how="left",
+    )
 
 
-#################################################################################
-print('Producing Joggler Network Data...')
-## Produce Joggler Network dataframes (Giduz Number) and Plotly Viz 
-def prepare_data(data = pd.read_csv('data/results.csv')):
-    '''
-    Output:
-    - A list of jogglers,
-    - A dataframe of events in which multiple jogglers participated
-    '''
+# =============================================================================
+# Country / year pivot
+# =============================================================================
 
-    ## Remove relay events from the data - nationality not well defined.
-    data = data[~data['Distance'].isin(['3b 4x100m','3b 4x200m','3b 4x400m'])]
+def make_country_year_pivot(data: pl.DataFrame) -> pl.DataFrame:
+    """
+    Create a pivot showing the number of active jogglers by country and year.
+    """
 
-    jogglers = list(data['Joggler'].unique())
+    data = remove_relays(data)
 
-    # Group the data by date and event and list the jogglers participating
-    joggled_together = pd.DataFrame(data.groupby(['Date','Event / Venue'])['Joggler'].apply(lambda x: list(np.unique(x))).reset_index())
-    # Remove Time Trials and Virtual IJA's - the jogglers did not joggle in person
-    joggled_together = joggled_together[~joggled_together['Event / Venue'].isin(['Time Trial','IJA, Virtual'])].reset_index(drop=True)
+    grouped_df = (
+        data
+        .select(["Joggler", "Nationality", "Year"])
+        .group_by("Joggler")
+        .agg([
+            pl.col("Nationality").sort_by("Year").last().alias("Nationality"),
+            pl.col("Year").max().alias("Year"),
+        ])
+        .with_columns(
+            pl.col("Nationality").replace("0", "Unknown")
+        )
+    )
 
-    # Count the number of jogglers at each event, and remove any events where the joggler has joggled alone
-    joggled_together['joggler_count'] = joggled_together['Joggler'].apply(lambda x: len(x))
-    joggled_together = joggled_together[joggled_together['joggler_count']>1].reset_index(drop=True)
+    return (
+        grouped_df
+        .group_by(["Year", "Nationality"])
+        .len()
+        .pivot(
+            on="Nationality",
+            index="Year",
+            values="len",
+            aggregate_function="sum",
+        )
+        .fill_null(0)
+        .sort("Year")
+    )
+
+
+# =============================================================================
+# All-time event rankings
+# =============================================================================
+
+def make_all_time_list(
+    gender: str,
+    distance: str,
+    data: pl.DataFrame,
+) -> pl.DataFrame:
+    """
+    Find each joggler's fastest performance for an event and rank it.
+    """
+
+    event_data = data.filter(
+        (pl.col("Gender") == gender)
+        & (pl.col("Distance") == distance)
+    )
+
+    if event_data.height == 0:
+        # No results yet, so empty df.
+        return pl.DataFrame({
+            "Ranking": pl.Series([], dtype=pl.Int64),
+            "Finish Time": pl.Series([], dtype=pl.String),
+            "IAAF Points": pl.Series([], dtype=pl.Int64),
+            "Joggler": pl.Series([], dtype=pl.String),
+            "Gender": pl.Series([], dtype=pl.String),
+            "Nationality": pl.Series([], dtype=pl.String),
+            "Date": pl.Series([], dtype=pl.String),
+            "Event / Venue": pl.Series([], dtype=pl.String),
+            "Notes / Result Links": pl.Series([], dtype=pl.String),
+        })
+
+    fastest = (
+        event_data
+        # Sort by finish time (fastest to slowest) and keep only the fastest result per joggler
+        .sort("Finish Time")
+        .unique(subset=["Joggler"], keep="first", maintain_order=True)
+        # Sort again (Unique may distort order)
+        .sort("Finish Time")
+        .with_row_index("Ranking", offset=1)
+        .with_columns(
+            pl.col("Nationality").replace("0", "Unknown")
+        )
+    )
+
+    return fastest.select([
+        "Ranking",
+        "Finish Time",
+        "IAAF Points",
+        "Joggler",
+        "Gender",
+        "Nationality",
+        "Date",
+        "Event / Venue",
+        "Notes / Result Links",
+    ])
+
+
+def create_all_time_lists(data: pl.DataFrame) -> None:
+    """Create and save all-time rankings for each gender/event."""
+
+    for gender in ["M", "F"]:
+        for distance in RANKING_DISTANCES:
+            file_string = (
+                "ranking_"
+                + gender
+                + "_"
+                + distance.replace(" ", "_")
+            )
+
+            fastest_times = make_all_time_list(
+                gender,
+                distance,
+                data,
+            )
+
+            fastest_times.write_csv(
+                DATA_DIR / f"{file_string}.csv"
+            )
+
+    print("All Time Lists Complete")
+
+
+# =============================================================================
+# Joggler network
+# =============================================================================
+
+def prepare_data(
+    data: pl.DataFrame,
+) -> tuple[list[str], pl.DataFrame]:
+    """
+    Prepare joggler and multi-joggler event data for the network graph.
+    """
+
+    data = remove_relays(data)
+
+    jogglers = (
+        data
+        .get_column("Joggler")
+        .unique()
+        .to_list()
+    )
+
+    joggled_together = (
+        data
+        .filter(
+            # Exclude events where not joggled together
+            ~pl.col("Event / Venue").is_in(
+                ["Time Trial", "IJA, Virtual"]
+            )
+        )
+        .group_by(["Date", "Event / Venue"])
+        .agg(
+            pl.col("Joggler")
+            .unique()
+            .alias("Joggler")
+        )
+        .with_columns(
+            pl.col("Joggler")
+            .list.len()
+            .alias("joggler_count")
+        )
+        .filter(pl.col("joggler_count") > 1)
+    )
 
     return jogglers, joggled_together
 
-def build_joggler_graph(jogglers,joggled_together):
-    '''
-    Output:
-    - Graph G. Each joggler is a node, and edges indicate that jogglers took part in the same event.
-    '''
-    # Initialise networkx graph
-    G = nx.Graph()
-    
-    # Add nodes to G
-    G.add_nodes_from(jogglers)
-    # len(G.nodes()), G.nodes   # check nodes created
 
-    # For each pair of jogglers in the joggled_together dataframe, count the number of occurances they have joggled together.
-    # Create an edge in the graph, with weight equal to this number of occurance.
+def build_joggler_graph(
+    jogglers: list[str],
+    joggled_together: pl.DataFrame,
+) -> nx.Graph:
+    """
+    Build a graph where nodes are jogglers and edge weights represent
+    the number of events they have joggled together.
+    """
 
-    # initialise empty array to store # occurance each pair of jogglers have joggled together
-    together_count_array = np.zeros(shape=(len(jogglers),len(jogglers)))
- 
-    # Loop over all events in which multiple jogglers have participated
-    for i in range(len(joggled_together)):
-        # Retrieve the list of jogglers at the event
-        event_jogglers = joggled_together['Joggler'][i]
-        # Get all pairwise combinations of these jogglers
-        pairs = list(combinations(event_jogglers, 2))
-        # Iterate through each pair of jogglers
-        for j in range(len(pairs)):
-            # Add 1 to the numpy row,col corresponding to each pair
-            together_count_array[jogglers.index(pairs[j][0]),jogglers.index(pairs[j][1])] += 1
+    graph = nx.Graph()
+    graph.add_nodes_from(jogglers)
 
-    # Add edges to G
-    for i in range(together_count_array.shape[0]):
-        for j in range(together_count_array.shape[1]):
-            if together_count_array[i,j] >= 1:
-                G.add_edge(jogglers[i], jogglers[j], weight=together_count_array[i,j])
-            else:
-                pass
+    together_count: dict[tuple[str, str], int] = {}
 
-    return G
+    for event_jogglers in joggled_together.get_column("Joggler").to_list():
+        for joggler_a, joggler_b in combinations(event_jogglers, 2):
+            pair = tuple(sorted((joggler_a, joggler_b)))
+            together_count[pair] = together_count.get(pair, 0) + 1
 
-def produce_plotly_figure(G, jogglers):
-    '''
-    Output:
-    - Plotly Figure of graph G
-    '''
+    for (joggler_a, joggler_b), count in together_count.items():
+        graph.add_edge(
+            joggler_a,
+            joggler_b,
+            weight=count,
+        )
 
-    # Set layout of nodes
-    pos = nx.spring_layout(G)
+    return graph
 
-    # Assign positions to nodes
-    for node in G.nodes:
-        G.nodes[node]['pos'] = pos.get(node)
 
-    # Prepare node and edge traces
+def produce_plotly_figure(
+    graph: nx.Graph,
+    joggler_metadata: pl.DataFrame,
+) -> go.Figure:
+    """Create the interactive joggling community Plotly figure."""
+
+    pos = nx.spring_layout(graph)
+
+    nx.set_node_attributes(graph, pos, "pos")
+
     edge_x = []
     edge_y = []
-    for edge in G.edges():
-        x0, y0 = G.nodes[edge[0]]['pos']
-        x1, y1 = G.nodes[edge[1]]['pos']
-        edge_x.append(x0)
-        edge_x.append(x1)
-        edge_x.append(None)
-        edge_y.append(y0)
-        edge_y.append(y1)
-        edge_y.append(None)
+
+    for edge in graph.edges():
+        x0, y0 = graph.nodes[edge[0]]["pos"]
+        x1, y1 = graph.nodes[edge[1]]["pos"]
+
+        edge_x.extend([x0, x1, None])
+        edge_y.extend([y0, y1, None])
 
     edge_trace = go.Scatter(
-        x=edge_x, y=edge_y,
-        line=dict(width=0.5, color='#888'),
-        hoverinfo='none',
-        mode='lines')
+        x=edge_x,
+        y=edge_y,
+        line=dict(width=0.5, color="#888"),
+        hoverinfo="none",
+        mode="lines",
+    )
 
     node_x = []
     node_y = []
-    for node in G.nodes():
-        x, y = G.nodes[node]['pos']
+
+    for node in graph.nodes():
+        x, y = graph.nodes[node]["pos"]
         node_x.append(x)
         node_y.append(y)
 
+    node_adjacencies = []
+    node_text = []
+
+    metadata = {
+        row["Joggler"]: (
+            "?" if row["Nationality"] == "0" else row["Nationality"]
+        )
+        for row in joggler_metadata.select(
+            ["Joggler", "Nationality"]
+        ).to_dicts()
+    }
+
+    for node, adjacency in graph.adjacency():
+        connections = len(adjacency)
+
+        node_adjacencies.append(connections)
+
+        nationality = metadata.get(node, "?")
+
+        node_text.append(
+            f"{node} ({nationality}): "
+            f"# of connections: {connections}"
+        )
+
     node_trace = go.Scatter(
-        x=node_x, y=node_y,
-        mode='markers',
-        hoverinfo='text',
+        x=node_x,
+        y=node_y,
+        mode="markers",
+        hoverinfo="text",
         marker=dict(
             showscale=True,
-            colorscale='Greens',
+            colorscale="Greens",
             reversescale=False,
-            color=[],
+            color=node_adjacencies,
             size=10,
             colorbar=dict(
                 thickness=15,
-                title='Node Connections',
-                xanchor='left',
-                titleside='right'
+                title="Node Connections",
+                xanchor="left",
             ),
-            line_width=2))
+            line_width=2,
+        ),
+        text=node_text,
+    )
 
-    # Get list of nationalities for use in the node text
-    nationalities = [data[data['Joggler'] ==j]['Nationality'].unique()[0]  for j in jogglers]
-    nationalities = list(map(lambda x: x.replace('0', '?'), nationalities))
+    fig = go.Figure(
+        data=[edge_trace, node_trace],
+        layout=go.Layout(
+            title="<br>Interactive Joggling Community: "
+                  "Who has joggled with who?",
+            showlegend=False,
+            hovermode="closest",
+            margin=dict(b=20, l=5, r=5, t=40),
+            xaxis=dict(
+                showgrid=False,
+                zeroline=False,
+                showticklabels=False,
+            ),
+            yaxis=dict(
+                showgrid=False,
+                zeroline=False,
+                showticklabels=False,
+            ),
+        ),
+    )
 
-    node_adjacencies = []
-    node_text = []
-    for node, adjacencies in enumerate(G.adjacency()):
-        node_adjacencies.append(len(adjacencies[1]))
-        node_text.append(f'{jogglers[node]} ({nationalities[node]}): # of connections: '+str(len(adjacencies[1])))
-
-    node_trace.marker.color = node_adjacencies
-    node_trace.text = node_text
-
-    # Produce Plotly Fig
-    fig = go.Figure(data=[edge_trace, node_trace],
-             layout=go.Layout(
-                title='<br>Interactive Joggling Community: Who has joggled with who?',
-                titlefont_size=16,
-                showlegend=False,
-                hovermode='closest',
-                margin=dict(b=20,l=5,r=5,t=40),
-                xaxis=dict(showgrid=False, zeroline=False, showticklabels=False),
-                yaxis=dict(showgrid=False, zeroline=False, showticklabels=False)),
-                )
-
-    fig.update_layout( autosize=False, width=800, height=500, )
+    fig.update_layout(
+        autosize=False,
+        width=800,
+        height=500,
+    )
 
     return fig
 
-# Get list of Jogglers, and df of 'multi-joggler' events
-jogglers, joggled_together = prepare_data(data)
-# Produce Joggler Network Graph
-G = build_joggler_graph(jogglers,joggled_together)
-# Prepare figure for page
-fig = produce_plotly_figure(G, jogglers)
 
-# Save figure as html file
-fig.write_html('data/joggler_network.html')
-print('Joggler Network Plot Complete')
+# =============================================================================
+# Giduz number
+# =============================================================================
 
-# Create dataframe of giduz_number
-sp_dict = nx.shortest_path(G, source='Bill Giduz', target=None, weight=None, method='dijkstra')
-giduz_df = pd.DataFrame({'Joggler':jogglers})
+def calculate_giduz_numbers(
+    graph: nx.Graph,
+    jogglers: list[str],
+    data: pl.DataFrame,
+) -> pl.DataFrame:
+    """Calculate each joggler's Giduz number and shortest path."""
 
-def calculate_giduz_path(joggler):
-    try:
-        bg_path = sp_dict[joggler]
-    except:
-        bg_path = 'No Connection to Bill Giduz'
+    source = "Bill Giduz"
 
-    return bg_path
-
-def calculate_giduz_number(bg_path):
-    if  bg_path == 'No Connection to Bill Giduz':
-        giduz_number = math.inf
+    if source in graph:
+        shortest_paths = nx.single_source_shortest_path(
+            graph,
+            source,
+        )
     else:
-        giduz_number = len(bg_path) - 1
-    return giduz_number
+        shortest_paths = {}
 
-giduz_df['Giduz_Path'] = giduz_df['Joggler'].apply(lambda x: calculate_giduz_path(x))
-giduz_df['Giduz_Number'] = giduz_df['Giduz_Path'].apply(lambda x: calculate_giduz_number(x))
-giduz_df = (giduz_df.sort_values('Giduz_Number')
-                    .reset_index(drop=True)
-                    .merge(data[['Joggler','Nationality','Gender']].drop_duplicates(),
-                           how='left',
-                           on='Joggler')
-)
-giduz_df['Nationality'] = giduz_df['Nationality'].replace({'0':'Unknown'})
+    rows = []
 
-giduz_df.to_csv('data/giduz_df.csv',index=False)
+    metadata = (
+        data
+        .select(["Joggler", "Nationality", "Gender"])
+        .unique(subset=["Joggler"])
+        .to_dicts()
+    )
 
-##########################################################################################
+    metadata_by_joggler = {
+        row["Joggler"]: row
+        for row in metadata
+    }
 
-print("ALL DATA PROCESSING COMPLETE!")
+    for joggler in jogglers:
+        path = shortest_paths.get(joggler)
+
+        if path is None:
+            giduz_path = "No Connection to Bill Giduz"
+            giduz_number = None
+        else:
+            giduz_path = " -> ".join(path)
+            giduz_number = len(path) - 1
+
+        row = metadata_by_joggler.get(
+            joggler,
+            {
+                "Nationality": "Unknown",
+                "Gender": None,
+            },
+        )
+
+        rows.append({
+            "Joggler": joggler,
+            "Giduz_Path": giduz_path,
+            "Giduz_Number": giduz_number,
+            "Nationality": (
+                "Unknown"
+                if row["Nationality"] == "0"
+                else row["Nationality"]
+            ),
+            "Gender": row["Gender"],
+        })
+
+    return (
+        pl.DataFrame(rows)
+        .sort("Giduz_Number")
+    )
+
+
+# =============================================================================
+# Main pipeline
+# =============================================================================
+
+def main() -> None:
+    """Run the complete joggling data-processing pipeline."""
+
+    DATA_DIR.mkdir(parents=True, exist_ok=True)
+
+    # -------------------------------------------------------------------------
+    # Load and prepare
+    # -------------------------------------------------------------------------
+
+    data = load_results()
+
+    iaaf_m, iaaf_f = load_iaaf_tables()
+
+    data = add_iaaf_points(
+        data,
+        iaaf_m,
+        iaaf_f,
+    )
+
+    # Save enriched master data once.
+    data.write_csv(RESULTS_PATH)
+
+    # -------------------------------------------------------------------------
+    # IAAF rankings
+    # -------------------------------------------------------------------------
+
+    perf_rank, joggler_rank = iaaf_best_performances(data)
+
+    perf_rank.write_csv(
+        DATA_DIR / "iaaf_perf_rank.csv"
+    )
+
+    joggler_rank.write_csv(
+        DATA_DIR / "iaaf_joggler_rank.csv"
+    )
+
+    print("Joggling IAAF Best Performance Tables Complete")
+
+    # -------------------------------------------------------------------------
+    # Joggler pivot
+    # -------------------------------------------------------------------------
+
+    joggler_df = make_joggler_pivot(data)
+
+    joggler_df.write_csv(
+        DATA_DIR / "joggler_pivot.csv"
+    )
+
+    print("Joggler Pivot Complete")
+
+    # -------------------------------------------------------------------------
+    # Country / year pivot
+    # -------------------------------------------------------------------------
+
+    map_pivot_df = make_country_year_pivot(data)
+
+    map_pivot_df.write_csv(
+        DATA_DIR / "map_pivot.csv"
+    )
+
+    print("Joggler Map Data Complete")
+
+    # -------------------------------------------------------------------------
+    # All-time rankings
+    # -------------------------------------------------------------------------
+
+    create_all_time_lists(data)
+
+    # -------------------------------------------------------------------------
+    # Joggler network
+    # -------------------------------------------------------------------------
+
+    print("Producing Joggler Network Data...")
+
+    jogglers, joggled_together = prepare_data(data)
+
+    graph = build_joggler_graph(
+        jogglers,
+        joggled_together,
+    )
+
+    joggler_metadata = (
+        data
+        .select(["Joggler", "Nationality"])
+        .unique(subset=["Joggler"])
+    )
+
+    fig = produce_plotly_figure(
+        graph,
+        joggler_metadata,
+    )
+
+    fig.write_html(
+        DATA_DIR / "joggler_network.html"
+    )
+
+    print("Joggler Network Plot Complete")
+
+    # -------------------------------------------------------------------------
+    # Giduz numbers
+    # -------------------------------------------------------------------------
+
+    giduz_df = calculate_giduz_numbers(
+        graph,
+        jogglers,
+        data,
+    )
+
+    giduz_df.write_csv(
+        DATA_DIR / "giduz_df.csv"
+    )
+
+    # -------------------------------------------------------------------------
+
+    print("ALL DATA PROCESSING COMPLETE!")
+
+
+# Run Results Processing Pipeline
+main()
